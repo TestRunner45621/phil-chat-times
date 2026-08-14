@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-08-14T00:29:22.929Z",
+  "generated": "2026-08-14T02:24:52.879Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -69,15 +69,24 @@
       "thumb": "editions/vol-1-no-4/thumb.jpg",
       "bytes": 5463881,
       "sourceFile": "2026-08-06-X-Effort-v2.pdf"
-    }
-  ],
-  "upcoming": [
+    },
     {
+      "slug": "vol-1-no-5",
       "volume": 1,
       "romanVolume": "I",
       "number": 5,
       "date": "2026-08-13",
-      "title": "Vol I No 5"
+      "title": "Vol I No 5",
+      "headline": "“WHERE’S THE PAPER.”",
+      "pages": 24,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-5/edition.pdf",
+      "cover": "editions/vol-1-no-5/cover.jpg",
+      "thumb": "editions/vol-1-no-5/thumb.jpg",
+      "bytes": 4103983,
+      "sourceFile": "The Phil Chat Times - Vol I No 5 - 2026-08-13.pdf"
     }
-  ]
+  ],
+  "upcoming": []
 }
