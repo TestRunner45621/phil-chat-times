@@ -6,10 +6,13 @@
  *
  *   - only pages near the viewport hold a canvas (the rest keep their box, so
  *     scroll offsets never jump)
- *   - zoom re-lays-out the boxes and re-renders at the new scale, anchored on
- *     whatever the pointer was over
- *   - a selectable text layer sits over each canvas, switched off while the
- *     hand tool is active so a drag pans instead of selecting
+ *   - zoom re-lays-out the boxes and redraws, anchored on whatever the pointer
+ *     was over; pages are rasterised finer than the screen strictly needs, so
+ *     small type survives being shown small, and a canvas that already holds
+ *     enough detail is reused rather than redrawn
+ *   - a selectable text layer sits over each canvas — built once, since it
+ *     follows zoom on its own — and is switched off while the hand tool is
+ *     active so a drag pans instead of selecting
  */
 
 import * as pdfjsLib from '../../vendor/pdfjs/pdf.min.mjs';
@@ -24,14 +27,30 @@ const STANDARD_FONTS = new URL(
   import.meta.url
 ).toString();
 
-/* Matches the pdf.js viewer default. Past this the canvas is rendered below
- * device resolution rather than failing outright, which is what browsers do to
- * oversized canvases anyway. */
-const MAX_CANVAS_PIXELS = 16.7e6;
+/*
+ * Rasterise at twice the screen's own pixel density and let the browser scale
+ * the result down. Newsprint is set in 8pt type on hairline rules, and drawing
+ * that at 1:1 makes a mess of it — stems merge, counters fill in, and the
+ * whole column goes muddy. Rendering finer and downsampling is what keeps a
+ * zoomed-out page legible. Chrome's CSS downscale is as good here as doing the
+ * resample by hand, so the oversized canvas simply goes straight into the DOM.
+ *
+ * 3x was measured too: indistinguishable from 2x, at 2.25x the memory.
+ */
+const SUPERSAMPLE = 2;
+
+/*
+ * Ceiling on one page's canvas. Sized so the views people actually sit at —
+ * fit width and fit page — get the full supersample, while deep zoom gives
+ * some of it back; by then the type is large on screen and needs it least.
+ * Past the ceiling the page is drawn below the ideal resolution rather than
+ * failing outright, which is what browsers do to oversized canvases anyway.
+ */
+const MAX_CANVAS_PIXELS =
+  (navigator.deviceMemory && navigator.deviceMemory <= 4 ? 6 : 12) * 1e6;
+
 const MIN_ZOOM = 0.1;
 const MAX_ZOOM = 8;
-const RENDER_MARGIN = '180% 0px'; // how far ahead of the viewport to render
-const KEEP_MARGIN = '420% 0px'; // how far out a canvas survives before release
 
 const $ = (id) => document.getElementById(id);
 
@@ -66,7 +85,7 @@ const state = {
   manifest: null,
   edition: null,
   doc: null,
-  pages: [], // { n, w, h, el, canvas, textEl, page, task, renderedZoom }
+  pages: [], // { n, w, h, el, canvas, textEl, page, task, pendingPx }
   zoom: 1,
   fit: 'width', // 'width' | 'page' | null
   current: 1,
@@ -228,6 +247,20 @@ function scheduleRender(delay = 130) {
   renderTimer = setTimeout(renderVisible, delay);
 }
 
+/*
+ * Device pixels to draw per CSS pixel for a page of this on-screen size:
+ * the screen's density times the supersample, trimmed back if that would
+ * exceed what a canvas can reasonably hold.
+ */
+function outputScaleFor(cssW, cssH) {
+  let scale = (window.devicePixelRatio || 1) * SUPERSAMPLE;
+  const area = cssW * cssH;
+  if (area * scale * scale > MAX_CANVAS_PIXELS) {
+    scale = Math.sqrt(MAX_CANVAS_PIXELS / area);
+  }
+  return Math.max(scale, 0.05);
+}
+
 function pageIsNear(p, margin) {
   const vpRect = el.viewport.getBoundingClientRect();
   const r = p.el.getBoundingClientRect();
@@ -235,11 +268,18 @@ function pageIsNear(p, margin) {
   return r.bottom > vpRect.top - pad && r.top < vpRect.bottom + pad;
 }
 
+/*
+ * Render a screen's worth ahead in each direction and let go two and a half
+ * screens out. Supersampled canvases cost four times the pixels of a plain
+ * one, so the live set has to stay small — at fit-width that is a couple of
+ * pages, which is still far enough ahead that scrolling never catches up with
+ * the renderer.
+ */
 function renderVisible() {
   if (!state.doc) return;
   for (const p of state.pages) {
-    if (pageIsNear(p, 1.8)) renderPage(p);
-    else if (!pageIsNear(p, 4.2)) releasePage(p);
+    if (pageIsNear(p, 1)) renderPage(p);
+    else if (!pageIsNear(p, 2.5)) releasePage(p);
   }
 }
 
@@ -247,41 +287,51 @@ async function renderPage(p) {
   const token = state.token;
   const zoom = state.zoom;
 
-  // Already good enough at this scale? Leave it alone.
-  if (p.renderedZoom && Math.abs(p.renderedZoom - zoom) / zoom < 0.02) return;
-  if (p.pendingZoom && Math.abs(p.pendingZoom - zoom) / zoom < 0.02) return;
+  const cssW = p.w * zoom;
+  const cssH = p.h * zoom;
+  const wantPx = Math.round(cssW * outputScaleFor(cssW, cssH));
 
-  if (p.task) {
-    p.task.cancel();
-    p.task = null;
-  }
-  p.pendingZoom = zoom;
+  /*
+   * Decided on pixels, not on zoom. A canvas is left alone whenever it already
+   * carries at least the detail the page now needs — so zooming out never
+   * throws detail away, and never shows a softer page than it did a moment
+   * before. Once it holds well over what is needed it is redrawn smaller to
+   * give the memory back; the old canvas stays on screen until the new one
+   * lands, so that swap is invisible.
+   */
+  const enough = (px) => px >= wantPx * 0.98 && px <= wantPx * 1.4;
+  if (p.canvas && enough(p.canvas.width)) return;
+  if (p.pendingPx && enough(p.pendingPx)) return;
+
+  /*
+   * A zoom gesture fires these faster than they finish, so each attempt takes
+   * a ticket. Cancelling a render rejects its promise a turn later, by which
+   * point a newer attempt owns the page — without the ticket that late
+   * rejection would clear the newer attempt's bookkeeping and let a
+   * stale-resolution canvas win the swap.
+   */
+  const gen = (p.gen = (p.gen || 0) + 1);
+  if (p.task) p.task.cancel();
+  p.task = null;
+  p.pendingPx = wantPx;
 
   try {
     if (!p.page) p.page = await state.doc.getPage(p.n);
-    if (token !== state.token) return;
+    if (gen !== p.gen || token !== state.token) return;
 
-    const viewport = p.page.getViewport({ scale: zoom });
-    let outputScale = window.devicePixelRatio || 1;
-    const area = viewport.width * viewport.height;
-    if (area * outputScale * outputScale > MAX_CANVAS_PIXELS) {
-      outputScale = Math.sqrt(MAX_CANVAS_PIXELS / area);
-    }
+    const outputScale = outputScaleFor(cssW, cssH);
+    const viewport = p.page.getViewport({ scale: zoom * outputScale });
 
     const canvas = document.createElement('canvas');
-    canvas.width = Math.max(1, Math.floor(viewport.width * outputScale));
-    canvas.height = Math.max(1, Math.floor(viewport.height * outputScale));
+    canvas.width = Math.max(1, Math.round(viewport.width));
+    canvas.height = Math.max(1, Math.round(viewport.height));
     const ctx = canvas.getContext('2d', { alpha: false });
 
-    p.task = p.page.render({
-      canvasContext: ctx,
-      viewport,
-      transform:
-        outputScale === 1 ? null : [outputScale, 0, 0, outputScale, 0, 0],
-    });
-    await p.task.promise;
+    const task = p.page.render({ canvasContext: ctx, viewport });
+    p.task = task;
+    await task.promise;
+    if (gen !== p.gen || token !== state.token) return;
     p.task = null;
-    if (token !== state.token) return;
 
     // Swap in one go so the page never flashes blank mid-zoom.
     if (p.canvas) p.canvas.remove();
@@ -289,30 +339,33 @@ async function renderPage(p) {
     if (skel) skel.remove();
     p.el.insertBefore(canvas, p.el.firstChild);
     p.canvas = canvas;
-    p.renderedZoom = zoom;
-    p.pendingZoom = null;
+    p.pendingPx = null;
 
-    renderTextLayer(p, viewport, token);
+    // The text layer positions itself off --scale-factor, so it follows zoom
+    // on its own and only ever needs building once per page.
+    if (!p.textEl) buildTextLayer(p, token);
   } catch (err) {
+    if (gen !== p.gen) return; // superseded; the newer attempt owns the page
     p.task = null;
-    p.pendingZoom = null;
+    p.pendingPx = null;
     if (err && err.name !== 'RenderingCancelledException') {
       console.warn('page ' + p.n + ' failed to render:', err);
     }
   }
 }
 
-async function renderTextLayer(p, viewport, token) {
+async function buildTextLayer(p, token) {
   try {
-    if (p.textEl) p.textEl.remove();
     const container = document.createElement('div');
     container.className = 'textLayer';
     p.el.appendChild(container);
 
+    // Built at scale 1: every span is placed in percentages and
+    // calc(var(--scale-factor) * …), so the layer tracks zoom by itself.
     const layer = new pdfjsLib.TextLayer({
       textContentSource: p.page.streamTextContent(),
       container,
-      viewport,
+      viewport: p.page.getViewport({ scale: 1 }),
     });
     await layer.render();
     if (token !== state.token) {
@@ -326,6 +379,9 @@ async function renderTextLayer(p, viewport, token) {
 }
 
 function releasePage(p) {
+  // Bump the ticket too, so a render still in flight cannot hand a canvas
+  // back to a page that has just been let go.
+  p.gen = (p.gen || 0) + 1;
   if (p.task) {
     p.task.cancel();
     p.task = null;
@@ -343,8 +399,7 @@ function releasePage(p) {
     skel.className = 'pdf-page__skel';
     p.el.insertBefore(skel, p.el.firstChild);
   }
-  p.renderedZoom = null;
-  p.pendingZoom = null;
+  p.pendingPx = null;
 }
 
 /* ---------------------------------------------------------------- paging */
@@ -556,7 +611,7 @@ async function openEdition(slug, page) {
       textEl: null,
       page: n === 1 ? first : null,
       task: null,
-      renderedZoom: null,
+      pendingPx: null,
     });
   }
 
