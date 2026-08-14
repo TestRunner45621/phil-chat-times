@@ -1,0 +1,593 @@
+/* reader.css — the viewer chrome, the scrolling stage, and the page canvases.
+ *
+ * The stage is deliberately dark in both themes: newsprint reads best against
+ * a neutral surround, and it keeps the page edges obvious while panning.
+ */
+
+.reader-body {
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
+.reader {
+  --bar-h: 52px;
+  --stage: #1b1814;
+  --stage-edge: #100e0b;
+  --chrome: #241f19;
+  --chrome-line: #3a332a;
+  --chrome-ink: #e8e0d1;
+  --chrome-ink-dim: #9d9280;
+
+  position: fixed;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  background: var(--stage);
+  font-family: var(--sans);
+  color: var(--chrome-ink);
+}
+
+/* -------------------------------------------------------------------- bar */
+
+.bar {
+  flex: 0 0 auto;
+  height: var(--bar-h);
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 10px;
+  padding: 0 10px;
+  background: var(--chrome);
+  border-bottom: 1px solid var(--chrome-line);
+  z-index: 30;
+}
+
+.bar__group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.bar__group--left {
+  flex: 1 1 0;
+}
+
+.bar__group--center {
+  flex: 0 0 auto;
+}
+
+.bar__group--right {
+  flex: 1 1 0;
+  justify-content: flex-end;
+}
+
+.btn {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 34px;
+  padding: 0 10px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--chrome-ink);
+  font: inherit;
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background 0.14s ease, border-color 0.14s ease, opacity 0.14s ease;
+}
+
+.btn svg {
+  width: 18px;
+  height: 18px;
+  flex: 0 0 auto;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.7;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* The UA's [hidden] rule does not survive the sizing above on inline SVG, so
+ * the tool button's two icons need this to swap cleanly. */
+.btn svg[hidden] {
+  display: none;
+}
+
+.btn--icon {
+  padding: 0;
+  width: 34px;
+  justify-content: center;
+}
+
+.btn:hover {
+  background: #322b23;
+}
+
+.btn:active {
+  background: #3b332a;
+}
+
+.btn:focus-visible {
+  outline: 2px solid #c9805f;
+  outline-offset: 1px;
+}
+
+.btn[aria-pressed="true"] {
+  background: #3b332a;
+  border-color: var(--chrome-line);
+}
+
+.btn[disabled] {
+  opacity: 0.32;
+  pointer-events: none;
+}
+
+.btn--solid {
+  background: #c9805f;
+  color: #1b1814;
+  font-weight: 600;
+  padding: 0 16px;
+}
+
+.btn--solid:hover {
+  background: #d89571;
+}
+
+/* ----------------------------------------------------------- edition pick */
+
+.edition-pick {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-left: 4px;
+  min-width: 0;
+}
+
+.edition-pick select {
+  appearance: none;
+  height: 34px;
+  max-width: 100%;
+  padding: 0 30px 0 11px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 6px;
+  background: #1e1a15;
+  color: var(--chrome-ink);
+  font: inherit;
+  font-size: 0.78rem;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+
+.edition-pick select:focus-visible {
+  outline: 2px solid #c9805f;
+  outline-offset: 1px;
+}
+
+.edition-pick__chev {
+  position: absolute;
+  right: 9px;
+  width: 15px;
+  height: 15px;
+  pointer-events: none;
+  fill: none;
+  stroke: var(--chrome-ink-dim);
+  stroke-width: 1.8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+/* --------------------------------------------------------- page + zoom UI */
+
+.pagecount {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  height: 34px;
+  padding: 0 10px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 6px;
+  background: #1e1a15;
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.pagecount input {
+  width: 2.6ch;
+  min-width: 2.6ch;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: var(--chrome-ink);
+  font: inherit;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+  outline: none;
+}
+
+.pagecount input:focus {
+  color: #f0c9a8;
+}
+
+.pagecount__sep,
+.pagecount__total {
+  color: var(--chrome-ink-dim);
+}
+
+.zoom {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  padding: 0 2px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 6px;
+  background: #1e1a15;
+}
+
+.zoom .btn--icon {
+  width: 30px;
+  height: 30px;
+}
+
+.zoom__level {
+  min-width: 62px;
+  height: 30px;
+  border: 0;
+  background: transparent;
+  color: var(--chrome-ink);
+  font: inherit;
+  font-size: 0.76rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.zoom__level:hover {
+  background: #322b23;
+}
+
+/*
+ * The bar sheds its optional controls as it narrows, in order of how easily
+ * they are reached elsewhere: labels first, then the edition picker (the
+ * Archive link still gets you between issues), then the tool toggle and the
+ * secondary actions. Paging and zoom survive down to the smallest phone.
+ * These have to sit below the base rules they override — a media query adds no
+ * specificity of its own.
+ */
+@media (max-width: 900px) {
+  .btn__label {
+    display: none;
+  }
+  .edition-pick {
+    max-width: 170px;
+  }
+}
+
+@media (max-width: 760px) {
+  .edition-pick {
+    display: none;
+  }
+}
+
+@media (max-width: 620px) {
+  .reader {
+    --bar-h: 48px;
+  }
+  .bar {
+    gap: 4px;
+    padding: 0 6px;
+  }
+  .zoom__level {
+    min-width: 0;
+    padding: 0 5px;
+    font-size: 0.72rem;
+  }
+  #btn-download,
+  #btn-help,
+  #btn-tool {
+    display: none;
+  }
+}
+
+/* ------------------------------------------------------------------ stage */
+
+.stage {
+  position: relative;
+  flex: 1 1 auto;
+  display: flex;
+  min-height: 0;
+}
+
+.viewport {
+  position: relative;
+  flex: 1 1 auto;
+  overflow: auto;
+  outline: none;
+  background: var(--stage);
+  /* Vertical panning by touch is the scroll container's job; pinch-zoom is
+     handled in JS so the two never fight. */
+  touch-action: pan-x pan-y;
+  scrollbar-color: #4a4136 var(--stage);
+}
+
+.viewport.is-grabbable {
+  cursor: grab;
+}
+
+.viewport.is-grabbing {
+  cursor: grabbing;
+  user-select: none;
+}
+
+.pages {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  padding: 20px;
+  width: max-content;
+  min-width: 100%;
+  margin: 0 auto;
+}
+
+.pdf-page {
+  position: relative;
+  flex: 0 0 auto;
+  background: #fff;
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.5), 0 10px 34px rgb(0 0 0 / 0.42);
+  /* Until the canvas lands, the box still occupies its true size so scroll
+     offsets never jump when a page finishes rendering. */
+  content-visibility: auto;
+}
+
+.pdf-page canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.pdf-page__skel {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, #fbfaf7, #efece4);
+}
+
+.pdf-page__num {
+  position: absolute;
+  left: 50%;
+  bottom: -17px;
+  transform: translateX(-50%);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  color: #6e6455;
+  pointer-events: none;
+}
+
+/* ------------------------------------------------- pdf.js selectable text */
+
+.textLayer {
+  position: absolute;
+  inset: 0;
+  overflow: clip;
+  line-height: 1;
+  text-align: initial;
+  text-size-adjust: none;
+  forced-color-adjust: none;
+  transform-origin: 0 0;
+  z-index: 2;
+  opacity: 1;
+}
+
+.textLayer :is(span, br) {
+  position: absolute;
+  color: transparent;
+  white-space: pre;
+  cursor: text;
+  transform-origin: 0% 0%;
+}
+
+.textLayer span.markedContent {
+  top: 0;
+  height: 0;
+}
+
+.textLayer ::selection {
+  background: rgb(140 47 28 / 0.34);
+}
+
+/*
+ * Two tools share one drag gesture, so only one of them may see the pointer.
+ * With the drag tool active the text layer is inert and every drag pans; with
+ * the select tool it takes the pointer back and drags highlight text instead.
+ */
+.reader[data-tool="pan"] .textLayer {
+  pointer-events: none;
+  user-select: none;
+}
+
+.reader[data-tool="select"] .viewport,
+.reader[data-tool="select"] .viewport.is-grabbable {
+  cursor: auto;
+}
+
+/* --------------------------------------------------------------- thumbnails */
+
+.thumbs {
+  flex: 0 0 176px;
+  width: 176px;
+  overflow-y: auto;
+  padding: 14px 10px 30px;
+  background: var(--stage-edge);
+  border-right: 1px solid var(--chrome-line);
+  scrollbar-color: #4a4136 var(--stage-edge);
+}
+
+.thumbs[hidden] {
+  display: none;
+}
+
+.thumb {
+  display: block;
+  width: 100%;
+  margin: 0 0 12px;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+  text-align: center;
+}
+
+.thumb__shot {
+  display: block;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #443c31;
+  border-radius: 2px;
+  transition: border-color 0.15s ease, box-shadow 0.15s ease;
+}
+
+.thumb canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.thumb__label {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.66rem;
+  color: var(--chrome-ink-dim);
+  font-variant-numeric: tabular-nums;
+}
+
+.thumb:hover .thumb__shot {
+  border-color: #7d6a55;
+}
+
+.thumb.is-current .thumb__shot {
+  border-color: #c9805f;
+  box-shadow: 0 0 0 2px rgb(201 128 95 / 0.35);
+}
+
+.thumb.is-current .thumb__label {
+  color: #e6b795;
+}
+
+@media (max-width: 700px) {
+  .thumbs {
+    position: absolute;
+    inset: 0 auto 0 0;
+    z-index: 20;
+    box-shadow: 12px 0 34px rgb(0 0 0 / 0.5);
+  }
+}
+
+/* ------------------------------------------------------ progress + toasts */
+
+.loadbar {
+  position: absolute;
+  top: var(--bar-h);
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: transparent;
+  z-index: 40;
+}
+
+.loadbar i {
+  display: block;
+  height: 100%;
+  width: 0%;
+  background: #c9805f;
+  transition: width 0.18s ease;
+}
+
+.toast {
+  position: absolute;
+  left: 50%;
+  bottom: 26px;
+  transform: translateX(-50%);
+  padding: 9px 16px;
+  border-radius: 999px;
+  background: rgb(16 14 11 / 0.92);
+  border: 1px solid var(--chrome-line);
+  color: var(--chrome-ink);
+  font-size: 0.78rem;
+  letter-spacing: 0.02em;
+  z-index: 45;
+  pointer-events: none;
+}
+
+/* ------------------------------------------------------------- help sheet */
+
+.sheet {
+  position: absolute;
+  inset: 0;
+  z-index: 60;
+  display: grid;
+  place-items: center;
+  background: rgb(8 7 5 / 0.6);
+  padding: 20px;
+}
+
+.sheet[hidden] {
+  display: none;
+}
+
+.sheet__panel {
+  width: min(430px, 100%);
+  max-height: 100%;
+  overflow: auto;
+  padding: 24px 26px 22px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 10px;
+  background: var(--chrome);
+  box-shadow: 0 30px 70px rgb(0 0 0 / 0.55);
+}
+
+.sheet__panel h2 {
+  margin: 0 0 14px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--chrome-ink-dim);
+}
+
+.sheet__panel dl {
+  margin: 0 0 20px;
+  font-size: 0.84rem;
+}
+
+.sheet__panel dl > div {
+  display: flex;
+  gap: 14px;
+  padding: 6px 0;
+  border-bottom: 1px solid rgb(255 255 255 / 0.05);
+}
+
+.sheet__panel dt {
+  flex: 0 0 132px;
+  font-family: var(--mono);
+  font-size: 0.76rem;
+  color: #e6b795;
+}
+
+.sheet__panel dd {
+  margin: 0;
+  color: var(--chrome-ink-dim);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .loadbar i,
+  .btn,
+  .thumb__shot {
+    transition: none;
+  }
+}

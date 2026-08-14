@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"
+    />
+    <title>Reading — The Phil Chat Times</title>
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" href="assets/favicon.svg" />
+    <link rel="stylesheet" href="assets/css/site.css" />
+    <link rel="stylesheet" href="assets/css/reader.css" />
+  </head>
+  <body class="reader-body">
+    <div class="reader" id="reader">
+      <!-- ------------------------------------------------------------ bar -->
+      <header class="bar">
+        <div class="bar__group bar__group--left">
+          <a class="btn btn--ghost" href="index.html" title="Back to the archive">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M15 5l-7 7 7 7" />
+            </svg>
+            <span class="btn__label">Archive</span>
+          </a>
+
+          <button
+            class="btn btn--ghost"
+            id="btn-thumbs"
+            aria-pressed="false"
+            title="Page thumbnails (T)"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="4" y="4" width="6.5" height="7.5" />
+              <rect x="13.5" y="4" width="6.5" height="7.5" />
+              <rect x="4" y="14" width="6.5" height="6" />
+              <rect x="13.5" y="14" width="6.5" height="6" />
+            </svg>
+            <span class="btn__label">Pages</span>
+          </button>
+
+          <button
+            class="btn btn--ghost"
+            id="btn-tool"
+            aria-pressed="false"
+            title="Switch between dragging the page and selecting text (S)"
+          >
+            <svg id="tool-icon-pan" viewBox="0 0 24 24" aria-hidden="true">
+              <path
+                d="M9 11V5.6a1.4 1.4 0 012.8 0V11m0-1.2a1.4 1.4 0 012.8 0V11m0-.6a1.4 1.4 0 012.8 0V15a5.5 5.5 0 01-5.5 5.5h-.8a5 5 0 01-3.7-1.7l-3-3.4a1.4 1.4 0 012-1.9L9 15.2"
+              />
+            </svg>
+            <svg id="tool-icon-select" viewBox="0 0 24 24" aria-hidden="true" hidden>
+              <path d="M9 4h6M9 20h6M12 4v16" />
+            </svg>
+            <span class="btn__label" id="tool-label">Drag</span>
+          </button>
+
+          <div class="edition-pick">
+            <select id="edition-select" aria-label="Choose an edition"></select>
+            <svg class="edition-pick__chev" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M6 9l6 6 6-6" />
+            </svg>
+          </div>
+        </div>
+
+        <!-- ------------------------------------------------------- paging -->
+        <div class="bar__group bar__group--center">
+          <button class="btn btn--icon" id="btn-prev" title="Previous page (←)">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M15 5l-7 7 7 7" />
+            </svg>
+          </button>
+
+          <div class="pagecount" title="Jump to page">
+            <input
+              id="page-input"
+              type="text"
+              inputmode="numeric"
+              autocomplete="off"
+              aria-label="Current page"
+              value="—"
+            />
+            <span class="pagecount__sep">/</span>
+            <span class="pagecount__total" id="page-total">—</span>
+          </div>
+
+          <button class="btn btn--icon" id="btn-next" title="Next page (→)">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M9 5l7 7-7 7" />
+            </svg>
+          </button>
+        </div>
+
+        <!-- --------------------------------------------------------- zoom -->
+        <div class="bar__group bar__group--right">
+          <div class="zoom">
+            <button class="btn btn--icon" id="btn-zoom-out" title="Zoom out (−)">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M5 12h14" />
+              </svg>
+            </button>
+            <button class="zoom__level" id="btn-zoom-level" title="Cycle fit (F)">
+              100%
+            </button>
+            <button class="btn btn--icon" id="btn-zoom-in" title="Zoom in (+)">
+              <svg viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M12 5v14M5 12h14" />
+              </svg>
+            </button>
+          </div>
+
+          <a
+            class="btn btn--ghost"
+            id="btn-download"
+            href="#"
+            download
+            title="Download this edition as a PDF"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 4v11M7.5 10.5L12 15l4.5-4.5M5 19h14" />
+            </svg>
+            <span class="btn__label">PDF</span>
+          </a>
+
+          <button class="btn btn--icon" id="btn-help" title="Keyboard shortcuts (?)">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="12" cy="12" r="8.2" />
+              <path d="M9.6 9.4a2.5 2.5 0 113.1 2.6c-.5.2-.8.7-.8 1.2v.5" />
+              <circle cx="12" cy="16.8" r="0.9" fill="currentColor" stroke="none" />
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <!-- --------------------------------------------------------- stage -->
+      <div class="stage">
+        <aside class="thumbs" id="thumbs" aria-label="Page thumbnails" hidden></aside>
+
+        <div class="viewport" id="viewport" tabindex="0">
+          <div class="pages" id="pages"></div>
+        </div>
+      </div>
+
+      <div class="loadbar" id="loadbar" hidden><i id="loadbar-fill"></i></div>
+
+      <div class="toast" id="toast" hidden></div>
+
+      <!-- ---------------------------------------------------------- help -->
+      <div class="sheet" id="help" hidden>
+        <div class="sheet__panel" role="dialog" aria-label="Keyboard shortcuts">
+          <h2>Shortcuts</h2>
+          <dl>
+            <div><dt>← →</dt><dd>Previous / next page</dd></div>
+            <div><dt>↑ ↓</dt><dd>Scroll</dd></div>
+            <div><dt>Home / End</dt><dd>First / last page</dd></div>
+            <div><dt>+ −</dt><dd>Zoom in / out</dd></div>
+            <div><dt>F</dt><dd>Cycle fit width / fit page / 100%</dd></div>
+            <div><dt>T</dt><dd>Toggle thumbnails</dd></div>
+            <div><dt>S</dt><dd>Drag tool / text-select tool</dd></div>
+            <div><dt>Ctrl / ⌘ + scroll</dt><dd>Zoom at the pointer</dd></div>
+            <div><dt>Drag</dt><dd>Pan when zoomed in</dd></div>
+            <div><dt>Double-click</dt><dd>Zoom to that spot</dd></div>
+            <div><dt>Esc</dt><dd>Close this</dd></div>
+          </dl>
+          <button class="btn btn--solid" id="help-close">Got it</button>
+        </div>
+      </div>
+    </div>
+
+    <script type="module" src="assets/js/reader.js"></script>
+  </body>
+</html>

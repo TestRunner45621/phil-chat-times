@@ -1,0 +1,83 @@
+{
+  "title": "The Phil Chat Times",
+  "generated": "2026-08-14T00:29:22.929Z",
+  "editions": [
+    {
+      "slug": "vol-1-no-1",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 1,
+      "date": "2026-07-16",
+      "title": "Vol I No 1",
+      "headline": "IS IT EVOLUTION? CHAT DELIBERATES FOUR HOURS, SAYS ‘ERM’",
+      "pages": 8,
+      "width": 792,
+      "height": 1224,
+      "pdf": "editions/vol-1-no-1/edition.pdf",
+      "cover": "editions/vol-1-no-1/cover.jpg",
+      "thumb": "editions/vol-1-no-1/thumb.jpg",
+      "bytes": 429832,
+      "sourceFile": "The Phil Chat Times - Vol I No 1 - 2026-07-16.pdf"
+    },
+    {
+      "slug": "vol-1-no-2",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 2,
+      "date": "2026-07-23",
+      "title": "Vol I No 2",
+      "headline": "Six Men Tell a Man They Love Him, in His Own Words, Without Altering One",
+      "pages": 17,
+      "width": 792,
+      "height": 1224,
+      "pdf": "editions/vol-1-no-2/edition.pdf",
+      "cover": "editions/vol-1-no-2/cover.jpg",
+      "thumb": "editions/vol-1-no-2/thumb.jpg",
+      "bytes": 6240633,
+      "sourceFile": "The Phil Chat Times - Vol I No 2 - 2026-07-23.pdf"
+    },
+    {
+      "slug": "vol-1-no-3",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 3,
+      "date": "2026-07-30",
+      "title": "Vol I No 3",
+      "headline": "SEVEN MEN PROPOSE VOICE CHAT. NOT ONE OF THEM GOES.",
+      "pages": 25,
+      "width": 756,
+      "height": 1152,
+      "pdf": "editions/vol-1-no-3/edition.pdf",
+      "cover": "editions/vol-1-no-3/cover.jpg",
+      "thumb": "editions/vol-1-no-3/thumb.jpg",
+      "bytes": 9454335,
+      "sourceFile": "The Phil Chat Times - Vol I No 3 - 2026-07-30.pdf"
+    },
+    {
+      "slug": "vol-1-no-4",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 4,
+      "date": "2026-08-06",
+      "title": "Vol I No 4",
+      "headline": "RELIGION IS FOUNDED, LIVE, IN SIX DAYS",
+      "pages": 22,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-4/edition.pdf",
+      "cover": "editions/vol-1-no-4/cover.jpg",
+      "thumb": "editions/vol-1-no-4/thumb.jpg",
+      "bytes": 5463881,
+      "sourceFile": "2026-08-06-X-Effort-v2.pdf"
+    }
+  ],
+  "upcoming": [
+    {
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 5,
+      "date": "2026-08-13",
+      "title": "Vol I No 5"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+<!doctype html>
+<!--
+  Offscreen harness used by build-editions.mjs. Headless Chrome loads this,
+  hands it a PDF as bytes, and it renders page 1 with the same pdf.js build the
+  live site uses, so covers match what a reader sees.
+-->
+<html>
+  <head><meta charset="utf-8" /><title>cover render harness</title></head>
+  <body>
+    <script type="module">
+      import * as pdfjs from '../vendor/pdfjs/pdf.min.mjs';
+      pdfjs.GlobalWorkerOptions.workerSrc = '../vendor/pdfjs/pdf.worker.min.mjs';
+
+      window.renderEdition = async (bytes, widths) => {
+        const doc = await pdfjs.getDocument({
+          data: new Uint8Array(bytes),
+          standardFontDataUrl: '../vendor/pdfjs/standard_fonts/',
+        }).promise;
+
+        const first = await doc.getPage(1);
+        const base = first.getViewport({ scale: 1 });
+
+        const images = {};
+        for (const [name, width] of Object.entries(widths)) {
+          const viewport = first.getViewport({ scale: width / base.width });
+          const canvas = document.createElement('canvas');
+          canvas.width = Math.round(viewport.width);
+          canvas.height = Math.round(viewport.height);
+          const ctx = canvas.getContext('2d');
+          ctx.fillStyle = '#fff';
+          ctx.fillRect(0, 0, canvas.width, canvas.height);
+          await first.render({ canvasContext: ctx, viewport }).promise;
+          images[name] = canvas.toDataURL('image/jpeg', 0.82).split(',')[1];
+        }
+
+        /*
+         * The lead headline is the largest type on page 1 once the masthead is
+         * out of the way. Bucket the glyphs by size, drop the tier that spells
+         * out the paper's own name, then read the biggest tier that is left in
+         * layout order. Cosmetic only — it becomes the card blurb in the
+         * library grid — so a miss just leaves the card plain.
+         */
+        let headline = null;
+        try {
+          const masthead = /^(the\s+)?phil\s+chat\s+times$/i;
+          const items = (await first.getTextContent()).items
+            .map((i) => ({
+              text: (i.str || '').trim(),
+              size: Math.round(Math.abs(i.transform[3])),
+              x: i.transform[4],
+              y: i.transform[5],
+            }))
+            .filter((i) => i.text.length > 1 && /[a-z]/i.test(i.text));
+
+          const tiers = new Map();
+          for (const i of items) {
+            if (!tiers.has(i.size)) tiers.set(i.size, []);
+            tiers.get(i.size).push(i);
+          }
+
+          const candidates = [...tiers.entries()]
+            .sort((a, b) => b[0] - a[0])
+            .filter(([, group]) => {
+              const joined = group.map((g) => g.text).join(' ').replace(/\s+/g, ' ').trim();
+              // Skip the masthead tier and any tier too sparse to be a headline.
+              return !masthead.test(joined) && joined.replace(/[^a-z]/gi, '').length >= 12;
+            });
+
+          if (candidates.length) {
+            const group = candidates[0][1]
+              .slice()
+              .sort((a, b) => b.y - a.y || a.x - b.x);
+            const joined = group.map((g) => g.text).join(' ').replace(/\s+/g, ' ').trim();
+            if (joined.length > 8) headline = joined.slice(0, 140);
+          }
+        } catch {}
+
+        const result = {
+          pages: doc.numPages,
+          width: Math.round(base.width),
+          height: Math.round(base.height),
+          headline,
+          images,
+        };
+        await doc.destroy();
+        return result;
+      };
+
+      window.harnessReady = true;
+    </script>
+  </body>
+</html>
