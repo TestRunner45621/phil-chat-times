@@ -7,9 +7,8 @@
  *   - only pages near the viewport hold a canvas (the rest keep their box, so
  *     scroll offsets never jump)
  *   - zoom re-lays-out the boxes and redraws, anchored on whatever the pointer
- *     was over; pages are rasterised finer than the screen strictly needs, so
- *     small type survives being shown small, and a canvas that already holds
- *     enough detail is reused rather than redrawn
+ *     was over; every page is sized to land on whole device pixels and drawn
+ *     at exactly that size, so its canvas is never resampled to fit
  *   - a selectable text layer sits over each canvas — built once, since it
  *     follows zoom on its own — and is switched off while the hand tool is
  *     active so a drag pans instead of selecting
@@ -28,26 +27,13 @@ const STANDARD_FONTS = new URL(
 ).toString();
 
 /*
- * Rasterise at twice the screen's own pixel density and let the browser scale
- * the result down. Newsprint is set in 8pt type on hairline rules, and drawing
- * that at 1:1 makes a mess of it — stems merge, counters fill in, and the
- * whole column goes muddy. Rendering finer and downsampling is what keeps a
- * zoomed-out page legible. Chrome's CSS downscale is as good here as doing the
- * resample by hand, so the oversized canvas simply goes straight into the DOM.
- *
- * 3x was measured too: indistinguishable from 2x, at 2.25x the memory.
- */
-const SUPERSAMPLE = 2;
-
-/*
- * Ceiling on one page's canvas. Sized so the views people actually sit at —
- * fit width and fit page — get the full supersample, while deep zoom gives
- * some of it back; by then the type is large on screen and needs it least.
- * Past the ceiling the page is drawn below the ideal resolution rather than
- * failing outright, which is what browsers do to oversized canvases anyway.
+ * Ceiling on one page's canvas. Below it a page is always drawn at exactly the
+ * screen's own resolution; past it — deep zoom on a dense display — it is
+ * drawn coarser and scaled up, which is the same thing browsers do to
+ * oversized canvases, only deliberately. Matches the pdf.js viewer default.
  */
 const MAX_CANVAS_PIXELS =
-  (navigator.deviceMemory && navigator.deviceMemory <= 4 ? 6 : 12) * 1e6;
+  (navigator.deviceMemory && navigator.deviceMemory <= 4 ? 8 : 16.7) * 1e6;
 
 const MIN_ZOOM = 0.1;
 const MAX_ZOOM = 8;
@@ -213,11 +199,59 @@ function syncZoomUI() {
 
 /* ------------------------------------------------------------------ layout */
 
+/*
+ * Size for a page at this zoom, in both device and CSS pixels.
+ *
+ * The device size is chosen first and the CSS size derived from it, so a page
+ * always occupies a whole number of physical pixels and its canvas maps onto
+ * them 1:1. Sizing the other way round — round the CSS box, then scale it by
+ * the pixel ratio — leaves the canvas a fraction of a pixel off the box it
+ * sits in, and the compositor resamples the whole page to make up the
+ * difference. That is what softens a page that was otherwise drawn correctly,
+ * and it is invisible in the numbers because both sizes look right on their
+ * own; only their ratio is wrong.
+ *
+ * Drawing finer than this and letting the browser scale down was measured and
+ * is worse: the glyph rasteriser tunes its antialiasing to the pixel grid it
+ * is given, and any resample afterwards throws that away.
+ */
+function pageMetrics(p, zoom) {
+  const dpr = window.devicePixelRatio || 1;
+
+  // How big the page appears: what the zoom asks for, snapped to whole device
+  // pixels so a canvas can line up with it exactly.
+  const shownW = Math.max(1, Math.round(p.w * zoom * dpr));
+  const shownH = Math.max(1, Math.round(p.h * (shownW / p.w)));
+
+  // How big the canvas is: the same, until that is more than a canvas should
+  // hold. Only then do the two part company — the page keeps the size the zoom
+  // asked for and is drawn coarser, rather than quietly refusing to enlarge.
+  let deviceW = shownW;
+  let deviceH = shownH;
+  const px = deviceW * deviceH;
+  if (px > MAX_CANVAS_PIXELS) {
+    const k = Math.sqrt(MAX_CANVAS_PIXELS / px);
+    deviceW = Math.max(1, Math.floor(deviceW * k));
+    deviceH = Math.max(1, Math.floor(deviceH * k));
+  }
+
+  return {
+    deviceW,
+    deviceH,
+    scale: deviceW / p.w, // device px per PDF point
+    cssW: shownW / dpr,
+    cssH: shownH / dpr,
+  };
+}
+
 function layout() {
   for (const p of state.pages) {
-    p.el.style.width = Math.round(p.w * state.zoom) + 'px';
-    p.el.style.height = Math.round(p.h * state.zoom) + 'px';
-    p.el.style.setProperty('--scale-factor', String(state.zoom));
+    const m = pageMetrics(p, state.zoom);
+    p.el.style.width = m.cssW + 'px';
+    p.el.style.height = m.cssH + 'px';
+    // The text layer scales off this, so give it the size the box actually
+    // took, not the zoom that was asked for.
+    p.el.style.setProperty('--scale-factor', String(m.cssW / p.w));
   }
   updateGrabbable();
 }
@@ -247,20 +281,6 @@ function scheduleRender(delay = 130) {
   renderTimer = setTimeout(renderVisible, delay);
 }
 
-/*
- * Device pixels to draw per CSS pixel for a page of this on-screen size:
- * the screen's density times the supersample, trimmed back if that would
- * exceed what a canvas can reasonably hold.
- */
-function outputScaleFor(cssW, cssH) {
-  let scale = (window.devicePixelRatio || 1) * SUPERSAMPLE;
-  const area = cssW * cssH;
-  if (area * scale * scale > MAX_CANVAS_PIXELS) {
-    scale = Math.sqrt(MAX_CANVAS_PIXELS / area);
-  }
-  return Math.max(scale, 0.05);
-}
-
 function pageIsNear(p, margin) {
   const vpRect = el.viewport.getBoundingClientRect();
   const r = p.el.getBoundingClientRect();
@@ -269,39 +289,49 @@ function pageIsNear(p, margin) {
 }
 
 /*
- * Render a screen's worth ahead in each direction and let go two and a half
- * screens out. Supersampled canvases cost four times the pixels of a plain
- * one, so the live set has to stay small — at fit-width that is a couple of
- * pages, which is still far enough ahead that scrolling never catches up with
- * the renderer.
+ * Render a screen and a half ahead in each direction, let go beyond three.
+ * Nearest page first: after a zoom every live page needs redrawing, and the
+ * one being read should come back sharp before the ones off screen.
  */
 function renderVisible() {
   if (!state.doc) return;
+
+  const vpRect = el.viewport.getBoundingClientRect();
+  const mid = vpRect.top + vpRect.height / 2;
+  const queue = [];
+
   for (const p of state.pages) {
-    if (pageIsNear(p, 1)) renderPage(p);
-    else if (!pageIsNear(p, 2.5)) releasePage(p);
+    if (pageIsNear(p, 1.5)) queue.push(p);
+    else if (!pageIsNear(p, 3)) releasePage(p);
   }
+
+  queue.sort((a, b) => {
+    const ra = a.el.getBoundingClientRect();
+    const rb = b.el.getBoundingClientRect();
+    return (
+      Math.abs((ra.top + ra.bottom) / 2 - mid) -
+      Math.abs((rb.top + rb.bottom) / 2 - mid)
+    );
+  });
+  for (const p of queue) renderPage(p);
 }
 
 async function renderPage(p) {
   const token = state.token;
   const zoom = state.zoom;
 
-  const cssW = p.w * zoom;
-  const cssH = p.h * zoom;
-  const wantPx = Math.round(cssW * outputScaleFor(cssW, cssH));
+  const m = pageMetrics(p, zoom);
 
   /*
-   * Decided on pixels, not on zoom. A canvas is left alone whenever it already
-   * carries at least the detail the page now needs — so zooming out never
-   * throws detail away, and never shows a softer page than it did a moment
-   * before. Once it holds well over what is needed it is redrawn smaller to
-   * give the memory back; the old canvas stays on screen until the new one
-   * lands, so that swap is invisible.
+   * Anything other than an exact match is redrawn, in both directions. A
+   * canvas held over from a different zoom has to be stretched or squeezed to
+   * fit, and that resample costs more sharpness than the redraw costs time —
+   * the page on screen stays put until the new canvas is ready, so waiting for
+   * it shows nothing worse than what is already there.
    */
-  const enough = (px) => px >= wantPx * 0.98 && px <= wantPx * 1.4;
-  if (p.canvas && enough(p.canvas.width)) return;
-  if (p.pendingPx && enough(p.pendingPx)) return;
+  const matches = (px) => Math.abs(px - m.deviceW) <= 1;
+  if (p.canvas && matches(p.canvas.width)) return;
+  if (p.pendingPx && matches(p.pendingPx)) return;
 
   /*
    * A zoom gesture fires these faster than they finish, so each attempt takes
@@ -313,18 +343,17 @@ async function renderPage(p) {
   const gen = (p.gen = (p.gen || 0) + 1);
   if (p.task) p.task.cancel();
   p.task = null;
-  p.pendingPx = wantPx;
+  p.pendingPx = m.deviceW;
 
   try {
     if (!p.page) p.page = await state.doc.getPage(p.n);
     if (gen !== p.gen || token !== state.token) return;
 
-    const outputScale = outputScaleFor(cssW, cssH);
-    const viewport = p.page.getViewport({ scale: zoom * outputScale });
+    const viewport = p.page.getViewport({ scale: m.scale });
 
     const canvas = document.createElement('canvas');
-    canvas.width = Math.max(1, Math.round(viewport.width));
-    canvas.height = Math.max(1, Math.round(viewport.height));
+    canvas.width = m.deviceW;
+    canvas.height = m.deviceH;
     const ctx = canvas.getContext('2d', { alpha: false });
 
     const task = p.page.render({ canvasContext: ctx, viewport });
