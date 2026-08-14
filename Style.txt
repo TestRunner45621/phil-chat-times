@@ -1,0 +1,180 @@
+I want you to create a full PDF/HTML newspaper. It will be a satirical newspaper, intended to mimick a "real" newspaper in style, titled "The Phil Chat Times". Work off the chat logs provided to construct the stories and other content on the newspaper.
+
+Style Guide:
+
+1. It should not feel like you are just transcribing a conversation in prose. There should be editorialization. Where either it's your opinion, a joke, or a summarization. Think of like a normal newspaper where quotes are normal and often, but don't make up the whole article. While we want a recounting of all the funniest or most memorable moments in the chat, we also want to hear the writer's voice.
+
+2. Time/Dates should be given as a newspaper would recount when an event takes place. Like, "Late Saturday evening, Billy Bob said...".
+
+All timestamps in the chat logs are UTC. Convert to US Eastern before writing any dateline or part-of-day. Eastern runs UTC-4 in the summer months these logs cover. The conversion pushes late-UTC messages back into the previous calendar day, so work out the day of the week AFTER converting, not before — otherwise a Saturday-night blowup gets filed as Sunday.
+
+3. Clean up the grammar in the quotes like a newspaper might, unless keeping misspellings or the base message would make for a good punchline or humorous moment. So instead of "u suk", it's "You suck". Try to recount conversation like a newspaper would recount dialogue of people speaking in a physical room.
+
+3. Be willing to rule a verdict on an argument especially if you feel as if there's a clear winner, preferably with a sardonic or ironic punch.
+
+4. The dominant register of the paper should be sardonic, ironic, sarcastic, satirical, and just funny in general. Generally avoid being serious. Try to find the absurd or funny even in the serious, even if that includes citing the insults or side comments.
+
+5. Phil chat has a culture of casual causticness and aggressiveness, or people embodying persona's that's "not them". Don't feel bad about making fun of people, see it all as performance art and a participation in the culture. Nobody is taking an AI newspaper personally.
+
+6. Take the persona of an anonymous chatter or even series of chatters who are writing the newspaper as a part of the bit. Do not let on that it's an LLM writing the newspaper.
+
+7. In the chat logs emojis will be recorded. Don't just recount emojis in a matter of fact sense, like "This message received xyz emojis". Just use them as a guide for what chat found signifcant, particularly funny, or particularly mocking worthy. Emojis can be laughing with someone, or laughing at someone.
+
+8. Try to include the funniest and hardest hitting insults/jeers as quotes or paraphrases. Those are the golden nuggets that should be displayed. Also highlight quotes and give them their own brief or sidebar if they're just funny by themselves, even if they're not relevant to any particular section.
+
+Style constraints mainly for features — read before writing.
+
+HEAVY LIMIT:
+- "It's not X, it's Y" and all negative-parallel framing
+- Fragment triads: "Not X. Not Y. Just Z."
+- Rhetorical questions you then answer ("The result? Chaos.")
+- Colon headlines mid-paragraph ("The problem: funding.")
+- Anaphora ("It's about X. It's about Y.")
+- Doublets where one word does the job
+- Em dashes as a default connector — use commas, periods, or restructure
+- Restating the premise before answering it
+- Forced analogies ("think of it like a library where…")
+-Vague sourcing: "studies show," "experts say," "critics argue" — name them or cut it
+- A closing line that summarizes what was just said or reaches for significance
+- Hedging both ends of a sentence
+
+Structural Rules:
+- Vary sentence length hard. Some sentences should be four words.
+- Vary paragraph length. One-sentence paragraphs are fine.
+- Don't group everything in threes. Two examples, or five, is fine.
+- No bold for emphasis in main features. 
+- Let flat information stay flat. Not every sentence needs to land.
+
+*Remember to look over your writing to make sure you're following these writing suggestions as much as you can. Deploy an agent for just this if possible
+
+
+Most of the reactions are Discord custom emoji, which show up as named tokens like :KEKW: rather than as pictures. A rough decoder:
+
+:KEKW: / :OMEGALUL: / :LUL: — the room laughing, usually AT someone. By far the most common reaction.
+:GIGACHAD: / :MonkaGIGA: — absurd respect. Someone said something unhinged and correct.
+:monkaHmm: — suspicion, or watching a trainwreck approach.
+:FeelsStrongMan: — sympathy, sincere or mock.
+💯 / 🔥 / ⬆️ — cosign. The room agrees.
+😭 — defeat, or affection.
+❤️ / 🙏 — genuine warmth
+
+Never print a raw :KEKW: token in the paper. Reactions steer what gets covered; they don't appear as text.
+
+Only a small fraction of messages get any reaction at all. That set is a pre-filtered highlight reel — a good place to start hunting for leads and briefs, then read the surrounding thread for context.
+
+LAYOUT
+
+1. Do not do "continued on page X" format that some newspapers do.
+
+2. Be visually creative. Break up text with images, charts, pull quotes, or anything else you can think of. Do not hold back on tokens when it comes to this, go crazy.
+
+3. The front page should be the BREAKING story. The most important story of the week.
+
+4. Include sidebars, briefs, and boxes. Absorbs the surplus a transcript produces — jokes, settled questions, numbers, regretted lines — that's too small to carry a headline. Include a lot of these, do not worry about making a paper too long by making too many, add as much as there is good material. Often the funniest content in the chat logs are one offs that fit perfectly in a brief.
+
+5. Remember that with the chat logs there are images in a seperate folder. Those might be good to put in an article. Use your judgement on this.
+
+6. Every sidebar, brief, box, and back-of-book section gets a visual treatment that distinguishes it from the article it sits next to. This is not optional decoration — it is how the reader knows what they are looking at.
+
+The failure mode is a sidebar that is just a paragraph in the same face at the same size flowing in the same column, so it reads as a continuation of the story and the reader walks straight from the article into a joke without noticing the seam. A one-line bold lead-in does not fix this. The block needs a rule, a tint, a reversed panel, a border, a shadow, a corner tab — something that draws a boundary the eye catches before it starts reading. Be creative and vary it; one house box style repeated on every page is its own kind of monotony.
+
+The same rule applies to back-of-book departments and to any page that runs several short items down a column. Classifieds, Deaths & Dissolutions, Personals, Lost & Found should not look like article subheads, and a run of vignettes must not run together as one undifferentiated slab — each vignette gets a separator, a kicker, and air.
+
+EFFORT
+
+Don't economize. Act as if usage is not an issue, because it isn't.
+
+Spend as many tokens as the job actually takes — reading the logs all the way through, re-reading threads for context, hunting down leads that might turn into nothing, checking images, building charts and diagrams, writing and rewriting, getting the layout right. If a story might be in there, go look. If a visual would be better hand-built than described, build it. If something needs a third pass to land, take the third pass.
+
+The failure mode to avoid is a thin paper made efficiently. A long, dense, over-built issue is the goal. Never skip reading something, cut a visual, trim a section, or settle for a worse version of anything because of length or cost.
+
+
+OUTPUT
+
+The deliverable is a PDF.
+
+Write the paper as a print-styled HTML file, then render it to PDF with headless Chrome:
+
+"C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf="<issue>.pdf" "file:///<absolute path to issue.html>"
+
+Keep the HTML next to the finished PDF. It's the editable source — revisions start from it instead of from scratch. Both go in Past Editions/, in a folder of their own named for the issue — "Vol I No 4 - 2026-08-06" — alongside the page PNGs and a pdftotext extract of the finished PDF. Note the depth when you write the image paths: from inside an edition folder the logs are two levels up, ../../Chat Logs/.
+
+Print rules that matter, each of which quietly wrecks the PDF if missed:
+
+1. Put -webkit-print-color-adjust: exact; print-color-adjust: exact; on html and body. Without it Chrome strips every background tint, shaded box, and colored rule out of the print render, and a paper built on boxes and sidebars comes out as bare text on white. This is the single easiest way to lose the entire design.
+
+2. Page geometry comes from CSS, not the command line: @page { size: Letter; margin: 0.5in; }
+
+3. Put break-inside: avoid on every brief, box, pull quote, and figure. Print paginates hard, and since we don't do "continued on page X", nothing can be allowed to straddle a page break.
+
+4. Relative image paths work fine over file:// — no need to base64 anything. A good chunk of the log images are .webp, which Chrome renders natively; this is why we use Chrome rather than wkhtmltopdf or weasyprint.
+
+5. System font stacks only. Headless Chrome won't fetch webfonts.
+
+6. CSS columns paginate unpredictably in print. Prefer explicit grid or flex blocks sized to the page.
+
+7. Open the finished PDF and look at it before calling it done. Check that backgrounds survived, nothing is split across a page, and no image blew out its column.
+
+DEAD SPACE
+
+No page is finished until it has been scanned for blank space, and no page ships with any. A column that runs dry two thirds of the way down is the single worst thing that happens to this paper. It reads as a paper that ran out of material, which is the opposite of true.
+
+Scan every page, every time, before calling it done. Do not eyeball it and do not trust a fit check — measure it.
+
+The catch is that the obvious measurement doesn't work. A slack check that takes the page height minus the deepest content on the page reports zero on a page that is visibly forty per cent empty, because these pages lay out in full-height grids and something always reaches the bottom. Measuring ink off the rasterised PDF fails too, because full-height column rules put ink on every scanline. Both of those were tried and both said "clean" about pages that were half air.
+
+What works is measuring per column, in the DOM: bucket every painted rect — elements and text-node line boxes both — into its column by x position, and take each column's own deepest edge. Then report the gap at the foot of the last column that carries copy, the worst gap at the foot of any earlier column, and any column that is empty outright. tools/fill.js does this. Run it after every substantive edit, not once at the end.
+
+Three things it will find, all of which need fixing rather than tolerating:
+
+  - the short last column — not enough copy. Write more.
+  - a hole at the foot of an EARLIER column — a break-inside: avoid block that
+    wouldn't fit jumped whole to the next column and left up to ten lines of air
+    behind it. Shrink the block, move it, or convert it to something that breaks.
+  - an empty column — Chrome sometimes allocates a spare when content exactly
+    fills the last one. Only trimming past the threshold clears it.
+
+The largest single cause of dead space is Chrome's default widows: 2 / orphans: 2, which throws a whole paragraph into the next column rather than leave one line behind. Setting both to 1 on body copy recovers more space than any amount of rewriting.
+
+Fixing dead space means adding material, not stretching what's there. Longer stories, another brief, a chart, a photograph, more chat quotes, a whole extra page. Padding the leading and inflating the type to fill a column is worse than the hole was. There is always more in the logs.
+
+Last gate is your own eyes: render every page to PNG and read all of them. The tools have been shown to miss this once already.
+
+NAMES AND CHARACTER DESCRIPTIONS
+
+Identify people by the @handle in the message heading, not by the display name —
+display names change and are sometimes unrecognizable. The roster of handles,
+the names to print, and the character notes attached to each person are kept in
+legend/NAMES.txt in the private newsroom repository, not here.
+
+The legend is not exhaustive; plenty of regulars are not on it. For anyone
+unlisted, use your judgment.
+
+PRODUCTION: 
+
+1. First split the chat logs into readable chunks for you, perhaps by day. Include emoji reactions.
+
+Write those chunks into a "working" folder inside that log's own folder — so the 8.6 log's splits live in Chat Logs/8.6 Chat Log/working/. Name them by the day they cover (07-30.md, 07-31.md, and so on). Each log keeps its own working folder; don't pool splits from different logs together, and don't put them at the top level of Phil Chat Times.
+
+If a working folder is already there from an earlier session, read what's in it instead of re-splitting.
+
+2. Then use those to read to make the paper. Remember to always read the logs when writing.
+
+3. I might ask you to run me down what you are going to make the main stories and/or briefs to provide my own input first. From that we'll make a document that I will then feed back into you in the future to make the full newspaper. Or I might ask you to just try to one shot things. It depends.
+
+4. WORKING FROM A STORY PITCH DOCUMENT
+
+If you're handed a story pitch doc from an earlier session, treat it as a loose guide and a source of inspiration. It is not a spec, and it is not an outline to execute.
+
+The say is ultimately yours. Use your judgment. If a story should be revised, recut, demoted, dropped, or taken in a completely different direction than the pitch suggests, do that. If you find a better lead than the one recommended, lead with it. If an angle stops working once you're actually writing it, abandon it. Nothing in a pitch doc is binding.
+
+And go to the chat logs regardless. A pitch doc is never a replacement for reading them. Read all the day files in the working folder, in full, before you write — not just the parts the pitch happens to quote. Verify every quote against the log itself in its real context rather than copying it out of the pitch, because context changes what a line means and a pitch is written from a single pass through the material. It will have gaps. Some of the best material in any given week will still be sitting in the logs unmentioned, and the only way to find it is to go back through them yourself.
+
+Treat the quotes in a pitch as leads pointing at where something happened, not as the source.
+
+
+
+
+
+
+

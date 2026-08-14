@@ -78,3 +78,56 @@ The repository *is* the site — there is no build to run on the server.
 Note that the PDFs live in git, about 23 MB across the four editions so far.
 That is well within GitHub's limits, but if the archive grows to hundreds of
 issues it would be worth moving them to a release asset or Git LFS.
+
+## How the paper is made
+
+`tools/` holds the programs that turn a week of Discord into an issue, and
+`Style.txt` is the style guide they serve — register, layout rules, the names
+legend, the production checklist.
+
+An issue starts as a single flat export, twenty-odd thousand messages with no
+structure beyond timestamps. The problem is never finding *something* to print. It
+is working out which of twenty thousand things were worth reading, and the tools
+exist because each answer to that turned out to be wrong in an interesting way.
+
+Run them with Node from `tools/`; `npm install` first for `sharp`, `pngjs` and
+`puppeteer-core`. Several of the layout tools hardcode
+`C:\Program Files\Google\Chrome\Application\chrome.exe`.
+
+### Reading
+
+| | |
+|---|---|
+| `split.js` | the export → one file per Eastern day. Converts UTC−4 and works out the day of the week *after* converting, which is the step that is easy to get backwards and which puts a Monday argument on a Sunday page |
+| `reacted.js` | everything at or above a given reaction count |
+| `unreacted.js` | rebuilds the reply graph from the ~78 characters of parent message that Discord embeds in every reply, then surfaces `engaged` — three or more distinct people replying, zero reactions — plus `long`, `caps` and `questions` |
+| `person.js` | one account's quotable messages with reactions and reply context; `TAIL` sweeps every account under 60 messages |
+| `day.js` | one person, one day, in sequence |
+
+Reaction count is the obvious ranking and the worst one. It measures what a room
+was willing to endorse in public, which is not the same as what it argued about,
+and once a paper prints the figure the room starts farming it. The reply graph
+finds the arguments. Reading one person end to end finds the rest.
+
+### Measuring
+
+`stats.js` — volume, hit rates, distribution by hour and day, the long tail.
+`effort.js` — average message length, replies received per hundred sent, and a
+composite percentile. `vocab.js` — mention counts over message *bodies* only,
+excluding headings and reply quotes, which is the whole difference between a right
+number and a number that is 40% too high. `thresh.js` compares candidate cutoffs
+before you commit to one.
+
+### Laying out
+
+The paper is printed HTML, so copyfitting is measurement rather than opinion.
+`measure.js` reports per-page region geometry. `fill.js` is the ragged-bottom
+meter: page height minus padding minus the deepest content, per column.
+`fit-check.js` reads the live DOM inside the same Chrome that writes the PDF, so
+it can see what got thrown away instead of only what survived. `slack.js` does the
+same job engine-neutrally by reading a finished PDF. `shots.js` renders each page
+to a PNG at 2×. `pitch.js` measures line pitch off a rasterised page, so leading
+stops being a guess. `webp2png.js` exists because Typst does not read WebP and
+roughly a third of Discord's image exports are.
+
+The research notes, the raw logs and the drafts are not in this repository.
