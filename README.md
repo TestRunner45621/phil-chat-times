@@ -1,13 +1,16 @@
-# The Phil Chat Times — online archive
+# 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰 — online archive
 
 A static site that hosts every edition of the paper and reads them in the
 browser: zoom, pan, jump between pages, select text. No server, no build step at
 page-load time, nothing uploaded — GitHub Pages serves plain files and the
 rendering happens on the reader's machine.
 
+Every edition also exists as a readable markdown file (`edition.md`) committed
+alongside the PDF — searchable, diffable, and readable without a viewer.
+
 - `index.html` — the archive: a cover grid of every edition
 - `read.html` — the viewer
-- `editions/<slug>/` — one folder per edition: `edition.pdf`, `cover.jpg`, `thumb.jpg`
+- `editions/<slug>/` — one folder per edition: `edition.pdf`, `edition.md`, `cover.jpg`, `thumb.jpg`
 - `editions.json` — the manifest the site reads (page counts, dates, headlines)
 - `vendor/pdfjs/` — a pinned copy of Mozilla's pdf.js, so the site has no CDN dependency
 
@@ -40,6 +43,7 @@ Drop the finished PDF into its `Vol <roman> No <n> - <yyyy-mm-dd>` folder under
 ```sh
 npm install          # first time only
 npm run build        # ingests every edition folder that has a PDF
+npm run extract      # generates edition.md for all editions
 git add -A && git commit -m "Add Vol I No 5" && git push
 ```
 
@@ -48,7 +52,12 @@ page count and pulls the front-page headline, then rewrites `editions.json`.
 Editions with no PDF yet are listed as `upcoming` and appear on the archive page
 as an "In production" placeholder.
 
-Point it at a different source folder with
+`npm run extract` generates a structured markdown mirror (`edition.md`) for each
+edition from its PDF — YAML frontmatter, the blackletter masthead, and the full
+text content page by page. Use `npm run extract:force` to overwrite existing
+markdown files.
+
+Point the build at a different source folder with
 `node scripts/build-editions.mjs --source "D:\some\other\path"`, and force a
 re-render of covers that already exist with `--force`. It renders through
 headless Chrome; if Chrome is somewhere unusual, pass `--chrome "<path>"`.
@@ -75,15 +84,16 @@ The repository *is* the site — there is no build to run on the server.
 
 `.nojekyll` is committed so Pages serves the folders as-is.
 
-Note that the PDFs live in git, about 23 MB across the four editions so far.
+Note that the PDFs live in git, about 23 MB across the five editions so far.
 That is well within GitHub's limits, but if the archive grows to hundreds of
 issues it would be worth moving them to a release asset or Git LFS.
 
 ## How the paper is made
 
 `tools/` holds the programs that turn a week of Discord into an issue, and
-`Style.txt` is the style guide they serve — register, layout rules, the names
-legend, the production checklist.
+`Style.md` is the style guide they serve — register, layout rules, the names
+legend, the production checklist. `CLAUDE.md` is the comprehensive technical
+reference for LLM-assisted production.
 
 An issue starts as a single flat export, twenty-odd thousand messages with no
 structure beyond timestamps. The problem is never finding *something* to print. It
@@ -131,3 +141,24 @@ stops being a guess. `webp2png.js` exists because Typst does not read WebP and
 roughly a third of Discord's image exports are.
 
 The research notes, the raw logs and the drafts are not in this repository.
+
+## Edition file structure
+
+Each edition folder under `editions/` contains:
+
+```
+editions/vol-1-no-5/
+  edition.pdf          # the final PDF
+  edition.md           # structured markdown with YAML frontmatter
+  cover.jpg            # page 1 at 1000px wide
+  thumb.jpg            # page 1 at 320px wide
+```
+
+The markdown file begins with YAML frontmatter (volume, number, date, headline,
+page count) and the blackletter masthead `𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰`, followed by
+the full text of the edition organised by page. See `templates/edition-template.md`
+for the format.
+
+## Editorial Memory (`docs/memory/`)
+
+The `docs/memory/` directory is the running compendium of collected knowledge about Phil Chat. It is used by the AI editorial team to maintain a consistent writing style and an evolving arc across issues. It contains character profiles, running story arcs, and style notes. It acts as a knowledgebase, but it is not the ultimate source of truth — the raw logs are. Editors read this folder before writing a new edition and update it when they finish.
