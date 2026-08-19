@@ -131,14 +131,9 @@ before you commit to one.
 ### Laying out
 
 The paper is printed HTML, so copyfitting is measurement rather than opinion.
-`measure.js` reports per-page region geometry. `fill.js` is the ragged-bottom
-meter: page height minus padding minus the deepest content, per column.
-`fit-check.js` reads the live DOM inside the same Chrome that writes the PDF, so
-it can see what got thrown away instead of only what survived. `slack.js` does the
-same job engine-neutrally by reading a finished PDF. `shots.js` renders each page
-to a PNG at 2×. `pitch.js` measures line pitch off a rasterised page, so leading
-stops being a guess. `webp2png.js` exists because Typst does not read WebP and
-roughly a third of Discord's image exports are.
+Previously, we used a suite of tools (`fill.js`, `slack.js`, `fit-check.js`) that required rasterizing PDFs or measuring the live Chrome DOM. Now, we use `@chenglou/pretext` for layout measurement. 
+
+`preflight.js` accurately models text heights, line-breaks, and orphans/widows via pure arithmetic, providing instantaneous terminal feedback on dead space and clipped content without firing up a browser. `shots.js` is still used to render each page to a PNG at 2× for visual review. `webp2png.js` exists because roughly a third of Discord's image exports are WebP.
 
 The research notes, the raw logs and the drafts are not in this repository.
 

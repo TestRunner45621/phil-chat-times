@@ -75,10 +75,11 @@ The dominant register is **sardonic, ironic, sarcastic, satirical, yet professio
 
 ## Layout Rules
 
-1. **No "continued on page X."** Every story finishes where it starts.
+1. **No "continued on page X."** Except for the front page, after which every story finishes where it starts. 
 2. **Be visually creative.** Use images, charts, pull quotes, sidebars, briefs heavily.
-3. **Front page = the BREAKING story.** 
+3. **Front page = the BREAKING story.** But allow eye-catching columns and briefs like a real newspaper.
 4. **Visual distinction is mandatory.** Every sidebar, brief, box, and back-of-book section needs a visual treatment (rule, tint, reversed panel). 
+5. **Use a publisher's toolbook.** If you make a unique visual element, save the process to docs/workflow so that it can be recontextualised in the future creatively. Occasionally review and consolidate tools and elements, and consider making an atlas of elements in a print-test.pdf document so the user can visually verify the elements in your toolbox work together.
 
 ---
 
@@ -95,12 +96,13 @@ The dominant register is **sardonic, ironic, sarcastic, satirical, yet professio
 
 ---
 
-## Dead Space
+## Dead Space & Pretext Measurement
 
-A column that runs dry two thirds of the way down is the worst thing that can happen.
-- **Measure it:** Use `node tools/fill.js <issue.html>` to measure per-column dead space in the DOM.
+A column that runs dry two thirds of the way down is the worst thing that can happen. We now use **pretext** (`@chenglou/pretext`) to measure text flow and detect dead space purely via arithmetic, avoiding browser-based DOM measurements.
+
+- **Measure it:** Use `node tools/preflight.js <issue.html>` (which utilizes pretext's `layout()` and `measureLineStats()`) to accurately report text height, orphans, widows, and column flow without rasterization.
 - **The fix:** Fix dead space by ADDING material (briefs, quotes, charts), never by stretching/padding what is already there.
-- **Widows/Orphans:** Set `widows: 1; orphans: 1;` on body copy to stop Chrome from throwing whole blocks to the next column.
+- **Widows/Orphans:** Ensure paragraph flow avoids orphans and widows (pretext measurements will flag these).
 
 ---
 
@@ -108,14 +110,14 @@ A column that runs dry two thirds of the way down is the worst thing that can ha
 
 1. **Split the logs:** `tools/split.js` puts one file per Eastern day in `working/`.
 2. **Read:** Read all day files in full before writing. Consult `docs/memory/`.
-3. **Write HTML:** Write print-styled HTML. 
+3. **Write HTML:** Write print-styled HTML, and commit the raw sources. 
 4. **Render:** 
    ```sh
    "C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf="<issue>.pdf" "file:///<absolute path to issue.html>"
    ```
-5. **Check:** Run `fill.js`, `fit-check.js`, `slack.js`, `shots.js`. Read the PNGs.
+5. **Check (Pretext):** Run `node tools/preflight.js <issue.html>`. This replaces the legacy `fill.js`, `fit-check.js`, and `slack.js`. Read the output and adjust the layout. Check page PNGs if needed.
 6. **Generate Markdown:** `node scripts/extract-edition.mjs --slug <slug>`
-7. **Update Memory:** Write any new profiles, facts, or arcs back to `docs/memory/`.
+7. **Update Memory & Toolbook:** Write any new profiles/facts to `docs/memory/`. Save any new visual components to `docs/workflow`.
 8. **Build:** `npm run build`
 9. **Publish:** Commit and push.
 
