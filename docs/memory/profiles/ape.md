@@ -73,3 +73,55 @@ See [[kady]].
 - Commissioned the average-message-length table (with Stackhouse) in Vol V.
 
 Related: [[kady]], [[hpcr]], [[the-paper-and-its-readers]], [[lizzie]]
+
+---
+
+## Later issues
+
+**The field guide.** Asked whether he had the new-chatter warning poster for Willow or for Kady,
+he replied "I have all three variants" and posted them together. They are real, they are
+designed, and Vol IV printed all three — Willow (a defence wearing the costume of a warning),
+Kady (a warning about somebody who is not there, and "a shrine"), and Quigley (the only one with
+a face, and the only subject who was asked).
+
+**The savannah hunter**, delivered into an argument about whether the crisis of meaning is
+universal:
+
+> "A hunter on the African savannah expressed a similar sentiment to me before running off to
+> hunt gazelle." — Pressed for detail: "He was like 'how are we meant to determine how to live
+> our lives when empirical observations cannot lend themselves to normative conclusions?', grabbed
+> his spear and ran away." — Then the corroboration: "Apparently it happens all the time, that's
+> how you know it's a fundamental human experience."
+
+**The allocation problem**, four messages into a room that had argued about AI and water for two
+days without a usable sentence: "How come the casino can recognize my face in 3 seconds / But I
+can't identify a pornstar in a reddit clip / Where's my facial recognition software? / How is it
+fair that this advanced technology is being used to keep me from card counting but can't help me
+jack off." The paper: a better statement of who gets the technology and who gets policed by it
+than anything filed in a four-hour hearing on the future of labour, **and it took him twenty
+seconds.**
+
+**The diagnosis**, which is not a joke and which he stated plainly at a genre rather than a
+person: "People will have no friends, eat like shit, live in a pile of filth, and spend all day
+doing things they hate and be like 'I think the reason I'm sad is because of the fundamental
+disconnect humanity's need for meaning and the inherent ambivalence of nature'." Recommendation:
+"I would consult with a medical professional." Disclaimer, filed immediately after and more
+honest than the position it qualifies: **"Partly because I'm not entirely sure what meaning
+means."**
+
+**He changed his mind in public in under a minute.** Handed a set of poems, he said he did not
+understand why they were poems rather than badly broken prose, was careful to say it was not
+criticism, asked the formalist question honestly — and, shown a different poem, updated on the
+spot: "See this doesn't confuse me. I see how this constitutes poetry." **Not one person pressed
+a button.**
+
+**The kindest thing said all week**, to lizzie, after she worried the room ought to be nicer to a
+doomposter in case he turned out to be a more violent prophet than her: **"True. You are a
+remarkably good natured schitzoposter."**
+
+**Collected:** "I often enjoy playing the straight man to aid another person's joke." · "Istfg the
+water usage thing is a CIA plot to make anti-ai people look retarded." · "oh yeah? list all your
+assumptions" · "Guys we should really be taking Zach more seriously he knows his shit he thought
+about stuff and things a lot in the shower this morning" · the career plan, filed complete, with
+terms agreed with Youv: **one McDonald's, annually, in perpetuity.**
+

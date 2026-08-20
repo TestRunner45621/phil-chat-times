@@ -83,3 +83,51 @@ works because her answers are short and correct. Keep her rulings verbatim — t
 brevity is the joke and padding them kills it.
 
 Related: [[how-the-room-argues]], [[kady]]
+
+---
+
+## Later issues
+
+**The 478 kilometres (Vol III).** She drove Michigan to Connecticut filing dispatches from
+the passenger seat — the food, the tolls ("thirteen dollars for the first one, hello??"), a
+racist incident encountered within seconds of getting out in New York, her brother's truck
+cat, and her own ears, destroyed by an eight-hundred-foot elevation drop in Massachusetts.
+
+Somewhere around the New York state line **she ran a therapy session.** Simon disclosed that
+he is drawn to toxic partners and gets a huge dopamine hit when they turn loving, "because a
+drug feels better after withdrawal." Her reply, four sentences and better than most of what
+the paper prints:
+
+> "It's your pattern. And a comfort to you. So. I would actually go to therapy and get a
+> different pattern."
+
+Told Canadian health insurance does not cover mental health: **"That's fucked up," said
+Pearl, from a car, in a different country.** Later: "I wonder if I can log discord therapy as
+clinical hours."
+
+**The PIP tribunal.** She arrived pre-briefed — "are we talking about how Anthony requires
+growth from his friends to remain friends with them" — disclosed that she and Anthony had had
+this argument before and she had come back for a second attempt, and built the best case
+anybody built that week: your friends are not there to cater to you; you hold people to
+standards they never agreed to and then drop them for failing to meet them. **The analogy
+comes from an actual job**, and it is the reason it lands.
+
+**The obtuse seminar, four in the morning.** Ape used "obtuse" to mean "a lot." She asked
+twice, got a dictionary screenshot, and said "Jesus." Ape then asked why — genuinely — and
+got a real tutorial about angulation and definitional translation, delivered in earnest at 4
+a.m. He conceded without defensiveness. **"Used of a person it means slow to understand, so
+that may be fun for you." / "Good. People here are very obtuse."** Her ruling on the obtuse
+triangle he posted afterwards, in full: **"Stupid triangle. Too orange."**
+
+**The thirty-hour day.** Her answer was twenty-seven, with her working shown — eight hours of
+work leaves nineteen, ten hours of sleep leaves nine hours of free time, and that's a lot. She
+also flattened the agricultural objection in six words: **"…how do you think we grow weed
+inside?"**
+
+**On astrology**, and the closest thing the channel has to an adult: it "is ancestral and very
+old… The issue is we reject and scoff at anything we have no idea how it works." chair's
+complete response: "boooooo."
+
+**Given a section of the paper in Vol V, she reported the effect in three words: "I feel
+special."**
+

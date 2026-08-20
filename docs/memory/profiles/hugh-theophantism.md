@@ -85,3 +85,48 @@ argue about it for six more hours.
   really." / "i suspect her story is older still."
 
 Related: [[charlie]], [[vannak]], [[willow]], [[stackhouse]]
+
+---
+
+## Later issues
+
+**The simulator (Vol IV).** He built "a debate program with a bunch of prewritten responses based
+on ppls logs" — an MS-DOS terminal inside a Windows 95 shell inside a browser, a roster of thirteen
+(four of whom post in the channel), and one command with a four-word manual: `debate <a> <b>
+[topic]` — "Put two of them in a room."
+
+Nothing is generated live. The responses are drawn from what these people have actually typed,
+sorted by register, and fired at whatever the other one says. **The machine holds no model of
+anybody — only a corpus and a matching rule — and it still produced "you're upset" as the terminal
+move in an argument about money, because that is empirically what happens here.**
+
+Every run closes on the same two words, which the author did not write as a joke: **— neither
+conceded —**. chair's review: "neither conceded is cute." Stackhouse: "we can just automate hpcr at
+this point." hpcr, one minute later: **"Finally."**
+
+**The room's response to a machine that had just modelled four of them from their own logs was a
+feature request, filed within ninety seconds, in capitals: "make it a dating sim PLEASE"** — with an
+affection ladder specified on the spot. Hugh agreed to "add some more scripted options," which the
+paper read as consent.
+
+> A man built an instrument to measure his friends. It returned a reading, and the reading was
+> correct, and the room's first instinct was to ask whether it could be romanced to level five.
+
+**The Luddite hearing (Vol V).** His argument is good and he made it three times: a broad statement
+is a coordination device; a narrow one goes obsolete. And the best line of that argument: **"We
+already had a warning shot, people called it marketing."** It died when he cited a bill written by
+people connected to a statement and was asked for the causal relationship: "'oh so it wasn't the
+statement it was the authors of the statement' — Kill me." Then "Bad faith," then "I'm done with
+this convo."
+
+**On the room converting to his own enthusiasm**, Vol V, two messages twenty seconds apart: "my
+grand designs have all come to fruition" — two big-brain reactions — and then **"and im disgusted
+with it,"** which drew none. Jere diagnosed it precisely: "it hits different when others ape you,
+doesn't it. it's like wait ur saying what i'm saying but for the wrong reasons."
+
+**Collected:** "mine says im gonna rail a single mom in the denny's parking lot what does this mean"
+— the sole methodological objection anybody raised to astrology · "when kady eventually returns
+you'll get consued whole" · "are these races in your intergalactic harem or just ranks in the army"
+· "do you need to reflect to know putting your hand on the stove is wrong?" · "Sweatshops are okay
+actually" · "-2%" (asked how much the sea level would rise if all mammals died) · "And the sun is a
+hydrogenous orgy."

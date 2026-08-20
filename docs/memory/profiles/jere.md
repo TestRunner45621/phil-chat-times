@@ -114,3 +114,51 @@ choking on penalties of all things" — then, one second later, to himself: "HA.
   and got no reply. Vol IV supplied one.
 
 Related: [[aura]], [[hugh-theophantism]], [[jeh]], [[the-dragons-covenant]]
+
+---
+
+## Later issues
+
+**Truth Janitor.** Offered the rank of veritan in the Dragon's Covenant, he negotiated
+and kept his existing title: "Yeah make me Truth Janitor of this covenant." He had first
+asked whether the covenant was the name of her private Discord "or whether there is an
+actual cult going on here."
+
+**The oracle.** When Quigley submitted a five-day argument to the god machine's
+judgment, Jere pointed at the obvious problem and then declined to press it — **"the most
+generous thing anybody did all week":** "kinda weird that you have the whole AI criticism
+thing but still ask it for adjudication but kinda cute." He then fed the transcript in
+with the instruction "draft a verdict… declare the winner. you are the oracle," posted the
+PDF, and posted a second, longer one filed under the name `longer_cooler_more_oracle_like`.
+**It went against Quigley.** Jere published his prompt in full.
+
+**Password Man.** willow's name for him, after chair disputed that the random string in his
+display name was random. Jere conceded: fake randomness, apple shuffle randomness — he did
+not want "a retarded corner in the string, such as three consecutive Is." **He hand-tuned
+his random noise for visual balance.** In Vol V he identified himself and was therefore
+ruled ineligible for the rankings.
+
+**The best aesthetic argument in the archive**, and it is three words long: **movement and
+sound.** Offered in defence of Nolan against a professional — the first dogfight in
+Dunkirk, Batman on the bat-pod against the Joker's truck, the storm in the Odyssey. He
+posted the clips.
+
+**On fascism**, the argument nobody engaged with and which the paper calls correct:
+explicit anti-democratic rhetoric is unpopular everywhere; any fascist who wants power
+knows this; the modern version lives by implication and avoids common knowledge, because
+democracy won the argument. **"Don't get stun locked in explicit-ville"** — "the only piece
+of political theory this newspaper has ever wanted to put on a mug."
+
+**The homework.** Mid-fight on press day he asked whether Hasidim are necessarily
+ultra-Orthodox, was answered politely by the man he was fighting, went and checked, and came
+back seven minutes later: "Oh wait haredi is an umbrella term which hasids fall under, u
+right." The only independent verification anybody performed that week.
+
+**Collected:** "aura, it's time for the econ arc" — then, three lines after assigning the
+reading and asked whether he knows what MMT is, **"oh."** · the yellow card for listing
+character flaws without remorse ("simply not a legal move"), and "maybe it's too early in
+the week for jerapy" · "AI is actually just water's way of committing suicide" · "low key we
+need the ai equivalent of nagaski and hiroshima" · "we need modular fascism where you can
+just mix and match components" · "he's just passing through the lolcow jungle" · the reverse
+Taxi Driver on Uber drivers, delivering Travis Bickle's lines from the back seat.
+

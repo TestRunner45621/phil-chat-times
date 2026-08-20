@@ -82,3 +82,41 @@ records.
   attributions are correct."
 
 Related: [[stackhouse]], [[hugh-theophantism]], [[pearl]], [[production-history]]
+
+---
+
+## Later issues
+
+**The helpdesk.** He spent two days arguing a beginner could not ship a product she did not
+understand — "Lizzy is never shipping a product she needs to have knowledge about" — and when
+she shipped it the next morning, announced he would attack it: "Qwen 3.8 abliterated is gonna
+have a field day pen testing this site." See [[lizzie]].
+
+**HegelBot.** His OSRS account name, surrendered to Apustus on request. He is also the only
+competitor to have automated the game: an agent reaching "100% success with tick perfect prayer
+switching on a boss simulation in 20 mins," running against a full simulation. Nobody objected.
+
+**The Nick Land intervention.** chair asked who the man he keeps posting is, read one post, and
+reported that reading it is brain cancer. Charlie's defence — that it requires a lot of nuance,
+and that if you turn your brain off the feed is very enjoyable — produced **"charlie i think you
+need an intervention you enjoy this too much."** And when he then typed out the Riemann
+hypothesis unprompted: **"charlie you need an exorcist."**
+
+**On the metaphysics of fact**, his complete contributions: "Skill issue." / "Truth detector in
+my pants." / "Bitches on my dick I want my swagger back."
+
+**On dropping a bit to rescue a man** — the only person who has ever priced it: "You dropped
+the bit. that's crazy." See [[how-the-room-argues]].
+
+**On lizzie's dissertation**, and the reason it is the best thing that happened on that press
+day: he said he would look because he has a philosophy degree, **then actually read it** and
+filed two structural objections. Both real. Both unanswered.
+
+**Collected:** "objectively speaking…" — announced as a new house style, never used again ·
+"Anthony is right you guys are wrong. Simple as." · Marxists who come to Hegel only through Marx
+are "not quite death penalty tier, but close" — then, reassured: "Good boy. You're safe for now."
+· "Topher is a good ally." · on resource management: an agent "did something more ambitious than
+what I've asked so I've burned 5-7 full weeks of compute" · on labour: **"'You are a highly
+effective and useful agent' is the death of man."** · on bereavement: "Hugh is dead to me VC
+wise," cause of death supplied one minute later — "He won't ai psychosis with me anymore."
+

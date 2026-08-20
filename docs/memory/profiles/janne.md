@@ -61,3 +61,45 @@ by all appearances excellent advice to a man who had not asked for any.
   four is a professional software engineer.
 
 Related: [[jere]], [[kady]], [[how-the-room-argues]]
+
+---
+
+## Later issues
+
+**Three hours of unpaid technical support.** When lizzie set out to learn programming, Janne said
+"do not!" to vibecoding and then spent three hours giving genuinely competent, patient, unpaid help
+installing git around a full 250-gigabyte drive and an installer Discord had claimed. **Nobody
+reacted to any of it.** She also told a man offering a command that would delete the operating
+system to shut up.
+
+**The Nolan prosecution.** She took a professional apart by the simplest method available — asking
+for reasons and refusing each one — and closed it with: **"yes, and things that are known are easy
+to convey."**
+
+**Her position on programming**, produced mid-flame-war and rather beautiful: it is more art than
+logic — it is magic, it is the only reason she learned it, and it is **inaccessible art, because
+unlike music or pictures or film you have to make your own mind able to see it.** She and Zone
+settled a third front forty minutes later in four words: "I forgive you." / "me too."
+
+**Causality.** Her position is genuinely unusual and she holds it **without ever having read a
+philosopher**: causality is an artefact of description, not a feature of the world. "things are only
+caused insofar as you have a formal system to capture it." And, better: **"for the universe as a
+whole there is no causality, it's just a state transition… In a movie the previous frame does not
+cause the next one."**
+
+Asked, at the end of an hour of being cross-examined on it, whether she is a Bertrand Russell fan:
+**"no idea who that is, I don't read philosophy."** And the closing line: "let me finish my erotica
+and then I'll look into it."
+
+**Honour.** She prosecutes on it rather than on merit, and says so. "Don't ever talk about it again
+then. Be a person of your own words. It looks meek as fuck; either you care or you don't." Asked
+directly whether declining made a man a bitch, she confirmed it — then clarified, with a courtesy
+the paper noted, that this was not directed at the complainant but at everyone else. "I do, I love
+you all," followed by "but honor is important in my culture." Sentence: **"rn needs to be executed.
+civilly."** Amended, on objection, to socially.
+
+**Collected:** "how do you all have this weird person blindness?" · "either it's a bottle bot/alt or
+it's kady" · "I wager 99% are just here for feet pics" · "honestly, some child labour is probably
+healthy" · "life is but lemons, you make lemon juice and cry when the harvest is bad" · identified
+the manufacturer of a man's router from a photograph of his sofa, inside a minute.
+

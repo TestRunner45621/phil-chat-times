@@ -24,7 +24,8 @@ a second time.
 | Vol V: 21,206 messages, 2,017 reactions — a 7.4% hit rate | Vol V, "The Metric" |
 | Reaction rate had been flat for three issues before the leaderboard was printed | Vol V |
 | 541 messages in one week were edited after posting — one in every thirty-three | Vol IV, "What we cannot see" |
-| lizzie posted 2,717 messages in the week to 6 August — a fifth of everything said — 1,010 of them on Wednesday alone | Vol IV, p.1 |
+| lizzie posted 2,717 messages in the week to 6 August — 15.3% of everything said; 1,010 of them on the Wednesday alone. Vol IV's front page rounds this to "a fifth"; its own numbers page says 15.3%, so use the figure, not the fraction | Vol IV, p.1 and p.22 |
+| She then posted 4,020 in the week to 13 August — 19.0%, and 179,000 characters, more than twice anybody else | Vol V, p.24 |
 | Monkey filed 2,426 messages averaging 29 characters each; four in five went past untouched | Vol V, "The Monkey File" |
 | Theophantism posted 525 messages on 16 July — 26.3% of the channel's day | Vol I, p.2 |
 | Jeh and Stackhouse each spoke exactly once in 866 lines on Thursday 23 July — and the once was the copypasta | Vol II, p.1 |
@@ -139,3 +140,170 @@ that they do not resolve.
   markets. Simon: "both track a standard inflation rate."
 - **£1,000** offered to aura to read Indian philosophy, and withdrawn eight
   minutes later, "the offeror having correctly diagnosed the pause."
+
+---
+
+## The floor, by issue
+
+Who said how much. Counted off the export by the paper, twice.
+
+**Vol III (8,972 messages, 117 correspondents).** The top twelve account for 65 per
+cent of everything typed. The leader — roughly 1,090 messages — **out-typed the entire
+bottom seventy people combined.** The twelve: Sizzurp, aura, Jere, Simon, chair,
+Quigley, Telhar, HPCR, Rn!, Janne, Stackhouse, Charlie.
+
+**Vol IV (17,706 messages, 89 people).** lizzie 2,717 · Hugh 1,932 · Jere 1,273 · chair
+1,130 · aura 759 · papagaio 750 · hpcr 734 · Charlie 693 · Quigley 691 · Sisyphos 540 ·
+Brutus 539 · Grihastha 488 · Stackhouse 445 · My Name 441 · dot 407.
+
+**Vol V (21,206 messages, 76 people).** lizzie 4,020 · Monkey 2,426 · aura 1,493 · chair
+1,369 · Hugh 1,196 · Jere 1,115 · dot 1,030 · Janne 903 · Stackhouse 552 · Jambe 551 ·
+Charlie 547 · hpcr 513 · Ape 498 · Quigley 466 · **Willow 97.**
+
+lizzie went from 15.3 per cent of the room to 19.0 per cent in a week.
+
+## The long tail
+
+| | Vol IV | Vol V |
+|---|---|---|
+| Posted 1,000+ | 4 | 7 |
+| Posted 100–999 | 28 | 22 |
+| Posted 10–99 | 25 | 13 |
+| Posted under 10 | 32 | 34 |
+| Posted exactly once | 7 | 10 |
+| **Drew no reaction all week** | **30** | **24** |
+
+Vol IV: four people produced 39.8 per cent of the week; thirty-two people produced 93
+messages between them — half of one per cent.
+
+## What this room finds funny
+
+**One emoji is 42 per cent of everything the room presses**, in both measured weeks, on
+double the volume. In Vol IV: KEKW 461 of 1,102 across 150 distinct emoji. In Vol V:
+KEKW 858 of 2,017 across 178.
+
+> This room has 150 emoji available and spends 42 per cent of its reactions on one of
+> them, and that one means we are laughing at you.
+
+**The heart is the story in Vol V.** It was seventh the week before and is third now —
+ahead of agreement and fire — "in a week containing a sobriety confession, a welfare
+check, a doxxing intervention and a woman being told the room was bad for her." The
+paper stated it once and then stopped, "because saying it twice would ruin it."
+
+## The index
+
+A philosophy channel, counted:
+
+- **Vol IV: "Kant" and "RuneScape" each appeared exactly seventeen times.** Counted
+  twice.
+- **Vol V: "PDF" 61, "Kant" 4.** Both of the previous week's leaders collapsed "and the
+  thing that replaced them is a file format." Also: claude 149 · retard— 97 · kekw 85 ·
+  qualia 80 · kady 54 · clanker 48 · schizo— 42 · psychosis 32 · god machine 31 · git 31
+  · website 27 · newspaper 22 · covenant 19 · messiah 19 · vibecod— 18 · plato 12 · phil
+  chat times 9 · runescape 7.
+
+## The daily cycle
+
+- **Vol IV:** peak ten at night (1,562 messages). Trough seven in the morning — 100
+  messages across the entire week, fourteen a day, "clinically dead." Thirty-eight per
+  cent of the week was said between nine at night and four in the morning.
+- **Vol V:** peak six in the evening (2,094). Five in the morning drew nine across seven
+  days. "The channel keeps office hours now and argues about beaches at dinner."
+- **Monday 10 August is the biggest single day the paper has ever counted: 4,445
+  messages.** The busiest hour in it — 620 messages — was about sand.
+
+## The effort tables (Vol V) — the corrective nobody's commissioner enjoyed
+
+Average characters per message, minimum ninety messages, thirty-one people qualify:
+
+Grihastha 141 · vannak 116 · Quigley 92 · Willow 80 · Youv 77 · Simon 73 · Pearl 66 ·
+Salad 63 · Hugh 59 · Ape 52 · Stackhouse 48 · lizzie 45 · chair 42 · dot 40 · hpcr 39 ·
+Charlie 36 · aura 34 · **Monkey 29.**
+
+Replies received per 100 sent: **Willow 95.9** · Grihastha 71.1 · Youv 67.6 · Jambe 63.3
+· Quigley 61.4 · Ape 53.0 · Stackhouse 51.8 · Janne 49.1 · Simon 48.7 · hpcr 44.1 · Hugh
+41.5 · Jere 39.3 · chair 33.7 · lizzie 30.3 · dot 30.0 · **Monkey 19.1.**
+
+Total volume written, message bodies only: **lizzie 179,000 characters** — more than
+twice anybody else — then Monkey 71k · Hugh 70k · chair 58k · aura 50k · Jere 50k ·
+Quigley 43k · dot 42k · Janne 38k · Simon 30k.
+
+Replies received, absolute: lizzie 1,217 · Hugh 496 · Monkey 464 · chair 462 · aura 453 ·
+Janne 443 · Jere 438 · Jambe 349 · **Willow 93** (from 97 sent).
+
+> By absolute attention, this is a channel with one main character and eight supporting
+> parts. By rate, it is a channel where the person nobody can afford to ignore says almost
+> nothing, and the person who says the most is answered less often than anybody else
+> measured. **Both readings are correct.**
+
+## Edits, which the paper can see but not read
+
+541 in Vol IV (one in thirty-three); 495 in Vol V. The paper can see that they were
+edited and cannot see what they said. Vol III's house notice adds: "Edited messages: not
+yet. 284 of you tried."
+
+Spoiler bars and zalgo both survive the export — spoiler bars are a display effect only,
+zalgo comes through as combining characters. **Two separate attempts were made on the
+newspaper in Vol III's week and both were printed.**
+
+## More things that are true and sound invented
+
+- **Don cited the wrong Bible verse twice inside four minutes, in a philosophy channel,
+  and nobody checked.** "Anyone who curses their mother and father should be put to death
+  / Ephesians 6:2." Ephesians 6:2 is *Honour thy father and mother*; the execution line is
+  Exodus 21:17.
+- **Bernard posted an entirely empty message twice in one week, and both were among the
+  most-rewarded messages of that week.** The paper reviewed the transcript and confirms
+  there was nothing in either of them.
+- **Sisyphos, seeing twenty consecutive messages rendered as spoiler bars, asked whether
+  the Director of the FBI was posting through people's accounts.** He had constructed a
+  complete theory of the case — an operation, an agency, a named official, and a Discord
+  philosophy channel worth suppressing — in the time it takes to scroll. The paper reviewed
+  8,972 messages and called it the single funniest misunderstanding of the week.
+- **Jere hand-tuned the random string in his own display name for visual balance.** It is
+  "fake randomness, apple shuffle randomness"; he did not want "a retarded corner in the
+  string, such as three consecutive Is." willow renamed him **Password Man** and it has
+  taken.
+- **A newcomer answered a machine that had been answering for somebody else, sixteen
+  minutes late, and was never told.** Rn! replied to clubsdiamonds' personal philosophy in
+  an AI's voice without saying so; chair caught it in under two minutes; clubsdiamonds —
+  silent throughout — then replied to the machine: "so you agree with me?" **Nobody answered
+  him, then or since.**
+- **The room named exactly one voice room in a week, and it was named by the newest person
+  in it.** lizzie offered to hop into voice ninety minutes into her membership; Charlie
+  answered immediately and specifically: **Debate 4.** Nobody went.
+- **Trader answered a question about his RuneScape skills while mid-fight with six prayer
+  points left.** Total level 2,376; hitpoints 50 of 99.
+- **Amazon, whose username is "uninstalling discord", posted scripture twice into a
+  philosophy channel and was answered by nobody at all.** Vol V: "the most purely Phil Chat
+  event of the week."
+- **RoyalLineage's entire recorded existence is "I'm a Gentle Toy. I was made out of clay."**
+- **Constantine filed a single message, about lettuce, and was right.**
+- **A man was blocked to remind the blocker to finish a book that man had lent him.**
+- **Ape changed his mind in public, in under a minute, about whether something counted as
+  poetry** — "See this doesn't confuse me. I see how this constitutes poetry" — **and not
+  one person pressed a button.**
+- **Willow entered a thirty-year-old memory of a Star Trek episode with a confidence
+  interval attached.** Nobody had disputed it. Nobody had asked.
+
+## Standing unresolved items, updated
+
+- **The tub.** Twenty-two days as of Vol III, and the proprietor had by then acquired a
+  fifteen-quart pressure canner: "we are no longer confident the two facts are unrelated."
+  Vol V records Brutus's entire recorded week as "People without pressure cookers fucking
+  PISS ME OFF" and one remark about sausage.
+- **Brutus's cookware.** Fifty-two pieces in Vol II, forty-nine by Vol III, "lids counted."
+  First recorded sale: three All-Clad pieces for $150, announced to a silent channel and
+  pleased with himself in front of nobody.
+- **The Jeh files.** Ten pages, PDF, a debate thesis addressed to duke or Jeh, recovered by
+  chair from an old laptop. Charlie: "We need the Jeh files released." **The paper has
+  undertaken to host them and has not.**
+- **The thirty-second website.** dot offered a live demonstration, then moved it to direct
+  messages eight minutes later. "Whether the thirty-second website exists is not knowable
+  from here and we are not going to pretend otherwise."
+- **A definition of "catable."** Twenty uses, no gloss, nobody asked.
+- **Chud III, Syrian Neoplatonist** — the channel's first collaborative saint, invented live
+  in ten minutes by Stackhouse (the manuscript), Bedbug (reverence), Jere (a chud apocrypha),
+  Telhar (the Popes covered up the camps) and aura (death by a disease contracted in
+  Justinian's torture chamber). **"This newspaper intends to observe his feast day."**
+- **Ape's question about robust Marxist modelling**, filed into silence. Open since Vol III.

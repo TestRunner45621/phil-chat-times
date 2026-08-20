@@ -83,3 +83,45 @@ care about the Argentine team. Jere: "Fuk u buddy."
 Filed 16 July. Not made. Advertised in the classifieds.
 
 Related: [[jere]], [[jambe]], [[hugh-theophantism]]
+
+---
+
+## Later issues
+
+**The Justinian prosecution (Vol III).** His charge: Justinian is one of the biggest
+haters of all time, and the closing of the Platonic academy at Athens is cringe. The
+part that matters is what he did mid-prosecution — **he audited his own machine**,
+noticed it was citing Reddit and Britannica, and went and read Britannica, the
+r/AncientRome thread and John of Ephesus himself. He came back with the most
+epistemically careful sentence of the week: he struggles to imagine most of those
+arrested pagans lived as though nothing happened, he is sure many of them died,
+**but I can't confirm it.**
+
+**The £1,000.** Offered a thousand pounds to read Indian philosophy, he produced the
+most damning self-assessment in the archive without appearing to know he was making
+it: "the worst thing is that im not sure 1k would be enough to convince me to read
+something i dont feel like reading." See [[the-reading-list]].
+
+**The economics arc** died in ninety seconds on the sentence "Y'all aren't getting
+aura to read shit." His reply: "this pains me, merely because it is true..."
+
+**Vol V.** Four men deep in a technical argument he started: **"getting ganged up on
+by vibe coders is crazy."** To the lurkers, on the doxxing evening: "hello lurkers i
+love you" / "but some of you need to shower." And the sharpest line of that night,
+naming the actual audience: **"you have no idea how many mouth breathers are reading
+this as we speak."**
+
+**The fold.** He invented, on the spot, a cosmology in which large dogs are "high aura
+allies" requiring strength of character to recruit, and informed dot he does not have
+it. dot posted a photograph of his own genuinely enormous dog. aura produced the escape
+hatch inside twenty seconds: "either u got him as a baby, circumventing the aura
+requirement… or ur dad recruited him for u."
+
+**Collected:** "approximately a size 2 chuckle" (the correction that retired the Vol III
+scoreboard) · "why be an attention goblin then?" (four questions, the best-constructed
+cross-examination of that week) · "imagine ur hiring a lawyer to save u from a life
+sentence and u find out he maxxed out his runescape character" · on Ernest Becker: "that
+my death will fuel the lives of worms isn't like… humiliating it's based" · retracted a
+football statistic within the minute as misinformation, unprompted, and came back with
+the real figure (75.27 per cent of Premier League minutes played by foreign players).
+

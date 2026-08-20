@@ -74,3 +74,66 @@ She is also the fastest-moving person in the archive. In three issues she went f
 newcomer to lead story to shipping software. Do not write her as a bit.
 
 Related: [[the-dragons-covenant]], [[kady]], [[dot]], [[the-voice-channel]]
+
+---
+
+## Later issues
+
+**She learned git and shipped software (Vol V).** Tuesday she announced a requirement — "need
+to learn programming so i can make a philosophy community complaint site" — and got four
+incompatible recommendations inside three minutes. Janne gave three hours of genuinely
+competent, patient, unpaid technical support, which nobody reacted to. By Thursday morning the
+site was live with a database behind it, and **the first complaint ever lodged with the
+Dragon's Covenant reads, in full, "done."**
+
+Her own summary of the assistance: **"and then make it even more confusing bc im getting like 5
+different solutions and theyre all calling eachother retards."** Stackhouse's verdict: "Lizzie
+is a 10x dev now." She has not opened Visual Studio Code once; she said so herself.
+
+**The four-word ward.** "what does this mean" — deployed five times in seven days, always as a
+reply, against a picture, a tease, technical advice, an attack on her competence, and a
+criticism of her portfolio. Every time, the other person explained himself at length. Twenty
+replies. **Not one reaction, and not one person has noticed the pattern.**
+
+**The astrology reading.** Rather than ask a stranger for his birth details, she offered him a
+workaround — "if i give you a website will you input the information and send me the graph? that
+way you don't have to give me personal information" — and then produced a character study aimed
+directly at the philosophical position he had defended all evening. The paper read the preceding
+four hours and reports she was right about all of it. **His complete response: "i just like that
+im a leo cuz it's a lion."**
+
+Vol IV's verdict on the week: the room spent five days arguing whether a machine can understand
+a person, and "in the same week one participant produced an accurate character study of another
+from a birth time and a free website… **We do not say the method works. We say it is the only
+method anybody tried that produced a result.**"
+
+**The doxxing.** She posted her family history into a channel of ninety people, argued with all
+four men who told her to stop, and then — having heard all of it — pasted the family history into
+a language model and asked whether the contents proved she was intelligent, and posted the
+screenshot. Monkey's eleven-word reply is the whole week in miniature: **"you literally posted on
+claude asking how smart you are."** Her own objection was that they were being condescending,
+which they were, "and which is not a defence against anything." **The paper declined to reprint
+the occupations, the places, or her terminal screenshot, and said so.**
+
+**Monkey's intervention.** Five days, ending 7:03 p.m. Monday: "lizzie i think this space is not
+good for you." No reactions, no replies. See [[monkey]].
+
+**The manifesto, taken seriously.** Vol IV's literary editor opened the actual document and the
+joke stopped being available: thirteen numbered sections, marked "Rough draft," and **good — "Not
+good-for-a-Discord-user. Good."** It inverts the standard order of business, takes participation
+as the starting point, declines to derive an ought from an is and says so, separates itself from
+hedonism in three words — "Pleasure is feedback" — and cites Aristotle, Spinoza, Whitehead, Hans
+Jonas and Næss. The only line the paper felt competent to correct was a bibliography entry
+rendering Hans Jonas as "Hans Jones."
+
+> For seven days the room reviewed a woman who said "join my covenant." For those same seven days
+> she was writing an essay. **One man opened the file; everybody else reviewed the title.**
+
+And, handed a passage she could not defend: **"i'm so out of my depth."**
+
+**Collected:** "color blind people are real not a sick thought experiment . ontologically evil" ·
+"astrology is just a language. you don't have to believe in it that doesn't make it not real." ·
+"that's why i asked if sisyphos believed in spanish" · on partially hydrogenated oils, the most
+competent thing said on the subject by anybody, filed while founding a religion · "it's late i
+should try to exit existentialism and enter sleep . Oh God. Dear god" / "it never ends."
+

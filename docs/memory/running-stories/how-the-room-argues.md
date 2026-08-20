@@ -145,3 +145,139 @@ of them could construct the sentence himself.
 
 And the textual law that fell out of it, which is quotable in almost any context:
 **"Reverence transmits a text intact. Wit cannot resist improving it."**
+
+---
+
+## The rite of return
+
+Nobody who comes back is greeted. Vol III recorded two returns in one week: one was
+announced in the third person by a bystander — "Goat is back" — and sanctified within
+the minute. The other received:
+
+> "Welcome back chair. Bad take as usual tho. Try again."
+
+> **The insult is the welcome. It establishes that no status was lost in the absence,
+> which cannot be established by warmth.**
+
+## The credentials audit, continued
+
+The Vol II list is in this file above. Vol III adds the sharpest instance: **Sizzurp
+declined to engage with philistines on the grounds that he is "too bourgeois for poor
+man's criticism," and was then destroyed by Don for not having read the Tolkien he was
+dismissing.** aura, from the gallery: "mogged."
+
+## The paraphrase-receipt
+
+A move that entered the repertoire in Vol III and which the paper commended:
+
+> Instead of rebutting your opponent, restate his entire argument as a compressed
+> four-line dialogue and post it. It contains no adjective, it is not an insult, and it
+> ended the exchange on contact.
+
+## The disrespect ladder
+
+Accidental, and complete before lunchtime. Ape said "sure." HPCR: "'Sure' might be the
+most disrespectful term in the English language," then built it out — **neat is worse
+than sure; then very cool; then crazy.** willow supplied the top rung as a prophecy:
+"@hpcr / You'll get 'interesting' next."
+
+She then descended it herself, on his claim that he travels everywhere: "Ah yes, the 'I
+listen to all music' answer for travel."
+
+## AI detection as a competitive sport, with ranks
+
+Established in Vol III. Rn! answered for a newcomer in a machine's voice without saying
+so; chair caught it in under two minutes — "am i schizo or is that ai" — and **aura
+graded it from above: "pft thats like level 1."**
+
+chair then asked the whole channel to insert convincing AI messages into their
+conversations with him so he could practise, and immediately failed his own test in the
+other direction.
+
+The distinction on which the hobby rests, filed by a man identifying a machine's prose:
+**"not claude / Claude's not that cringe."** It was Gemini.
+
+And the authentication protocol, published by chair in one sentence: **"how to know it's
+actually willow is to write something odd and interesting and slightly wrong."**
+
+## The house pathology
+
+Named in Vol III after two personal manifestos were reviewed thirty-six hours apart and
+received, from different people, word-for-content the same verdict — HPCR: "I'm just not
+sure what is being claimed besides something rather mild and agreeable"; WoolierThanThou:
+"This sounds incredibly lukewarm."
+
+> **This channel now has a house pathology, and it is agreeableness.**
+
+The Vol IV sequel is the uwu incident: clubsdiamonds submitted five paragraphs of
+frictionless machine humanism, "not one sentence a human being could disagree with."
+Nobody could argue with it, so the room translated it — first into uwu, then into
+baby-talk. **The baby-talk version is better:** it says the same five things in a quarter
+of the words and contains the only actual image in the exchange, the cup and whoever keeps
+knocking it over. That image is not in the original.
+
+> Nothing was lost in translation to baby talk, which tells you precisely how much was
+> there to begin with.
+
+## The disclosure that lands only if a slot is open
+
+Vol III's finding, and the most useful thing in the archive about how this room handles
+distress. A man disclosed, into a three-hour tribunal on whether friendship should have a
+hurdle rate, that he had been clean for a week, that he thinks of his dealer thirty times
+a day and then decides not to, and asked God for mercy. **No replies. No reactions.**
+
+> We have nothing useful to say about the man and are not going to pretend otherwise.
+> About the room, we have this: it was not cold. It was busy. **A disclosure lands here
+> only if a slot for it is already open**, and at the time this one arrived the room was
+> fully committed to an argument about whether friendship should have a hurdle rate. The
+> subject matter was, in a manner of speaking, exactly on topic. **Nobody noticed, because
+> it did not arrive in the form of a position.**
+
+Fifty-three minutes later a man arguing the other side of the case offered the hard version
+of it without knowing what he was answering; thirty-six minutes after that the discloser
+rejoined and said he had friends like that, it took a few years, and they have houses and
+wives now.
+
+## Dropping the bit
+
+Charlie is the only person who has ever priced it. HPCR, vouching for a man over voice
+chat, added "even though I'm way smarter than you"; the man took it literally and
+relitigated a past call; HPCR broke and explained: "I was joking when I said I was smarter
+than you retard."
+
+> **"You dropped the bit," said Charlie. "that's crazy."**
+
+The paper: "Dropping a bit to rescue a man is a real expense in this channel and Charlie is
+the only person who priced it." Janne, on the same beat: "you have to give someone a hand
+sometimes." Sizzurp: "That sounds gay."
+
+## The confession standard
+
+> There is a moment in every argument in this channel where the man losing it decides that
+> the standard of proof is a confession, and this was that moment.
+
+Vol III, on Simon holding that Trump is not a fascist because he has not said he is one.
+Worth watching for; it recurs.
+
+## Two things that end an argument, and one that does not
+
+**Does not:** being right. Rn!'s turbo-car objection was "never actually refuted — only
+outlasted, which in this channel is the same thing."
+
+**Does:** going away and thinking about it. bardiel1 and Hugh, on over-the-board chess —
+"the only argument in seven days that anybody won by going away and thinking about it."
+
+**Also does:** leaving. Pearl has now won at least three arguments this way — "Lmao," and
+stopped; "Okay NVM you cant follow shit. I'm gonna go read a book." The paper: "the second
+time in twenty-four hours Pearl has won an argument by leaving it, and the second time
+nobody has noticed that she keeps doing it… the Times has begun to think it is a technique
+rather than an accident."
+
+## The four-word ward
+
+A newer specimen, documented in Vol V and belonging to lizzie: **"what does this mean"** —
+four words, always as a reply, deployed five times in seven days against a picture, a
+tease, technical advice, an attack on her competence and a criticism of her portfolio.
+
+> Every single time, the other person explained himself at length. Twenty replies across
+> the five. **Not one reaction, and not one person has noticed the pattern.**

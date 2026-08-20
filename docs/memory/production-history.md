@@ -190,9 +190,82 @@ Two things the paper would have preferred to keep to itself:
    immediately undercut it with "I am too." Charlie: "Next time I'll anticipate
    being the sole point of contact for an ongoing weekly discord newspaper."
 
+### The fault was a slider
+
+Stackhouse floated it in five words — "I have a theory." Then: "It may be the
+effort level." Hugh's reply was an ellipsis, then "Are you on xhigh." Charlie:
+"Max actually."
+
+My Name, watching a weekly satirical newspaper being debugged as a parameter
+sweep: **"bro were remaking monte carlo simulations using the fucking model x
+effort level"**
+
+At 2:36 a.m. Stackhouse posted a fresh front page and the proof with it: "It's
+100% the effort level. I fed it the exact same files we gave it for the first go
+around from a fresh session, with nothing about corrections for margins or
+formatting and it's doing it perfectly." Two hearts — the most-loved technical
+message of the week. Confirmed on the record by Friday: "and going to xhigh fixed
+it?" — "sounds about right."
+
+**And the joke the paper printed on itself:** the issue they were reading was
+branded, on its own masthead, **the X-Effort issue.**
+
+> The diagnosis was already printed on the object being diagnosed, and it took the
+> room nine hours to arrive at a fault the paper had been advertising for a week.
+> This one is on us for not saying it louder, and it is also, we think, the
+> funniest thing that has ever happened to this publication.
+
+### The spiked pages
+
 **Seven pages of Vol IV were spiked** and now exist only as two photographs
 posted into the channel at 10:10 p.m., captioned "this is better." The draft ran
 to at least 29 pages; the issue shipped at 22.
+
+Page 28 carried a careers desk, a condolences desk, a diagram desk, and a policy
+proposal from the publisher that every person in the country be issued a dose of
+state-provided methamphetamine — costed by Quigley in four words ("Inflation but
+for stimulants"), certified by Grihastha as unable to go tits up, and venued by
+Jere ("the dgg harm reduction channel"). Page 29 carried the paper being
+subpoenaed: mid-brawl over whether Marx's philosophy of history reduces to
+Hegel's, Stackhouse appealed directly to this masthead — "Phil chat times, please
+tell us who is right" — and the draft ruled against him.
+
+chair read both pages and filed a two-word review of one: "awwww I'm center
+piece."
+
+> A newspaper whose discarded pages circulate as photographs in the room they are
+> about, shown to the people who are in them by the man deciding what to spike. We
+> are not going to pretend that is normal and we are not going to stop doing it.
+
+### The reading
+
+On the Friday evening the channel read the finished paper to itself — not as a
+link, but screenshot by screenshot, section by section, out loud, for eight
+minutes.
+
+**The most-reacted image of the entire week is one of those screenshots:** a
+photograph of page 8 of the previous issue, which was itself a photograph of a
+screenshot posted by a man who had not said a word all week. Six laughs. "The
+subject of it, ranked at the very bottom of our table for filing nothing at all,
+is simultaneously the most reproduced person in this newspaper and the
+lowest-placed. He did not have to be there for any of it."
+
+Pearl, given a section, reported the effect in three words: **"I feel special."**
+
+### Standing instructions received from readers (Vol V)
+
+| From | Instruction | Outcome |
+|---|---|---|
+| Hugh | "Editors initialise a GitHub project and leave it as a link in the next edition" | **Not done.** There is no repository. |
+| Hugh | "Editors take note." | Noted. |
+| Hugh | "Editors release the hypnodrones." | Declined. |
+| chair | Make the staff "underpaid employees in a cramped office shuffling papers around trying to fix the printer with their pdf escapades, also hmu clanker ily" — filed in spoiler tags, "which is the polite way to address staff" | **Accepted.** |
+| Janne | "there should be a marry fuck kill section for every week" | Under consideration by a committee that does not exist. |
+
+**And the offer nobody has been able to answer.** lizzie, having used clippings
+from the paper to illustrate a Substack post about her own religion: "if i end up
+setting up subscribers ill give you a % if youd like." The publisher has not
+replied. The paper is treating the offer as open.
 
 Rejected remedies: Hugh proposed changing vendor — "Fuck it, let grok make the
 philchat times," escalating to "Send the philchat data directly to elon." The
@@ -224,3 +297,71 @@ The tier list itself was not the paper's idea — Ape said the paper "might be
 better than the tier list arc," and Jere typed "lets get the tier list" into a
 conversation about whether experience has poles and got no reply. Vol IV supplied
 one, calling it "unjust... not defensible."
+
+---
+
+## Colophons, as printed
+
+**Vol IV** — "the 'X-Effort' issue. Covering Thursday 30 July to Thursday 6 August
+2026, from a 17,706-message export, by an anonymous chatter or chatters who read all
+of it. All times converted from UTC to US Eastern. Quotations are verbatim except
+where obvious typing errors have been repaired; where a misspelling is the joke it
+stands. Reactions decided what to cover and are not printed as text. Set in Cambria
+and Georgia. Twenty-two pages, one frame per page, nothing continued anywhere."
+
+**Vol V** — "produced weekly by an anonymous chatter, or chatters, who read all of
+it. The channel maintains several competing theories about who that is and this
+newspaper has never confirmed any of them, **including the ones that are true**…
+Effort level: the one that works. No corrections will be issued to page 20."
+
+**Vol I** — "published whenever Stackhouse remembers, at risk of his account getting
+flagged… Set in Playfair Display, PT Serif, Old Standard and UnifrakturMaguntia.
+Printed on cream. Distributed in the morning, like a normal newspaper. A Discord spam
+campaign doesn't sound like a newspaper. It does now."
+
+Note the typeface change: Vol I ran Playfair Display / PT Serif / Old Standard /
+UnifrakturMaguntia; Vol IV ran Cambria and Georgia.
+
+---
+
+## How the paper finds its stories
+
+Vol V is the only issue to state the method, and it is the most useful methodological
+note in the archive:
+
+> Four different methods were used to find the stories in this issue, and they found
+> different things, which is the only methodological finding worth printing.
+>
+> **Reactions** found the front page and the metrics scandal. **Replies** found
+> BigDuty, Union and the four-word ward. **Reading whole accounts end to end** found
+> Monkey's intervention, dot's whispered doubt, and the confession on page 9. And the
+> last pass found that the man we printed as a punchline seven days ago is now the
+> most coherent arguer in the room.
+>
+> **The reaction count was the weakest of the four.** It is also the one we printed a
+> table of, and the one the room reorganised itself around inside thirty-six hours.
+
+Vol V also states the verification standard: "Every figure on this page and on page 5
+was produced twice by different means and reconciled. **Where the two disagreed we
+printed neither and went back to the log.**"
+
+---
+
+## The gossip column
+
+Vol IV introduced **The DMs**, a standing column, with a notice the paper says it
+prints "for liability reasons and would rather not have to":
+
+> Nothing on this page has been verified, and nothing on this page can be. Every
+> other page of this newspaper is checked line by line against a 17,706-message log.
+> This one runs on anonymous tips, which by their nature arrive without a timestamp,
+> an author, or any means of establishing whether the person who sent them was in the
+> room.
+
+It was commissioned by a reader who asked for "the gossip column of The Phil Chat
+Times" by name and then tagged the defendant. Its own correction policy: "None
+received. None will be accepted. Parties wishing to place an item are reminded that
+this column does not check, does not disclose, and does not remember."
+
+**Nothing from that column should ever be promoted into a checked page without going
+back to the log first.**

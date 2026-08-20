@@ -94,3 +94,42 @@ His closing bracket, 3:20 a.m. on press day: asked to produce an instance of a c
 and invited to refresh his memory, he replied **"This makes me sad."**
 
 Related: [[how-the-room-argues]], [[the-voice-channel]], [[sizzurp]], [[ape]]
+
+---
+
+## Later issues
+
+**The disrespect ladder** is his, and it is accidental. Ape said "sure." HPCR: "'Sure'
+might be the most disrespectful term in the English language," then built it out — neat,
+very cool, crazy. willow supplied the top rung as a prophecy: "You'll get 'interesting'
+next."
+
+**On his own discipline:** "The philosophy of mind is just a giant room that has been
+maintained by a awful hoarder." Asked whether metaethics is next door: **"Yes, fuck
+metaethics."**
+
+**The consciousness war.** Three days against Grihastha, and the single funniest line
+either combatant produced, filed after Sisyphos attempted mediation: **"I kinda love this
+Michelle Obama energy from you."** Also: "I get that you've read David Chalmers and Ned
+Block… but again you're not ready for this conversation yet," and "You're that kid that
+when someone's playing action figures you all of a sudden decide that your action figure
+has a shield after being shot."
+
+The DMs column reports a spreadsheet listing everyone he has told is not ready for the
+conversation. It runs to eleven names. He is on it, at number four, in his own hand.
+*(Unverified — that column checks nothing.)*
+
+**On the Kady prosecution:** "The gross gymnastics people do for kady in here is wild like
+yall are really that lonely?" And to dot: "You just don't get physical touch much." He also
+acquitted lizzie of being Kady on the only sensible grounds available — **that Kady never
+took a correction and lizzie did.**
+
+**On the paper**, and he has seen every version including the one before it was a paper:
+"The paper felt worse yeah."
+
+**Collected:** "Apology rejected." · "6.9 to 7.25, depending" · invited to consider how a
+company he had called "some bitches" might feel about it, **he went and asked them** — one
+minute later: "They didn't appreciate it." · on abortion, the only actual position anybody
+stated, and nobody replied to it · "it's just as important as those who remind us we
+shouldn't" · and the closing bracket at 3:20 a.m. on press day: **"This makes me sad."**
+

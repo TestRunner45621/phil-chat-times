@@ -50,9 +50,9 @@ From Vol II, and it has held:
 
 ## The measurable version
 
-Vol IV printed a hit-rate table in the smallest type on the page, captioned "Not
-used," to show its working. The room found it on Sunday evening. **By Sunday
-night it was a labour market.**
+**Full account in [[the-metric]].** In brief: Vol IV printed a hit-rate table in
+the smallest type on the page, captioned "Not used," to show its working. The room
+found it on Sunday evening. **By Sunday night it was a labour market.**
 
 - My Name: "I dont care about the quality of the chatter. I just want more buttons
   to be clicked."
@@ -108,3 +108,42 @@ false. Two rules have emerged from practice:
    blind spot is the precedent — "please never fix this" — and the paper agreed.
 
 Related: [[the-voice-channel]], [[kady]], [[the-dragons-covenant]]
+
+---
+
+## Vol V — the week the paper became the activity
+
+The paper missed its deadline and the room did its job for it. Full account in
+[[production-history]]; what matters here is the shape.
+
+- **The room became the newsroom.** By ten o'clock it had stopped waiting and started
+  working: proposals for LaTeX, for Typst, for a GitHub repository, for a preview
+  system, for a design.
+- **The readership diagnosed the fault** at 2:36 in the morning while the staff were
+  asleep, and was right. It was a slider setting.
+- **Jere asked the question that decides what this paper is:** "if theres no
+  newspaper, whats the point of engaging." Hugh answered in the same minute, and it is
+  either the most pretentious thing filed that week or the most accurate: "as flusser
+  said about modernity, that history is drawn to the image — just as the 9/11 attackers
+  did what they did for the image, so too do philchatters engage, yearning for that
+  front-page story."
+- **lizzie placed the paper historically** — "i imagine the acta diurna was the same" —
+  citing the bibliography of her own manifesto back at the newspaper that had reviewed
+  it.
+- **The channel read the finished issue to itself out loud**, screenshot by screenshot,
+  for eight minutes.
+
+> This newspaper has been going four weeks. It has now been the channel's main activity
+> for one of them.
+
+## The rule that came out of it
+
+Vol V's method note is the most useful thing the paper has said about its own practice:
+
+> Four different methods were used to find the stories in this issue, and they found
+> different things… **The reaction count was the weakest of the four.** It is also the
+> one we printed a table of, and the one the room reorganised itself around inside
+> thirty-six hours.
+
+So: **measure with more than one instrument, and assume the one you publish is the one
+that will be gamed.**
