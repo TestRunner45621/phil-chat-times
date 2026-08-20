@@ -3,6 +3,23 @@
 This folder is the Phil Chat Times editorial memory. Agents writing the paper
 read it before they start and write to it when they finish.
 
+## `Style.txt` has the final say
+
+Nothing in this folder overrules `Style.txt`. That file is the style guide and
+the production checklist, and where the two disagree, `Style.txt` wins and this
+folder is wrong — say so and fix the file here.
+
+Everything in this folder is something to keep in mind, not a rule to follow. It
+is what the newsroom happens to have noticed: a profile is a sketch of how
+someone has behaved so far, a running story is a thread that was live last time
+anyone looked, a style note is one lesson from one week. None of it is binding
+on the issue you are writing. An editor who finds the room has moved on, or who
+has a better idea, should go with the better idea — and then update the file, so
+the next editor inherits the correction rather than the mistake.
+
+The one thing here that is not a suggestion is the sourcing standard in the
+rules below: if you write something down, say where it came from.
+
 ## What goes here
 
 - **Character profiles** — who people are, what they argue about, their
@@ -22,9 +39,10 @@ read it before they start and write to it when they finish.
 
 ## Rules
 
-1. **This is not the source of truth.** The chat logs are. Everything here
-   should be verifiable against a log file, a website, an image, or another
-   primary source. Include the reference.
+1. **This is not the source of truth.** The chat logs are, and `Style.txt` is
+   the authority on how to write. Everything here should be verifiable against a
+   log file, a website, an image, or another primary source. Include the
+   reference.
 
 2. **Quote verbatim when possible.** "i want to give it a latin name because
    everyone does that why does everyone do that" is a reference. "She wanted

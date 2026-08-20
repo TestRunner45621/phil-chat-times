@@ -2,6 +2,9 @@
 
 This file tracks feedback from the readership (Phil Chat) and evolving style guidelines.
 
+These are lessons, not law. Where anything here conflicts with `Style.txt`,
+`Style.txt` wins.
+
 ## Superlatives
 **Rule:** Stop using so many superlatives. Limit to **one per page at most**.
 **Context:** Readers complained about lines like "The best move of all evening, followed by the clearest thing said all day, right before the strongest challenge in 15 hours..." It comes across as ingratiating and annoying.
@@ -20,3 +23,100 @@ Take inspiration from the *NYT Manual of Style and Usage*. We are acting as a cr
 
 ## Paragraphing
 One-sentence paragraphs are fine. (As chat noted: "quig needs to see this").
+
+---
+
+# Lessons the editions established
+
+Drawn from the published issues. Each one was a correction the paper made to
+itself, usually because a reader forced it.
+
+## Say when you cannot tell whether it was a joke
+
+The hardest criticism the paper has received, from SuperVillainy in Vol IV: "I'm
+not gonna lie, Stack, this AI newspaper misses the mark a few times… Including who
+said what as well as what was a joke." Upheld on both counts.
+
+**The undertaking that followed:** every quotation read back against the log with
+its timestamp attached, and where it cannot be established whether a thing was a
+joke, **say so rather than choosing**.
+
+Why it is hard: a room that argues for sport produces sentences indistinguishable
+on the page from sentences meant seriously. The difference lives in a reaction, a
+timestamp, or nothing at all.
+
+## Attribute to the handle, not the display name
+
+Vol IV caught a verdict in draft attributed to the wrong author — it had been said
+to somebody else, about a different diagram, ninety seconds earlier. Display names
+change and are sometimes unrecognisable.
+
+## Do not fix a defect the readership asks you to keep
+
+The voice-chat count is the precedent. Vol III printed "seven proposed, none held";
+a reader pointed out the paper cannot see the voice channel — "please never fix
+this" — and Vol IV upheld the objection as fatal and **declined to fix it**. The
+honest form is "none that we can see."
+
+## Print the confession above the eulogy
+
+Vol V's rule, from the Kady file. When the room laughs at the sympathetic line and
+skips the damaging one filed ninety seconds later, run them in the order that tells
+the truth, not the order the room reacted to.
+
+## Label the observer effect; never conceal it
+
+Standing policy since Vol II: "We will keep printing the parts where they notice
+us, clearly labelled, and let readers discount accordingly. The alternative — a
+newspaper that conceals its effect on its subject — is a worse newspaper and a
+considerably worse joke."
+
+## State what you cannot see
+
+Carried in Vol IV and load-bearing for every issue: the voice channel, direct
+messages, anything deleted, and the messages edited after posting. "READ THAT INTO
+EVERY STORY HERE THAT STOPS WITHOUT ENDING."
+
+## Notice the quiet material on purpose
+
+Tophericus, who had never heard of the paper, filed the only fair criticism it has
+received: politics is more about characters than legislation, and nobody discusses
+legislation. The paper accepted it — "We are a great many pages of who-is-doing-it"
+— and diagnosed the cause: **the channel, and the paper, have no reliable way of
+noticing anything that is not a fight.** Vol II gave the quiet material two full
+pages deliberately and undertook to keep doing so.
+
+## Spelling
+
+Vol I preserved everything as filed. **Vol II changed the policy and it has held
+since:** "Spelling has been preserved where it was funnier and corrected where it
+was not." Kept that week: sophistocated, bankruptsies, enxt to ntohing,
+Lowkirkenuinely, religating, EMERGECY, Qulgley, and "I have no appreciated you
+enough." About forty others were quietly repaired.
+
+## The quotes policy
+
+"Every quotation in this newspaper was typed by the person to whom it is attributed,
+on the day we say he typed it. Nothing has been invented. Nothing needed to be."
+
+Everything else — the judgments, the verdicts, the theories about what these men are
+actually doing — "is ours, and is offered without qualification and without much
+evidence."
+
+## Recurring furniture
+
+- **"The analysis is folk, ofc."** — from the 17:14 ruling of 16 July. Used as a
+  sign-off, especially under tables.
+- **"fuck it millions."** — adopted from a bingo-card error as the standard remedy
+  for all future production errors.
+- The corrections column "regrets these errors, though not all of them, and not very
+  much."
+- Prices are absurd and never repeat: 174,000,000 TOKENS; ONE (1) UNCHARGED AMULET
+  OF GLORY.
+
+## What the extractor cannot recover
+
+Letter-spaced furniture — folios and section rules set as `S P O R T` — comes
+through flattened, because pdf.js reduces the tracking and the real word spaces to
+the same single space. Those come through verbatim rather than guessed at. Do not
+"fix" them in `edition.md`; fix the extractor or leave them.
