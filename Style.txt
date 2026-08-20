@@ -130,6 +130,8 @@ Vary these on purpose, issue to issue:
     before. If it works it goes in the toolbook. If it does not, it does not
     run again.
 
+The toolbook is docs/toolbook/ in the archive repository: the devices the paper has already proven, what each is for, and which issue last used one. Read architectures.md for the shape of the page and elements.md for the parts. Picking from it is how variation gets cheaper than repetition.
+
 Look at the last two issues before designing this one. Every edition folder has cover.jpg, the front page at 1000px wide. If the new front page could be mistaken for either of them, change it.
 
 
