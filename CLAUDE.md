@@ -37,7 +37,9 @@ block on `file://`.
 ## Layout
 
 - `index.html`, `read.html`, `assets/` — the site and the in-browser reader
-- `editions/<slug>/` — `edition.pdf`, `edition.md`, `cover.jpg`, `thumb.jpg`
+- `editions/<slug>/` — `edition.pdf`, `edition.md`, `edition.html`, `cover.jpg`,
+  `thumb.jpg`. `edition.html` is the HTML the PDF was printed from; Vol I No 1-3
+  predate it and have none
 - `editions.json` — the manifest the site reads; written by `npm run build`
 - `HEADLINES.md` — every headline in the archive; written by `npm run headlines`
 - `docs/toolbook/` — the visual devices the paper has proven, and what each is for
@@ -47,23 +49,28 @@ block on `file://`.
 
 ## Clones and staying in sync
 
-Two folders on this machine clone this repository, and neither is named for it:
-`C:\Users\John\phil-chat-times` and `C:\Users\John\Desktop\phil-chat-times-site`.
-A third, `C:\Users\John\Desktop\Phil Chat Times X-Effort`, is not this repository
-at all — it is the newsroom. Folder names are not a reliable guide to any of
-this; `git remote -v` is.
+One folder per repository, each named for the repository it holds:
 
-Keep them synced: fetch before you start, push when you stop.
+- `C:\Users\John\phil-chat-times` — this repository, the public archive
+- `C:\Users\John\phil-chat-times-newsroom` — the private newsroom, where the
+  logs, the research and the drafts live
+
+Keep it that way. A second clone of one repository drifts quietly: the work does
+look committed, because it is — in the other folder — so the next session starts
+from a stale tree and rebuilds something that already exists. A clone that has
+not fetched cannot warn you, because `status` on its own will call it clean.
+
+Fetch before you start, push when you stop.
 
 ```sh
 git -C "<folder>" fetch origin
 git -C "<folder>" status -sb    # "behind N" — pull before touching anything
 ```
 
-Two clones of one repository drift quietly. The work does look committed, because
-it is — in the other folder — so the next session starts from a stale tree and
-rebuilds something that already exists. A clone that has not fetched cannot warn
-you: `status` on its own will call it clean.
+Each folder holds a `.url` shortcut to its repository on GitHub, so the folder
+says which repository it is without `git remote -v` being run. Trust those over
+any folder found elsewhere on the machine — the Desktop still carries older
+copies of the paper that are not clones of anything.
 
 ## Things that will bite
 
@@ -76,6 +83,19 @@ produces no diff.
 The repository *is* the site — GitHub Pages serves it as-is, and `.nojekyll` is
 committed so the folders survive. There is no build step on the server, so
 anything committed is live.
+
+Every edition from Vol I No 4 on ships `edition.html` beside the PDF, and new
+ones must keep doing so. The PDF is the artefact, but the HTML is the source it
+was printed from, and an archive that holds only the output cannot reset an
+issue — it can only reprint one.
+
+Copy that file out of the newsroom, from `Past Editions/<issue>/`, after running
+the newsroom’s `tools/inline.js` over it there. It has to be the inlined copy:
+the working file points at the week’s pictures under `Chat Logs/`, a folder that
+does not exist in this repository and is gitignored in the newsroom, so an
+uninlined copy publishes nothing but broken images. Where an issue was printed
+more than once, take the HTML whose PDF matches the published `edition.pdf` —
+Vol I No 4 has two, and only the v2 file matches.
 
 Keep `vendor/pdfjs/` pinned. The reader is built against that copy, and the
 point of vendoring it is that the archive keeps working when a CDN does not.

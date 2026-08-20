@@ -10,7 +10,7 @@ be searched, diffed and read without a viewer.
 
 - `index.html` — the archive: a cover grid of every edition
 - `read.html` — the viewer
-- `editions/<slug>/` — one folder per edition: `edition.pdf`, `edition.md`, `cover.jpg`, `thumb.jpg`
+- `editions/<slug>/` — one folder per edition: `edition.pdf`, `edition.md`, `edition.html`, `cover.jpg`, `thumb.jpg`
 - `editions.json` — the manifest the site reads (page counts, dates, headlines)
 - `vendor/pdfjs/` — a pinned copy of Mozilla's pdf.js, so the site has no CDN dependency
 - `HEADLINES.md` — every headline in the archive, newest first
@@ -46,6 +46,7 @@ npm install          # first time only
 npm run build        # ingests every edition folder that has a PDF
 npm run extract      # writes edition.md for any edition without one
 npm run headlines    # rebuilds HEADLINES.md
+# then copy the inlined layout HTML in as editions/<slug>/edition.html
 git add -A && git commit -m "Add Vol I No 5" && git push
 ```
 
@@ -53,6 +54,14 @@ git add -A && git commit -m "Add Vol I No 5" && git push
 page count and pulls the front-page headline, then rewrites `editions.json`.
 Editions with no PDF yet are listed as `upcoming` and appear on the archive page
 as an "In production" placeholder.
+
+`edition.html` is not generated and `npm run build` will not fetch it — copy it
+in by hand. It is the HTML the issue was printed from, taken from the newsroom
+and run through that repository’s `tools/inline.js` first, which embeds the
+week’s pictures as data: URIs. Without that step the file refers to images under
+`Chat Logs/`, which exists only in the newsroom and is not committed even there,
+so the copy published here would show broken pictures. Every edition from Vol I
+No 4 on carries one; Vol I No 1-3 predate the HTML workflow and have none.
 
 Point it at a different source folder with
 `node scripts/build-editions.mjs --source "D:\some\other\path"`, and force a
