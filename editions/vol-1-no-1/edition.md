@@ -33,7 +33,9 @@ TODAY: CLOUDY, 100% CHANCE OF DISCOURSE. ONE (1) TRUTH NUKE MADE LANDFALL OVER
 
 ### The Phil Chat Times
 
-VOL. I . . . NO. 1 P H I L C H AT, D I S CO R D, T H U R S DAY, J U LY 1 6 , 2 0 2 6
+VOL. I . . . NO. 1
+
+P H I L C H AT, D I S CO R D, T H U R S DAY, J U LY 1 6 , 2 0 2 6
 
 ### IS IT EVOLUTION? CHAT DELIBERATES FOUR HOURS, SAYS ‘ERM’
 
@@ -115,11 +117,23 @@ By 01:22 the President was, in the estimation of the press gallery, getting slee
 
 “NOOOOOOOOOOOOOOOOOOO.”
 
-### ‘ARGENTINA HAD 14 PLAYERS,’ SPEECH BINGO
+### ‘ARGENTINA HAD 14 PLAYERS,’
+
+##### SPEECH BINGO
 
 G E N E R A T E D B Y M A C H I N E · P R O P E R T Y O F T H E O P H A N T I S M
 
-##### ENGLAND SUPPORTER REPORTS BIDEN INFLATION DEEP STATE BAAAGS OBAMA
+### ENGLAND SUPPORTER REPORTS
+
+BIDEN
+
+INFLATION
+
+DEEP STATE
+
+BAAAGS
+
+OBAMA
 
 Semifinal Decided by an Offside Goal, an Unconsulted VAR and a FIFA
 
@@ -127,7 +141,15 @@ President Allegedly Whispering “Do Not Refer”
 
 ##### B Y O U R F O O T B A L L D E S K
 
-ILLEGAL TREMENDOUS CHINA INTERFERENCE IRAN
+ILLEGAL
+
+TREMENDOUS
+
+CHINA
+
+INTERFERENCE
+
+IRAN
 
 Phil Chat, July 16 — Argentina defeated England in the World Cup semifinal on Thursday, a result which England supporter Jeh attributes to a first goal that “shouldn't have counted,” to a referee who declined to consult VAR, to “2 line refs and the main ref” who were plants, and to a FIFA president murmuring instructions into an earpiece.
 
@@ -199,9 +221,13 @@ PAGE 1
 
 ## Page 2
 
-T H E P H I L C H A T T I M E S T H E D E B A T E , C O N T I N U E D · S C I E N C E THURSDAY, JULY 16, 2026
+T H E P H I L C H A T T I M E S
+
+T H E D E B A T E , C O N T I N U E D · S C I E N C E
 
 C O N T I N U E D F R O M PA G E O N E
+
+THURSDAY, JULY 16, 2026
 
 ##### THE DESCENT OF CLANKER
 
@@ -271,7 +297,11 @@ HEREDITY. Of method, not of material. A chef passing down a recipe, not a parent
 
 is doing it, which is either exactly like nature or exactly unlike it. INTENT. Referred to a second argument, still open at press time. THE WORD. Retained by both sides. Meaning unaffected.
 
-##### S C I E N C E & E T H I C S I N S T R U M E N TAT I O N THERMOSTAT HAS
+S C I E N C E & E T H I C S
+
+##### I N S T R U M E N TAT I O N
+
+### THERMOSTAT HAS
 
 ### RESEARCHER PROPOSES
 
@@ -385,7 +415,11 @@ PAGE 2
 
 ## Page 3
 
-T H E P H I L C H A T T I M E S S P O R T PAGE 3
+T H E P H I L C H A T T I M E S
+
+S P O R T
+
+PAGE 3
 
 W O R L D C U P · S E M I F I N A L
 
@@ -395,7 +429,9 @@ Positions taken at 14:50 and locked in. The Times will hold all parties to
 
 VARGENTINA ADVANCES; ENGLAND these.
 
-##### PREDICTION HOLDER
+##### PREDICTION
+
+HOLDER
 
 ### ELIMINATED BY AN OFFSIDE GOAL,
 
@@ -437,11 +473,15 @@ Bedbug disclosed an interest: “I
 
 Tactical analysis was attempted at 14:51 and survived four minutes.
 
-“No England,” said Jeh. — which is the flaw in automation wanted England to win.” He would
+“No England,” said Jeh.
+
+— which is the flaw in automation wanted England to win.” He would
 
 Cabo Verde, the Argentine desk noted, “was all defense and they were
 
-Within sixty seconds the case had the sport has yet to address. later put money on Argentina.
+Within sixty seconds the case had the sport has yet to address.
+
+later put money on Argentina.
 
 a fucking brick wall that was impossible to penetrate almost” — and
 
@@ -519,7 +559,9 @@ FIFA 2026, up all night, lol
 
 Productivity impact quantified on Page 4,
 
-keeps choking on penalties of all across it.” “shut up bitch,” said aura. “whatever ur country is sucks shit.
+keeps choking on penalties of all across it.”
+
+“shut up bitch,” said aura. “whatever ur country is sucks shit.
 
 where it is blamed on a machine instead.
 
@@ -577,9 +619,11 @@ PAGE 3
 
 ## Page 4
 
-T H E P H I L C H A T T I M E S B U S I N E S S & M A R K E T S
+T H E P H I L C H A T T I M E S
 
 C O N S U M P T I O N
+
+B U S I N E S S & M A R K E T S
 
 ### LOCAL MAN BURNS 174 MILLION TOKENS IN A SINGLE DAY, PRODUCES NOTHING
 
@@ -809,7 +853,9 @@ FIG. 2 — Estimates. Neither the Times nor, by his own account, the man himself
 
 gridline is ten of the one before it. The bottom bar is not an error.
 
-VOL. I . . . NO. 1 THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026
+VOL. I . . . NO. 1
+
+THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026
 
 ##### B U S I N E S S B R I E F S
 
@@ -825,9 +871,11 @@ PAGE 4
 
 ## Page 5
 
-T H E P H I L C H A T T I M E S A R T S & C U L T U R E
+T H E P H I L C H A T T I M E S
 
 F I L M · C R I T I C I S M
+
+A R T S & C U L T U R E
 
 ### THE ODYSSEY: ‘BORING ASS
 
@@ -941,7 +989,9 @@ No answer has been received. The Times will hold the front page.
 
 ### SPOILER WARNING DEMANDED
 
-R E S U LT S , C E RT I F I E D A RT S B R I E F S
+R E S U LT S , C E RT I F I E D
+
+A RT S B R I E F S
 
 #### ROCKY ROAD IS
 
@@ -979,15 +1029,21 @@ to whoever is awake, addressed the room.
 
 Brutus
 
-Winner: My Name, self-declared, unopcyclops, AI Engineer intervened on behalf of the reading pub‐ “Rocky road is undrerrated.”
+Winner: My Name, self-declared, unopcyclops, AI Engineer intervened on behalf of the reading pub‐
+
+“Rocky road is undrerrated.”
 
 posed.
 
-lic. No one replied. The channel at
+lic.
+
+No one replied. The channel at
 
 Method: vibes.
 
-“can you like” that hour was between argu‐
+“can you like”
+
+that hour was between argu‐
 
 Margin of error: ideology is a thing of
 
@@ -1015,7 +1071,9 @@ tion was raised in mitigation and struck from the record on the grounds that the
 
 had friends and got pussy — i just want to go into a movie
 
-j3r3j98f4u87fq9r3f0bx8r7c reported: It contains marshmallow, almond “God's first chosen people and his second and a name that promises diffitotally unspoiled (so unspoiled i haven't even read the fucking
+j3r3j98f4u87fq9r3f0bx8r7c reported: “God's first chosen people and his second
+
+It contains marshmallow, almond and a name that promises diffitotally unspoiled (so unspoiled i haven't even read the fucking
 
 books, so this shit is brand brand new to me).”
 
@@ -1023,11 +1081,13 @@ chosen people are getting together. it's culty and delivers dessert, which great
 
 The Times finds for the complainant. The poem is old; the
 
-At 10:12 he had already filed the cor‐ other item in this edition.
+At 10:12 he had already filed the corother item in this edition.
 
 man is not obliged to know it; a story that has survived
 
-roborating dispatch: “I saw some Ortho‐ Mr. Brutus returns on Page 7 in
+roborating dispatch: “I saw some Ortho‐
+
+Mr. Brutus returns on Page 7 in
 
 twenty-seven centuries can survive one viewer arriving fresh,
 
@@ -1035,7 +1095,9 @@ dox(?) Jews with the Arg jersey last night connection with ten gallons of
 
 provided nobody tells him what happens to the suitors. He is,
 
-actually in NYC.” lye.
+actually in NYC.”
+
+lye.
 
 however, on notice: it gets spoiled on Page 8, in the obituaries.
 
@@ -1047,11 +1109,37 @@ B O O K S
 
 PROSECUTION: REPETITION. DEFENSE: RING COMPOSITION, IT'S A COMMON STRUCTURE IN THE EPICS LOL.
 
-### “2 witch bishes” THE ANT, THE SPIDER AND THE BEE
+“2 witch bishes”
+
+### THE ANT, THE SPIDER AND THE BEE
 
 “2 random giant situations”
 
-Troy Lotus CYCLOPS Aeolus LAESTRY- CIRCE Under- Sirens Scylla & Cattle of CALYPSO Phaeacia Ithaca Eaters GONIANS world Charybdis the Sun
+Troy
+
+Lotus Eaters
+
+CYCLOPS
+
+Aeolus
+
+LAESTRY- GONIANS
+
+CIRCE
+
+Underworld
+
+Sirens
+
+Scylla & Charybdis
+
+Cattle of the Sun
+
+CALYPSO
+
+Phaeacia
+
+Ithaca
 
 Filed at 05:22, to a sleeping channel
 
@@ -1075,7 +1163,11 @@ The empiricists, Bacon says, are like ants: they only lay up and use their store
 
 It is the only message in twentyfour hours which supplied its own footnote, and it received no reply. See Word of the Day, Page 8.
 
-VOL. I . . . NO. 1 THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026 PAGE 5
+VOL. I . . . NO. 1
+
+THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026
+
+PAGE 5
 
 ---
 
@@ -1087,9 +1179,9 @@ O P I N I O N
 
 G U E S T C O L U M N
 
-PAGE 6
-
 M A S T H E A D
+
+PAGE 6
 
 ### THE PHIL CHAT
 
@@ -1107,7 +1199,11 @@ by Stackhouse, who said “A ‘Today in Phil chat’ newsletter is a good idea�
 
 And the cute will very soon no longer
 
-be even remotely human FROM THE EDITORS: B Y T H E O P H A N T I S M
+### FROM THE EDITORS:
+
+be even remotely human
+
+##### B Y T H E O P H A N T I S M
 
 ### WHY WE EXIST
 
@@ -1141,7 +1237,9 @@ macho rhetoric with irresistible capital. What does capital look positive circul
 
 “can i help design it,” said Theophantism.
 
-passivity, melting you into its syn‐ He wondered whether there
+passivity, melting you into its syn‐
+
+He wondered whether there
 
 ##### PUBLISHER
 
@@ -1199,7 +1297,9 @@ The analysis is folk, ofc.
 
 thewillowofdarkness lodged the objection on which this enterprise
 
-the near future, and the cute will willow will now say that even
+the near future, and the cute will
+
+willow will now say that even
 
 will eventually founder: “A Discord spam campaign doesn't sound like a
 
@@ -1209,11 +1309,15 @@ very soon no longer be even hard-edged and bald things can be remotely human. cu
 
 He is correct. It doesn't. Neither does a channel of twenty-five
 
-• the acceleration.
+•
+
+the acceleration.
 
 people arguing about whether a car with a turbo has evolved sound
 
-The floor raised objections. ter‐ Cute is its own difference, and
+The floor raised objections. ter‐
+
+Cute is its own difference, and
 
 like the intellectual history of the 2020s, and yet here we are, set in
 
@@ -1249,7 +1353,9 @@ PROPOSED: That Simon be banned. Not for a rule. For the vibe. MOVED BY: hpcr, 18
 
 DEFENSE: “He agrees with you on substance. You are too focused on words.”
 
-Sir — Not a solution if it's not enactable lol. — Janne, 15:23
+Sir — Not a solution if it's not enactable lol.
+
+— Janne, 15:23
 
 REBUTTAL: “I'm focused on the fact that you guys can't follow a simple Convo because of
 
@@ -1311,7 +1417,9 @@ isn’t it easier to just
 
 do heroin?
 
-P L E A S U R E B O X EVERYTHING IS PERMITTED
+P L E A S U R E B O X
+
+EVERYTHING IS PERMITTED
 
 ##### SO LONG AS THAT BOX
 
@@ -1331,7 +1439,7 @@ Twenty years of internet argument were conducted in the belief that the words wo
 
 S T A T U S : O N L I N E · U T I L S : ∞
 
-##### ETHICS BOARD
+ETHICS BOARD
 
 “ai will kill to join the pleasure box”
 
@@ -1341,7 +1449,11 @@ ted the volume was not aimed at anyone in the room, but at the summary — at th
 
 He was right, and here is the proof: it worked. The letter is on this page, in quotathis channel typed a sentence on Thursday for the express purpose of being quoted in a newspaper that did not exist, and got what he wanted, and so did we. — The Editors
 
-VOL. I . . . NO. 1 THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026 PAGE 6
+VOL. I . . . NO. 1
+
+THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026
+
+PAGE 6
 
 ---
 
@@ -1571,7 +1683,9 @@ PAGE 8
 
 ### DISCOURSE
 
-very much ENGLAND'S WORLD CUP CAMPAIGN, aged 60 years and count‐
+very much
+
+ENGLAND'S WORLD CUP CAMPAIGN, aged 60 years and count‐
 
 Cloudy. One hundred per cent chance of discourse.
 
@@ -1739,15 +1853,21 @@ the pleasure box yellow card
 
 15:11 16:21
 
-vibe ban. vote.10 gallons of lye newcomer; Plato
+vibe ban. vote.10 gallons of lye
 
-18:4918:56 21:05
+18:4918:56
+
+newcomer; Plato
+
+21:05
 
 “so close”
 
 01:28
 
-05 06
+05
+
+06
 
 05:24 pismire: an ant
 
@@ -1761,11 +1881,17 @@ vibe ban. vote.10 gallons of lye newcomer; Plato
 
 11
 
-12 13
+12
+
+13
 
 12:10 real men got aella
 
-14 15 16
+14
+
+15
+
+16
 
 14:30 15:27 “No England”is it evolution?
 
@@ -1775,7 +1901,9 @@ vibe ban. vote.10 gallons of lye newcomer; Plato
 
 18
 
-19 20
+19
+
+20
 
 18:54 19:53 this newspaper truth nuke
 
@@ -1797,6 +1925,10 @@ vibe ban. vote.10 gallons of lye newcomer; Plato
 
 03:21 “no offside flag bud”
 
-FIG. 4. THE DAY — One channel, twenty-four hours, no conclusions. The gap between 05:30 and 08:30 is the only period on record in which nobody said anything about anything. It did not last, and neither did the era it belonged to. VOL. I . . . NO. 1 THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026 PAGE 8
+FIG. 4. THE DAY — One channel, twenty-four hours, no conclusions. The gap between 05:30 and 08:30 is the only period on record in which nobody said anything about anything. It did not last, and neither did the era it belonged to.
+
+##### VOL. I . . . NO. 1 THE PHIL CHAT TIMES · THURSDAY, JULY 16, 2026
+
+PAGE 8
 
 ---

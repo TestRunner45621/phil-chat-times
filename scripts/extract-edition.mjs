@@ -71,6 +71,7 @@ const TUNING = {
   indentMax: 2.5, // deeper than this is drop-cap wrap, not an indent
   crossheadFill: 0.92, // an all-caps line filling less than this of the measure
   crossRows: 0.25, // share of rows that may cross a band and it still be a gutter
+  wideGap: 1.5, // in a block too short to project, a gap this many ems is real
 };
 
 // ---------------------------------------------------------------- geometry
@@ -257,9 +258,14 @@ function segment(items, cfg, depth = 0) {
   }
 
   const rows = toRows(items, cfg.rowTol);
-  // A block of one or two lines is a headline, not a column layout. Projecting
-  // it would find its word spaces and cut it into pieces.
-  const gapX = rows.length >= 3 ? widestGap(items, 'x', cfg.gutterX) : null;
+  // A block of one or two lines is usually a headline rather than a column
+  // layout, and projecting it would find its word spaces and cut it to pieces.
+  // But two headlines can sit side by side with an obvious canyon between them,
+  // so a gap several times the size of the type still counts: no word space is
+  // ever that wide.
+  const biggest = Math.max(...items.map((i) => i.size));
+  const minGapX = rows.length >= 3 ? cfg.gutterX : Math.max(cfg.gutterX, biggest * TUNING.wideGap);
+  const gapX = widestGap(items, 'x', minGapX);
   const gapY = widestGap(items, 'y', cfg.gutterY);
 
   const cut = gapX ? { gap: gapX, axis: 'x' } : gapY ? { gap: gapY, axis: 'y' } : null;

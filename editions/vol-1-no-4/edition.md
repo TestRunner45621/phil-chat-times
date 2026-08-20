@@ -31,7 +31,11 @@ V O L . I · N O . 4
 
 “All the Discourse That’s Fit to Scroll”
 
-PHIL CHAT, DISCORD T H U R S D AY, A U G U S T 6 , 2 0 2 6 PRICE: ONE (1) REFLECTIVE PARTICIPATION
+PHIL CHAT, DISCORD
+
+T H U R S D AY, A U G U S T 6 , 2 0 2 6
+
+PRICE: ONE (1) REFLECTIVE PARTICIPATION
 
 WEEK ENDING THURSDAY. 17,706 messages · 430 images · 858 of them drew a reaction from anybody at all, which is 4.8 per cent. A faith was founded, a machine convicted a man
 
@@ -49,7 +53,9 @@ CONSCIOUSNESS — do you exist? PUBLIC SAFETY — the field guide WILLOW DESK �
 
 11 12
 
-ARRIVALS — whimsy at midnight 13 SPORT — total level 2,376 14
+ARRIVALS — whimsy at midnight SPORT — total level 2,376
+
+13 14
 
 DEPARTMENTS — food; careers; media 15
 
@@ -61,7 +67,9 @@ CLANKER WATCH — two plans, uncosted THE DMS — a source close to the covenant
 
 POWER RANKINGS — the tier list, at last18
 
-IN BRIEF — everything else 19
+IN BRIEF — everything else
+
+19
 
 BACK OF BOOK — obituaries; weather 20
 
@@ -123,7 +131,11 @@ UP, THEN DID IT.
 
 member. By Monday it had statutes. By Tuesday it the file, from a man who then read it.
 
-T H E P H I L C H A T T I M E S T H U R S D AY, A U G U S T 6 , 2 0 2 6 P A G E 1
+T H E P H I L C H A T T I M E S
+
+T H U R S D AY, A U G U S T 6 , 2 0 2 6
+
+P A G E 1
 
 ---
 
@@ -381,7 +393,9 @@ chair asked for it by the name he had privately assigned it — “hey could u l
 
 ##### isms thatare a little
 
-compares it to something: know, as I don’t really understand it.” Hugh
+compares it to something:
+
+know, as I don’t really understand it.” Hugh
 
 ##### jarring… and some of
 
@@ -407,7 +421,9 @@ volunteered. It is the only passage in thirteen “a cult of behavioral therapis
 
 file, read it and report on the prose.
 
-sections where the prose sounds hunted. be redundant.”
+sections where the prose sounds hunted.
+
+be redundant.”
 
 He is right twice. He then added:
 
@@ -449,7 +465,9 @@ P A G E 3
 
 ## Page 4
 
-The Observatory Act One · In which a man is read to filth by a website and takes it well
+### The Observatory
+
+Act One · In which a man is read to filth by a website and takes it well
 
 ### THE ROOM SPENT THE WEEK ARGUING WHETHER A MACHINE CAN KNOW A PERSON
 
@@ -571,7 +589,9 @@ P A G E 4
 
 ## Page 5
 
-### The Observatory Act Two · Three in the morning · The decolonial turn
+### The Observatory
+
+Act Two · Three in the morning · The decolonial turn
 
 ### “IT’S BETTER THAN SCIENCE. SCIENCE AIMS TO BE ASTROLOGICALLY VALID”
 
@@ -681,7 +701,9 @@ P A G E 5
 
 ## Page 6
 
-### The Machine Desk Saturday afternoon · An MS-DOS window, thirteen characters, one command
+### The Machine Desk
+
+Saturday afternoon · An MS-DOS window, thirteen characters, one command
 
 ### HUGH BUILDS A MACHINE THAT ARGUES LIKE THE ROOM. THE ROOM ASKS TO DATE IT.
 
@@ -793,7 +815,9 @@ P A G E 6
 
 ## Page 7
 
-### Law & Order The court of Omnius · Friday night, and the verdict that came back wrong
+### Law & Order
+
+The court of Omnius · Friday night, and the verdict that came back wrong
 
 ### THE MAN WHO ASKED THE MACHINE TO
 
@@ -881,7 +905,9 @@ The friendship ranking system continues to claim victims. Charlie reports a prom
 
 granting tier 1: “I’m tempted to go back to level
 
-Nobody answered her either. 0.” He later issued a general amnesty: “I
+Nobody answered her either.
+
+0.” He later issued a general amnesty: “I
 
 unblocked everyone so.”
 
@@ -899,7 +925,9 @@ P A G E 7
 
 ## Page 8
 
-### The Consciousness War Monday to Wednesday · Five hours, three days, no survivors
+### The Consciousness War
+
+Monday to Wednesday · Five hours, three days, no survivors
 
 ### FIVE HOURS ON WHETHER YOU EXIST, SETTLED BY A MAN WHO POSTED A PICTURE
 
@@ -1019,13 +1047,19 @@ passing through the lolcow jungle.”
 
 single funniest line either combatant produced
 
-T H E P H I L C H A T T I M E S T H E C O N S C I O U S N E S S W A R P A G E 8
+T H E P H I L C H A T T I M E S
+
+T H E C O N S C I O U S N E S S W A R
+
+P A G E 8
 
 ---
 
 ## Page 9
 
-### Public Safety Supplement Issued by the chat, for the chat · “I have all three variants”
+### Public Safety Supplement
+
+Issued by the chat, for the chat · “I have all three variants”
 
 ### THE FIELD GUIDE: A WARNING POSTER FOR THE NEW CHATTER
 
@@ -1095,7 +1129,9 @@ P A G E 9
 
 ## Page 10
 
-### The Willow Desk Court report · Saturday evening · Seventy-one minutes on the digestive system
+### The Willow Desk
+
+Court report · Saturday evening · Seventy-one minutes on the digestive system
 
 ### CAN A STOMACH EXPECT? THE COURT SITS FOR SEVENTY-ONE MINUTES AND DOES NOT RULE
 
@@ -1159,13 +1195,19 @@ Invited to a voice chat on Monday evening, Willow declined on grounds this newsp
 
 Ape, on hearing this, admitted to a new and specific anxiety about crossing guards. Willow’s reassurance: “I’m not a crossing guard, so you’re safe there.”
 
-T H E P H I L C H A T T I M E S T H E W I L L O W D E S K P A G E 1 0
+T H E P H I L C H A T T I M E S
+
+T H E W I L L O W D E S K
+
+P A G E 1 0
 
 ---
 
 ## Page 11
 
-### Letters & Translation Saturday morning · A philosophy is submitted for review and comes back in baby talk
+### Letters & Translation
+
+Saturday morning · A philosophy is submitted for review and comes back in baby talk
 
 ### THE UWU INCIDENT: NOTHING WAS LOST IN TRANSLATION, WHICH TELLS YOU HOW MUCH WAS THERE
 
@@ -1191,7 +1233,9 @@ Da point is peoples doin’ good. Not shiny stuff. Awe dey smawtew? Kindew? Less
 
 THE VERDICT
 
-deeper causes—whether psychological, social, historical, economic, or institutional. The baby-talk version is better. It says the same
+deeper causes—whether psychological, social, historical, economic, or institutional.
+
+The baby-talk version is better. It says the same
 
 five things in a quarter of the words, and it
 
@@ -1265,7 +1309,9 @@ U N A N S W E R E D , I N T H E S A M E W E E K
 
 “anyone want to talk about 19th century
 
-the room that morning, delivered twice, in asking for notes. eli addressed the trend directly: erotica?” — dot. capitals: “NO.” “why everyone coming in here w/ a ted kaczynski
+the room that morning, delivered twice, in asking for notes. eli addressed the trend directly: capitals: “NO.” “why everyone coming in here w/ a ted kaczynski
+
+erotica?” — dot.
 
 “Is anyone a pantheist here?” —
 
@@ -1293,7 +1339,13 @@ man’s philosophy and becomes a joke about request for the room to get on with 
 
 i can hold it tho”
 
-prose. the finest sentence he produced all week: “claude, schmaude, fraud, when are we gonna talk Simon, immediately: “But is it really
+prose.
+
+the finest sentence he produced all week:
+
+“claude, schmaude, fraud, when are we gonna talk
+
+Simon, immediately: “But is it really
 
 yours?”
 
@@ -1309,7 +1361,9 @@ P A G E 1 1
 
 ## Page 12
 
-### Opinion From the Editors · on being read, at last, by the people we are about
+### Opinion
+
+From the Editors · on being read, at last, by the people we are about
 
 ### THEY READ THE LAST ONE
 
@@ -1385,11 +1439,17 @@ newspaper intends to have carved somewhere: “i simulator: “claude made it re
 
 captured, and that we wanted to be absorbed
 
-like how there’s context from previous issues.” direction.” Jere published his oracle prompt in
+like how there’s context from previous issues.”
+
+direction.” Jere published his oracle prompt in
 
 rather than replied to. We were replied to for
 
-full. Orsku, asked whether the god machine had twenty-eight minutes and enjoyed it THE COMPLAINT, WHICH WE UPHOLD handed him his own philosophy: “Technically,
+THE COMPLAINT, WHICH WE UPHOLD
+
+full. Orsku, asked whether the god machine had handed him his own philosophy: “Technically,
+
+twenty-eight minutes and enjoyed it
 
 enormously. The position is withdrawn.
 
@@ -1441,7 +1501,9 @@ P A G E 1 2
 
 ## Page 13
 
-### Arrivals The register · Who came in this week, and what they said on entering
+### Arrivals
+
+The register · Who came in this week, and what they said on entering
 
 ### A MAN ASKS HOW TO CULTIVATE MORE WHIMSY AT 12:03 A.M. AND REPORTS A SIX- MILLIMETRE CHIN RECESSION AT 5:26
 
@@ -1547,7 +1609,9 @@ P A G E 1 3
 
 ## Page 14
 
-### Sport Mentions this week: RuneScape 17, Kant 17. We have counted twice.
+### Sport
+
+Mentions this week: RuneScape 17, Kant 17. We have counted twice.
 
 ### TOTAL LEVEL 2,376: THE BOX SCORE THAT ENDED A WAR ABOUT CONSCIOUSNESS
 
@@ -1825,15 +1889,21 @@ Grihastha, taking the third position: “Give into the clankers. They will assim
 
 F O R E C A S T
 
-CORRECT ONE OF TWO KITTENS WILL BE it’s really destructive on attempts to discuss the
+CORRECT ONE OF TWO KITTENS WILL BE
+
+it’s really destructive on attempts to discuss the
 
 vannak, Friday: “One day, someone is going to
 
-EXECUTED IMMEDIATELY I NEED THE implications of say, intelligence without an
+EXECUTED IMMEDIATELY I NEED THE
+
+implications of say, intelligence without an
 
 scream that you gotta do what the bot says or
 
-CORRECT WAY TO DO IT GIVE ME QUICK GO’” experience (like us), and experience without a
+CORRECT WAY TO DO IT GIVE ME QUICK GO’”
+
+experience (like us), and experience without a
 
 you want another Trump.”
 
@@ -1891,9 +1961,11 @@ P A G E 1 6
 
 ## Page 17
 
-### The DMs Whispers, feuds and other people’s business · a new standing column
+### The DMs
 
 N O T I C E R E Q U I R E D O F U S
+
+Whispers, feuds and other people’s business · a new standing column
 
 #### Nothing on this page has been verified, and nothing on this page can be.
 
@@ -2099,7 +2171,9 @@ and then go to bed, and that this newspaper will be channel, on 2.7 per cent.
 
 reaction all week, and are unrankable
 
-reading. We print that as a courtesy to anybody planning
+reading.
+
+We print that as a courtesy to anybody planning
 
 rather than bad at this.
 
@@ -2155,7 +2229,11 @@ BUSIEST CORRESPONDENT S. NOT USED.
 
 someone’s playing action figures you all of a
 
-T H E P H I L C H A T T I M E S P O W E R R A N K I N G S P A G E 1 8
+T H E P H I L C H A T T I M E S
+
+P O W E R R A N K I N G S
+
+P A G E 1 8
 
 ---
 
@@ -2275,7 +2353,9 @@ P A G E 1 9
 
 ## Page 20
 
-### Back of the Book Classifieds · Deaths & Dissolutions · Condolences · Weather
+### Back of the Book
+
+Classifieds · Deaths & Dissolutions · Condolences · Weather
 
 ##### P U B L I C N O T I C E · I S S U E D T U E S D A Y , 5 : 2 1 P . M . , U N P R O M P T E D , I N C A P I T A L S
 
@@ -2443,13 +2523,19 @@ P A G E 2 0
 
 ### The Stars
 
-T H E S T A R S by our resident astrologer
+T H E S T A R S
+
+by our resident astrologer
 
 Compiled after Tuesday’s public natal chart reading. Every prediction below has already happened.
 
 Horoscopes · Ask Pearl · The Register · Tonight’s Viewing · The Weather
 
-A S K P E A R L verdicts in six words or fewer T O N I G H T ’ S V I E W I N G
+A S K P E A R L
+
+verdicts in six words or fewer
+
+T O N I G H T ’ S V I E W I N G
 
 Our agony column. The moderator’s replies are her
 
@@ -2463,11 +2549,15 @@ F O L L O W E D B Y · 10 P.M. — The Observatory. Live chart readings before e
 
 A R I E S · You will found a religion on a Thursday
 
-Should I feel special? — L., Minnesota gorillas.
+Should I feel special? — L., Minnesota
+
+gorillas.
 
 and disclose on the following Wednesday that it was a bit. Both statements are true. Neither is a
 
-##### “Isn’t the answer obvious” V O I C E · CONTINUOUS — Nothing, as far as we can see.
+##### “Isn’t the answer obvious”
+
+V O I C E · CONTINUOUS — Nothing, as far as we can see.
 
 defence.
 
@@ -2481,7 +2571,9 @@ not ready for this conversation. He will be right. He will also be insufferable,
 
 G E M I N I · Mercury advises you to build a machine that argues in a friend’s voice. Within the hour
 
-nihilistic Machiavellianism. Was silence correct? N I N E A . M . · CLOSED. One hundred messages all week, — Anon. the quietest hour.
+nihilistic Machiavellianism. Was silence correct? — Anon.
+
+N I N E A . M . · CLOSED. One hundred messages all week, the quietest hour.
 
 ##### “I should have given him a thumbs
 
@@ -2513,7 +2605,9 @@ Q · Sir — I have been arguing for five hours about
 
 room of eleven and conclude that you must
 
-whether other people exist and I no longer know A deep low over the centre of the channel from
+whether other people exist and I no longer know
+
+A deep low over the centre of the channel from
 
 become an existential life coach. You already are
 
@@ -2531,7 +2625,9 @@ very often not your diagram.
 
 L I B R A · Balance is achieved. RuneScape 17, Kant 17. Do not speak, do not move, do not mention either again.
 
-T H E R E G I S T E R week ending 6 August
+T H E R E G I S T E R
+
+week ending 6 August
 
 A R R I V A L S · OkPhilosopher, who asked at 12:03 a.m. how one cultivates more whimsy and by 5:26 had filed a six-millimetre chin recession.
 
@@ -2539,7 +2635,11 @@ Sunday, filling Wednesday night. High pressure over consciousness, not clearing.
 
 Sizenberg, born “in like 2010 or something.” Orsku,
 
-S C O R P I O · You will apologise to a RuneScape clan W O R D O F T H E D A Y who asked “what am I” and was assigned a pole.
+S C O R P I O · You will apologise to a RuneScape clan
+
+who asked “what am I” and was assigned a pole.
+
+W O R D O F T H E D A Y
 
 in four hundred words, opening with the arcane
 
@@ -2567,7 +2667,9 @@ Attested about twenty times in seven days, never glossed, never queried. The onl
 
 Friday, deposed Saturday, succeeded by the man
 
-it ruled against. T O M O R R O W I N T H E T I M E S
+it ruled against.
+
+T O M O R R O W I N T H E T I M E S
 
 C A P R I C O R N · You will pour lye down your pipes
 
@@ -2583,7 +2685,9 @@ dead, which is not leaving and is treated here as worse.
 
 seventeen thousand messages. She will not return.
 
-The poster will stay in circulation. This is correct. A B S E N T · Kady, not seen once in 17,706 messages; referenced twice, both times with dread. Password
+The poster will stay in circulation. This is correct.
+
+A B S E N T · Kady, not seen once in 17,706 messages; referenced twice, both times with dread. Password
 
 Whether the covenant survives its retraction. Whether anybody enters a voice channel. Whether the editorial board is bombed on schedule. Whether Saint Paul replies. Whether Kady returns. And whether anyone works out what a catable is.
 
@@ -2595,7 +2699,11 @@ P I S C E S · Water signs should avoid the holodeck,
 
 Man, who granted a credential on Friday and
 
-avoid the nausea proceedings, and avoid being C A T A B L E R W H I M S Y K about whom nothing else is known. O V E R I T A N S L O P X A O
+avoid the nausea proceedings, and avoid being
+
+about whom nothing else is known.
+
+C A T A B L E R W H I M S Y K O V E R I T A N S L O P X A O
 
 asked whether a stomach can expect. You will
 
@@ -2605,19 +2713,23 @@ V J A I L B R E A K U W U Z R E O M N I U S G H F T R E D A
 
 W A N T E D
 
-##### N A U S E A C L A N K E R P C
+E D I T O R ’ S N O T E
 
-E D I T O R ’ S N O T E A Z Q M E S S I A H B V G S L
+N A U S E A C L A N K E R P C A Z Q M E S S I A H B V G S L
 
 A definition of “catable.” Twenty uses, no gloss,
 
-The astrologer’s own defence of the nobody asked. discipline, filed live on Tuesday and printed
+The astrologer’s own defence of the discipline, filed live on Tuesday and printed
+
+nobody asked.
 
 N H O L O D E C K J W M Y T E T S N O W G O R I L L A S N X
 
 One (1) further convert. Branding negotiable;
 
-here as our disclaimer: “all that matters in Across, down, backwards: catable · veritan · whimsy · omnius
+here as our disclaimer: “all that matters in
+
+Across, down, backwards: catable · veritan · whimsy · omnius
 
 dragons are not.
 
@@ -2643,7 +2755,9 @@ Messages posted, by person. One person accounts for 15.3 per cent of everything 
 
 ##### 17,706 messages, counted · 1,102 reactions, counted · 430 images, counted
 
-##### F I G . 8 — T H E W E E K I N V O L U M E S I G N A L R A T I O
+F I G . 8 — T H E W E E K I N V O L U M E
+
+S I G N A L R A T I O
 
 Messages per day. Wednesday is a visible spike and it is very largely one person: 1,010 of those 4,563.
 
@@ -2707,7 +2821,21 @@ all others
 
 “All others” is 143 separate emoji sharing 414 reactions
 
-00 03 06 09 12 15 18 21
+00
+
+03
+
+06
+
+09
+
+12
+
+15
+
+18
+
+21
 
 O F W H AT I S S A I D
 
@@ -2765,7 +2893,11 @@ rather than taken on trust. Vocabulary counts exclude reply quotations, which wo
 
 Of the 89 people who said anything at all this week:
 
-F I G . 1 2 — W H A T A C T U A L L Y L A N D S Posted more than 1,000 times Share of a person’s messages that drew a reaction. Volume Posted 100–999 times
+F I G . 1 2 — W H A T A C T U A L L Y L A N D S
+
+Share of a person’s messages that drew a reaction. Volume
+
+Posted more than 1,000 times Posted 100–999 times
 
 and effect are not the same.
 
@@ -2789,15 +2921,29 @@ Hours are US Eastern. The two Thursdays are part-days: the log opens at 1:21 p.m
 
 Four people produced 39.8 per cent of the week. Thirty-two
 
-Hugh 5.1 N O T C O U N T E D
+Hugh
+
+5.1
+
+N O T C O U N T E D
 
 people produced 93 messages between them — half of one
 
-lizzie 2.7 Voice chat. Direct messages. Deletions. And
+lizzie
+
+2.7
+
+Voice chat. Direct messages. Deletions. And
 
 per cent — and thirty of the eighty-nine went the entire week
 
-Brutus 1.5 without a single person reacting to anything they said. whatever the 541 edited messages said before they were edited.
+Brutus
+
+1.5
+
+without a single person reacting to anything they said.
+
+whatever the 541 edited messages said before they were edited.
 
 The person at the top of Figure 7 is second from the bottom
 
@@ -2815,6 +2961,10 @@ C O L O P H O N
 
 ##### The Phil Chat Times, Vol. I, No. 4 — the “X-
 
-T H E P H I L C H A T T I M E S B Y T H E N U M B E R S P A G E 2 2
+T H E P H I L C H A T T I M E S
+
+B Y T H E N U M B E R S
+
+P A G E 2 2
 
 ---

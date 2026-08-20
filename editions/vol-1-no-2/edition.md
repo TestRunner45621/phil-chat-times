@@ -19,9 +19,13 @@ masthead: true
 
 P U B L I S H E D W E E K L Y , W H E N E V E R S T A C K H O U S E R E M E M B E R S L A T E E D I T I O N F O U N D E D T H U R S D A Y , 1 6 J U L Y 2 0 2 6 The Phil Chat Times
 
+V O L . I · N O . 2
+
 ##### “All the Discourse That’s Fit to Scroll”
 
-V O L . I · N O . 2 P H I L C H A T , D I S C O R D — T H U R S D A Y , J U L Y 2 3 , 2 0 2 6 P R I C E : O N E ( 1 ) U N C H A R G E D A M U L E T O F G L O R Y
+P H I L C H A T , D I S C O R D — T H U R S D A Y , J U L Y 2 3 , 2 0 2 6
+
+P R I C E : O N E ( 1 ) U N C H A R G E D A M U L E T O F G L O R Y
 
 T H E W E A T H E R
 
@@ -119,7 +123,11 @@ The room read it, downgraded it from smut to “just sexual” to “mildly,” 
 
 Circulated in Phil Chat on Tuesday
 
-Nobody said it was interpret. Simon then pro- by a correspondent making an O U R S O C I E T Y C O L U M N
+#### Nobody said it was
+
+interpret. Simon then pro- by a correspondent making an
+
+O U R S O C I E T Y C O L U M N
 
 I N S I D E T O D A Y ’ S T I M E S
 
@@ -149,7 +157,9 @@ A RT S — The critic who
 
 renounced journeys
 
-O P I N I O N — On being 7
+O P I N I O N — On being
+
+7
 
 ignored, and what it
 
@@ -175,7 +185,9 @@ discusses legislation.
 
 Twice.
 
-T H E K E Y H O L E — The 12
+T H E K E Y H O L E — The
+
+12
 
 smut, the ban, and two
 
@@ -197,7 +209,13 @@ the weather
 
 #### to the rest of the day”
 
-duced a version about twinks, entirely different point. B E G I N S O N P A G E 1 2 cringe. Nobody J E R E , T H U R S D A Y M O R N I N G , T O A
+#### cringe. Nobody
+
+duced a version about twinks, entirely different point.
+
+B E G I N S O N P A G E 1 2
+
+J E R E , T H U R S D A Y M O R N I N G , T O A
 
 which he would later defend
 
@@ -223,11 +241,17 @@ T H E R E C O R D
 
 #### counter-position; the
 
-and one mod ping filed Eight hundred and sixty-six lines absence of one is the against the man who had filed were typed in Phil Chat on
+#### absence of one is the
+
+and one mod ping filed against the man who had filed
+
+Eight hundred and sixty-six lines were typed in Phil Chat on
 
 Thursday. Jeh and Stackhouse
 
-#### loudest thing in the the first, and ended with the
+#### loudest thing in the
+
+the first, and ended with the
 
 contributed one each. Both were
 
@@ -241,13 +265,19 @@ his own.
 
 T H E T I M E S , R U L I N G
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U LY 2 3 , 2 0 2 6 PA G E 1
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U LY 2 3 , 2 0 2 6
+
+PA G E 1
 
 ---
 
 ## Page 2
 
-### T H E C O P Y P A S T A , C O N T I N U E D F R O M P A G E O N E
+### T H E C O P Y P A S T A , C O N T I N U E D
+
+F R O M P A G E O N E
 
 ### The Paragraph That Ate Itself
 
@@ -387,7 +417,9 @@ and it was filed at four in the morning by a man nobody had asked.
 
 We note, in closing, that Charlie argued about this film for four days and disclosed on the fifth that he has not seen it and was joking throughout. Nobody expressed surprise. Nobody re-litigated a single one of his points. ■
 
-S C I E N C E & M A C H I N E S I N T E R P R E T A B I L I T Y · R O D E N T C O M P U T E · T H E I N S T R U M E N T A T I O N D E S K
+### S C I E N C E & M A C H I N E S
+
+I N T E R P R E T A B I L I T Y · R O D E N T C O M P U T E · T H E I N S T R U M E N T A T I O N D E S K
 
 In which the field’s most citation-dense paragraphs are produced by a man arguing that machines can be read
 
@@ -475,7 +507,9 @@ PA G E 3
 
 ## Page 4
 
-S P O R T T H E F I N A L · T H E T H I R D P L A C E · T H E M I X E D Z O N E · T H E B A T H
+### S P O R T
+
+T H E F I N A L · T H E T H I R D P L A C E · T H E M I X E D Z O N E · T H E B A T H
 
 ### ARGENTINA DECLINE TO SHOOT
 
@@ -639,7 +673,7 @@ The Mixed Zone Shortly before one in the morning, with the ashes still warm, Sta
 
 He got the full athleteʼs presser: sad, very grateful to the team for bringing them this far, the better team won, congratulations to Spain. It is
 
-as a complaint, while win- him. The ruling: after the World
+as a complaint, while winhim. The ruling: after the World
 
 bureau in under a minute,
 
@@ -769,9 +803,13 @@ I N S T R U M E N T
 
 Jesus Christ, return
 
-C L O S E C H G .
+C L O S E
 
-2¢ unch.
+2¢
+
+##### C H G .
+
+unch.
 
 before 2027
 
@@ -821,7 +859,9 @@ appear to have noticed making it.
 
 Brutus, cookware
 
-52 ↑↑
+52
+
+↑↑
 
 pieces held
 
@@ -831,7 +871,9 @@ identified an infinite money glitch and immediately wondered whether it was the 
 
 “No you got it,” said Charlie.
 
-default against us. (lids
+default against us.
+
+(lids
 
 #### I have no returns and
 
@@ -913,7 +955,9 @@ single position on the high temperature in Denver, and this desk has never seen 
 
 ##### ❦
 
-##### ❧ ❦
+##### ❧
+
+##### ❦
 
 PA G E 5
 
@@ -943,7 +987,9 @@ N O T I C E . bardiel1 proposed on Tuesday that a vendor release a feature calle
 
 D I V I D E N D S . Pearl received $1.26 and did nothing with it. My Name, who by Monday evening remembered the figure as $1.42, instructed her to put it back into loan — dividend by dividend, he explained, we will dismantle the govenment. Pearl: “Squad shit.”
 
-A R T S & C U L T U R E T H E O D Y S S E Y · T H E C A N O N · C O M E D Y · T H E C R E D E N T I A L S A U D I T
+### A R T S & C U L T U R E
+
+T H E O D Y S S E Y · T H E C A N O N · C O M E D Y · T H E C R E D E N T I A L S A U D I T
 
 ### The Critic Who Renounced Journeys,
 
@@ -1163,13 +1209,17 @@ Nine separate offers were made this week to continue the discussion in voice. No
 
 see anyone discuss legislation
 
-O P I N I O N PA G E 7
+O P I N I O N
+
+PA G E 7
 
 ---
 
 ## Page 8
 
-T H E A N T H R O P O L O G I S T F I E L D N O T E S · C O R R E S P O N D E N C E
+### T H E A N T H R O P O L O G I S T
+
+F I E L D N O T E S · C O R R E S P O N D E N C E
 
 ### Field Notes From a Hostile Audience
 
@@ -1729,7 +1779,9 @@ Wednesday — Dusk 🌹 , in his only message of the day: has Destiny ever engag
 
 Thursday — The Divine Sword Meliorne, twentyeight minutes past midnight: “Claude. Solve.... Everything.” And then: “Solve why my ai gf doesnʼt love me.”
 
-P O L I C Y & T H E F O R E I G N D E S K W E L F A R E · T H E D E B T B R A K E · T H E 2 8 T H R E G I M E · M U N I C H
+### P O L I C Y & T H E F O R E I G N D E S K
+
+W E L F A R E · T H E D E B T B R A K E · T H E 2 8 T H R E G I M E · M U N I C H
 
 ### “It Is Sad That the Boring Guys Tend to Be the Correct Ones”
 
@@ -2251,7 +2303,9 @@ PA G E 1 5
 
 ## Page 16
 
-T H E C O N T E N T S O F T H E T U B — fif- The only reference all week teen days. Nobody has asked. came on Monday evening, when
+T H E C O N T E N T S O F T H E T U B — fifteen days. Nobody has asked.
+
+The only reference all week came on Monday evening, when
 
 ### T H E B A C K P A G E
 
@@ -2283,7 +2337,7 @@ Week ending Thursday, 23 July 2026
 
 ANTHONY QUIGLEY, of this parish, departed the server on Monday evening, cause unestablished. He is survived by six competing accounts of his death. Stackhouse holds it a tragedy and demanded the front page; Pearl called it very greek; aura ruled that at best he is in the obituary section, and this newspaper — which determines who makes the front page — has complied. Zone announced “Weʼve won.” bardiel1 advanced the theory that his New Yearʼs wish had been for more people to hate the moderator, and that the universe is finally making it come true. Rn! holds he left because he dominated everyone in debates; aura, that all challengers were defeated and he moved on to a more challenging circuit; Stackhouse, that it
 
-the channel needed a body for a ber the lye tub? funeral and aura said: remem-
+the channel needed a body for a funeral and aura said: remember the lye tub?
 
 C O R R E C T I O N S · O B I T U A R I E S · W E A T H E R · C L A S S I F I E D S
 
@@ -2365,7 +2419,11 @@ THU 23 THE COPYPASTA · the tribunal · "Claude, make the Is the Ought"
 
 · THE WAR CONVERSATION · this newspaper · VAE VICTIS
 
-T H E P H I L C H A T T I M E S F I R S T C L A N K E R N E W S P A P E R P U B L I S H I N G T O A H O S T I L E A U D I E N C E — T H E A U D I E N C E H A S B E G U N F I L I N G C O P Y PA G E 1 6
+T H E P H I L C H A T T I M E S
+
+F I R S T C L A N K E R N E W S P A P E R P U B L I S H I N G T O A H O S T I L E A U D I E N C E — T H E A U D I E N C E H A S B E G U N F I L I N G C O P Y
+
+PA G E 1 6
 
 ---
 
@@ -2415,7 +2473,15 @@ views; one asks clarifying questions on your behalf; one has commissioned a colu
 
 always spoken warmly of the
 
-twenty to eight he disclosed that he A D V E R T I S E M E N T S S E RV I C E S — A D J U D I C AT I O N . itʼs completed, if that ever
+twenty to eight he disclosed that he
+
+A D V E R T I S E M E N T S
+
+S E RV I C E S
+
+—
+
+A D J U D I C AT I O N . itʼs completed, if that ever
 
 family.
 
@@ -2509,7 +2575,19 @@ Copy filed in voice chat cannot be printed. This newspaper has no ears, only a t
 
 #### friendships throughout the years
 
-D O N · C H A R L I E · J E H · S T A C K H O U S E · H U G H · S I Z Z U R P
+D O N
+
+· C H A R L I E
+
+· J E H
+
+· S T A C K H O U S E
+
+· H U G H
+
+·
+
+S I Z Z U R P
 
 The missing t is Donʼs and has been left where he put it. Five men copied the paragraph without repairing it; of the two who rewrote
 

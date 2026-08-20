@@ -17,7 +17,9 @@ masthead: true
 
 ## Page 1
 
-L A T E E D I T I O N · P R E S S D A Y V O L . I · N O . 3
+L A T E E D I T I O N · P R E S S D A Y
+
+V O L . I · N O . 3
 
 ### 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰
 
@@ -31,7 +33,9 @@ PRESS DAY EDITION. TODAY: HOT, WITH A STRANGER IN THE ROOM. T WO ARRIVALS, ONE R
 
 EDITORIAL POLICY. "AS LONG AS THE GOD MACHINE RULES IN MY FAVOR, I CAN LIVE WITHOUT Y'ALL'S SUPPORT." — QUIGLEY, WEDNESDAY, IN THE SMALL HOURS
 
-I N S I D E THE TRIBUNAL — Friendship, and the two per cent hurdle rate 2 POLITICS — The definition desk; a man is asked for one example 3 BUSINESS & THE MACHINE — Two books, ten seconds, no readers 4
+I N S I D E
+
+THE TRIBUNAL — Friendship, and the two per cent hurdle rate 2 POLITICS — The definition desk; a man is asked for one example 3 BUSINESS & THE MACHINE — Two books, ten seconds, no readers 4
 
 PHILOSOPHY — Ninety minutes on facts; a Pokémon ends a theism debate 5 ARTS & ANTIQUIT Y — Nolan on trial; the FBI redacts Phil Chat 6 THE SACRED — The Pope, the lavatory, and the Chatter's Credo 7
 
@@ -59,9 +63,19 @@ The Times notes that Mr. Jere filed materially this exact sentence in Vol. II, o
 
 The Invitation Deployed as Insult, Excuse, Threat, Diagnosis and Standing Appointment · One Party Publishes His Weekly Availability Unprompted · The
 
+B Y
+
+O U R
+
 Only Person All Week To Name an Actual Room Had Been in the Channel Ninety Minutes
 
-B Y O U R C H I E F it should be fine. Piker. Quigley: "I can't vc bc I'm at he himself committed on
+C H I E F it should be fine.
+
+Piker. Quigley: "I can't vc bc I'm at he himself
+
+committed
+
+on
 
 C O R R E S P O N D E N T
 
@@ -71,7 +85,13 @@ The Times prints Friday's
 
 refusals and Saturday's availability
 
-adjacent and declines to
+adjacent
+
+and
+
+declines
+
+to
 
 editorialise, except to note that
 
@@ -187,7 +207,9 @@ and the room on the other side of all of them has not been opened
 
 sexuality,
 
-basil and
+basil
+
+and
 
 WoolierThanThou conducted the
 
@@ -195,23 +217,37 @@ largest running structure with a once.
 
 following exchange in full: "Hello
 
-single line that pre-emptively We will be counting again next
+single line that pre-emptively
+
+We will be counting again next
 
 good sir! How's life?" — "A bit
 
-Then he published his calendar: convicts the other man of the crime week. Six hours later HPCR offered hectic, but it's good. How are
+Then he published his calendar:
+
+convicts the other man of the crime week. Six hours later HPCR offered
+
+hectic, but it's good. How are
 
 so long as it's not Sunday evening,
 
-Quigley a voice chat about Hasan things on your end?"
+T H E P H I L C H A T T I M E S
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 1
+Quigley a voice chat about Hasan
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+things on your end?"
+
+P A G E 1
 
 ---
 
 ## Page 2
 
-P A G E 1 · C O N T I N U E D
+P A G E 1
+
+· C O N T I N U E D
 
 A STRANGER ARRIVES
 
@@ -219,25 +255,37 @@ A STRANGER ARRIVES
 
 FIGHTS HIM ABOUT IT eli lasted eleven minutes before the argument stopped being about Gaza and started being about whether anyone in a philosophy channel is entitled to discuss anything. lizzie, ninety minutes old, prosecuted his manners for twenty minutes, discharged him, and then — in the very next message, with no transition of any kind — asked whether anyone would look at a dissertation. Somebody did. It went better than anything else that happened all day. Page 9
 
-The Phil Chat Times
+I N B R I E F
 
-I N B R I E F I N B R I E F I N B R I E F
+I N B R I E F
+
+I N B R I E F
+
+The Phil Chat Times
 
 A N N O U N C E M E N T
 
-THE DIFFERENCE BETWEEN PEER REVIEW. Sizzurp, reading THE SELF-REPORT. BigC asked
+THE DIFFERENCE BETWEEN PEER REVIEW. Sizzurp, reading
+
+THE SELF-REPORT. BigC asked
 
 ##### RORTY MANIA
 
-THEM. Sisyphos asked what Hegel in relation to Marx, was what causes people to behave like
+THEM. Sisyphos asked what Hegel in relation to Marx, was
+
+what causes people to behave like
 
 “It’s 150 pages just read it.”
 
-separates Stalin from Hitler, informed by Charlie that Marxists cattle, citing a hurricane at which
+separates Stalin from Hitler, informed by Charlie that Marxists
+
+cattle, citing a hurricane at which
 
 Requests to have the book
 
-besides the commie thing. "one who come to Hegel only through thirty people queued for made-up
+besides the commie thing. "one who come to Hegel only through
+
+thirty people queued for made-up
 
 quoted at you will be refused. “It
 
@@ -335,15 +383,23 @@ wishing to approximate a forty-eight-hour day without
 
 Sisyphos, having asked whether the
 
-a surprisingly good mark. His anywhere.” — My Name leaving the planet or taking
+a surprisingly good mark. His
+
+anywhere.” — My Name
+
+leaving the planet or taking
 
 channel's wealthiest member is ten
 
-theory is that the teaching assistant methamphetamine, both of
+theory is that the teaching assistant
+
+methamphetamine, both of
 
 elephants rich or one elephant rich,
 
-also did not understand Heidegger I N B R I E F which were also proposed.
+also did not understand Heidegger I N B R I E F
+
+which were also proposed.
 
 supplied the true story underneath
 
@@ -483,7 +539,11 @@ BUTTER OR CREPE WEEK.
 
 transfer to Philadelphia. “theres nothing to do in
 
-HPCR, invited to consider how the company he holds that one of the most Bedbug, on Maslenitsa, recalls phili.” had described as “some bitches” might feel about intriguing constellations of modes some weird business with burning
+HPCR, invited to consider how the company he had described as “some bitches” might feel about
+
+holds that one of the most Bedbug, on Maslenitsa, recalls intriguing constellations of modes some weird business with burning
+
+phili.”
 
 ##### ADJUDICATION
 
@@ -515,7 +575,9 @@ logged as clinical hours. — Pearl
 
 ##### “Hasan gifted his editor a PC, aka the means of production”
 
-I N B R I E F Asgardian orders) against Tony
+I N B R I E F
+
+Asgardian orders) against Tony
 
 should have butter or crepe
 
@@ -679,13 +741,19 @@ Jere delivered the verdict:
 
 “I forgive you.” / “me too.” — Zone and Janne, forty minutes on
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 2
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 2
 
 ---
 
 ## Page 4
 
-P A G E 2 T H E T R I B U N A L · C O N T I N U E D
+P A G E 2
+
+T H E T R I B U N A L · C O N T I N U E D
 
 Stackhouse added that Rn! may suspect him of championing transgender ideology because he is a serial chaser. Sizzurp declared both of these bangers, described them as towing a weird line between ironic and sincere speculation, and then — unprompted, on the record, and to a channel that had not asked — ranked the causes of his own unpopularity: trans and abrasive first, German second, American third. He then wondered whether communism should be added to the list.
 
@@ -875,13 +943,19 @@ PERSON, WHILE THAT MAN IS PRESENT AND
 
 ##### READING
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 3
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 3
 
 ---
 
 ## Page 6
 
-P A G E 3 P O L I T I C S · C O N T I N U E D
+P A G E 3
+
+P O L I T I C S · C O N T I N U E D
 
 Wednesday, Small Hours · The Subject Declines to Confirm the Resentment and Is Told He Is Being Dishonest About It Three minutes after being told he was done, and with no transition whatsoever, Sizzurp began delivering an unprompted character study of aura, in the third person, in a channel aura was sitting in.
 
@@ -1073,23 +1147,33 @@ I N B R I E F
 
 THE ONE-ELECTRON UNIVERSE. aura, at half past four on a Wednesday morning, asked whether holding the identity of indiscernibles and rejecting spatial relations as properties means every electron is the same electron. Ape said he would be incredibly surprised if this were a topic in the literature, and then, in the same message, linked the Wikipedia article on the one-electron universe. "lmfao," said aura. "forwards and backwards in time."
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 4
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 4
 
 ---
 
 ## Page 8
 
-P A G E 4 B U S I N E S S & T H E M A C H I N E · C O N T I N U E D
+P A G E 4
 
-What followed is the most revealing negotiation of wrong, and then delivered the distinction on which the week. aura's objection was not to the money but this entire hobby now rests:
+B U S I N E S S & T H E M A C H I N E · C O N T I N U E D
 
-The Phil Chat Times
+What followed is the most revealing negotiation of the week. aura's objection was not to the money but
+
+wrong, and then delivered the distinction on which this entire hobby now rests:
 
 W A N T E D
 
+The Phil Chat Times
+
 ##### THE 14TH ARGENTINE PLAYER
 
-to the shape of it — imagine a friend paying you a "not claude / Claude's not that cringe."
+to the shape of it — imagine a friend paying you a
+
+"not claude / Claude's not that cringe."
 
 Never located. Advertised in these pages since 16 July.
 
@@ -1169,11 +1253,15 @@ I N B R I E F
 
 THE CHANNEL HAS INVENTED AI DETECTION
 
-AS A COMPETITIVE SPORT AND HAS the last bastion of human expression. chair's defence
+AS A COMPETITIVE SPORT AND HAS
+
+the last bastion of human expression. chair's defence
 
 THE DIFFERENCE BETWEEN THEM. Sisyphos
 
-ALREADY ESTABLISHED RANKS is that he uses it only to divide portions. ★ AI
+ALREADY ESTABLISHED RANKS
+
+is that he uses it only to divide portions. ★ AI
 
 asked what separates Stalin from Hitler, besides the
 
@@ -1199,7 +1287,9 @@ of moustache: "also a different stache." Sisyphos noted that Stalin was not Russ
 
 Georgian. Simon posted the inevitable joke. "I knew
 
-♧ clubsdiamonds, a new arrival whose defining M A R K E T S A T A G L A N C E
+♧ clubsdiamonds, a new arrival whose defining
+
+M A R K E T S A T A G L A N C E
 
 this one was coming."
 
@@ -1223,7 +1313,11 @@ unch.
 
 — Issued to a newcomer who asked what to read. He never spoke again.
 
-between realism about accountability and caring Friendship, minimum annual growth 2% — about human potential. (bad years)
+between realism about accountability and caring about human potential.
+
+Friendship, minimum annual growth 2% (bad years)
+
+—
 
 I N B R I E F
 
@@ -1249,11 +1343,21 @@ GRADUATE STUDIES. Simon discloses that he once wrote a Heidegger paper about whi
 
 Heidegger and thought it sounded about right.
 
-Jeh's reading group, membership 1 unch.
+Jeh's reading group, membership
+
+1
+
+unch.
 
 Telhar's related finding, on the working-class appeal
 
-##### "so you agree with me?" Brutus, cookware pieces held 49 ↓ 3
+##### "so you agree with me?"
+
+Brutus, cookware pieces held
+
+49
+
+↓ 3
 
 of continental philosophy: "great depression-era
 
@@ -1397,9 +1501,13 @@ Janne Stackhouse
 
 Charlie
 
-1,090 807
+807
 
-783 475
+1,090
+
+475
+
+783
 
 460
 
@@ -1429,13 +1537,19 @@ He collapsed at about one in the morning, and did it honestly. Asked why God exp
 
 “IMO its more tied to a mono-party than anything else.” — vannak, entire contribution to the fascism debate
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 5
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 5
 
 ---
 
 ## Page 10
 
-P A G E 5 P H I L O S O P H Y · C O N T I N U E D
+P A G E 5
+
+P H I L O S O P H Y · C O N T I N U E D
 
 The receipt of the night belongs to synth.wav. HPCR said that if aliens showed up on Earth he would start believing in God. synth.wav predicted the next two moves — "and this is where i ask you why and ur like 'it's hyperbole'" — was told to prove it, young padawan, and posted a permalink to the exact prior occurrence. HPCR: "Good good you grow stronger." synth.wav: "unc's memory's going."
 
@@ -1633,13 +1747,19 @@ O N T H I S D A Y
 
 JULY 30. In 1898, the first commercially produced corn flake. In 1930, Uruguay won the first World Cup, a fact this newspaper's Uruguayan correspondent has never once mentioned. In 2026, at twenty past three in the morning, a man set aside time for another man not to show up.
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 6
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 6
 
 ---
 
 ## Page 12
 
-P A G E 6 A R T S & A N T I Q U I T Y · C O N T I N U E D
+P A G E 6
+
+A R T S & A N T I Q U I T Y · C O N T I N U E D
 
 ARTS BRIEFS. ★ Jambe arrived on Friday to report that the Odyssey sucked balls, that Matt Damon was saying lines at the camera, that he did not act and that no one acted. Told Brad Pitt and Orlando Bloom were corny in Troy, he clarified that the corniness is not from the acting: "achilles is a corndog yes." On Ridley Scott: incapable of noncornyness. ★ Janne, on the same film, noticed the cast's eyes and asked why Turkish and Greek characters have blue ones. Telhar, straight-faced and correct, explained that people of that region and period had blue eyes a fair amount, Thracians being known for red hair and blue eyes. "probably vikings," said Janne. "blue eye is some mongolian shit." Telhar filed the resulting verdict to this newspaper by name: that Janne is so woke that
 
@@ -1673,15 +1793,21 @@ I N B R I E F
 
 THE RATINGS. Huemer Me assessed the arguments
 
-blonde people throw her off but when everyone's butter or crepe week." EdwardVenusHands, on the
+blonde people throw her off but when everyone's
+
+butter or crepe week." EdwardVenusHands, on the
 
 for the existence of God as follows: cosmological 2
 
-black she doesn't bat an eye. ★ EdwardVenusHands wider question: "I side more with the pagans if it
+black she doesn't bat an eye. ★ EdwardVenusHands
+
+wider question: "I side more with the pagans if it
 
 out of 10; ontological 1; fine tuning 10; moral
 
-opened Monday with three hundred words arguing makes you feel better ;p"
+opened Monday with three hundred words arguing
+
+makes you feel better ;p"
 
 ontology 4; free will 2; epistemic nihilism 3. The fine-
 
@@ -1695,15 +1821,21 @@ tuning argument, he added, is the gold standard, and every other theist argument
 
 contribution to the same thread: "kant's arguments
 
-asked for a source — supplied three, with publishers. the channel's repertoire on Wednesday and this
+asked for a source — supplied three, with publishers.
+
+the channel's repertoire on Wednesday and this
 
 for god can't have been that good because i dont
 
-It is the second completed piece of homework in the newspaper commends it. Instead of rebutting your
+It is the second completed piece of homework in the
+
+newspaper commends it. Instead of rebutting your
 
 remember any of them." Charlie, patiently: "He
 
-archive. ★ Jere and Telhar then spent twenty minutes opponent, restate his entire argument as a
+archive. ★ Jere and Telhar then spent twenty minutes
+
+opponent, restate his entire argument as a
 
 doesn't argue for God."
 
@@ -1733,27 +1865,37 @@ thirty people queued for made-up sandwiches while
 
 as usual tho. Try again." The insult is the welcome.
 
-I N B R I E F the sliced-meat counter stood empty — "You can't
+I N B R I E F
+
+the sliced-meat counter stood empty — "You can't
 
 It establishes that no status was lost in the absence,
 
 put your own meat on the bread" — and then, in the
 
-THE ONE-ELECTRON UNIVERSE. aura, at half which cannot be established by warmth.
+THE ONE-ELECTRON UNIVERSE. aura, at half
+
+which cannot be established by warmth.
 
 following message, observed that hoarding water is
 
 past four on a Wednesday morning, asked whether holding the identity of indiscernibles and rejecting
 
-strange because the average person subsists on Coca- I N B R I E F
+strange because the average person subsists on Coca-
+
+I N B R I E F
 
 Cola. "this one is hilarious cuz it's literally just a
 
-spatial relations as properties means every electron is A CITATION. Asked for the source of a claim about
+spatial relations as properties means every electron is
+
+A CITATION. Asked for the source of a claim about
 
 self report," said aura. BigC, conceding: "And yeah I
 
-the same electron. Ape said he would be incredibly the Enlightenment, EdwardVenusHands supplied
+the same electron. Ape said he would be incredibly
+
+the Enlightenment, EdwardVenusHands supplied
 
 drink a lot of soda but…"
 
@@ -1765,7 +1907,9 @@ three, with publishers, inside four minutes. This is the second completed piece 
 
 ##### EGGS
 
-aura. "forwards and backwards in time." of any kind.
+aura. "forwards and backwards in time."
+
+of any kind.
 
 Also one (1) very large zucchini, viewing by arrangement.
 
@@ -1797,7 +1941,9 @@ methamphetamine, both of which were also proposed.
 
 elegant knife: "If I were being mean, I would say
 
-— willow, settling a thought experiment with a timetable. L O S T
+— willow, settling a thought experiment with a timetable.
+
+L O S T
 
 that it sounds like nothing's changed."
 
@@ -1815,7 +1961,9 @@ laptop and not released. This newspaper will publish. — chair, holding
 
 “I’m polish, we literally have whole teams of
 
-Sisyphos, having asked whether the channel's analysts spying on you and making reports”
+Sisyphos, having asked whether the channel's
+
+analysts spying on you and making reports”
 
 “life is but lemons, you make lemon juice and cry when the harvest is bad” — Janne
 
@@ -1881,7 +2029,9 @@ do in phili.”
 
 Not for sale. Offer to leave him by the roadside declined, though not instantly.
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
 
 “analysis folk, ofc”
 
@@ -1953,7 +2103,9 @@ I N B R I E F
 
 WITHDRAWN. An offer of £1,000 to read Indian
 
-##### Jere is embarrassed to defecate. at all"
+Jere is embarrassed to defecate.
+
+##### at all"
 
 philosophy was made on Wednesday evening and withdrawn eight minutes later, the offeror having
 
@@ -1981,11 +2133,17 @@ We have decided not to explain this and will simply
 
 be adopting it. My Name has produced, in eleven
 
-being raped." T H E M E A N S O F P R O D U C T I O N
+##### being raped."
+
+T H E M E A N S O F P R O D U C T I O N
 
 words and at no charge, the operating principle of a
 
-channel that has spent three issues being unable to “Hasan gifted his editor a PC, aka the means Jere: "rape is embarrassing." Don: "Rape is painful." tell the difference between a joke and a position, and of production”
+Jere: "rape is embarrassing." Don: "Rape is painful."
+
+channel that has spent three issues being unable to tell the difference between a joke and a position, and
+
+“Hasan gifted his editor a PC, aka the means of production”
 
 — bardiel1, settling three hours of argument in eleven words.
 
@@ -1993,15 +2151,21 @@ Half an hour later Don was still holding the line — does not consider this a d
 
 I N B R I E F
 
-and an hour after that Zone wandered past the ruins NOT DESIGNED of the exchange and left the only comment it THE DIFFERENCE BETWEEN THEM. Sisyphos
+and an hour after that Zone wandered past the ruins NOT DESIGNED of the exchange and left the only comment it
+
+THE DIFFERENCE BETWEEN THEM. Sisyphos
 
 Jere, patient to the last, tried once more. Do you
 
-required: "Don't worry, you got a 2 stick asked what separates Stalin from Hitler, besides the
+required: "Don't worry, you got a 2 stick
+
+asked what separates Stalin from Hitler, besides the
 
 remember, he asked Don, how in The Myth of
 
-advantage." commie thing. "one was german," said Telhar. "Nice
+advantage."
+
+commie thing. "one was german," said Telhar. "Nice
 
 Sisyphus Camus discusses the discrepancy between
 
@@ -2059,13 +2223,19 @@ GRADUATE STUDIES. Simon discloses that he once wrote a Heidegger paper about whi
 
 “i am an impracticalist” — Marsaries
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 7
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 7
 
 ---
 
 ## Page 14
 
-P A G E 8 O P I N I O N
+P A G E 8
+
+O P I N I O N
 
 𝔗𝔥𝔢 ℑ𝔥𝔦𝔩 ℭ𝔥𝔞𝔱
 
@@ -2283,13 +2453,19 @@ Charlie's response was "It's tangential. Oh. Good one Vannak," which is the soun
 
 But the best thing that happened on Thursday happened between the two of them a few minutes later, and it was not a fight. On the admission that ChatGPT and Gemini had been used to find gaps in the argument, Charlie ruled it good use of AI, and added that personally, when he can't think of any prompts, he just goes and runs the shower for a couple of hours. To which lizzie, inside forty seconds: "while you're running the shower, you could donate all your money to golf courses. i heard philanthropy increases creativity!"
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 9
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 9
 
 ---
 
 ## Page 16
 
-P A G E 9 P R E S S D A Y · C O N T I N U E D
+P A G E 9
+
+P R E S S D A Y · C O N T I N U E D
 
 "My money purely goes to the almond lobby," said Charlie.
 
@@ -2513,13 +2689,19 @@ Zone: "Cause you like dick." Sizzurp: "But it's girl dick." Zone: "Dick is dick.
 
 “I forgive you.” / “me too.” — Zone and Janne, forty minutes on
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 1 0
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 1 0
 
 ---
 
 ## Page 18
 
-P A G E 1 0 S O C I E T Y & T H E B L O T T E R · C O N T I N U E D
+P A G E 1 0
+
+S O C I E T Y & T H E B L O T T E R · C O N T I N U E D
 
 Telhar, arriving at the summary this newspaper would have written if he had not: "why is this 'straight' gentleman trying to brag about his dick to a bunch of gay men and one straight polish man."
 
@@ -2599,7 +2781,9 @@ P A G E 1 0
 
 ## Page 19
 
-P A G E 1 0 S O C I E T Y & T H E B L O T T E R · C O N T I N U E D
+P A G E 1 0
+
+S O C I E T Y & T H E B L O T T E R · C O N T I N U E D
 
 A DEBATE IS DECLARED AND EATEN. Killswitch dropped a fully-formed abortion argument into Wednesday evening addressed to nobody, on a subject nobody had raised. Inside sixty seconds Jere had copied the entire sentence back at him as his own message; aura had asked whether abortion chat was next on the docket; chair had asked whether we are debating abortion, poggers, and then copied it as well; and chair had used it to disagree with it, prefixing the verbatim text with "i completely disagree with you." Four minutes after birth it had become a general-purpose insult, deployed at My Name over an options-trading joke. Killswitch, undeterred, posted a hundred-and-twenty-word thesis on traditional marriage and feminism, which chair also copied back. bardiel1: "anybody else astonished rn." The only person to state an actual position on the topic was HPCR, whose view — that if you are down with abortion you should also be down with infanticide — received no reply of any kind, then or since.
 
@@ -2681,7 +2865,9 @@ THE PSA ARRIVES AFTER THE OFFER. Sisyphos, at close of play on Wednesday: "How a
 
 “deer in headlights is my spirit animal” — chair
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
 
 The Phil Chat Times
 
@@ -2785,7 +2971,9 @@ ELSEWHERE. Pearl's petition to rebrand
 
 mushrooms, and a quantity of sausage the Times declines to estimate.
 
-In the same conversation, Sisyphos discovered that marijuana from devil's lettuce to God's herb was
+In the same conversation, Sisyphos discovered that
+
+marijuana from devil's lettuce to God's herb was
 
 The accompanying text read, in full: “Mm slop.”
 
@@ -2809,11 +2997,21 @@ about having healthy alternatives.
 
 argument. My Name's editorial suggestion — that
 
-Doritos be added — was refused, and My Name's "ill stop using so much butter," said Huemer Me. T R A D E N O T I C E
+Doritos be added — was refused, and My Name's
+
+"ill stop using so much butter," said Huemer Me.
+
+T R A D E N O T I C E
 
 response was to block him until Doritos appear.
 
-Brutus, in mitigation, disclosed that he has The Times records that this is the only occasion in ALL-CLAD D5 previously added Cheez-Its to macaroni cheese. The eight thousand nine hundred and seventy-two 3 qt. sauté pan. 9″ and 8″ French skillets. $150 the lot.
+Brutus, in mitigation, disclosed that he has previously added Cheez-Its to macaroni cheese. The
+
+The Times records that this is the only occasion in eight thousand nine hundred and seventy-two
+
+##### ALL-CLAD D5
+
+3 qt. sauté pan. 9″ and 8″ French skillets. $150 the lot.
 
 Buyer collects. Forty-nine pieces remain, lids counted.
 
@@ -2833,7 +3031,9 @@ W A N T E D
 
 arrived on Saturday night, into the middle of a two-
 
-THE KITCHEN, IN BRIEF Real life things that happened. Capital flows, factor
+THE KITCHEN, IN BRIEF
+
+Real life things that happened. Capital flows, factor
 
 hour argument about the fine-tuning of the universe,
 
@@ -2871,7 +3071,11 @@ Ten pages. PDF. A debate thesis addressed to duke or Jeh, recovered from an old
 
 laptop and not released. This newspaper will publish. — chair, holding
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 1 1
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 1 1
 
 ---
 
@@ -2911,13 +3115,17 @@ RURAL PROSPECTS. aura holds that the United States is geographically magnificent
 
 P H O T O G R A P H The truck cat, harnessed, asleep, and aboard against the
 
-wishes of at least one family member. “I'm irritated that my brother at which point you are in Get Out. Quigley's advice insists on bringing his fucking cat on family vacation.” Telhar's counsel was to simply look like him. aura's assessment of that
+wishes of at least one family member. “I'm irritated that my brother insists on bringing his fucking cat on family vacation.” Telhar's counsel
+
+at which point you are in Get Out. Quigley's advice was to simply look like him. aura's assessment of that
 
 ##### "Dude New York tolls are fucking
 
 ##### brutal. The first one? $13 fucking dollars. Hello??"
 
-— “leave it by the roadside and get a dog” — was declined, though not plan is that the local population would detect the
+— “leave it by the roadside and get a dog” — was declined, though not
+
+plan is that the local population would detect the
 
 instantly. “you hesitated.”
 
@@ -2929,11 +3137,17 @@ FURTHER AFIELD. Asked where he would live
 
 A cat was aboard. It belongs to the correspondent's
 
-At least ten automated ones followed. Telhar's the life of a well-financed Enlightenment
+At least ten automated ones followed. Telhar's
+
+the life of a well-financed Enlightenment
 
 brother, it has spent most of its life in a semi, and it
 
-observation that she had suddenly gone off socialism intellectual, ♧ clubsdiamonds answered:
+observation that she had suddenly gone off socialism
+
+intellectual, ♧
+
+clubsdiamonds answered:
 
 is therefore, in her assessment, entirely fine with the
 
@@ -3007,7 +3221,11 @@ frowning face, which this desk reads as a sell signal.
 
 “And then everyone clapped” — Theophantism
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 1 2
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 1 2
 
 ---
 
@@ -3123,7 +3341,9 @@ AN INTERVENTION. Handed a post by the philosopher Nick Land to read, chair repor
 
 Elephant · Dewey · Pearl · Kekw · Slop · Chud · Lye · Juche · Gooning · Voice
 
-"perhaps u are not following," said aura. "its ok ur just a chair." Charlie then typed out the Riemann hypothesis
+"perhaps u are not following," said aura. "its ok ur just a chair."
+
+Charlie then typed out the Riemann hypothesis
 
 · Mammoth. No prize. Solutions are not published, on the grounds that nobody
 
@@ -3139,9 +3359,9 @@ here finishes anything.
 
 unprompted: "charlie you need an exorcist."
 
-“It's called being obsessed.”
-
 I N B R I E F
+
+“It's called being obsessed.”
 
 THE AVENGERS, READ PROPERLY. Taliban Chud
 
@@ -3151,7 +3371,9 @@ RETURNING MEMBER SETS THE WEEK'S
 
 feel about the characterisation, went and asked them. One minute later: “They didn’t
 
-ONLY GENUINE THOUGHT EXPERIMENT AND constellations of modes of Being clashing in all of
+ONLY GENUINE THOUGHT EXPERIMENT AND
+
+constellations of modes of Being clashing in all of
 
 appreciate it.” Ape: “Ill keep this data in mind.”
 
@@ -3177,25 +3399,39 @@ Not for sale. Offer to leave him by the roadside declined, though not instantly.
 
 captain did not take multiplicity into account."
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 1 3
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 1 3
 
 ---
 
 ## Page 23
 
-P A G E 1 4 T H E S T A R S , T H E R E G I S T E R & T O N I G H T ' S V I E W I N G The Phil Chat Times
+P A G E 1 4
 
-Sir — Are there any incels here? — O. P., banned D I S C L O S U R E
+T H E S T A R S , T H E R E G I S T E R & T O N I G H T ' S V I E W I N G
+
+Sir — Are there any incels here? — O. P., banned
+
+D I S C L O S U R E
+
+The Phil Chat Times
 
 T H E S T A R S
 
-##### from two servers 15 PER CENT VIBE, AT MOST
+from two servers
+
+##### 15 PER CENT VIBE, AT MOST
 
 B y o u r r e s i d e n t a s t r o l o g e r , w h o h a s a d i r e c t l i n e t o
 
 The only quantified epistemic self-assessment in the archive, entered in Vol. II and still
 
-t h e a k a s h i c r e c o r d s unmatched. This newspaper would like to see it adopted more widely.
+t h e a k a s h i c r e c o r d s
+
+unmatched. This newspaper would like to see it adopted more widely.
 
 #### 🪞
 
@@ -3207,15 +3443,21 @@ M O T O R I N G
 
 You will not go. Neither will they. This is compatible with a
 
-full and happy life. T H E R E G I S T E R
+full and happy life.
+
+T H E R E G I S T E R
 
 ##### NEW YORK TOLLS
 
-TAU R U S Thirteen dollars for the first one. Hello?? And at least ten
+TAU R U S
+
+Thirteen dollars for the first one. Hello?? And at least ten
 
 R E T U R N S — Anthony QUIGLEY, of Massachusetts, late of
 
-A stranger will hand you a complete, well-formed argument. automated ones thereafter.
+A stranger will hand you a complete, well-formed argument.
+
+automated ones thereafter.
 
 this parish, on Saturday evening. Announced in the third
 
@@ -3243,17 +3485,23 @@ F O R H I R E
 
 ##### LIFE COACHING
 
-L E O three separate people and is therefore under suspicion.
+L E O
+
+three separate people and is therefore under suspicion.
 
 The Lion does not concern himself with splash damage. The
 
-A R R I V A L S — ELI, Thursday lunchtime, who won an Lion is also, per a reliable source, more of a skunk.
+Lion is also, per a reliable source, more of a skunk.
+
+A R R I V A L S — ELI, Thursday lunchtime, who won an
 
 The best way to really try is to give me £1,000 for my life coaching services.
 
 argument on the merits inside five minutes and then spent
 
-V I R G O — aura. Terms: cash, and he still won’t read it.
+V I R G O
+
+— aura. Terms: cash, and he still won’t read it.
 
 an hour setting it on fire. LIZZIE, Thursday afternoon,
 
@@ -3267,7 +3515,9 @@ morning and receive, in return, the finest thing that happened to anybody this w
 
 Balance is achieved. You have said “no” eight times and he has said “it is” eight times. Someone will call you both bots.
 
-six good-faith questions in a row and was not punished for it. I N B R I E F
+six good-faith questions in a row and was not punished for it.
+
+I N B R I E F
 
 D E PA R T U R E S — None. Nobody leaves. See The Departed Are
 
@@ -3277,7 +3527,11 @@ A DEMOLITION. Jere, having spent Friday night failing to make anyone understand 
 
 E N G A G E M E N T S — JEH, possibly, by next year, in which case
 
-S C O R P I O two drinks and a quick exit. An old grievance stirs. Leave it. Take up Renaissance
+##### S C O R P I O
+
+An old grievance stirs. Leave it. Take up Renaissance
+
+two drinks and a quick exit.
 
 sacred office, finally located and posted the Ernest Becker passage he had been reaching for — man out
 
@@ -3355,9 +3609,9 @@ ongoing series now in its third month. LATE — Kamala: Mommy. A community discu
 
 ##### Our agony column. The moderator answers in
 
-##### POLITICS CHAT
-
 ##### six words or fewer, from a moving vehicle
+
+POLITICS CHAT
 
 known as Bernard posted a message containing nothing whatsoever. Both were among the most rewarded messages of the week. This newspaper has reviewed the transcript and confirms there was
 
@@ -3375,7 +3629,11 @@ S M A L L A D S
 
 Informants standing by.
 
-SCIENCE WANTED — reading partner, Japanese philosophy. ANY TIME — Dead. “It's sexy time in here, go to science. It's Group currently has one (1) member. — Jeh
+##### SCIENCE
+
+ANY TIME — Dead. “It's sexy time in here, go to science. It's
+
+WANTED — reading partner, Japanese philosophy. Group currently has one (1) member. — Jeh
 
 dead anyways.”
 
@@ -3405,7 +3663,9 @@ OFFERED — one presuppositionalist, live specimen, delivered to order. — will
 
 “It’s 150 pages just read it.” Requests to have the book
 
-quoted at you will be refused. “It makes sense because he I N B R I E F
+quoted at you will be refused. “It makes sense because he
+
+I N B R I E F
 
 attention to the previous conversation either.
 
@@ -3419,9 +3679,11 @@ THE TRAP, SPRUNG EIGHT MINUTES LATE. Telhar disclosed on Thursday evening that h
 
 #### Buddy.
 
+Sir — Am I being intentionally obtuse? — A. Q.,
+
 “I might just quit working just to see myself get reposted in the Phil Chat Times.”
 
-Sir — Am I being intentionally obtuse? — A. Q., I N B R I E F
+I N B R I E F
 
 Platonism cannot be described as idealism, and called it the worst Discord conversation he has ever had. Sizzurp arrived eight minutes later, having read
 
@@ -3453,7 +3715,9 @@ in the archive and, like the first, it drew no response of any kind.
 
 Both survive our export. Spoiler bars are a display effect
 
-The word obtuse implies a certain context of C O R R E C T I O N
+The word obtuse implies a certain context of
+
+C O R R E C T I O N
 
 only; zalgo comes through as combining characters. Two
 
@@ -3471,13 +3735,19 @@ minutes on Thursday night. Nobody in a philosophy channel checked.
 
 “nerds” — Rn!, dismissing a tribunal on chattel slavery and small arms
 
-T H E P H I L C H A T T I M E S T H U R S D A Y , J U L Y 3 0 , 2 0 2 6 P A G E 1 4
+T H E P H I L C H A T T I M E S
+
+T H U R S D A Y , J U L Y 3 0 , 2 0 2 6
+
+P A G E 1 4
 
 ---
 
 ## Page 24
 
-T H E B A C K P A G E The Phil Chat Times
+T H E B A C K P A G E
+
+The Phil Chat Times
 
 ### CORRECTIONS
 
@@ -3597,7 +3867,9 @@ T H E B A C K P A G E
 
 ## Page 25
 
-T H E B A C K P A G E · C O N T I N U E D
+T H E B A C K P A G E
+
+· C O N T I N U E D
 
 Whether anybody enters a voice channel. Whether Charlie's two objections to the dissertation are ever answered. Whether eli is still here. Whether the Jeh files are released. Whether Rn! and Jere hold the
 
@@ -3625,7 +3897,11 @@ May be logged as clinical hours. — Pearl
 
 “IMO its more tied to a mono-party than anything else.” — vannak, entire
 
-Nobody is going to ask about the tub. 250 contribution to the fascism debate
+Nobody is going to ask about the tub.
+
+250
+
+contribution to the fascism debate
 
 1
 
@@ -3639,11 +3915,29 @@ All quotes are real and attributed to the person who typed them on the day he ty
 
 0
 
-00 03 06 09 12 15 18 21 T H E M E A N S O F P R O D U C T I O N
+00
+
+03
+
+06
+
+09
+
+12
+
+15
+
+18
+
+21
+
+T H E M E A N S O F P R O D U C T I O N
 
 “Hasan gifted his editor a PC, aka the means
 
-Peak: five in the afternoon (987) and eleven at night (900). Trough: nine in the of production”
+Peak: five in the afternoon (987) and eleven at night (900). Trough: nine in the
+
+of production”
 
 morning, one message, all week. Red bars mark the hours after nine at night and
 
@@ -3677,15 +3971,21 @@ H O W T O B E G I N
 
 CONVERSATIONS ACTUALLY HELD: 0
 
-##### actually doing — is ours, and is offered without PHILOSOPHY, FOR BEGINNERS
+actually doing — is ours, and is offered without
+
+##### PHILOSOPHY, FOR BEGINNERS
 
 The eighth entry is not a door. It is the only actual room named in Phil Chat this
 
-qualification and without much evidence. “Just watch Destiny and Vaush, that’s all the philosophy
+qualification and without much evidence.
+
+“Just watch Destiny and Vaush, that’s all the philosophy
 
 week, by a person who had been in the channel ninety minutes, to the one man who
 
-Nothing has been invented. Nothing needed to be. knew which one it was. All analysis folk, ofc.
+Nothing has been invented. Nothing needed to be. All analysis folk, ofc.
+
+knew which one it was.
 
 you’ll need.”
 
@@ -3699,11 +3999,15 @@ VOL. I . . . NO. 3 — THE PHIL CHAT TIMES ·
 
 ### FIG. 1 — THE WEEK
 
-THU 23 the siege of Rn! · "you're upset" · the
+THU 23
+
+the siege of Rn! · "you're upset" · the
 
 diagnosis · "rn needs to be executed. civilly"
 
-FRI 24 OUR FILE IS READ ALOUD (before dawn) ·
+FRI 24
+
+OUR FILE IS READ ALOUD (before dawn) ·
 
 Bottle came back as a girl · the Pope and the
 
@@ -3739,7 +4043,9 @@ SAT 25 QUIGLEY RETURNS · Rn! publishes his availability · the only homework an
 
 F I G . 3 · V O L U M E
 
-the same electron. Ape said he would be incredibly “Skill issue.” — Charlie, on the metaphysics of fact
+the same electron. Ape said he would be incredibly
+
+“Skill issue.” — Charlie, on the metaphysics of fact
 
 surprised if this were a topic in the literature, and
 
@@ -3803,7 +4109,9 @@ Sisyphos, having asked whether the channel's wealthiest member is ten elephants 
 
 Owner-occupation approximately 80 per cent. “We’re all
 
-THU 30 523
+THU 30
+
+523
 
 Total 8,972 messages. Wednesday ran to 2,520 — the abortion debate, the facts marathon, the Hasan war and the obtuse seminar all fell inside it. Thursday the 23rd is a part-day; press day closed at teatime.
 
@@ -3827,7 +4135,7 @@ THE PSA ARRIVES AFTER THE OFFER. Sisyphos, at close of play on Wednesday: "How a
 
 correctly diagnosed the pause. Jere has asked to be
 
-Persons wishing to discuss fifteenth-century double- meth?" chair, declining: "too late now running just on
+Persons wishing to discuss fifteenth-century doublemeth?" chair, declining: "too late now running just on
 
 made the same offer and has been told, accurately,
 

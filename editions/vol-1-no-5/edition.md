@@ -31,7 +31,11 @@ V O L . I · N O . 5
 
 ##### “All the Discourse That’s Fit to Scroll”
 
-PHIL CHAT, DISCORD T H U R S D AY, A U G U S T 1 3 , 2 0 2 6 PRICE: ONE (1) REFLECTIVE PARTICIPATION
+PHIL CHAT, DISCORD
+
+T H U R S D AY, A U G U S T 1 3 , 2 0 2 6
+
+PRICE: ONE (1) REFLECTIVE PARTICIPATION
 
 WEEK ENDING THURSDAY. 21,206 messages · 463 images · 2,017 reactions, which is 7.4 per cent of everything said, up from 4.8. Thirteen fewer people said twenty per cent more and
 
@@ -47,7 +51,9 @@ THE PRESS ROOM — the night it didn’t ship — the pages that did not run THE
 
 THE HELPDESK — five solutions, one site6
 
-DOXXING DESK — and spiders 7
+DOXXING DESK — and spiders
+
+7
 
 THE REGISTRY — blocked until i read it 8
 
@@ -65,7 +71,9 @@ WILLOW DESK — a welfare check CONSCIOUSNESS — the silent debate HEALTH — l
 
 BUSINESS — according to the market 17 ARRIVALS & BOOKS — inside the whale 18
 
-TWO COSMOLOGIES — found it. 19 blankey
+TWO COSMOLOGIES — found it. blankey
+
+19
 
 POWER RANKINGS — everybody, this time IN BRIEF — the rest of it BACK OF BOOK — deaths; the body count THE STARS — ask pearl BY THE NUMBERS — the room, measured
 
@@ -85,7 +93,9 @@ A reader blocks the publisher · The source code of Issue One is found to be gon
 
 pages circulate as photographs · By Wednesday the philosophy channel is shipping software
 
-##### B Y O U R M E D I A C O R R E S P O N D E N T “if theres no newspaper, whats the point
+B Y O U R M E D I A C O R R E S P O N D E N T
+
+##### “if theres no newspaper, whats the point
 
 T H E C O U N T · W E E K E N D I N G
 
@@ -137,7 +147,9 @@ Charlie, Thursday, 10:51 p.m. — four
 
 looking for something else to lead on and the room it and panned it. Hugh, on the collapse of the evening,
 
-laughing, three sobbing. Joint mostwould not let us have one. filed the epitaph: “When god disappoints, what hope
+laughing, three sobbing. Joint mostwould not let us have one.
+
+filed the epitaph: “When god disappoints, what hope
 
 reacted message of the week. Page 2.
 
@@ -243,17 +255,23 @@ T H E R E V I E W S
 
 variable was isolated, the result was unambiguous, “tommorow.” Asked where to contribute, he was told:
 
-and the man who ran the study has three messages to “ok it looks shit” — on the midnight edition.
+and the man who ran the study has three messages to
+
+“ok it looks shit” — on the midnight edition.
 
 “Nowhere.”
 
-his name. “Nice, but what happened to the At 11:21 p.m., thirty seconds before the issue
+his name.
+
+At 11:21 p.m., thirty seconds before the issue
+
+“Nice, but what happened to the
 
 blackletter heading :pain:” — Hugh, Friday
 
-##### finally shipped, Hugh dropped a full biography of
-
 ##### THE FIGHT
+
+finally shipped, Hugh dropped a full biography of
 
 morning, on the fixed one.
 
@@ -353,7 +371,9 @@ Pearl was given a section and reported the effect in three words: “I feel spec
 
 entry, discovered he had been denied A tier by the
 
-##### “bro were remaking monte carlo newspaper he publishes, and lodged an appeal: “Either simulations using the fucking model x way, you basically forfeited. That should easily make me
+##### “bro were remaking monte carlo simulations using the fucking model x
+
+newspaper he publishes, and lodged an appeal: “Either way, you basically forfeited. That should easily make me
 
 A tier alone.” He is on page 20. He got S. The reasoning,
 
@@ -533,9 +553,11 @@ P A G E 4
 
 ## Page 5
 
-### The Effort Tables Commissioned by three readers, each of whom assumed it would flatter him
+### The Effort Tables
 
 T H E C O M M I S S I O N S · O N T H E R E C O R D
+
+Commissioned by three readers, each of whom assumed it would flatter him
 
 Reaction counts reward the people who are funny in one line and punish the people who write. That objection was raised in this channel by three separate men who each expected the correction to promote them. My Name asked for reply rates. Ape and Stackhouse asked for average message length. All three are below. Minimum ninety messages, because below that a person is a passer-by and the percentages stop meaning anything. Thirty-one people clear it. The tables flatter Grihastha, Willow, Youv and Quigley. They do not flatter Monkey, Stackhouse, aura, chair, or two of the three men who ordered them.
 
@@ -593,7 +615,9 @@ on this table, and he is the only person on it who ran them on their own page, w
 
 which is the sort of fact that would have been
 
-occupies both positions. either side of it.
+occupies both positions.
+
+either side of it.
 
 useful to this desk last week, when we printed
 
@@ -729,7 +753,9 @@ Counted directly off the export, not off last week’s copy. Message bodies only
 
 wrote a novel one text message at a time, and
 
-Three things fall out of that table and all three are Not counted: the voice channel, direct
+Three things fall out of that table and all three are
+
+Not counted: the voice channel, direct
 
 then on Wednesday she stopped and learned git.
 
@@ -751,7 +777,9 @@ P A G E 5
 
 ## Page 6
 
-### The Helpdesk Tuesday night to Thursday morning · In which a philosophy channel becomes an IT department
+### The Helpdesk
+
+Tuesday night to Thursday morning · In which a philosophy channel becomes an IT department
 
 ### SHE ASKED HOW TO BUILD A WEBSITE. FOUR MEN GAVE HER FOUR ANSWERS AND THEN FOUGHT EACH OTHER.
 
@@ -843,7 +871,9 @@ P A G E 6
 
 ## Page 7
 
-### The Doxxing Desk Monday evening · A family history, ninety readers, and one man doing genealogy in real time
+### The Doxxing Desk
+
+Monday evening · A family history, ninety readers, and one man doing genealogy in real time
 
 B Y O U R P U B L I C S A F E T Y C O R R E S P O N D E N T chair, watching a machine be handed a dossier on
 
@@ -913,7 +943,9 @@ CHAIR, NINET Y SECONDS APART, HAVING
 
 lizzie: “like i appreciate the concern but
 
-aura named the actual audience. reply rates, message lengths, hit rates, ping counts, block ledgers, tier lists — found exactly
+aura named the actual audience.
+
+reply rates, message lengths, hit rates, ping counts, block ledgers, tier lists — found exactly
 
 “you have no idea how many mouth
 
@@ -1009,7 +1041,9 @@ P A G E 7
 
 ## Page 8
 
-### The Registry Two block ledgers, kept in public, operated as administration
+### The Registry
+
+Two block ledgers, kept in public, operated as administration
 
 ### A MAN BLOCKED ANOTHER MAN TO REMIND HIMSELF TO FINISH A BOOK THAT MAN LENT
 
@@ -1039,11 +1073,15 @@ Can u finish the book faster so u can unblock me I’d like to react to the bada
 
 My Name: @lizzie !?! who is that below me.
 
-dot: But I fucking cant
+dot:
+
+But I fucking cant
 
 My Name: and what did they say.
 
-dot: Goddamnit fuck u fuck u hpcr: What
+dot: hpcr:
+
+Goddamnit fuck u fuck u What
 
 printer advocacy, and filed his own press release about it: “MN blocked me because he can’t handle the truth. Fed hatred is a corrupting poison of the worst kind.” He was, at the time, arguing that a wages-versusproductivity chart was not the Federal Reserve’s fault.
 
@@ -1135,7 +1173,9 @@ P A G E 8
 
 ## Page 9
 
-### Missing Persons Second consecutive week at zero messages · Fifty-four mentions · One confession
+### Missing Persons
+
+Second consecutive week at zero messages · Fifty-four mentions · One confession
 
 ### THE ROOM SPENT AN HOUR TURNING HER INTO A LEGEND, AND THEN A MAN SAID HE WAS THE REASON SHE LEFT
 
@@ -1255,7 +1295,9 @@ P A G E 9
 
 ## Page 10
 
-### The Monkey File 2,426 messages · 29 characters each · Four in five went past untouched
+### The Monkey File
+
+2,426 messages · 29 characters each · Four in five went past untouched
 
 ### THE SECOND-LOUDEST MAN IN THE ROOM SAID IT ALL TWENTY-NINE CHARACTERS AT A TIME, AND WAS RIGHT MORE OFTEN THAN THE ROOM NOTICED
 
@@ -1295,7 +1337,7 @@ describing an enemy class as “the techno-communist- “see what we made kady?�
 
 Monkey supplied a theory rather than
 
-accelerationist-transhumanist-postneoprotoantistalinist- should’ve been permabanned the first time,” and then, in
+accelerationist-transhumanist-postneoprotoantistalinistshould’ve been permabanned the first time,” and then, in
 
 sympathy. Portuguese has a word for the
 
@@ -1335,7 +1377,9 @@ T H E P R O T O C O L , A N N O U N C E D W I T H
 
 “which tbh might send her into a full spiral
 
-cocaine problem, and, at his worst, “doing 10mg snorted “atlantic beaches mog.” “pacific beaches are dogshit,”
+cocaine problem, and, at his worst, “doing 10mg snorted
+
+“atlantic beaches mog.” “pacific beaches are dogshit,”
 
 but”
 
@@ -1365,7 +1409,9 @@ T H E R A T I O
 
 Second on the floor. Last on the reply table.
 
-treatment protocol to the room, with her in it. intervention. Twenty minutes later he was publishing
+treatment protocol to the room, with her in it.
+
+intervention. Twenty minutes later he was publishing
 
 The effort tables say demote him. Page 20
 
@@ -1431,7 +1477,9 @@ later, sharpening it, “This is a kind of AI slopulism.” He then Hugh, watchi
 
 killed it in nine words: “@Simon we know the starting position
 
-public buy-in. Fifty-one per cent, sixty, seventy-five. dialogue trees.”
+public buy-in. Fifty-one per cent, sixty, seventy-five.
+
+dialogue trees.”
 
 of the double pendulum.”
 
@@ -1557,7 +1605,9 @@ APE ACCEPTED. THE OBLIG ATION IS ONE MCDONALD’S, ANNUALLY, IN PERPETUIT Y.
 
 “Im just reading the occasional excerpt from the
 
-SATURDAY 1:49 P.M. theists.” And, with a courtesy that makes it worse: “If
+SATURDAY 1:49 P.M.
+
+theists.” And, with a courtesy that makes it worse: “If
 
 other convos in the chat and I just have to
 
@@ -1819,7 +1869,9 @@ T H E D O C T R I N E
 
 “I feel like there should be a MyPillow product
 
-##### THE HOURS, WHICH NOBODY AGREES ON On youth: “The trouble with modern youth is they
+##### THE HOURS, WHICH NOBODY AGREES ON
+
+On youth: “The trouble with modern youth is they
 
 for this.”
 
@@ -1829,9 +1881,11 @@ The estimates were filed live, by different people, over
 
 six hours, and they only go one way.
 
-herself: “The prehistoric youth also had their issues.” “So the tacos are now just bare tortillas.”
+herself: “The prehistoric youth also had their issues.”
 
 On finance, when asked whether it is more prudent
+
+“So the tacos are now just bare tortillas.”
 
 “I see you are the archon of music taste.”
 
@@ -1997,7 +2051,9 @@ P A G E 1 5
 
 ## Page 16
 
-### The Health Desk A national foodborne outbreak passes through a philosophy channel · And the one genuinely sincere half-hour of the week
+### The Health Desk
+
+A national foodborne outbreak passes through a philosophy channel · And the one genuinely sincere half-hour of the week
 
 B Y O U R M E D I C A L C O R R E S P O N D E N T
 
@@ -2015,7 +2071,9 @@ n Thursday evening lizzie announced, as a
 
 qualified to give medical advice and neither
 
-##### comfort to somebody else who was having a bad “Don’t overdo drugs chat. You will regret
+comfort to somebody else who was having a bad
+
+##### “Don’t overdo drugs chat. You will regret
 
 is anybody quoted on this page.
 
@@ -2065,7 +2123,9 @@ the things at Taco Bell that could make you sick, it was
 
 Then the sentence this whole page has been heading
 
-the fucking lettuce?” “yeah, sometimes you need to be shit on.”
+the fucking lettuce?”
+
+“yeah, sometimes you need to be shit on.”
 
 towards: “but group dynamics get fucked even with the
 
@@ -2103,7 +2163,15 @@ lizzie, as a to-do list: “im gonna work on my gut health and quit meth.”
 
 “what is my ethical choice here is it to continue
 
-changed. He described the after-state with more SISYPHOS, T WENT Y MINUTES INTO
+changed. He described the after-state with more
+
+SISYPHOS,
+
+T WENT Y
+
+MINUTES
+
+INTO
 
 seeing her so i can expand my brain or get a different
 
@@ -2605,7 +2673,9 @@ He is second only to Willow on more than five times spent Friday. RoyalLineage�
 
 Monkey, B to A, against every number on his
 
-her volume. is “I’m a Gentle Toy. I was made out of clay.”
+her volume.
+
+is “I’m a Gentle Toy. I was made out of clay.”
 
 row. Overridden. Page 10.
 
@@ -2761,11 +2831,15 @@ P A G E 2 1
 
 THE PHIL CHAT TIMES · PRODUCTION FLOOR
 
-PDF PDF
+PDF
+
+PDF
 
 “its working on it”
 
-T H E B O D Y C O U N T commissioned by a reader
+T H E B O D Y C O U N T
+
+commissioned by a reader
 
 Anonymous Johnson asked for an obituary section covering whoever got bodied hardest each week. Granted. Ranked, worst first.
 
@@ -2997,7 +3071,9 @@ Filed Thursday morning by chair, on the subject of a woman cancelling her psychi
 
 Jere was the only person present to file the sensible objection — “maybe don’t take mental health advice from discord people u just met” — and was overruled inside forty seconds by a man arguing that the advice had been genuinely insightful.
 
-H P C R N O - S H O W W A T C H standing column
+H P C R N O - S H O W W A T C H
+
+standing column
 
 He showed. 513 messages, a 9.9 per cent strike rate, the Willow doctrine, the coroner’s verdict in the Kady case, and a two-decade Magic career deployed to destroy Jambe in every colour. He also answered a question addressed to somebody else, correctly, in one word. The column is retired with honours. Brutus’s separate tracking document, which logs invitations to engage against actual appearances, remains in operation: “Add one to the list for @hpcr FLAKING
 
@@ -3011,7 +3087,9 @@ P A G E 2 2
 
 ### The Stars
 
-T H E S T A R S by our resident astrologer
+T H E S T A R S
+
+by our resident astrologer
 
 ##### A S K
 
@@ -3019,9 +3097,13 @@ P E A R L
 
 Horoscopes · Ask Pearl · The Register · Tonight’s Viewing · Weather · Puzzle No. 5
 
-the moderator rules, in her own T O N I G H T ’ S V I E W I N G words
+the moderator rules, in her own words
 
-Every prediction below has already happened. P H I L C H AT · 6 P.M. — The Great Beach War. Live. 620
+T O N I G H T ’ S V I E W I N G
+
+Every prediction below has already happened.
+
+P H I L C H AT · 6 P.M. — The Great Beach War. Live. 620
 
 Our agony column. Her replies are her own, filed
 
@@ -3029,7 +3111,9 @@ messages in one hour, the busiest of the week.
 
 this week, in the order she filed them.
 
-A R I E S · Your newspaper will fail to appear and Contains sand.
+A R I E S · Your newspaper will fail to appear and
+
+Contains sand.
 
 the fault will turn out to be a slider, printed on the
 
@@ -3055,11 +3139,15 @@ W E A T H E R & D I S C O U R S E
 
 everyone’s favourite living philosopher is. Wait
 
-“Lmfao wtf” T H E S Y N O P T I C C H A R T
+##### “Lmfao wtf”
+
+T H E S Y N O P T I C C H A R T
 
 eight minutes. Ask again with a joke in it. Then
 
-leave the channel forever. Q · Sir — I am accused of banning people. How
+leave the channel forever.
+
+Q · Sir — I am accused of banning people. How
 
 long have you held office? — Jambe
 
@@ -3099,7 +3187,9 @@ Q · Sir — the dividend. — My Name
 
 ##### “Measly”
 
-T H E R E G I S T E R week ending 13 August
+T H E R E G I S T E R
+
+week ending 13 August
 
 from Pearl, Tuesday morning, and never updated by anybody: “Good morrow starshine the earth says hello.”
 
@@ -3119,7 +3209,9 @@ M E T H I A H · noun. One who believed it fully at the time. Coined by aura on 
 
 S A G I T TA R I U S · Travel is indicated: Copenhagen,
 
-Metamorphosis on a friend’s recommendation. established term by Friday night.
+Metamorphosis on a friend’s recommendation.
+
+established term by Friday night.
 
 Fear and Trembling, and a cinema that smells of
 
@@ -3143,7 +3235,9 @@ gone.
 
 1 · Whether the complaints desk receives a complaint
 
-A P P O I N T M E N T S · lizzie, 10x dev, conferred by the that is not the word “done.”
+A P P O I N T M E N T S · lizzie, 10x dev, conferred by the
+
+that is not the word “done.”
 
 publisher. Jere, Password Man, self-declared and
 
@@ -3173,7 +3267,9 @@ A B S E N T · Kady, second consecutive week at zero,
 
 fifty-four mentions. Trader, zero messages and the
 
-P U Z Z L E N O . 5 wordsearch
+P U Z Z L E N O . 5
+
+wordsearch
 
 most reproduced image in the paper. Orsku and eli,
 
@@ -3217,7 +3313,9 @@ P A G E 2 3
 
 ## Page 24
 
-### By the Numbers 21,206 messages, counted · 2,017 reactions, counted · 463 images, counted · 495 edits, uncountable
+### By the Numbers
+
+##### 21,206 messages, counted · 2,017 reactions, counted · 463 images, counted · 495 edits, uncountable
 
 ### 21206
 
@@ -3257,9 +3355,21 @@ page 20.
 
 F I G . 9 · T H E W E E K I N V O L U M E
 
-Thu Fri Sat Sun Mon Tue
+Thu
 
-Wed Thu
+Fri
+
+Sat
+
+Sun
+
+Mon
+
+Tue
+
+Wed
+
+Thu
 
 3,448 · 3,549 · 1,666 · 3,550 · 4,445 · 1,531 · 2,457 · 560. Both Thursdays are part days. Monday is the biggest single day this newspaper has ever
 
@@ -3411,6 +3521,10 @@ Vol. I, No. 5. Twenty-four pages. Set from the log of 6–13 August 2026. Effort
 
 The ratio does not move. Only the total does.
 
-T H E P H I L C H A T T I M E S B Y T H E N U M B E R S P A G E 2 4
+T H E P H I L C H A T T I M E S
+
+B Y T H E N U M B E R S
+
+P A G E 2 4
 
 ---
