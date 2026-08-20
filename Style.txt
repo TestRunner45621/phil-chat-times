@@ -97,6 +97,16 @@ The failure mode is a sidebar that is just a paragraph in the same face at the s
 
 The same rule applies to back-of-book departments and to any page that runs several short items down a column. Classifieds, Deaths & Dissolutions, Personals, Lost & Found should not look like article subheads, and a run of vignettes must not run together as one undifferentiated slab — each vignette gets a separator, a kicker, and air.
 
+MASTHEAD
+
+The nameplate reads “The Phil Chat Times”, set in blackletter, on one line, with the definite article, and it is the largest thing on page one.
+
+It has drifted every single issue and should stop. Vol I No 1 set it in a Fraktur face at 70pt across one line, and that is the reference. Vol I No 2 kept the blackletter but broke “The” onto its own line at half the size. Vol I No 3 dropped the face and typed the letters as Unicode Fraktur codepoints instead. Vol I No 4 and No 5 dropped blackletter altogether, set the words in Palatino, split them three ways and lost the “The”. Four nameplates in five weeks, on the one element of the paper that is supposed to be the same every time.
+
+The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see OUTPUT — so install it on the machine or embed it in the HTML as a base64 @font-face.
+
+Do not work around a missing font by typing the nameplate as 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰 in mathematical alphanumeric characters. Those are not letters. They break search, copy-and-paste and screen readers, and they render in whatever each machine decides to substitute, which is the opposite of a standard. The markdown mirror uses them because a text file has no fonts. The paper is not a text file.
+
 EFFORT
 
 Don't economize. Act as if usage is not an issue, because it isn't.
