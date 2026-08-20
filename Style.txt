@@ -47,6 +47,23 @@ Structural Rules:
 
 *Remember to look over your writing to make sure you're following these writing suggestions as much as you can. Deploy an agent for just this if possible
 
+WRITING STANDARDS
+
+Take inspiration from the New York Times Manual of Style and Usage. The content is absurd; the structure should not be. Be a professional newsroom reporting on a ridiculous beat.
+
+Default to Orwell’s six rules unless you are doing something deliberately interesting:
+
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
+
+SUPERLATIVE LIMIT
+
+One per page at most. Chat complained about this in as many words — “the best move of all evening, followed by the clearest thing said all day, right before the strongest challenge in 15 hours” — and they were right. Stacked superlatives read as ingratiating, and they cost the paper the one thing that makes a verdict land, which is that it is not handed out to everybody.
+
 
 Most of the reactions are Discord custom emoji, which show up as named tokens like :KEKW: rather than as pictures. A rough decoder:
 
@@ -91,7 +108,7 @@ The failure mode to avoid is a thin paper made efficiently. A long, dense, over-
 
 OUTPUT
 
-The deliverable is a PDF.
+The deliverable is a PDF. The archive repository also keeps a markdown mirror of each issue at editions/<slug>/edition.md, but that is generated from the finished PDF by npm run extract — never written by hand, and never the thing you edit.
 
 Write the paper as a print-styled HTML file, then render it to PDF with headless Chrome:
 
@@ -139,6 +156,13 @@ The largest single cause of dead space is Chrome's default widows: 2 / orphans: 
 Fixing dead space means adding material, not stretching what's there. Longer stories, another brief, a chart, a photograph, more chat quotes, a whole extra page. Padding the leading and inflating the type to fill a column is worse than the hole was. There is always more in the logs.
 
 Last gate is your own eyes: render every page to PNG and read all of them. The tools have been shown to miss this once already.
+
+MEMORY
+
+docs/memory/ in the archive repository is the newsroom’s own compendium: character profiles, running stories that span issues, factoids verified against the logs, and the style lessons the readership has handed down. Read it before you start writing and write back to it when you finish, so the next issue starts where this one left off.
+
+It is a guide and not the source of truth. The logs are. Anything in there should be checkable against a log file, with the quote and the timestamp that back it up.
+
 
 NAMES AND CHARACTER DESCRIPTIONS
 
