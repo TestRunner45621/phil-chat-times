@@ -47,6 +47,23 @@ Structural Rules:
 
 *Remember to look over your writing to make sure you're following these writing suggestions as much as you can. Deploy an agent for just this if possible
 
+WRITING STANDARDS
+
+Take inspiration from the New York Times Manual of Style and Usage. The content is absurd; the structure should not be. Be a professional newsroom reporting on a ridiculous beat.
+
+Default to Orwell’s six rules unless you are doing something deliberately interesting:
+
+1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
+2. Never use a long word where a short one will do.
+3. If it is possible to cut a word out, always cut it out.
+4. Never use the passive where you can use the active.
+5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+6. Break any of these rules sooner than say anything outright barbarous.
+
+SUPERLATIVE LIMIT
+
+One per page at most. Chat complained about this in as many words — “the best move of all evening, followed by the clearest thing said all day, right before the strongest challenge in 15 hours” — and they were right. Stacked superlatives read as ingratiating, and they cost the paper the one thing that makes a verdict land, which is that it is not handed out to everybody.
+
 
 Most of the reactions are Discord custom emoji, which show up as named tokens like :KEKW: rather than as pictures. A rough decoder:
 
@@ -80,6 +97,70 @@ The failure mode is a sidebar that is just a paragraph in the same face at the s
 
 The same rule applies to back-of-book departments and to any page that runs several short items down a column. Classifieds, Deaths & Dissolutions, Personals, Lost & Found should not look like article subheads, and a run of vignettes must not run together as one undifferentiated slab — each vignette gets a separator, a kicker, and air.
 
+MASTHEAD
+
+The nameplate reads “The Phil Chat Times”, set in blackletter, on one line, with the definite article, and it is the largest thing on page one.
+
+It has drifted every single issue and should stop. Vol I No 1 set it in a Fraktur face at 70pt across one line, and that is the reference. Vol I No 2 kept the blackletter but broke “The” onto its own line at half the size. Vol I No 3 dropped the face and typed the letters as Unicode Fraktur codepoints instead. Vol I No 4 and No 5 dropped blackletter altogether, set the words in Palatino, split them three ways and lost the “The”. Four nameplates in five weeks, on the one element of the paper that is supposed to be the same every time.
+
+The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see OUTPUT — so install it on the machine or embed it in the HTML as a base64 @font-face.
+
+Do not work around a missing font by typing the nameplate as 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰 in mathematical alphanumeric characters. Those are not letters. They break search, copy-and-paste and screen readers, and they render in whatever each machine decides to substitute, which is the opposite of a standard. The markdown mirror uses them because a text file has no fonts. The paper is not a text file.
+
+VARIATION
+
+Consistency and sameness are not the same thing. The nameplate, the body face, the column measure, the folio and the standing furniture should be identical every week — that is what makes it one paper, and MASTHEAD exists because they were not. Everything above that line is supposed to move.
+
+Vol I No 4 and No 5 were set from what is effectively one template: the same ten faces in the same roles, the same nameplate treatment at the same size, the same box styles. Two issues that resemble each other is a house style. Four is a rut.
+
+Vary these on purpose, issue to issue:
+
+  - The front-page architecture. One dominant lead; two co-leads split down
+    the middle; a wide lead riding over a strip of briefs; a single enormous
+    picture with the story wrapped round it.
+  - Headline dress. Vol I No 1 shipped three condensed faces —
+    Narrow-Condensed, Narrow-Bold-Condensed, Narrow-Oblique-Condensed — and
+    used them. Condensed headline type is the oldest device in newspapers and
+    the paper has not touched it since the first issue.
+  - Box and sidebar treatment. LAYOUT 6 already requires these to be visually
+    distinct from the copy around them. The further requirement is that they
+    not be the same distinct thing every week.
+  - Chart and table style.
+  - At least one feature an issue laid out in a way the paper has not used
+    before. If it works it goes in the toolbook. If it does not, it does not
+    run again.
+
+The toolbook is docs/toolbook/ in the archive repository: the devices the paper has already proven, what each is for, and which issue last used one. Read architectures.md for the shape of the page and elements.md for the parts. Picking from it is how variation gets cheaper than repetition.
+
+Look at the last two issues before designing this one. Every edition folder has cover.jpg, the front page at 1000px wide. If the new front page could be mistaken for either of them, change it.
+
+
+IMAGES
+
+The paper is starved of pictures. Counted across the archive:
+
+  Vol I No 1    4 images / 8 pages     longest run with none:  5 pages
+  Vol I No 2    8 / 17                                         6 pages
+  Vol I No 3    5 / 25                                        11 pages
+  Vol I No 4    9 / 22                                         7 pages
+  Vol I No 5    7 / 24                                        11 pages
+
+A third of a picture per page. No 3, No 4 and No 5 each ran a front page with no picture on it at all.
+
+Chat posts images constantly and they are primary material, not garnish. LAYOUT 5 says they “might be good to put in an article” and to use your judgement, which has been read as permission to skip them. Read it the other way.
+
+  - At least one image on most spreads, and never more than three pages
+    running without one.
+  - The front page gets a picture.
+  - Run at least one of them big. A screenshot across two columns is a
+    photograph. The same screenshot at thumbnail size is a postage stamp.
+  - Select by reaction. An image the room piled onto is one the room has
+    already told you landed; reacted.js is where to start looking.
+  - Caption everything, in the paper’s voice. The caption is a joke you get
+    for free, and an uncaptioned picture reads as filler.
+  - A screenshot of a message is a picture. So is a chart you built, a map, a
+    table set as a graphic, a crop of somebody’s cursed avatar.
+
 EFFORT
 
 Don't economize. Act as if usage is not an issue, because it isn't.
@@ -91,7 +172,7 @@ The failure mode to avoid is a thin paper made efficiently. A long, dense, over-
 
 OUTPUT
 
-The deliverable is a PDF.
+The deliverable is a PDF. The archive repository also keeps a markdown mirror of each issue at editions/<slug>/edition.md, but that is generated from the finished PDF by npm run extract — never written by hand, and never the thing you edit.
 
 Write the paper as a print-styled HTML file, then render it to PDF with headless Chrome:
 
@@ -139,6 +220,39 @@ The largest single cause of dead space is Chrome's default widows: 2 / orphans: 
 Fixing dead space means adding material, not stretching what's there. Longer stories, another brief, a chart, a photograph, more chat quotes, a whole extra page. Padding the leading and inflating the type to fill a column is worse than the hole was. There is always more in the logs.
 
 Last gate is your own eyes: render every page to PNG and read all of them. The tools have been shown to miss this once already.
+
+MEMORY
+
+docs/memory/ in the archive repository is the newsroom’s own compendium: character profiles, running stories that span issues, factoids verified against the logs, and the style lessons the readership has handed down. Read it before you start writing and write back to it when you finish, so the next issue starts where this one left off.
+
+It is a guide and not the source of truth. The logs are. Anything in there should be checkable against a log file, with the quote and the timestamp that back it up.
+
+
+CONTINUITY
+
+Read the last issue before you write this one, and read the markdown rather than the PDF. Every edition folder in the archive repository holds edition.md, which is the full text of that issue extracted from the finished paper. It is searchable, greppable and readable in one pass; the PDF is none of those things, and opening it is how looking back stops happening. One issue back is the minimum, two or three is better, and HEADLINES.md will tell you in half a minute what has already run so you do not have to open all of them to find out.
+
+Two files, two jobs. edition.md is what the paper said. cover.jpg, in the same folder, is what it looked like — that one is for VARIATION. Neither of them requires the PDF.
+
+This applies to a pitch document as much as to the paper. A pitch written without last week in front of you will confidently propose a story that already ran, and it will be the third-best story of the week rather than the first, because the good one was used.
+
+What you are reading for:
+
+  - Arcs still open. A thread filed “still open at press time” is a promise to
+    the reader. Pay it off, or report plainly that nothing happened, which is
+    frequently funnier than a resolution would have been.
+  - Verdicts already delivered. The paper does not get to rule twice on the
+    same argument and come out the other way without noticing that it has. If
+    it is reversing itself, that is a story.
+  - People already introduced. A regular given a character last issue keeps
+    it. Do not introduce him again as though the reader has never met him.
+  - Formats and jokes already used. A running gag is an asset the second time
+    and a tic the fourth.
+  - Corrections owed. If the paper got something wrong and the chat said so,
+    print the correction.
+
+Callbacks are worth having and not worth forcing. Where last week genuinely bears on this week, say so in a clause and move on. A paper that spends its front page reminding the reader what it printed last Thursday is a paper with nothing new.
+
 
 NAMES AND CHARACTER DESCRIPTIONS
 

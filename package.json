@@ -4,7 +4,10 @@
   "description": "Static archive + reader for The Phil Chat Times",
   "scripts": {
     "build": "node scripts/build-editions.mjs",
-    "serve": "node scripts/serve.mjs"
+    "serve": "node scripts/serve.mjs",
+    "extract": "node scripts/extract-edition.mjs --all",
+    "extract:force": "node scripts/extract-edition.mjs --all --force",
+    "headlines": "node scripts/headlines.mjs"
   },
   "keywords": [],
   "author": "",
