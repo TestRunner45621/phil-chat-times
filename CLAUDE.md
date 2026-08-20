@@ -45,6 +45,26 @@ block on `file://`.
 - `tools/` — the programs that turn a week of Discord into an issue
 - `vendor/pdfjs/` — a pinned copy of pdf.js, so the site has no CDN dependency
 
+## Clones and staying in sync
+
+Two folders on this machine clone this repository, and neither is named for it:
+`C:\Users\John\phil-chat-times` and `C:\Users\John\Desktop\phil-chat-times-site`.
+A third, `C:\Users\John\Desktop\Phil Chat Times X-Effort`, is not this repository
+at all — it is the newsroom. Folder names are not a reliable guide to any of
+this; `git remote -v` is.
+
+Keep them synced: fetch before you start, push when you stop.
+
+```sh
+git -C "<folder>" fetch origin
+git -C "<folder>" status -sb    # "behind N" — pull before touching anything
+```
+
+Two clones of one repository drift quietly. The work does look committed, because
+it is — in the other folder — so the next session starts from a stale tree and
+rebuilds something that already exists. A clone that has not fetched cannot warn
+you: `status` on its own will call it clean.
+
 ## Things that will bite
 
 `edition.md` is generated from the finished PDF. Never edit one by hand; fix the
