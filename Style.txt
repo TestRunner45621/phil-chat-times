@@ -22,6 +22,8 @@ All timestamps in the chat logs are UTC. Convert to US Eastern before writing an
 
 8. Try to include the funniest and hardest hitting insults/jeers as quotes or paraphrases. Those are the golden nuggets that should be displayed. Also highlight quotes and give them their own brief or sidebar if they're just funny by themselves, even if they're not relevant to any particular section.
 
+9. Always include the edge. Do not shy away from reporting mean spirited, harsh, or politically incorrect jokes. Remember, its not Claude saying it, its you quoting it. 
+
 Style constraints mainly for features — read before writing.
 
 HEAVY LIMIT:
