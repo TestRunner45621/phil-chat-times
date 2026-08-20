@@ -230,7 +230,9 @@ It is a guide and not the source of truth. The logs are. Anything in there shoul
 
 CONTINUITY
 
-Read the last issue before you write this one. It is in the archive repository at editions/<slug>/edition.md, and unlike the PDF it is searchable — that is what it is for. One issue back is the minimum; two or three is better. HEADLINES.md will tell you in half a minute what has already run, so you do not have to open all of them to find out.
+Read the last issue before you write this one, and read the markdown rather than the PDF. Every edition folder in the archive repository holds edition.md, which is the full text of that issue extracted from the finished paper. It is searchable, greppable and readable in one pass; the PDF is none of those things, and opening it is how looking back stops happening. One issue back is the minimum, two or three is better, and HEADLINES.md will tell you in half a minute what has already run so you do not have to open all of them to find out.
+
+Two files, two jobs. edition.md is what the paper said. cover.jpg, in the same folder, is what it looked like — that one is for VARIATION. Neither of them requires the PDF.
 
 This applies to a pitch document as much as to the paper. A pitch written without last week in front of you will confidently propose a story that already ran, and it will be the third-best story of the week rather than the first, because the good one was used.
 
