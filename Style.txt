@@ -107,6 +107,58 @@ The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see
 
 Do not work around a missing font by typing the nameplate as 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰 in mathematical alphanumeric characters. Those are not letters. They break search, copy-and-paste and screen readers, and they render in whatever each machine decides to substitute, which is the opposite of a standard. The markdown mirror uses them because a text file has no fonts. The paper is not a text file.
 
+VARIATION
+
+Consistency and sameness are not the same thing. The nameplate, the body face, the column measure, the folio and the standing furniture should be identical every week — that is what makes it one paper, and MASTHEAD exists because they were not. Everything above that line is supposed to move.
+
+Vol I No 4 and No 5 were set from what is effectively one template: the same ten faces in the same roles, the same nameplate treatment at the same size, the same box styles. Two issues that resemble each other is a house style. Four is a rut.
+
+Vary these on purpose, issue to issue:
+
+  - The front-page architecture. One dominant lead; two co-leads split down
+    the middle; a wide lead riding over a strip of briefs; a single enormous
+    picture with the story wrapped round it.
+  - Headline dress. Vol I No 1 shipped three condensed faces —
+    Narrow-Condensed, Narrow-Bold-Condensed, Narrow-Oblique-Condensed — and
+    used them. Condensed headline type is the oldest device in newspapers and
+    the paper has not touched it since the first issue.
+  - Box and sidebar treatment. LAYOUT 6 already requires these to be visually
+    distinct from the copy around them. The further requirement is that they
+    not be the same distinct thing every week.
+  - Chart and table style.
+  - At least one feature an issue laid out in a way the paper has not used
+    before. If it works it goes in the toolbook. If it does not, it does not
+    run again.
+
+Look at the last two issues before designing this one. Every edition folder has cover.jpg, the front page at 1000px wide. If the new front page could be mistaken for either of them, change it.
+
+
+IMAGES
+
+The paper is starved of pictures. Counted across the archive:
+
+  Vol I No 1    4 images / 8 pages     longest run with none:  5 pages
+  Vol I No 2    8 / 17                                         6 pages
+  Vol I No 3    5 / 25                                        11 pages
+  Vol I No 4    9 / 22                                         7 pages
+  Vol I No 5    7 / 24                                        11 pages
+
+A third of a picture per page. No 3, No 4 and No 5 each ran a front page with no picture on it at all.
+
+Chat posts images constantly and they are primary material, not garnish. LAYOUT 5 says they “might be good to put in an article” and to use your judgement, which has been read as permission to skip them. Read it the other way.
+
+  - At least one image on most spreads, and never more than three pages
+    running without one.
+  - The front page gets a picture.
+  - Run at least one of them big. A screenshot across two columns is a
+    photograph. The same screenshot at thumbnail size is a postage stamp.
+  - Select by reaction. An image the room piled onto is one the room has
+    already told you landed; reacted.js is where to start looking.
+  - Caption everything, in the paper’s voice. The caption is a joke you get
+    for free, and an uncaptioned picture reads as filler.
+  - A screenshot of a message is a picture. So is a chart you built, a map, a
+    table set as a graphic, a crop of somebody’s cursed avatar.
+
 EFFORT
 
 Don't economize. Act as if usage is not an issue, because it isn't.
