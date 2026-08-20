@@ -164,6 +164,30 @@ docs/memory/ in the archive repository is the newsroom’s own compendium: chara
 It is a guide and not the source of truth. The logs are. Anything in there should be checkable against a log file, with the quote and the timestamp that back it up.
 
 
+CONTINUITY
+
+Read the last issue before you write this one. It is in the archive repository at editions/<slug>/edition.md, and unlike the PDF it is searchable — that is what it is for. One issue back is the minimum; two or three is better. HEADLINES.md will tell you in half a minute what has already run, so you do not have to open all of them to find out.
+
+This applies to a pitch document as much as to the paper. A pitch written without last week in front of you will confidently propose a story that already ran, and it will be the third-best story of the week rather than the first, because the good one was used.
+
+What you are reading for:
+
+  - Arcs still open. A thread filed “still open at press time” is a promise to
+    the reader. Pay it off, or report plainly that nothing happened, which is
+    frequently funnier than a resolution would have been.
+  - Verdicts already delivered. The paper does not get to rule twice on the
+    same argument and come out the other way without noticing that it has. If
+    it is reversing itself, that is a story.
+  - People already introduced. A regular given a character last issue keeps
+    it. Do not introduce him again as though the reader has never met him.
+  - Formats and jokes already used. A running gag is an asset the second time
+    and a tic the fourth.
+  - Corrections owed. If the paper got something wrong and the chat said so,
+    print the correction.
+
+Callbacks are worth having and not worth forcing. Where last week genuinely bears on this week, say so in a clause and move on. A paper that spends its front page reminding the reader what it printed last Thursday is a paper with nothing new.
+
+
 NAMES AND CHARACTER DESCRIPTIONS
 
 Identify people by the @handle in the message heading, not by the display name —
