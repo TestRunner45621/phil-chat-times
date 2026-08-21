@@ -20,6 +20,16 @@ the next editor inherits the correction rather than the mistake.
 The one thing here that is not a suggestion is the sourcing standard in the
 rules below: if you write something down, say where it came from.
 
+## Editorial memory only, never design
+
+Nothing about how the paper looks belongs in this folder. No stylesheets, no
+layout notes, no catalogue of boxes, rules, headline treatments or page
+architectures, and no "what worked last time" parts bin. Every issue is designed
+from scratch from that week’s material — see the DESIGN section of `Style.txt` —
+and a stored design vocabulary is exactly the thing that stops that happening.
+What lives here is what the paper knows: people, running stories, facts, and the
+lessons the readership has handed down about writing.
+
 ## What goes here
 
 - **Character profiles** — who people are, what they argue about, their

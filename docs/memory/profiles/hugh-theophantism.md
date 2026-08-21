@@ -130,3 +130,31 @@ you'll get consued whole" · "are these races in your intergalactic harem or jus
 · "do you need to reflect to know putting your hand on the stove is wrong?" · "Sweatshops are okay
 actually" · "-2%" (asked how much the sea level would rise if all mammals died) · "And the sun is a
 hydrogenous orgy."
+
+## Vol VI — the promoter
+
+**A to S.** 1,468 messages, 113,000 characters, second only to lizzie on both.
+Announced the fight with sirens on Wednesday afternoon and scheduled it three times
+before dinner (Friday 6 pm UTC "1pm EST"; then Saturday; then "make it 1pm saturday
+instead"; final: Saturday 9 pm UTC, which he gave as 4 pm Eastern and is 5). Posted a
+machine-drawn scorecard, 7–3 to himself; lizzie: "bigger number better person good job
+hugh." (Vol VI p. 1.)
+
+**He opened the paper's back door.** Fri 14 Aug 9:26 AM ET, replying to Ape: "oh true,
+|| messages in spoilers also works ||" — a spoiler-tagged message renders as a black bar
+in the room and as plain text in the paper's transcript. Twenty-five bars followed in six
+days, fifteen of them lizzie's; Vol VI p. 9 declassified all of them.
+
+**The counterfeit.** Early Thursday 13 August he posted ~400 words of unsigned
+"anthropological field report" in the voice of the paper's retired Anthropologist-in-
+Residence ("I have now spent fourteen days among the people of Phil Chat…"). chair asked
+in alarm whether it was one of the stories. Vol VI p. 10 rules it "the competent attempt"
+of the week. It was also his longest message, 2,394 characters (p. 23).
+
+**He wrote the superlative rule.** Wednesday 19 August: stop using so many superlatives,
+one per page at most, use Orwell's six rules unless doing something interesting. Granted,
+written into Style.txt, and checked on every page of Vol VI (p. 20). Thirty-three of the
+week's seventy instructions to the desk were his.
+
+Uses of "cope": 9 (zack 12). Instruction to "take note that my dog doesn't know shit":
+noted.

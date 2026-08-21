@@ -307,3 +307,83 @@ newspaper in Vol III's week and both were printed.**
   Telhar (the Popes covered up the camps) and aura (death by a disease contracted in
   Justinian's torture chamber). **"This newspaper intends to observe his feast day."**
 - **Ape's question about robust Marxist modelling**, filed into silence. Open since Vol III.
+
+
+## The week of Vol VI (13–20 August 2026), counted
+
+From the export: **25,675 messages, 88 people (two of them bots, Bernard and Wordle), 726
+images, 3,322 reactions in 246 denominations, 795 edits.** One message in eleven drew a
+reaction (9.2%; 7.4% in Vol V, 4.8% in Vol IV). KEKW alone is 49% of all reactions.
+
+**Volume.** lizzie 5,021 msgs (19.6% of the week) · Monkey 1,554 · dot 1,529 · aura 1,500 ·
+Hugh 1,468 · Sisyphos 1,329 · Janne 1,294 · Jere 1,024 · zack 997 · Stackhouse 935 · hpcr 928
+· Charlie 851 · Quigley 804 · Ape 717 · chair 708.
+
+**Characters per message (min 90 msgs; Vol V figure in brackets).** vannak 179 (116) ·
+Grihastha 175 (141) · Willow 158 (80) · Quigley 93 (92) · Zone 91 · Meliorne 78 · Hugh 77 (59)
+· Pearl 62 (66) · zack 60 · Ape 59 (52) · Stackhouse 55 (48) · Youv 54 (77) · lizzie 40 (45) ·
+Monkey 28 (29) · Don 22.
+
+**Replies received per 100 messages.** Quigley 78.4 (61.4) · Willow 73.2 (95.9) · Grihastha
+69.5 (71.1) · zack 69.2 · Ape 66.9 (53.0) · vannak 65.9 · Zone 65.5 · Meliorne 56.8 · Hugh
+48.3 (41.5) · lizzie 31.5 (30.3) · Monkey 24.0 (19.1) · Brutus 22.6, last of 32. Sisyphos was
+answered by 43 different people, more than anyone; lizzie received 1,582 replies from 49
+people, most in absolute terms.
+
+**Effort / Enjoyed percentiles** (effort = mean of length and reply-rate percentiles;
+enjoyed = reactions-per-message percentile): Willow 96/100 · Grihastha 96/3 · Quigley 95/26 ·
+vannak 92/32 · Zone 84/39 · zack 82/71 · Meliorne 81/94 · Ape 79/87 · Hugh 68/77 · Stackhouse
+65/97 · Charlie 31/84 · Janne 37/74 · hpcr 23/29 · lizzie 20/10 · Brutus 13/0 · El Don 7/61 ·
+Monkey 3/6.
+
+**Hit rate, over 300 messages.** Stackhouse 19.1 · Charlie 13.3 · Hugh 11.9 · Jambe 11.8 ·
+Janne 11.6 · Ape 11.3 · … lizzie 5.6 · Monkey 4.8 · Brutus 2.2.
+
+**Vocabulary.** Distinct words: lizzie 5,210 (type-token ratio 15.5%) · Hugh 3,743 (20.5) ·
+dot 2,910 · aura 2,693 · Stackhouse 2,526 (29.9) · Quigley 2,296 (18.7). Small-volume, high
+ratio: Don 60.9, thunderstud 59.4, Jeh 52.8.
+
+**Longest single messages.** Grihastha 2,503 · Stackhouse 2,470 (the job search) · Hugh 2,394
+(the counterfeit field report) · lizzie 1,998 · the Lady 1,970 (13 messages total, 436 chars
+each, zero reactions) · zack 1,912 · _RobinMc__ 1,758 (his only message).
+
+**Spread.** Awake in 21 of 24 hours: lizzie, Sisyphos, zack. Seven: Grihastha, Don. Share of
+own messages that are replies: Willow and Zone 88%, Quigley 77%, Brutus 13%. Question rate:
+Zone and vannak 24%, Willow 21%.
+
+**Words.** "retard" and variants 127 uses; "based" 128; "schizo" 67; "clanker" 63; "cope" 46
+(zack 12, Hugh 9); "cringe" 46; Plato 44, Spinoza 38, Deleuze 30, Hegel 19, Kant 19, Dewey 18;
+RuneScape 56 (36 of them in one Monday hour); "You're upset" 13 times by 7 people (hpcr 2);
+"quaquaversal" 3 (dot, then Akva, stunlocked).
+
+**Instructions to the editors:** 70 in seven days; Hugh 33, lizzie 15, Quigley-to-Omnius 6;
+11 in black bars; 9 granted, 13 declined (p. 20). Black bars: 25 (lizzie 15), 16 addressed to
+the editors by name, 1 used to hide something.
+
+**Unanswered questions:** 203 met with neither reply nor reaction; lizzie 44, Sisyphos 36,
+Janne 19 (p. 25).
+
+## The Vol VI board (Order of Precedence, p. 24) — the baseline for Vol VII
+
+S: Quigley ▲3, Hugh ▲1, zack NEW, lizzie —
+A: Stackhouse ▼1, Willow ▼1, chair —, Ape —, Charlie ▲1, Sisyphos ▲1
+B: Meliorne ▲2, Zone ▲2, Don ▲2, Pearl ▲1, dot ▲1, hpcr ▼1, Anon. Johnson ▼1, Jambe, Janne,
+Jere, aura, My Name —
+C: Monkey ▼2, Grihastha ▼1, Bedbug ▲2, Telhar ▲1, a lamp (AabsoluteZero, by request) NEW,
+Jeh ▼1, Youv, Puckspartan, vannak, thunderstud, FenceJumper, Gloomies, BigC, clubsdiamonds —
+D: the Lady, FlyingPickle, Rem, sleep, Deviant, WoolierThanThou, mentanje, Andrew, hobocodes,
+Buzz, Tophericus, Rowser1, Akva, Ominous reject, Yohannes NEW; ConnorsConquest, synth.wav,
+basil —; NoKnee ▲1; bardiel1 ▼1, Blob ▼1
+F: Brutus ▼1, Simon ▼3 (two messages: "So soy," "Sus"), Teapot, Amazon, jakontrary, bimmy gap,
+complicat, james, Pashy, arnie, Rule 34 Ahri, Shambles, Plebs, Olang, holden, pcktn, Chairman,
+josimiteesam, Kura, WomanDefender99, soob, and the eight who spoke once; Kady, held in absentia.
+Not ranked: Bernard, Wordle (bots), the god machine, Omnius.
+Rule kept from Vol V: any move of two tiers or more carries a stated reason. Not on the board
+this week, having not spoken: Union, Salad, eli, Saxo, BigDuty, GILGAC, FrankAL, Constantine,
+Nasri, RoyalLineage, Taxation, Melan, RigbyJones, hash.tag, OkPhilosopher, Trader, Orsku.
+
+**Tier talk to remember:** AabsoluteZero, Thu 13 Aug 3:29 PM ET: "Claker give me a ratting of
+z on the leader boards, despite my minimal engagement. Z is i fact above s tier for users" /
+3:30 PM "Also add a lantern" / Fri 10:11 AM "Editors, when im rated on the leader board,
+instead of my name, use a lamp instead." Granted: he is "a lamp," in C. Puckspartan, Fri 1:12
+AM: "Simon above me on the tier list 😭" — Simon then said two things all week.

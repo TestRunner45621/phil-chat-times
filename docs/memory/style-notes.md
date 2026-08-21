@@ -26,6 +26,33 @@ One-sentence paragraphs are fine. (As chat noted: "quig needs to see this").
 
 ---
 
+## The editor's standing rules, restated for Vol VI (20–21 August 2026)
+
+These were repeated by the editor during Vol VI production and are now in Style.txt; they are
+listed here because each one was a correction to something the desk actually did.
+
+- **Times as a newspaper gives them.** "Late on Wednesday afternoon," "in the small hours of
+  Friday." No clock stamps in prose. (A ledger or a table may carry times; copy may not.)
+- **Break up quote stacks.** Paraphrase, editorialise, then quote the one line that earns it. A
+  feature that is "At 4:19, X said; Y said; two laughed" is a transcript.
+- **Never announce that there is no ruling** unless asked to rule. "The paper declines to rule"
+  is a sentence the readership has noticed and does not want.
+- **One superlative per page, at most.** Hugh's rule (Wednesday 19 August); the docket records
+  it as the one instruction this week that changed the newspaper. Comparatives ("more than
+  anyone") are not superlatives; "the widest gap on the page" is.
+- **After every page, read Style.txt and audit the page against it**, including the IMAGES
+  rules (caption everything; never three pages without a picture) and rule 9 (always include
+  the edge).
+- **Give the editor a PNG path for every page changed.**
+- **Print names:** Monkey, never "papagaio"; lizzie in lower case; Willow she/her;
+  "apparentment" never corrected.
+- **Reactions measure the jokes.** When the editor asked for the effort tables back, the brief
+  was "reactions just captures the jokesters": length and replies are the effort measures,
+  reactions are a separate column, and the tier list is built on neither.
+- **A tier list is relative to the last one.** Arrows against the previous board; any move of
+  two tiers or more carries a stated reason; everyone who spoke is placed; NEW for anyone not
+  on the previous board.
+
 # Lessons the editions established
 
 Drawn from the published issues. Each one was a correction the paper made to

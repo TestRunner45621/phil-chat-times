@@ -1,7 +1,7 @@
 # Kady
 
-**Status: absent. Second consecutive week at zero messages as of Vol V, and 54
-mentions in that same week.**
+**Status: absent. Third consecutive week at zero messages as of Vol VI; 54 mentions in
+the Vol V week, 23 in the Vol VI week. Held at F in absentia on both boards.**
 
 The channel's founding legend, and the one running story where the paper has had
 to be careful rather than funny.
@@ -119,5 +119,10 @@ Blimber alt."
 - Sisyphos, last message of Saturday, no context, no reply: "And now they are
   doing it to kady and monkey. Interesting world we live in." The paper read the
   preceding hour twice and was none the wiser. Still open.
+
+**Vol VI.** Twenty-three mentions, down from fifty-four. The identity theory (lizzie is
+Kady) revived twice and was not proven, as it never was. Jambe's view, from the rap-sheet
+run on p. 6: Emmie, banned and unbanned by Pearl, "was the first replacement kady-chan."
+Held at F, in absentia, third week, p. 24.
 
 Related: [[lizzie]], [[the-paper-and-its-readers]]

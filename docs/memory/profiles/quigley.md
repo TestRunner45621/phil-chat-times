@@ -126,3 +126,35 @@ He was also, having spent that day in two separate wars, notably kind: "Don't mi
 hpcr. He's a jaded old man."
 
 Related: [[qds]], [[pearl]], [[jere]], [[the-voice-channel]]
+
+## The bill (Vol VI)
+
+The front page of Vol VI is a fight poster: **A-QUIG versus H-CHUNG**, a voice-channel
+engagement, one fall, moderated, Saturday 22 August, 9 pm UTC (5 pm Eastern; the
+promoter said 4). Motion drafted by hpcr on Wednesday afternoon: "What makes our facts,
+statements, theories true?" Moderators Ape and Charlie; judge hpcr ("I'll decide");
+Willow disqualified "and she knows why." Three text rounds preceded it (Vol VI pp. 2–3):
+Sunday morning on agency, Wednesday morning on correspondence, and the Omnius verdict.
+**The result is unknown to the archive** — see [[the-fight]].
+
+The numbers reversed in his favour. **Reply rate 61.4 → 78.4 per hundred, the highest
+in the room, on 804 messages (466 in Vol V).** Reaction percentile 26. Vol VI p. 23:
+"Last week everybody answered him and nobody laughed. This week everybody answers him
+more… and the laughing has not started." **C to S on the Vol VI board, three tiers, the
+largest move up it has recorded** (p. 24).
+
+He still quotes Omnius as precedent. On Wednesday, late morning, he pasted a 200-word
+machine verdict in his favour; chair replied with one quoted word, "load-bearing," and
+Charlie listed seven of its mannerisms in under a minute, including "That is not x;
+that's y," which is line one of this paper's own forbidden list. Quigley, fifteen minutes
+later: "No idea what you're saying here." (Vol VI p. 3.) The paper's finding: "The
+machine had written a paragraph that agreed with him; he had not read it for anything
+else."
+
+He reviewed lizzie's paper on St Paul in five bullet points on Sunday morning and she
+answered every point in sixteen minutes. Vol VI p. 8: "Two people with a derangement
+syndrome between them had conducted a more functional exchange than anyone else
+managed all week, and it was over Paul."
+
+Instruction to the editors, Thu 13 Aug 2:36 PM ET: "Editors, be sure to downgrade Hugh
+to F tier. Thanks." Hugh, 2:41 PM: "you have no power here." Declined; both are in S.

@@ -11,9 +11,6 @@ the masthead standard, print-CSS rules, dead space, the names legend, continuity
 between issues. Read it before writing or laying out an issue. It is the single
 source; do not restate its rules in other files, because two copies drift.
 
-`docs/toolbook/` catalogues the visual devices the paper has already used, so an
-issue can be varied by picking from proven parts rather than copying last week.
-
 `docs/memory/` is what the newsroom remembers between issues: character
 profiles, running stories, factoids checked against the logs, style lessons from
 the readership. Read it before writing, write back to it after. It is a guide —
@@ -42,7 +39,6 @@ block on `file://`.
   predate it and have none
 - `editions.json` — the manifest the site reads; written by `npm run build`
 - `HEADLINES.md` — every headline in the archive; written by `npm run headlines`
-- `docs/toolbook/` — the visual devices the paper has proven, and what each is for
 - `scripts/` — the build, the extractor, the headline index, the preview server
 - `tools/` — the programs that turn a week of Discord into an issue
 - `vendor/pdfjs/` — a pinned copy of pdf.js, so the site has no CDN dependency

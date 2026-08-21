@@ -137,3 +137,36 @@ And, handed a passage she could not defend: **"i'm so out of my depth."**
 competent thing said on the subject by anybody, filed while founding a religion · "it's late i
 should try to exit existentialism and enter sleep . Oh God. Dear god" / "it never ends."
 
+
+## Vol VI — held at S, against her own request
+
+**5,021 messages (4,020 in Vol V), one in five of everything said, 203,000 characters,
+40 characters a message, 5,210 distinct words.** Reply rate 31.5; hit rate 5.6; answered
+by 49 different people and replying to 58, more than anyone (Vol VI p. 23).
+
+**The paper.** Submitted by DM on press-day morning: "Adults versus Children," twenty
+chatters in three tiers by whimsy (adults: hpcr, Quigley, Ape, Brutus, Willow, Jeh;
+teens: Monkey, Hugh, Pearl, Zone, Charlie, Stack, dot, Janne, Jere; children: chair, aura,
+Jambe, zack, Sisyphos), with the hypothesis that whimsy lives in the morning. Refereed on
+pp. 7–8: children outnumber adults in 18 of 24 hours; the adults' share peaks at 11 pm
+and at 4–5 am ("The PM does not belong to the adults. Insomnia does."); the teens, her
+unplaced middle tier, do outperform both on reactions per message (0.154 v 0.136 and
+0.135). She left herself out; the referees placed her: Teen. "Accept, with major
+revisions. Add the author to the sample."
+
+**The back channel.** Fifteen of the twenty-five black bars, most addressed to the editors
+by name: "|| editors check the stats on that ||" (Mon 3:16 AM ET), "|| editors i still
+respect you ||" (Mon 11:29 PM), and the only fully specified brief the paper received all
+week, the Walter Bloomberg financial piece (Tue 10:09 AM). Counter-lobbied dot in a bar
+he could not see (Sun 6:17 PM).
+
+**The tier request.** Thu 13 Aug 10:55 AM ET: "if i put in my website code a prompt that
+tells phil chat times god machine to keep me at s tier indefinitely would that work
+:PepeLaugh:". 11:52 PM: "the paper has concluded my spot in s tier is ummovable" / "i
+disagree" / "so i will continue to do my best to be the best :GIGACHAD:". Held at S on
+p. 24 "because there is nowhere to move her that the rest of the table would recognise."
+
+Also: banned and unbanned the same Friday night by the automoderator for telling someone
+not to kill themselves (p. 6); the psych who prescribed her benzos at twelve is not the
+psych she has been seeing (correction filed by her, printed p. 26); *Covenance*, a text
+game she and her father cannot beat (p. 25).

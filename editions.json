@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-08-14T02:24:52.879Z",
+  "generated": "2026-08-21T17:05:36.271Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -86,6 +86,23 @@
       "thumb": "editions/vol-1-no-5/thumb.jpg",
       "bytes": 4103983,
       "sourceFile": "The Phil Chat Times - Vol I No 5 - 2026-08-13.pdf"
+    },
+    {
+      "slug": "vol-1-no-6",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 6,
+      "date": "2026-08-20",
+      "title": "Vol I No 6",
+      "headline": "A fight is booked. The room moved it three times before dinner.",
+      "pages": 26,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-6/edition.pdf",
+      "cover": "editions/vol-1-no-6/cover.jpg",
+      "thumb": "editions/vol-1-no-6/thumb.jpg",
+      "bytes": 15143599,
+      "sourceFile": "Vol I No 6 - 2026-08-20.pdf"
     }
   ],
   "upcoming": []

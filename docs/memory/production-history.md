@@ -365,3 +365,60 @@ this column does not check, does not disclose, and does not remember."
 
 **Nothing from that column should ever be promoted into a checked page without going
 back to the log first.**
+
+
+## Vol VI — Thursday 20 August 2026
+
+**26 pages, Letter, 25,675 messages.** The nameplate was restored to spec — UnifrakturMaguntia,
+one line, with the article — after Hugh complained within nine hours of Vol V that "the fall-off
+was actually so sad." The motto line on p. 1 says so: "Nameplate restored. See p. 26."
+
+**The shape.** The front page is a fight bill (A-QUIG v. H-CHUNG, Saturday 22 August, a bout
+the paper cannot see), with the tale of the tape, the postponement ledger and a docket of the
+week's other matters. The book then runs: the card and the three text rounds (2–3); the
+Wednesday matter in re Don and zack, as a court report with exhibits and a finding on appeal
+(4–5); the blotter, with Bernard the bot's statblock (6); lizzie's manuscript, refereed (7–8);
+the black bars, declassified (9); the three seizure attempts on the masthead (10); the reaction
+market (11); the tenancy, two pages (12–13); property and the land registry of blocks (14);
+arts, the escalation ladder and the obituaries (15); the clinic and dream court (16); the
+grind, at one wide measure around the number 242,324 (17); the insult desk, by form (18); the
+statblocks, as commissioned by Ape (19); the docket of seventy instructions (20); briefs (21);
+pictures (22); weights and measures (23); order of precedence (24); small ads, arrivals and the
+unanswered (25); corrections, crossword and colophon (26).
+
+**The drafting lesson, recorded in Style.txt.** The first pass was drafted as a run of profiles
+(the zack File, the lizzie File, the Willow Desk…) because Vol V had run files and desks. Twelve
+pages in it was a cast list, not a paper, and was reorganised by event. Style.txt now says so
+under THE SHAPE OF THE ISSUE.
+
+**The editor's second pass (21 August).** After the 24-page build the editor asked for: the
+Vol V effort tables recreated "in substance but not style" with the diversity measures
+("reactions just captures the jokesters"); a tier list relative to Vol V's with big moves
+justified; a page added for both (they became pp. 23 and 24; the old 23–24 became 25–26);
+Quigley's and Hugh's profile pictures on the fight bill, left of A-QUIG and right of H-CHUNG,
+permission obtained by DM from both ("these are public facing pfp's after all"); the crossword
+rebuilt from words the room actually used rather than inside references ("I want someone who
+doesn't read every message to be able to solve this"); the All Quiet on the Frontal Lobe image
+on p. 21 shown in full "to land the joke"; and a check that the insult collection had run (it
+had, p. 18). Fitting the pictures meant the bill's names came down from 44 to 40 pt and the
+centre moved a hair left; nothing else on the bill moved.
+
+**Commissions this week (p. 20):** seventy instructions; granted nine (including Ape's
+statblocks, Hugh's better crossword, Hugh's superlative rule, lizzie's stats check, the lamp),
+declined thirteen, the rest deferred or under advisement. The Walter Bloomberg financial piece
+(Hugh and lizzie, Tuesday) is the only fully specified brief received and is still owed. Also
+owed: Hugh's historical article on the one-sentence-paragraphs debate; the history of
+manifestos; the dark-forest piece addressed to Jere; Rorty's face over Quigley's on delivery of
+his victory.
+
+**What the paper could not see:** the voice channel (and so the bout); direct messages,
+including the manuscript on p. 7; Bernard's posts, which reach the transcript as empty
+headings; the 795 edited messages; anything deleted.
+
+**Tools used, for the record:** per-person effort metrics and percentiles (effort6.js →
+effort6.json), built-from-data pages (build-p23.js, build-p24.js with a coverage assertion
+that every one of the 88 speakers is placed), a seeded free-form crossword generator with run
+validation, fill.js for column feet, measure.js for box heights, shots.js for page PNGs.
+
+**Production numbers:** the PDF is 15.1 MB with 26 inlined images; the single-file
+edition.html is 16 MB.

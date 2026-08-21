@@ -142,3 +142,31 @@ printed. The paper does not connect them.** See [[kady]].
    Monkey's intervention, dot's whispered doubt and the confession on page 9.
 
 Related: [[the-paper-and-its-readers]], [[qds]], [[monkey]], [[willow]]
+
+## Act IV — the fraud, the confession, and the tables that do not agree (Vol VI)
+
+**Room reaction rate: 4.8% (IV) → 7.4% (V) → 9.2% (VI)**, on 25,675 messages and 3,322
+reactions in 246 denominations; the laugh alone is 49 cents of every dollar (Vol VI p. 11).
+
+**The confession.** Stackhouse, Fri 14 Aug 8:14 AM ET: "I kept complaining in chat
+throughout the week about how low my tier was despite having the highest react rate" / "So
+I think it may have over indexed for it this week around" / "Prompt injecting with
+suggestions/complaint really works." He is at 19.1% this week, six points clear of anyone
+over 300 messages, and remains the publisher. Vol VI dropped him S to A for it.
+
+**The counterfeit.** Mon 17 Aug evening, Charlie bought Nitro and put thirty-three
+reactions on one of Willow's posts — the laugh in eleven forms, three of each — the largest
+count on any message that week by twenty-five. Monkey moved to void it. Ruled on p. 11 as
+the room's fraud rather than Willow's. My Name, separately, added a reaction to his own
+message inside the archive and then filed a correction against the figure he had changed.
+
+**The other tables (p. 23, "Weights and Measures").** Effort = mean percentile of chars per
+message and replies per hundred; Enjoyed = percentile for reactions per message; min 90
+messages, 32 of 88 qualify. The two disagree about almost everyone: Grihastha 96/3,
+Stackhouse 65/97, Quigley 95/26, Willow 96/100 (the only person in the top five of both),
+Charlie 31/84, Don 7/61, Monkey 3/6, Brutus 13/0. See factoids for the full row.
+
+**The tier list came back** (p. 24, "Order of Precedence"), relative to Vol V's board, with
+the Vol V rule kept: any move of two tiers or more carries a stated reason; placement is
+neither volume nor reactions; everybody who spoke is placed. The room had asked for it all
+week and in the usual ways — see [[the-paper-and-its-readers]].

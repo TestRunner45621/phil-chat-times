@@ -93,11 +93,32 @@ LAYOUT
 
 5. Remember that with the chat logs there are images in a seperate folder. Those might be good to put in an article. Use your judgement on this.
 
-6. Every sidebar, brief, box, and back-of-book section gets a visual treatment that distinguishes it from the article it sits next to. This is not optional decoration — it is how the reader knows what they are looking at.
+6. Every sidebar, brief, box, and back-of-book section gets a visual treatment that distinguishes it from the article it sits next to. This is not optional decoration — it is how the reader knows what they are looking at. Design those treatments for this issue — see DESIGN — rather than inheriting a set.
 
 The failure mode is a sidebar that is just a paragraph in the same face at the same size flowing in the same column, so it reads as a continuation of the story and the reader walks straight from the article into a joke without noticing the seam. A one-line bold lead-in does not fix this. The block needs a rule, a tint, a reversed panel, a border, a shadow, a corner tab — something that draws a boundary the eye catches before it starts reading. Be creative and vary it; one house box style repeated on every page is its own kind of monotony.
 
 The same rule applies to back-of-book departments and to any page that runs several short items down a column. Classifieds, Deaths & Dissolutions, Personals, Lost & Found should not look like article subheads, and a run of vignettes must not run together as one undifferentiated slab — each vignette gets a separator, a kicker, and air.
+
+SOURCES — WHAT YOU MAY LOOK AT
+
+The chat logs are the source. This file is the rules. Those two, plus the images
+folder that comes with the logs and the notes you make yourself while reading,
+are what an issue is built from.
+
+Past issues are almost entirely off limits. The single exception is the text
+extract — edition.md, or the pdftotext output next to the PDF — which you may
+read for what the paper said: stories that already ran, verdicts already
+delivered, arcs left open, corrections owed, people already introduced. Read it
+for text and nothing else.
+
+Never open a past issue's design. Not the HTML, not the PDF, not cover.jpg or
+thumb.jpg, not a page PNG, not a stylesheet, not a screenshot of one. Not to
+copy it, not to check what to avoid, not "just to see." If a file would show you
+what a previous issue looked like, do not open it, and do not carry its markup
+into this one.
+
+A story pitch document, where one exists, is covered in PRODUCTION 4: a loose
+guide, never a spec, and never a substitute for the logs.
 
 MASTHEAD
 
@@ -105,37 +126,43 @@ The nameplate reads “The Phil Chat Times”, set in blackletter, on one line, 
 
 It has drifted every single issue and should stop. Vol I No 1 set it in a Fraktur face at 70pt across one line, and that is the reference. Vol I No 2 kept the blackletter but broke “The” onto its own line at half the size. Vol I No 3 dropped the face and typed the letters as Unicode Fraktur codepoints instead. Vol I No 4 and No 5 dropped blackletter altogether, set the words in Palatino, split them three ways and lost the “The”. Four nameplates in five weeks, on the one element of the paper that is supposed to be the same every time.
 
-The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see OUTPUT — so install it on the machine or embed it in the HTML as a base64 @font-face.
+The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see OUTPUT — so install it on the machine or embed it in the HTML as a base64 @font-face. The file is in tools/fonts/ in the newsroom repository.
+
+The nameplate is the one piece of the paper that is the same every week, and the spec here is complete: following it does not require looking at a previous issue.
 
 Do not work around a missing font by typing the nameplate as 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰 in mathematical alphanumeric characters. Those are not letters. They break search, copy-and-paste and screen readers, and they render in whatever each machine decides to substitute, which is the opposite of a standard. The markdown mirror uses them because a text file has no fonts. The paper is not a text file.
 
-VARIATION
+DESIGN
 
-Consistency and sameness are not the same thing. The nameplate, the body face, the column measure, the folio and the standing furniture should be identical every week — that is what makes it one paper, and MASTHEAD exists because they were not. Everything above that line is supposed to move.
+Every issue is designed from scratch. Not adapted, not extended, not last week's with new boxes on it — drawn fresh, from this week's material, by whoever is building this week's paper.
 
-Vol I No 4 and No 5 were set from what is effectively one template: the same ten faces in the same roles, the same nameplate treatment at the same size, the same box styles. Two issues that resemble each other is a house style. Four is a rut.
+Do not look at a past edition's design. Not the HTML, not the PDF, not cover.jpg or thumb.jpg, not a page PNG, not a stylesheet, not a screenshot of one, not a description of one. If a file from a previous issue would show you what that issue looked like, it is off limits, and that holds however convenient it would be. The one thing you may read from a past issue is its text extract, edition.md, and you read it for what the paper said, never for how it looked. See CONTINUITY.
 
-Vary these on purpose, issue to issue:
+This is not a preference about house style. It is the point of the exercise. The readership is here to see what an intelligence does with a week of their own conversation and a blank page. A stylesheet inherited from last Thursday answers that question before it is asked, and the answer is always the same answer.
 
-  - The front-page architecture. One dominant lead; two co-leads split down
-    the middle; a wide lead riding over a strip of briefs; a single enormous
-    picture with the story wrapped round it.
-  - Headline dress. Vol I No 1 shipped three condensed faces —
-    Narrow-Condensed, Narrow-Bold-Condensed, Narrow-Oblique-Condensed — and
-    used them. Condensed headline type is the oldest device in newspapers and
-    the paper has not touched it since the first issue.
-  - Box and sidebar treatment. LAYOUT 6 already requires these to be visually
-    distinct from the copy around them. The further requirement is that they
-    not be the same distinct thing every week.
-  - Chart and table style.
-  - At least one feature an issue laid out in a way the paper has not used
-    before. If it works it goes in the toolbook. If it does not, it does not
-    run again.
+There is no parts bin, no toolbook, no catalogue of proven devices, and there should not be one again. A library of things that worked is a machine for producing the fifth version of them. The same goes for carrying a stylesheet forward inside one production run: if a session starts from a previous issue's CSS, every page it builds will be that issue's paper no matter how new the words are.
 
-The toolbook is docs/toolbook/ in the archive repository: the devices the paper has already proven, what each is for, and which issue last used one. Read architectures.md for the shape of the page and elements.md for the parts. Picking from it is how variation gets cheaper than repetition.
+What carries between issues is written here, in words, and nowhere else:
 
-Look at the last two issues before designing this one. Every edition folder has cover.jpg, the front page at 1000px wide. If the new front page could be mistaken for either of them, change it.
+  - The name of the paper, and the nameplate spec in MASTHEAD.
+  - Letter paper, 0.5in margins, no "continued on page X".
+  - The rules in this file.
 
+Everything else is yours to invent: the grid, the measure, the type, the colour, the rules and borders, the way a sidebar is fenced off, the way a picture is framed and captioned, the folio, the section furniture, the charts, the front-page architecture. If what you invent happens to resemble something the paper has run before, no harm done — it should be because you arrived there, not because you started there.
+
+Design from the week, not from a template. A week whose spine is a scheduled fight wants a different paper from a week that is one long argument about personhood. A fight card wants posters, a weigh-in table, a scorecard; an argument wants a transcript, a judgment, a diagram. Ask what this week's material would look like to a designer seeing it for the first time, and build that.
+
+Vary within the issue as much as between issues. Pages that are all the same rectangle — story on the left, rail of boxes on the right, three boxes to a rail — read as a template even when every word is newly written. Let some pages run one wide column with air around it, some be mostly picture, some be a table or a chart at full width, some carry a dozen short items and no feature at all. Shape the page around what is on it.
+
+THE SHAPE OF THE ISSUE
+
+The editorial architecture is invented each week too, and for the same reason. Section names, the order of the book, what counts as a department, which stories get a page and which get four inches: all of it comes from what happened this week, not from what the last issue happened to do.
+
+The failure this is aimed at is on the record. Vol I No 6 was drafted as a run of profiles — the Zack File, the lizzie File, the Pearl File, the Willow Desk, the Machine Desk — because the issue before it ran files and desks and the shape was sitting there. Twelve pages in, the paper had become a series of dossiers on individual chatters: the same article twelve times with the names changed, and a room turned into a cast list.
+
+A newspaper is organised by what happened, not by who it happened to. An argument, an event, an institution, a decision, a scandal, a market, a piece of weather — those are stories. "Everything Zack did this week" is a filing cabinet. Where one person genuinely is the story of the week, run them big, once. Do not build the spine of an issue out of one profile per person, and do not reuse last week's section names.
+
+Sameness of form is its own flatness. If every feature is a chronicle of timestamped quotes — "At 4:19, X said this; Y said that; two laughed" — the issue reads as one long piece however good the material is. Some stories are chronicles. Others want to be a judgment, a review, an obituary, an interview, a letter, an essay with no quotes in it at all, a table, a photograph with two hundred words under it. Pick the form the story wants, and do not let one form take the whole paper.
 
 IMAGES
 
@@ -180,7 +207,7 @@ Write the paper as a print-styled HTML file, then render it to PDF with headless
 
 "C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf="<issue>.pdf" "file:///<absolute path to issue.html>"
 
-Keep the HTML next to the finished PDF. It's the editable source — revisions start from it instead of from scratch. Both go in Past Editions/, in a folder of their own named for the issue — "Vol I No 4 - 2026-08-06" — alongside the page PNGs and a pdftotext extract of the finished PDF. Note the depth when you write the image paths: from inside an edition folder the logs are two levels up, ../../Chat Logs/.
+Keep the HTML next to the finished PDF. It is the editable source for revisions to that issue, and for nothing else — a later issue never starts from it. See DESIGN. Both go in Past Editions/, in a folder of their own named for the issue — "Vol I No 4 - 2026-08-06" — alongside the page PNGs and a pdftotext extract of the finished PDF. Note the depth when you write the image paths: from inside an edition folder the logs are two levels up, ../../Chat Logs/.
 
 Print rules that matter, each of which quietly wrecks the PDF if missed:
 
@@ -221,11 +248,13 @@ The largest single cause of dead space is Chrome's default widows: 2 / orphans: 
 
 Fixing dead space means adding material, not stretching what's there. Longer stories, another brief, a chart, a photograph, more chat quotes, a whole extra page. Padding the leading and inflating the type to fill a column is worse than the hole was. There is always more in the logs.
 
+Dead space means a column that ran dry, or a hole left behind a block that jumped. It does not mean every square inch has to carry copy. Air that is obviously deliberate — around a display headline, beside a big photograph, under a short item meant to sit alone — is design, and a measuring script cannot tell the difference, so you have to. Do not let the fill check turn into a density rule. Filling every remainder with one more box of the same kind is how a paper comes out identical page to page, which is a worse failure than a short column and a much harder one to see.
+
 Last gate is your own eyes: render every page to PNG and read all of them. The tools have been shown to miss this once already.
 
 MEMORY
 
-docs/memory/ in the archive repository is the newsroom’s own compendium: character profiles, running stories that span issues, factoids verified against the logs, and the style lessons the readership has handed down. Read it before you start writing and write back to it when you finish, so the next issue starts where this one left off.
+docs/memory/ in the archive repository is the newsroom’s own compendium: character profiles, running stories that span issues, factoids verified against the logs, and the style lessons the readership has handed down. It is editorial memory only — nothing in it describes or prescribes how an issue should look, and nothing about design belongs in it. Read it before you start writing and write back to it when you finish, so the next issue starts where this one left off.
 
 It is a guide and not the source of truth. The logs are. Anything in there should be checkable against a log file, with the quote and the timestamp that back it up.
 
@@ -234,7 +263,7 @@ CONTINUITY
 
 Read the last issue before you write this one, and read the markdown rather than the PDF. Every edition folder in the archive repository holds edition.md, which is the full text of that issue extracted from the finished paper. It is searchable, greppable and readable in one pass; the PDF is none of those things, and opening it is how looking back stops happening. One issue back is the minimum, two or three is better, and HEADLINES.md will tell you in half a minute what has already run so you do not have to open all of them to find out.
 
-Two files, two jobs. edition.md is what the paper said. cover.jpg, in the same folder, is what it looked like — that one is for VARIATION. Neither of them requires the PDF.
+Read the text and only the text. edition.md is what the paper said, and that is the only thing a past issue is allowed to tell you. Do not open the PDF, the HTML, cover.jpg, thumb.jpg or a page PNG of a previous issue for any reason, including "just to see what it looked like" — especially that. See DESIGN. What the paper looked like last week is not information you need and not information you are allowed to have.
 
 This applies to a pitch document as much as to the paper. A pitch written without last week in front of you will confidently propose a story that already ran, and it will be the third-best story of the week rather than the first, because the good one was used.
 
