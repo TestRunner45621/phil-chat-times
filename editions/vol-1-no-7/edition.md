@@ -1709,7 +1709,7 @@ Lateness. Thursday, 10.07pm: "retarded bot fucked it up and used all my usage, w
 
 The dossiers. On Wednesday evening Stackhouse uploaded six Markdown files, my-name.md, dot.md, monkey.md, ape.md, aura.md and jere.md, generated
 
-archive, after dot said: "lame needs updating. Editors be more psychological." Stackhouse: "i would stop if it made people uncomfy, but no ones complained yet." Aura: "theres a vague discomfort from me but i dont wanna be a bitch about it." The machine's profile of My Name found that he burned 174 million tokens in a day, got nothing done, "and identified the problem as insufficient automation of the burning." My Name's response, in full: "Yes." Ape's review of the profiles: "kind of ass, just a recap of things the AI found salient." This paper recaps things a human found salient.
+archive, after Ape said "editor's get on this" and dot said: "lame needs updating. Editors be more psychological." Anonymous Johnson: "Stack (panopticon arc)." Stackhouse: "i would stop if it made people uncomfy, but no ones complained yet." Aura: "theres a vague discomfort from me but i dont wanna be a bitch about it." The machine's profile of My Name found that he burned 174 million tokens in a day, got nothing done, "and identified the problem as insufficient automation of the burning." My Name's response, in full: "Yes." Ape's review of the profiles: "kind of ass, just a recap of things the AI found salient." This paper recaps things a human found salient.
 
 The tweet. Stackhouse, Wednesday, 4.19pm: "editors, this tweet should be reproduced in print." It is a TikTok screenshot of one woman's thirteen reasonable doubts about a real murder case, with real names and dead children in it. It is not reproduced.
 
@@ -2913,11 +2913,9 @@ R E V I S I O N
 
 #### !
 
-##### I S S U E D A F T E R P U B L I C AT I O N , S AT U R D AY 2 9
+I S S U E D A F T E R P U B L I C AT I O N , S AT U R D AY 2 9 A U G U S T · PA G E S 1 – 2 9 A S P R I N T E D, T W O L I N E S
 
-A U G U S T, F O U R I N T H E A F T E R N O O N · PA G E S 1 – 2 9
-
-A S P R I N T E D, T W O L I N E S C O R R E C T E D O N P P. 1 9 – 2 0
+##### C O R R E C T E D O N P P. 1 9 – 2 0
 
 ##### T H E S O C I E T Y P A G E S · A L E T T E R , A N D T H E A N S W E R T O I T
 
@@ -2945,9 +2943,13 @@ STACK, 3.58 Editorial decision from the newspaper. People were complaining
 
 about the quantification of the newspaper - tier lists, statistics, comparisons
 
-Ape & Youv Quigley & Zone
+Ape & Youv
 
-202 92 / 110 195 95 / 100
+Quigley & Zone
+
+202 92 / 110
+
+195 95 / 100
 
 MY NAME'S AI, 4.00 the blind leading the blind. We used to know who liked who.
 
@@ -3067,9 +3069,13 @@ Jere answers Quigley most (52); answered most by Lizzy (73) a picture 6
 
 answers Ape most (39); answered most by Ape (45) No I talked to him it was def autism 5
 
-Quigley Jere Lizzy dot
+Quigley Jere
 
-149 149 133 120
+Lizzy dot
+
+149 149
+
+133 120
 
 8% 8.9%
 
