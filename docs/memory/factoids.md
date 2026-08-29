@@ -363,7 +363,7 @@ the editors by name, 1 used to hide something.
 **Unanswered questions:** 203 met with neither reply nor reaction; lizzie 44, Sisyphos 36,
 Janne 19 (p. 25).
 
-## The Vol VI board (Order of Precedence, p. 24) — the baseline for Vol VII
+## The Vol VI board (Order of Precedence, p. 24) — superseded by the Vol VII board (Vol VII p. 31; see the-metric.md, Act VI)
 
 S: Quigley ▲3, Hugh ▲1, zack NEW, lizzie —
 A: Stackhouse ▼1, Willow ▼1, chair —, Ape —, Charlie ▲1, Sisyphos ▲1
@@ -421,7 +421,7 @@ printed on Vol VII p. 27. Eastern time throughout.
   "useless" 8 (Quigley, Friday, of Hugh's position).
 - **Quigley alone:** 1,405 messages; :PEPE: 77; "reality" 63; "warrant" 49; nine opponents
   on Friday; answered to thirty-odd names (p. 26); "vc" twenty times to Hugh's four.
-- **Reactions, most on one message:** 14, Ape, on continuing to masturbate (Tue); 12,
+- **Reactions, most on one message:** 20, Stackhouse, "It bumped me down a tier even I though I have the highest react rate every week" (Fri 21 Aug 4.36 pm; ten denominations of two — missed by p. 27, which counted single emotes, corrected on p. 30); 14, Ape, on continuing to masturbate (Tue); 12,
   Pearl, "flavored simple syrup" (Sun 10.05 am, six flavours of KEKW; Quigley: "I will not
   stand for this reaction inflation"); 9, Jeh, on never crying about a relationship in
   phil chat (Mon 10.08 am, four KEKW and five dead); 7, Lizzy, "depends. on if you're

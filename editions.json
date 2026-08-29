@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-08-29T17:21:02.229Z",
+  "generated": "2026-08-29T20:27:30.656Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -112,13 +112,13 @@
       "date": "2026-08-28",
       "title": "Vol I No 7",
       "headline": "Hugh by decision; Quigley recognizes the distinction that he won",
-      "pages": 29,
+      "pages": 32,
       "width": 612,
       "height": 792,
       "pdf": "editions/vol-1-no-7/edition.pdf",
       "cover": "editions/vol-1-no-7/cover.jpg",
       "thumb": "editions/vol-1-no-7/thumb.jpg",
-      "bytes": 12794101,
+      "bytes": 12999869,
       "sourceFile": "Vol I No 7 - 2026-08-28.pdf"
     }
   ],

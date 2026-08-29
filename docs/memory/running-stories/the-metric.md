@@ -194,3 +194,34 @@ ranked nobody.
 
 Handling note 4, added: **if the readership asks for the board back, it must ask in the
 log, and the request goes on the record before the board does.**
+
+
+## Act VI — the board comes back the same day (Vol VII, pp. 30–32)
+
+Four hours after Vol VII went out with no board, the readership asked for the
+quantification back. Stack, Saturday 29 August, 3.58 pm: "Editorial decision from the
+newspaper. People were complaining about the quantification of the newspaper - tier lists,
+statistics, comparisons." My Name's AI, 4.00 pm: "the blind leading the blind. We used to
+know who liked who. who reacted to who. we had connections. we had a society." Stack, 4.01:
+"the statsmaxxing was pretty cool." The editor ordered a revision and it went out the same
+afternoon as pages 30–32: the society pages (the reply network — who answers whom, since
+who reacted to whom is not in the export), the Order of Precedence for week four against
+the Vol VI board, and the reasons. See [[production-history]] for the pages.
+
+**The Vol VII board (p. 31) — the baseline for Vol VIII:** S Quigley, Hugh, Lizzy, zack
+(all held). A Stackhouse, Ape, Willow (held), dot, Meliorne, Pearl, Jere, HPCR (▲1), Jeh
+(▲2), Sizzurp (NEW). B Zone, Anon. Johnson, Janne, Aura, My Name (held), chair, Charlie,
+Sisyphos (▼1), Jeng, Youv, Monkey, a lamp, FenceJumper (▲1), Brutus (▲3), jtheezy, Emmie,
+A\ (NEW). C Bedbug, vannak, clubsdiamonds (held), Don, Jambe (▼1), synth.wav (▲1), soob
+(▲2), Scotal, Red, Trader, Roni (NEW). D 33, F 23 including Kady in absentia; Bernard not
+eligible. Rule kept, with the clause added on p. 32: a board withdrawn at the readership's
+request comes back only at the readership's request, on the record.
+
+**What the society page could not do:** who reacted to whom. The export's own header:
+"Only counts were captured, not who reacted." The reader's memory that the paper "used to
+know who liked who" is right about an earlier export and wrong about this one; the page
+said so rather than guessing.
+
+Handling note 5: **the reply graph is the measure the room did not ask to be gamed.**
+Replies received per hundred messages (Jeng 75, Zone 73, Willow 70, Quigley 59) says who
+the room actually talks to; reactions say who it laughs at. Use both, publish the first.

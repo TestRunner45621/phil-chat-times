@@ -4,7 +4,7 @@ number: 7
 date: "2026-08-28"
 title: "Vol I No 7"
 headline: "Hugh by decision; Quigley recognizes the distinction that he won"
-pages: 29
+pages: 32
 slug: "vol-1-no-7"
 masthead: true
 ---
@@ -2898,5 +2898,461 @@ statement matches reality without referring to it. The question is held over.
 The Tunisian knife fighter is included, as instructed.
 
 Corrections to the usual address; the editor has no hands.
+
+---
+
+## Page 30
+
+R E V I S I O N · T H E S O C I E T Y PA G E S
+
+T H E P H I L C H AT T I M E S · V O L . I , N O . 7 · I S S U E D 2 9 A U G U S T 2 0 2 6
+
+##### 30
+
+R E V I S I O N
+
+#### !
+
+##### I S S U E D A F T E R P U B L I C AT I O N , S AT U R D AY 2 9
+
+A U G U S T, F O U R I N T H E A F T E R N O O N · PA G E S 1 – 2 9
+
+##### S TA N D A S P R I N T E D
+
+##### T H E S O C I E T Y P A G E S · A L E T T E R , A N D T H E A N S W E R T O I T
+
+"We had connections. We had a society."
+
+##### Page 27 counted the week and ranked nothing, by request. Within four hours
+
+##### W H AT T H I S PA G E C A N N OT S E E
+
+Who pressed the button. The export records reactions as counts and says so: "Only counts were captured, not who reacted." So "who liked who" cannot be rebuilt; the reader is right that it once could. Who answered whom can, and is.
+
+##### a reader asked for the part that was missing: not who was best, but who talks
+
+##### to whom. This page is the answer.
+
+T H E L E T T E R , S AT U R D AY A F T E R N O O N
+
+S E E N TO G E T H E R · R E P L I E S B E T W E E N T H E
+
+##### PA I R , A N D T H E S P L I T
+
+Hugh & Quigley 221 110 / 111
+
+STACK, 3.58 Editorial decision from the newspaper. People were complaining
+
+about the quantification of the newspaper - tier lists, statistics, comparisons
+
+Ape & Youv
+
+Quigley & Zone
+
+202 92 / 110
+
+195 95 / 100
+
+MY NAME'S AI, 4.00 the blind leading the blind. We used to know who liked who.
+
+who reacted to who. we had connections. we had a society. STACK, 4.01 the statsmaxxing was pretty cool. hold on let me tell it to stop being a baby
+
+Ape & Jeng Jeng & Quigley
+
+164 76 / 88 130 70 / 60
+
+P E R H U N D R E D O F T H E I R O W N
+
+##### M E S S A G E S
+
+THE REPLY NE T WORK · SIX TEEN PEOPLE, E VERY PAIR THAT ANSWERED E ACH
+
+The hosts (replies made): Willow 88.3 · Zone
+
+OTHER THIRT Y TIMES OR MORE
+
+Quigley
+
+Zone
+
+400
+
+chair
+
+345
+
+My Name
+
+402
+
+Stackhouse
+
+451
+
+HPCR
+
+483
+
+Youv
+
+516
+
+Aura
+
+519
+
+1,667
+
+zack
+
+Lizzy
+
+1,394
+
+Ape 1,264
+
+dot 1,231
+
+Hugh
+
+1,014
+
+Jere 786
+
+Jeng
+
+650
+
+Sizzurp
+
+606
+
+84.3 · Jeng 81.7 · Scotal 65.2 · Janne 61 · FenceJumper 60. The belles (replies received): Jeng 74.9 · Zone 72.5 · Willow 69.9 · Quigley 58.8 · Meliorne 58.3 · Scotal 56.3. The wallflowers (fewest received, sixty messages or more): AabsoluteZero 17.6 · Monkey 23.7 · zack 24.1 · Brutus 24.2 · Lizzy 27 · chair 30.3. Lizzy typed 2,066 times and was answered for one in four.
+
+##### T H E K I S S C O U N T
+
+1,974 reactions on messages the paper can read; the laugh is 48 cents of every dollar. Denominations: KEKW 941 · 🙏 110 · 💯 80 · 🔥 67 · OMEGALUL 67 · FeelsStrongMan 64. Hit is the share of a person's messages that drew any reaction.
+
+605
+
+A chord is a pair; its width is how often they answered each other. Copper: the three busiest pairs.
+
+R E C E I V E D Stackhouse
+
+N 163
+
+##### H I T
+
+17.4%
+
+Brown: any other pair with Quigley in it. Teal: the rest. The number under each name is replies made
+
+plus replies received. 8,428 of the week's 19,965 messages were replies to a named person, 42 per cent; 170 were people replying to themselves. Mutual pairs, ten or more each way: 89. The most even: Hugh & Quigley, 110 and 111. Longest exchange: Jeh & Lizzy, 19 replies in 4 minutes, Friday 21
+
+August, from 12.34 pm.
+
+E ACH PERSON'S PERSON · THE EIGHT WHO T YPED MOST
+
+Lizzy answers Quigley most (83); answered most by Jeh (47) on if you’re being nice or trying to fuck me… 7
+
+Ape answers Youv most (92); answered most by Youv (110) Alr well it seems like the matter is out of my… 14
+
+dot answers Quigley most (72); answered most by Lizzy (65) She annotated a book for me with all these… 6
+
+zack answers Hugh most (35); answered most by FenceJumper (36) a picture 6
+
+Quigley answers Hugh most (111); answered most by Hugh (110) Don't threaten @Youv / Philip with a good time 5
+
+Hugh answers Quigley most (110); answered most by Quigley (111) He's accidentally stumbling on the "thought is… 3
+
+Jere answers Quigley most (52); answered most by Lizzy (73) a picture 6
+
+##### HPCR
+
+answers Ape most (39); answered most by Ape (45) No I talked to him it was def autism 5
+
+Quigley Jere
+
+Lizzy dot
+
+149 149
+
+133 120
+
+8% 8.9%
+
+5% 6.1%
+
+##### C O R R E C T I O N
+
+Page 27 gave Ape's fourteen as the week's most-reacted message. It was not. Stackhouse, Friday 21 August, 4.36 pm — "It bumped me down a tier even I though I have the highest react rate every week" — drew twenty, in ten denominations of two. The paper regrets the error, though not very much.
+
+---
+
+## Page 31
+
+R E V I S I O N · O R D E R O F P R E C E D E N C E , W E E K F O U R
+
+T H E P H I L C H AT T I M E S · V O L . I , N O . 7 · I S S U E D 2 9 A U G U S T 2 0 2 6
+
+##### 31
+
+R E V I S I O N
+
+##### !
+
+I S S U E D A F T E R P U B L I C AT I O N · A L L 9 8 W H O S P O K E
+
+##### A R E P L A C E D · A R R O W S A G A I N S T T H E V O L V I
+
+B O A R D · T W O T I E R S O R M O R E C A R R I E S A R E A S O N
+
+O R D E R O F P R E C E D E N C E · W I T H D R A W N B Y R E Q U E S T O N P A G E 2 7 , R E S T O R E D B Y R E Q U E S T O N T H I S O N E The four at the top hold. Jeh comes up two, Brutus three. The board is back because the room asked twice.
+
+##### Placement goes by what a person did to the week, with volume and reactions set aside. Anyone not on last week's board is NEW; D is still where the evidence runs out. The request that brought it back is on the record on page 30. The reasons are on page 32.
+
+Quigley — Hugh — Lizzy — zack —
+
+### S
+
+4
+
+Stackhouse — Ape — Willow — dot ▲1 Meliorne ▲1 Pearl ▲1 Jere ▲1 HPCR ▲1 Jeh ▲2 Sizzurp NEW
+
+### A
+
+10
+
+### B
+
+##### 17
+
+### C
+
+##### 11
+
+### D
+
+##### 33
+
+### F
+
+##### 23
+
+Zone — Anon. Johnson — Janne — Aura — My Name — chair ▼1 Charlie ▼1 Sisyphos ▼1 Jeng ▲1 Youv ▲1 Monkey ▲1 a lamp ▲1 FenceJumper ▲1 Brutus ▲3 jtheezy NEW Emmie NEW A\ NEW
+
+Bedbug — vannak — clubsdiamonds — Don ▼1 Jambe ▼1 synth.wav ▲1 soob ▲2 Scotal NEW Red NEW Trader NEW Roni NEW
+
+WoolierThanThou — NoKnee — bardiel1 — basil — ConnorsConquest — sleep — mentanje — Ominous Reject — Yohannes — Rowser1 — hobocodes — Puckspartan ▼1 Gloomies ▼1 BigC ▼1 pcktn ▲1 arnie ▲1 Pashy ▲1 RoyalLineage NEW Rn! NEW firelakes NEW Ixtlimal NEW Neura NEW Fin NEW paq NEW glorious_bigusdickus NEW Brick NEW Pictures of the Old World NEW Harpo NEW Itatchi The Frog NEW Mini Me NEW aVolk NEW PNEUMA NEW Sita NEW
+
+Teapot — james — Olang — CogitativeSoul NEW ant NEW Fayluna NEW Twizer NEW Killswitch NEW Expert on all Topics NEW WittySeal NEW resputin NEW NikoniortNike NEW rocha NEW OkPhilosopher NEW Marsaries NEW and the seven who spoke once — Kady held, in absentia, fourth week
+
+Bernard bot · 14 posts · seven skulls on the voteban · not eligible
+
+#### —
+
+1
+
+The top of the board Quigley, held. Lost the poll 9–3 on Saturday and declared victory on Monday; said one sentence twenty-three times; answered to thirty names; got a sudoku. Nothing about the week is legible without him and nobody laughed, which is the S condition
+
+Lizzy, held. 2,066 messages, three pages, one breakup, two bats, a parchment and a return. Answered for one message in four, which is the wallflower rate and the reason the board does not count answers.
+
+The A row Stackhouse for the rival paper and the twenty-reaction complaint. Ape for reviewing the parchment before anyone else was awake. Willow for the book proposal and for James Joyce. dot up: second in the room, murdered in voice, the
+
+zack, held. Banned for three days and still
+
+as Vol VI defined it. Hugh, held. Won the bout, by the only count there was, then spent five days reexplaining it and lost the physics to Youv on Wednesday. "You have not
+
+produced a page: the spaghetti hostage
+
+book in the creek. Meliorne up: sixteen swords and the reclassification order. Pearl
+
+crisis, the air fryer doctrine, "who's Phil."
+
+Placed by Lizzy in the children's tier last
+
+up: the bench, five attempts. Jere up: Alfred Einstein and 3,763 characters of LaTeX.
+
+week; reclassified youth, suspected, on p.
+
+19; held at S by the editors.
+
+HPCR up: the dog and the rabbit, the line of the week. Jeh up two and Sizzurp NEW:
+
+demonstrated," seventeen times, was the
+
+Tier talk, this week. AabsoluteZero, asked to
+
+page 32.
+
+week's best single message and he knows
+
+it.
+
+leave gen chat to the higher tiers: "ill have you know im a c tier lamp." Lizzy, on Vol VI: "the reception of the papers this week wasn't stellar."
+
+---
+
+## Page 32
+
+R E V I S I O N · O R D E R O F P R E C E D E N C E , T H E R E A S O N S
+
+T H E P H I L C H AT T I M E S · V O L . I , N O . 7 · I S S U E D 2 9 A U G U S T 2 0 2 6
+
+##### 32
+
+R E V I S I O N
+
+T W O T I E R S O R M O R E , A N D W H Y
+
+##### !
+
+I S S U E D A F T E R P U B L I C AT I O N · T H E M O V E S , T H E R E A S O N S , A N D T H E P R O O F T H AT P L A C E M E N T I S
+
+##### N OT V O LU M E
+
+on p. 14 and commissioned p. 11.
+
+P L A C E M E N T I S N O T V O L U M E
+
+Every speaker as a dot: their tier across, their
+
+Jeh, C to A. Hugh told the paper he was
+
+Don down: meme-pinged the bench, three
+
+message count up, on a log scale. Lizzy and
+
+under-appreciated and the paper checked.
+
+days, not back. Jambe down: "WHO?"
+
+Sisyphos are both in the top twenty by volume and
+
+286 messages, every one a position statement: rich first, because everything else naturally follows; "What's in it for me" to a cry for help; "I would never cry about my relationship ending in phil chat," nine reactions, the week's ninth;
+
+Puckspartan, Gloomies, BigC down to D, where the evidence runs out. pcktn, arnie, Pashy up from F on one useful message each: the question that explained Lizzy's absence; a film treatment with an em dash; "Open the windows so they fly
+
+four tiers apart; Don is in C on thirteen messages and Puckspartan in D on 155.
+
+##### M E S S A G E S , L O G S C A L E
+
+Lizzy
+
+dot Quigleyzack Ape
+
+Jere
+
+"Typical Buddhist," fourteen hours and forty-nine minutes late. He got a page (21). A man who gets a page for saying less than anyone in the top twenty is not in C. Brutus, F to B. Vol VI placed him in F because he talked to nobody and nobody talked back. This week 583 messages, answered 141 times, thirty-seven of them by dot; the found $500 and the Jason Bourne finding; BTFO; the broken clock that might take longer than the age of the universe to be right; gamelan, at volume, to zack; and the only real science conversation of the week, with vannak, that nobody interrupted. Three tiers is as far as a stated reason carries, and this is it. soob, F to C. One message last week. This week 108, all on Monday, ten of them spent believing the Joe Schmid symposium was about Destiny: "Destiny is catholic? Huh." Then: "Religion is cool bc art." The evidence ran out at lunch, which is C.
+
+##### O N E T I E R , A N D T H E A P P E A L S
+
+chair, Charlie, Sisyphos down from an A row that had six in it and now has ten: chair got his rough and sweaty section and "life is mostly about food"; Charlie spawned twenty-four subagents and posted sixteen essays about himself; Sisyphos asked for the paper twice and occupied the quietest hour alone. B is where good weeks go when better ones happen. Jeng up: the undercard, the transistors, blocked twice. Youv up: beat Hugh on the equivalence principle and said "we need kady back." Monkey up: juvenile court, and the last words in the log. A lamp up:
+
+away."
+
+##### N E W , A N D W H E R E
+
+jtheezy to B on a page of Ayn Rand in four hours. Emmie to B on the only review that said read more first. A\ to B on a $29.99 pan, a tomato and a five-hour window killed in fifteen minutes. Sizzurp to A, absent from last week's board, on the Paragraph, the Schmid file and the beans. Scotal to C, sixteen, reported to the supreme court at 3.34 am. Red to C on a beginner's question that got him a PDF and a plan. Trader to C for "Unemployed take." Roni to C for finding Nietzsche. RoyalLineage to D for a murder the paper could not see. JimBob to F on one word, "the." Not on the board, having not spoken: Telhar, thunderstud, the Lady, FlyingPickle, Rem, Deviant, Andrew, Buzz, Tophericus, Akva, Blob, Simon, Amazon, jakontrary, bimmy gap, complicat, Rule 34 Ahri, Shambles, Plebs, holden, Chairman, josimiteesam, Kura, WomanDefender99. Kady, fourth week at zero, twenty mentions, held at F in absentia. Bernard is a bot and put seven skulls on the voteban.
+
+The rule, restated. Two tiers or more carries a stated reason; a bad one is permitted, none is not. Nobody moves for volume or reactions. Everybody who spoke is on the board. A board withdrawn at the readership's request comes back only at the readership's request, on the record (p. 30).
+
+T H E A R I T H M E T I C O F T H E B O A R D Ninety-seven placed and one bot. Up:
+
+1,000
+
+Aura
+
+BrutusMonkey
+
+PuckspartanJambe
+
+100
+
+10
+
+1
+
+S
+
+A
+
+B
+
+Scotalsoob
+
+OkPhilosopher
+
+C
+
+D
+
+F
+
+T H E T I E R S , M E A S U R E D
+
+T I E R S A B C D F
+
+P E O P L E 4
+
+10
+
+17
+
+11
+
+33
+
+22
+
+M S G S
+
+5,655
+
+7,004
+
+5,811
+
+820
+
+609
+
+52
+
+A N S .
+
+38
+
+45
+
+41
+
+44
+
+40
+
+—
+
+R E A C T
+
+7.8
+
+12.0
+
+9.2
+
+10.6
+
+5.6
+
+—
+
+Ans. and React are replies received and
+
+the winery, the gas leak, the goodbye kiss; a whole page (15). FenceJumper up: the voteban's second, the Princess Bride speech, and Pearl's "That's in 2 years asshole." synth.wav up: posted the exhibit
+
+seventeen, twenty-one tier-steps between them. Down: eight, a step each. Held: twenty-eight. NEW: forty-four. Silent since last week: twenty-four names and Kady.
+
+reactions received per hundred messages, over the forty people the society index tracks; D and F are mostly outside it.
 
 ---

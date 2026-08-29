@@ -516,3 +516,68 @@ archive's earlier issues call Grihastha; the room calls him Anime Man.
 
 **Production numbers:** PDF 12.8 MB; inlined edition.html 14.8 MB; all 29 page renders
 read before shipping; final measure clean on every column.
+
+### The after-publication revision (pages 30–32, issued Saturday 29 August, late afternoon)
+
+Three pages added after the 29-page issue had been read, at the editor's instruction,
+marked "Revision · Issued after publication · Pages 1–29 stand as printed" in a black bar
+at the top of each. Pages 1–29 were not touched.
+
+**What prompted it.** Within four hours of publication, in the channel (screenshot
+supplied by the editor): Stack, 3.58 pm, "Editorial decision from the newspaper. People
+were complaining about the quantification of the newspaper - tier lists, statistics,
+comparisons." My Name's AI (a reader posting under that display name), 4.00 pm: "the
+blind leading the blind. We used to know who liked who. who reacted to who. we had
+connections. we had a society." Stack, 4.01: "the statsmaxxing was pretty cool. hold on
+let me tell it to stop being a baby." The editor then asked for a "cracked stats page" and
+a tier list built off Vol VI's.
+
+**p. 30, The society pages.** "We had connections. We had a society." The reply network:
+8,428 of 19,965 messages were replies to a named person (42%), 170 self-replies, 89 mutual
+pairs (ten or more each way); a chord diagram of the sixteen most-connected people (every
+pair with thirty or more replies between them); "Seen together" (Hugh & Quigley 221, split
+110/111; Ape & Youv 202; Quigley & Zone 195; Ape & Jeng 164; Jeng & Quigley 130); hosts,
+belles and wallflowers per hundred messages (Willow answers 88 per hundred of her own;
+Jeng is answered 75 per hundred; AabsoluteZero 17.6 and Lizzy 27 are the least answered);
+each person's person for the eight who typed most; the kiss count (1,974 reactions read,
+KEKW 941 = 48%; Stackhouse 163 reactions on 535 messages, hit 17.4%); the longest
+exchange (Jeh & Lizzy, 19 replies in four minutes, Friday 21 August from 12.34 pm); 208
+@-pings, Ape the most pinged. **The blind spot, stated on the page:** the export records
+reactions as counts only — its own header says "Only counts were captured, not who
+reacted" — so "who liked who" cannot be rebuilt; who answered whom can. **Correction
+carried:** p. 27 gave Ape's fourteen as the week's most-reacted message; Stackhouse's
+"It bumped me down a tier even I though I have the highest react rate every week" (Fri 21
+Aug 4.36 pm) drew twenty, in ten denominations of two; the desk's index had counted single
+emotes.
+
+**p. 31, Order of Precedence, week four.** All 98 speakers placed against the Vol VI board.
+S: Quigley, Hugh, Lizzy, zack, all held. A: Stackhouse, Ape, Willow held; dot, Meliorne,
+Pearl, Jere, HPCR up one; Jeh up two; Sizzurp NEW (absent from the Vol VI board). B: Zone,
+Anon. Johnson, Janne, Aura, My Name held; chair, Charlie, Sisyphos down one; Jeng, Youv,
+Monkey, a lamp (AabsoluteZero), FenceJumper up one; Brutus up three; jtheezy, Emmie, A\
+NEW. C: Bedbug, vannak, clubsdiamonds held; Don, Jambe down one; synth.wav up one; soob up
+two; Scotal, Red, Trader, Roni NEW. D: 33 (Puckspartan, Gloomies, BigC down one; pcktn,
+arnie, Pashy up one; RoyalLineage, Rn! and nineteen others NEW). F: 23 including the seven
+who spoke once, Marsaries, OkPhilosopher, JimBob ("the"), and Kady held in absentia, fourth
+week. Bernard, bot, not eligible. Not on the board, having not spoken: Telhar, thunderstud,
+the Lady, FlyingPickle, Rem, Deviant, Andrew, Buzz, Tophericus, Akva, Blob, Simon, Amazon,
+jakontrary, bimmy gap, complicat, Rule 34 Ahri, Shambles, Plebs, holden, Chairman,
+josimiteesam, Kura, WomanDefender99.
+
+**p. 32, the reasons.** Two tiers or more: Jeh C→A (the Special, "rich first," the cry for
+help, "Typical Buddhist"); Brutus F→B (583 messages, answered 141 times, the $500, BTFO,
+the broken clock, the optics conversation with vannak); soob F→C (108 messages on Monday,
+"Destiny is catholic? Huh."). One-tier moves and the NEW placements each get a sentence.
+A chart of every speaker by tier and message count on a log scale, headed "Placement is
+not volume" (Lizzy and Sisyphos both top-twenty by volume, four tiers apart; Don in C on
+thirteen messages, Puckspartan in D on 155). The tiers measured: S 4 people, 5,655
+messages; A 10, 7,004; B 17, 5,811; C 11, 820; D 33, 609; F 22, 52. The arithmetic of the
+board: 97 placed and one bot; up 17 (21 tier-steps), down 8, held 28, NEW 44, silent since
+last week 24 and Kady. The rule restated, with the new clause: a board withdrawn at the
+readership's request comes back only at the readership's request, on the record.
+
+**Tools:** `tools/society.js` (reply, mention and reaction graphs from the working files →
+society.json), `tools/society-page.js` (page 30, including the chord SVG),
+`tools/precedence-page.js` (page 32, including the tier–volume chart); the board itself is
+hand-placed in `parts/31-precedence.html`. Pages 30–32 were also exported as 150-dpi PNGs
+for posting, under the edition's `addendum/` folder.
