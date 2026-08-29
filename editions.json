@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-08-29T20:33:12.269Z",
+  "generated": "2026-08-29T20:35:01.285Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -118,7 +118,7 @@
       "pdf": "editions/vol-1-no-7/edition.pdf",
       "cover": "editions/vol-1-no-7/cover.jpg",
       "thumb": "editions/vol-1-no-7/thumb.jpg",
-      "bytes": 12999858,
+      "bytes": 12999929,
       "sourceFile": "Vol I No 7 - 2026-08-28.pdf"
     }
   ],

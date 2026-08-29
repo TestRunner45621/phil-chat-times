@@ -1709,7 +1709,7 @@ Lateness. Thursday, 10.07pm: "retarded bot fucked it up and used all my usage, w
 
 The dossiers. On Wednesday evening Stackhouse uploaded six Markdown files, my-name.md, dot.md, monkey.md, ape.md, aura.md and jere.md, generated
 
-archive, after dot said: "lame needs updating. Editors be more psychological." Stackhouse: "i would stop if it made people uncomfy, but no ones complained yet." Aura: "theres a vague discomfort from me but i dont wanna be a bitch about it." The machine's profile of My Name found that he burned 174 million tokens in a day, got nothing done, "and identified the problem as insufficient automation of the burning." My Name's response, in full: "Yes." This paper has one rival, and the rival's profiles are, in Ape's words, "kind of ass, just a recap of things the AI found salient." We recap things a human found salient.
+archive, after dot said: "lame needs updating. Editors be more psychological." Stackhouse: "i would stop if it made people uncomfy, but no ones complained yet." Aura: "theres a vague discomfort from me but i dont wanna be a bitch about it." The machine's profile of My Name found that he burned 174 million tokens in a day, got nothing done, "and identified the problem as insufficient automation of the burning." My Name's response, in full: "Yes." Ape's review of the profiles: "kind of ass, just a recap of things the AI found salient." This paper recaps things a human found salient.
 
 The tweet. Stackhouse, Wednesday, 4.19pm: "editors, this tweet should be reproduced in print." It is a TikTok screenshot of one woman's thirteen reasonable doubts about a real murder case, with real names and dead children in it. It is not reproduced.
 
@@ -1771,7 +1771,7 @@ Adult "my reddit Boomer, to atheism peaked Ape like 11-12 years ago"
 
 — Quigley: "a Boomer boomer to the zoomers"
 
-##### T H E R I VA L
+##### T H E PA N O P T I C O N
 
 Stackhouse, Wednesday, 8.55pm: "i wonder if i could leverage this into a career in surveillance." Aura: "gonna have to stop typing in here soon. the bit has gone on too long. i will soon shut the gates to my data from the eye of sauron." Anonymous Johnson: "The priest pfp makes sense for stack bc he's privy to all our secrets by means of AI." Jere: "bless me stack for i have sinned." Stackhouse: "I know what you did in 2016." Jere: "stop. ur in vow of confidentiality." Stackhouse: "hanopticon." My Name: "revopticon."
 
@@ -1801,7 +1801,7 @@ LIZZY Emmie said read more first, and was the only critic who said it without a 
 
 YOUV More physics than Hugh, and less idea which side you are on than anyone: HPCR told you four times on Friday that you were attacking your own team. "The truth is, we need kady back" was the saddest sentence of the day. Rating: "the number of holes."
 
-HPCR Diagnosis instead of argument, and it produced the line of the week, so the method stands. But you told jtheezy the SEP is not neutral in the morning and asked Ape to read you the SEP that night. Rating: "Unemployed take." STACKHOUSE You built a rival paper out of Markdown and asked this one to print a TikTok about a murder. The voteban narration was excellent; the profiles are cringe, by your own account. Choose one. Rating: "hanopticon."
+HPCR Diagnosis instead of argument, and it produced the line of the week, so the method stands. But you told jtheezy the SEP is not neutral in the morning and asked Ape to read you the SEP that night. Rating: "Unemployed take." STACKHOUSE You built six dossiers out of Markdown and asked this paper to print a TikTok about a murder. The voteban narration was excellent; the profiles are cringe, by your own account. Choose one. Rating: "hanopticon."
 
 Incel ratings, as requested by Jere: none issued. The column rates what people said, and nobody said that.
 
@@ -2917,7 +2917,7 @@ R E V I S I O N
 
 A U G U S T, F O U R I N T H E A F T E R N O O N · PA G E S 1 – 2 9
 
-##### S TA N D A S P R I N T E D
+A S P R I N T E D, T W O L I N E S C O R R E C T E D O N P P. 1 9 – 2 0
 
 ##### T H E S O C I E T Y P A G E S · A L E T T E R , A N D T H E A N S W E R T O I T
 
@@ -2945,13 +2945,9 @@ STACK, 3.58 Editorial decision from the newspaper. People were complaining
 
 about the quantification of the newspaper - tier lists, statistics, comparisons
 
-Ape & Youv
+Ape & Youv Quigley & Zone
 
-Quigley & Zone
-
-202 92 / 110
-
-195 95 / 100
+202 92 / 110 195 95 / 100
 
 MY NAME'S AI, 4.00 the blind leading the blind. We used to know who liked who.
 
@@ -3071,13 +3067,9 @@ Jere answers Quigley most (52); answered most by Lizzy (73) a picture 6
 
 answers Ape most (39); answered most by Ape (45) No I talked to him it was def autism 5
 
-Quigley Jere
+Quigley Jere Lizzy dot
 
-Lizzy dot
-
-149 149
-
-133 120
+149 149 133 120
 
 8% 8.9%
 
