@@ -205,5 +205,6 @@ into children, adults and dementia patients.
   someone who meant it. Reconstruct the letter, quote the answers, add one finding.
 - **Decline in print, briefly.** The TikTok about a real murder case, the smooching story,
   the incel ratings: each got one sentence saying no and why. The room did not push back.
-- **The rival paper is a story, not a threat.** Stackhouse's dossiers were covered as
-  news, reviewed by the room ("kind of ass"), and answered in one line. Keep doing that.
+- **The dossiers were a story.** Stackhouse's Markdown profiles were covered as news,
+  reviewed by the room ("kind of ass"), and answered in one line. Nobody is the paper's
+  rival; do not write anyone up as one.

@@ -3153,43 +3153,33 @@ Bernard bot · 14 posts · seven skulls on the voteban · not eligible
 
 1
 
-The top of the board Quigley, held. Lost the poll 9–3 on Saturday and declared victory on Monday; said one sentence twenty-three times; answered to thirty names; got a sudoku. Nothing about the week is legible without him and nobody laughed, which is the S condition
+The top of the board Quigley, held. Lost the poll 9–3 on Saturday and declared victory on Monday; said one sentence twenty-three times; answered to thirty names; got a sudoku. Nothing about the week is legible without him and nobody laughed, which is the S condition as Vol VI defined it. Hugh, held. Won the bout, by the only count there was, then spent five days reexplaining it and lost the physics to Youv on Wednesday. "You have not demonstrated," seventeen times, was the week's best single message and he knows it.
 
 Lizzy, held. 2,066 messages, three pages, one breakup, two bats, a parchment and a return. Answered for one message in four, which is the wallflower rate and the reason the board does not count answers.
 
-The A row Stackhouse for the rival paper and the twenty-reaction complaint. Ape for reviewing the parchment before anyone else was awake. Willow for the book proposal and for James Joyce. dot up: second in the room, murdered in voice, the
+The A row Stackhouse for the dossiers and the twentyreaction complaint. Ape for reviewing the parchment before anyone else was awake. Willow for the book proposal and for James Joyce. dot up: second in the room, murdered in voice, the book in the creek.
 
 zack, held. Banned for three days and still
 
-as Vol VI defined it. Hugh, held. Won the bout, by the only count there was, then spent five days reexplaining it and lost the physics to Youv on Wednesday. "You have not
-
 produced a page: the spaghetti hostage
 
-book in the creek. Meliorne up: sixteen swords and the reclassification order. Pearl
+Meliorne up: sixteen swords and the reclassification order. Pearl up: the bench,
 
 crisis, the air fryer doctrine, "who's Phil."
 
 Placed by Lizzy in the children's tier last
 
-up: the bench, five attempts. Jere up: Alfred Einstein and 3,763 characters of LaTeX.
+five attempts. Jere up: Alfred Einstein and 3,763 characters of LaTeX. HPCR up: the
 
 week; reclassified youth, suspected, on p.
 
-19; held at S by the editors.
+19; held at S by the editors. Tier talk, this week. AabsoluteZero, asked to
 
-HPCR up: the dog and the rabbit, the line of the week. Jeh up two and Sizzurp NEW:
+dog and the rabbit, the line of the week. Jeh up two and Sizzurp NEW: page 32.
 
-demonstrated," seventeen times, was the
+leave gen chat to the higher tiers: "ill have you know im a c tier lamp." Lizzy, on Vol VI: "the
 
-Tier talk, this week. AabsoluteZero, asked to
-
-page 32.
-
-week's best single message and he knows
-
-it.
-
-leave gen chat to the higher tiers: "ill have you know im a c tier lamp." Lizzy, on Vol VI: "the reception of the papers this week wasn't stellar."
+reception of the papers this week wasn't stellar."
 
 ---
 

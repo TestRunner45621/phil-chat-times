@@ -239,9 +239,9 @@ leagues." Five laughs. Janne: "so, idk, skill issue." (p. 21.)
 machine had done for his job search. (p. 23.)
 
 
-## Vol VII — the rival paper
+## Vol VII — the dossiers
 
-**535 messages, and the week's other newsroom.** Wednesday evening he uploaded six
+**535 messages, and the dossiers.** Wednesday evening he uploaded six
 Markdown dossiers — my-name.md, dot.md, monkey.md, ape.md, aura.md, jere.md — generated
 by his own machine from the archive, after dot said the profiles were "lame needs
 updating. Editors be more psychological." "i've engaged in a months long project

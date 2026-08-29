@@ -276,8 +276,8 @@ way to give me a humiliation ritual i was so shaken."
 ever made." Runs Sonnet 5 on high and cycles through about ten accounts, copying the
 context over. Built an antiwillow bot "to make evil messages"; Hugh's test produced "nature
 natures, the naturality of experience is as contingent as its occurance"; dot: "Oh you
-think I'm retarded." "bro pays 20$ a month for the ai to give them therapy." To the paper's
-rival: "lame needs updating. Editors be more psychological."
+think I'm retarded." "bro pays 20$ a month for the ai to give them therapy." On Stackhouse's
+dossiers: "lame needs updating. Editors be more psychological."
 
 **Critic.** To Red, Thursday, a beginner with the Myth of Sisyphus: "I just explained it in
 full. Perhaps philosophy isn't for you. Try modal logic." To Pearl's lamp: "Retarded." On
