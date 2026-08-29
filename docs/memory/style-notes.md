@@ -147,3 +147,63 @@ Letter-spaced furniture — folios and section rules set as `S P O R T` — come
 through flattened, because pdf.js reduces the tracking and the real word spaces to
 the same single space. Those come through verbatim rather than guessed at. Do not
 "fix" them in `edition.md`; fix the extractor or leave them.
+
+
+---
+
+## What the readership said about Vol VI, and what Vol VII did about it (28 August 2026)
+
+The complaints, as Lizzy relayed them on the Saturday evening after Vol VI (p. 19 of Vol
+VII): "the reception of the papers this week wasn't stellar." Specifically: too much
+ranking content; a tier list; writing that sucks; and the classification of the readership
+into children, adults and dementia patients.
+
+- **No rankings, no tier lists.** Vol VII carried none, and the numbers page says in its
+  dek that nothing on it is ranked by quality. This is now also Style.txt's position; the
+  reaction and effort tables of Vols V–VI are history, not a template. The one board the
+  paper may print is the chat's own (a poll, a vote), attributed.
+- **Correct a classification with evidence, in public.** Meliorne (Friday 3.37 pm):
+  "Inform Phil chat times to re analyze the categorization of youth and dementia
+  patients." Vol VII ran the reanalysis as a table — each person, what they were called,
+  the evidence from this week's log, what they are now — rather than an apology.
+- **Breadth over depth; everyone gets in.** The editor's rules 9 and 10 (Style.txt):
+  never let one conversation eat the paper unless it spans many people or several days,
+  and make sure the regulars can find their own names. Vol VII's device for the second was
+  the italic aside at the foot of a column and the short brief: a one-off line that is
+  funny on its own gets a home even when it carries no story.
+- **Act on last week's criticism, and say so.** Rule 11: use judgment about whether to act
+  on a complaint, but engage with it. The ombudsman column (p. 19) is where that happens;
+  it worked better than a corrections box because it could quote the complainants.
+- **The editor's own rejection came before the room's.** The first Vol VII draft never
+  reached the readership: it was refused by the editor on looks. The lesson for writers is
+  that the copy is not judged until the page is, and the page rules are in Style.txt.
+
+## Print names, updated
+
+- **Lizzy** (she/her), per NAMES.txt, from Vol VII. Vol VI printed "lizzie"; do not
+  "correct" old issues, and the memory file keeps its old name.
+- **Jeng** (@jjeng1989), not Grihastha, not Anime Man — though the room calls him Anime
+  Man and the paper may quote that. Quigley's request that "Anime Man" be noted as not
+  answering his question was granted as printed, in quotation marks.
+- **Monkey**, never papagaio; **Quigley** or Anthony Quigley, never the username; **Willow**
+  any/all; **HPCR** in capitals. Unchanged.
+
+## Lessons from writing Vol VII
+
+- **When a bout happens off the record, report the record.** The fight was in voice.
+  The paper printed the poll, the five days of text rematches and the two men's own
+  verdicts, and labelled the blind spot on p. 1 rather than guessing at the fight.
+- **Under-appreciation is measurable.** Hugh asked for Jeh; the Jeh Special counted
+  mentions of Jeh against mentions of HPCR in the same issue (11 v. 40+) and printed the
+  index. It is a cheap way of answering "you never cover X" honestly.
+- **"Tough love" needs a rule of evidence.** The commissioned verdicts on p. 20 were
+  built only from that week's log, each with the line that convicts, and the paper
+  declined the incel rating on the ground that it rates what people said. The column
+  drew no complaint.
+- **A dating column writes itself if the letters are real.** Every letter on p. 17 was a
+  question actually asked in the channel that week and every answer was given there by
+  someone who meant it. Reconstruct the letter, quote the answers, add one finding.
+- **Decline in print, briefly.** The TikTok about a real murder case, the smooching story,
+  the incel ratings: each got one sentence saying no and why. The room did not push back.
+- **The rival paper is a story, not a threat.** Stackhouse's dossiers were covered as
+  news, reviewed by the room ("kind of ass"), and answered in one line. Keep doing that.

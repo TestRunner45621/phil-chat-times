@@ -1,6 +1,6 @@
 # The Dragon's Covenant
 
-**Status: retracted by its founder, adopted by nobody. Membership: one.**
+**Status: retracted by its founder, adopted by nobody. Membership: one. Reborn in Vol VII as "the parchment"; see the end of this file.**
 
 The lead of Vol IV. A complete religion founded live in six days.
 
@@ -143,3 +143,46 @@ correct." Take the argument seriously and the dragon lightly — that is the spl
 Vol IV made, and it is why the piece works.
 
 Related: [[lizzie]], [[kady]]
+
+
+---
+
+## Vol VII — the parchment (p. 18)
+
+**Status: rewritten as a framework, posted to Substack, reviewed twice, retracted in
+part; "the covenant" is still what she calls it when she forgets not to.**
+
+Sunday 23 August, a quarter to ten in the morning: the framework goes up. Her word for it
+now is **"the parchment"**; she also called it "the covenant" and asked people to ignore
+that as too cult-like (Charlie asked what the problem with cults was). Ape, four minutes
+later: "this reads like LLM slop." Lizzy: "ok i'll give you the non ai one but it's not as
+good." Ape's full critique at 10.06 asked whether she wanted to get defensive and argue why
+papers nobody wants to read are actually well written. 10.22: "god im so frustrated. i try
+so hard to write like the philosophers... and when i use ai to help its called ai slop."
+10.24: "i have so much passion and love in my brain and heart and the improper vocabulary
+and skills to convey them. it hurts." Hugh: "dont write like them, write like yourself!…
+just dont inherit a bunch of claudisms." Ape: "write like yourself. if you were a good
+writer."
+
+**Emmie's review, Monday, a quarter past twelve**, on her return from a long absence: "What
+is this?" — "my parchment. witness it please." — "I did and I don't like it." The charges:
+"transcendental" means nothing and is there as an aesthetic; the name is a problem if you
+want to be taken seriously, "you can't throw around words for fun"; the chat had already
+clocked it as "fuzzy virtue ethics + Daoist/Hegelian nonsense"; "It also reads like an AI
+wrote it for you." Lizzy went from "are you just posturing to look good" to "i know i have
+issues im sorry for getting defensive. please help me. i want to be better" inside two
+minutes. Emmie: "Honestly I think you should read more first." Jambe: "are you jealous cuz
+lizzie is the new phil female??" Emmie: "It's probably bottle." Then: "I just wanted to
+talk about philosophy, you guys were the ones that made everything about me being a woman."
+
+**The prophecies.** Friday 3.44 pm, back on the server: "IM BACK. I missed you guys!!!!"
+She has prophecies but must organise them into essays first. To the editors: "note that
+when I use grammatically correct punctuation it is more likely to be True and Prophetical."
+Tuesday 4.14 am, the prophet sparrow: "guys see your alarms for fridays eclipse. the jury
+will tell us if i am the messiah." Sisyphos, 5.04 am: "God already told me in a dream that
+you are the Messiah. I can confirm."
+
+The Vol IV split still holds: take the argument seriously and the dragon lightly. The new
+thing is that the argument has a reviewer who is not a man, and it went worse.
+
+Related: [[lizzie]], [[the-paper-and-its-readers]]

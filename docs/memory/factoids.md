@@ -387,3 +387,75 @@ z on the leader boards, despite my minimal engagement. Z is i fact above s tier 
 3:30 PM "Also add a lantern" / Fri 10:11 AM "Editors, when im rated on the leader board,
 instead of my name, use a lamp instead." Granted: he is "a lamp," in C. Puckspartan, Fri 1:12
 AM: "Simon above me on the tier list 😭" — Simon then said two things all week.
+
+## The week of Vol VII (20–28 August 2026), counted
+
+Source: the newsroom's `working/index/stats.md` and `stats2.md` for the 8.28 log;
+printed on Vol VII p. 27. Eastern time throughout.
+
+- **19,965 messages, 98 speakers.** Per day: Thu 20 (from 4 pm) 1,060; Fri 21 2,889;
+  Sat 22 (fight night) 2,332; Sun 23 2,517; **Mon 24 3,010**, the heaviest; Tue 25 2,962;
+  Wed 26 2,349; Thu 27 1,322; Fri 28 (to 5.09 pm) 1,524.
+- **By the hour, all days:** noon the busiest (1,853), then 1 pm (1,601), 4 pm (1,559),
+  8 pm (1,491), 10 am (1,471). **7 am the quietest, eighteen messages all week.**
+  Sisyphos, alone in it: "Why are you all hot chicks ?"
+- **Most messages:** Lizzy 2,066; dot 1,468; Quigley 1,405; Jere 1,219; Ape 1,184; zack
+  1,176 (on five days); Hugh 1,008; Sizzurp 801; HPCR 801; Aura 776; Brutus 583; Monkey
+  558; Stackhouse 535; My Name 500; Youv 477; Jeng 415; chair 400; Charlie 384; Meliorne
+  288; Jeh 286.
+- **One-day wonders:** jtheezy 167 (Thu 6.53–10.49 am); Scotal 112 (Sat 1.30–4.40 am);
+  soob 108 (Monday); WoolierThanThou 42 (Wed 5–6 pm); Roni 36 (Tuesday); Emmie 20
+  (Monday).
+- **Absences:** zack 0 on Monday and Tuesday (banned), 280 on Wednesday. Lizzy 19, 0, 16
+  Wednesday to Friday, 2,031 before that. Sizzurp 0 on Thursday 20th and Sunday. Pearl 0
+  on Saturday, fight day. Ape 0 during the fight; asleep seventeen hours. Jeng none before
+  Sunday.
+- **Philosophers mentioned** (name plus derived forms): Ayn Rand 45 (jtheezy 11, HPCR 9,
+  Sizzurp 8, Zone 5); Marx 37; Nick Land 24; Plato 20; Kant 16; Dworkin 14; Sellars 14;
+  Socrates 12; Deleuze 12; Gettier 11; Huemer 10; James 10; Rorty 10; Spinoza 10.
+  **Alfred Einstein: 1** (Jere, Tuesday 3.40 pm, naming a famous science denier;
+  "Alfred?" "Oh fuck.").
+- **Words:** "debate" 100; "warrant" 87; "vc" 79; "based" 75; "editor(s)" 54; "slop" 53;
+  "claude" 47; "epistemic" 32; **"recognize the distinction" 27 (Quigley 23, Willow 3,
+  Hugh 1)**; "kady" 20; "sword from the stone" 16 (Meliorne); "community of inquirers" 11;
+  "useless" 8 (Quigley, Friday, of Hugh's position).
+- **Quigley alone:** 1,405 messages; :PEPE: 77; "reality" 63; "warrant" 49; nine opponents
+  on Friday; answered to thirty-odd names (p. 26); "vc" twenty times to Hugh's four.
+- **Reactions, most on one message:** 14, Ape, on continuing to masturbate (Tue); 12,
+  Pearl, "flavored simple syrup" (Sun 10.05 am, six flavours of KEKW; Quigley: "I will not
+  stand for this reaction inflation"); 9, Jeh, on never crying about a relationship in
+  phil chat (Mon 10.08 am, four KEKW and five dead); 7, Lizzy, "depends. on if you're
+  being nice or trying to fuck me" (Mon); 7, Bernard, ☠️ (Sun); 6, HPCR, the dog and the
+  rabbit (Fri); 6, Jere, the Spider-Man "I am not responsible for saving everyone" (Fri);
+  6, Anonymous Johnson, "Start with something believable" (Sat).
+- **Longest message:** Jere, 3,763 characters of LaTeX on relativity (Wednesday). **Average
+  length:** Jeng 129 characters, Lizzy 35.
+- **The poll (Sat 22 Aug, 4.33 pm):** Hugh 9, Quigley 3. The only vote the fight got.
+- **Jeh:** 286 messages; answered Hugh's Wednesday-morning question fourteen hours and
+  forty-nine minutes later, in two words ("Typical Buddhist").
+- **Prices, this week (p. 22):** cast iron frypan, Briscoes, wood handle, $139.99 struck
+  through, $29.99; Brutus's forgotten autopay balance $500; Pearl's 1960s oil goddess
+  lamp, bought $500, asking $975 elsewhere; six tendies $15; a 7-Eleven order $30→$55
+  (zack); full-time discord chatter $7/hr negotiable (zack); Jeng's month teaching in
+  Indonesia $1,500–2,000; Janne's stated need $10k; zack's "realistic goal" $10m; Destiny's
+  net worth per zack $30m+; My Name's tokens in one day, per Stackhouse's machine, 174m;
+  Claude for therapy, per dot, $20 a month.
+
+### Standing unresolved items, updated after Vol VII
+
+- **The fight:** closed. Hugh by decision (the poll, 9–3, Saturday 4.33 pm); Quigley by
+  his own account ("Except I won," Monday; "I've been arguing for Warranted Assertibility
+  the whole time," Friday 4.24 pm). See [[the-fight]].
+- **The well pump (Vol VI):** not mentioned all week. Unknown.
+- **The air fryer:** not bought. Walmart's fit no bag; a bigger bag "is how you go
+  broke" (Thursday 11.57 pm). See [[the-apartment]].
+- **Kady:** absent a fourth week; 20 mentions. See [[kady]].
+- **Rorty's face (Vol VI commission):** lapsed, probably; the commissioner declared
+  victory himself.
+- **HPCR's mind-brain identity podcast:** recording 6 September, prepared with Ape
+  "Sunday or Monday"; Ape has read the SEP page for him.
+- **Sizzurp and Ape v. ten hours of Catholic miracles:** in segments; not started.
+- **Lizzy's prophecies:** promised Friday 3.44 pm, "must organise them into essays first."
+- **Red's Ps and Qs:** Jeng's unblocking by My Name depends on it (Thursday 3.07 pm).
+- **dot as Dottony:** "for a couple days," planned Friday. Not yet.
+- **Whether zack bought a bike, a scooter, an air fryer or a bigger bag.**

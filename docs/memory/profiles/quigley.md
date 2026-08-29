@@ -1,10 +1,118 @@
 # Quigley (Anthony Quigley)
 
-The only person in the archive with a derangement syndrome named after him. Left in
-Vol II, came back six days later, and has been the channel's most reliable
-generator of copy ever since.
+The only person in the archive with a derangement syndrome named after him. A K-12
+teacher in Massachusetts, working on educational reform along Deweyan lines, and
+dedicated enough to it to have chosen the state on the grounds that it has the best
+public schools in the country. Left in Vol II, came back six days later, and went C to S
+in Vol VI, the largest move up this board has recorded. Vol VII ran no board: he lost the
+fight by poll, 9–3, on Saturday 22 August, and declared victory on the Monday.
 
 See [[qds]] for the syndrome itself.
+
+## Psychological profile
+
+*The paper's reading. Sources below.*
+
+Quigley is the most sincere person in this room and it is the reason everyone hates him.
+He does the reading. He cites what he read, with authors, journals and years, inside
+sixty seconds of being asked. He states his profession, his location, his employer's
+sector and his political programme without being pressed, and then keeps doing it. In a
+channel whose entire social technology is the retreat into irony, he arrives every day
+with an earnest position and defends it at length, and the room has developed a
+condition about it.
+
+The measurement is unusually clean. Vol V: ninetieth percentile for effort, thirtieth for
+being enjoyed. Everybody answers him, nobody laughs. Vol VI: answered 78.4 times per
+hundred messages, the highest figure in the room, on 804 messages; reaction percentile
+26. He is being read more carefully than anybody here and rewarded less. He also repeats
+himself more than anyone over two thousand words except lizzie, which is the complaint
+against him, measured.
+
+The defect is not the sincerity. It is the procedure. He wants a method for everything —
+"how, step by step, does one recognise agency in the thing in front of one?" — and when
+somebody gives him an answer he does not like, he goes and gets an adjudicator. He named
+the god machine Omnius, submitted to its jurisdiction, lost, declared himself the new
+Omnius, and has quoted its verdicts as precedent ever since. In Vol VI he pasted a
+two-hundred-word machine judgment in his own favour; Charlie caught it by its mannerisms
+in under a minute; and Quigley's reply, fifteen minutes later, was that he had no idea
+what Charlie was saying. The paper's finding stands: **the machine had written a
+paragraph that agreed with him, and he had not read it for anything else.** A man who
+insists teaching runs on physiological synchrony between two bodies in a room had
+outsourced his own judgment to a text file.
+
+The other defect is the friendship tier system, and it is the only thing in his file the
+paper considers cruel. He ended a best friendship because the friend was going nowhere,
+and, asked what would have happened if the discarded friend had ended his life over it,
+answered that this would sound like a bad choice on his part. Rn!: "Are you a robot?"
+Pearl, who had had the argument with him before and came back for a second attempt,
+built the case: your friends are not there to cater to you, and you hold people to
+standards they never agreed to. He objected three times that her analogy mentioned
+disability. Four minutes after the tribunal closed, while making friends with hpcr, he
+sentenced himself: **"I reserve my full attention for close friends only."**
+
+He is also, repeatedly and without credit, the most decent man in the room. He was the
+only person all week to ask whether posting a live document was a doxxing risk. Having
+spent that day in two wars, he told a newcomer not to mind hpcr, "He's a jaded old man."
+He reviewed lizzie's paper on St Paul in five real bullet points on a Sunday morning and
+she answered every one in sixteen minutes, and the paper's note on that exchange is the
+kindest thing it has printed about either of them.
+
+## Positions, inferred from what he has sent
+
+**Deweyan pragmatism, held as a professional programme rather than a reading list.** "If
+you don't know, I go for the Deweyan pragmatist stuff." "I prefer a bottom up approach to
+educational reform." He moved to Massachusetts because it has the best K-12 outcomes in
+the country and "if I want to get the best understanding of what works and what doesn't
+then I should be in the state that does the best." Asked why he cares: **"No, I'm just a
+young guy who feels like he can do something about education and wants to."**
+
+**Education is social upbringing, and this is his one non-negotiable.** "Education is,
+fundamentally, a social phenomenon… the biggest predictor of student success is the
+teacher-student relationship." Against auto-didacts: **"Auto-didact is the educational
+equivalent of the Great Man Theory of History."** Against machines in the classroom: a
+model cannot take on the social element, and the interpretative work "is even more
+central to the (human) social role of education than something like writing." He is
+methodologically conservative inside the field — phonics beats whole word, and "I don't
+think there's data to show that more variance in learning is always helpful."
+
+**Reparations, defended in full and with the definition sourced.** "'Reparations' are just
+any actions/policies aimed at redressing injustices," attributed to the ICTJ when
+challenged. Against Simon's economic-determinism: "The harm was on a racial basis." On
+whether history is still doing work: "If you don't think that chattel slavery, Jim Crow,
+and a million other racially-targeted actions/policies within Black history are relevant
+to their problems today, I don't know what to tell you other than to learn some history."
+And the line that ended it: "Lemme just go inform the Jews to get over the Holocaust
+since it no longer exists." On police: "For many reasons, one of which is structural to
+the history of the police. In large part, though, because Americans are racist."
+
+**He calls himself an institutionalist, out loud, in a room that despises institutions.**
+Asked what he supports: **"liberal institutions."** And, to lizzie: "Brutus and I are big
+institution guys."
+
+**On Israel and Palestine, a two-state liberal who does his homework and gets called
+brain-broken for it.** "Israel has *many* faults, for sure, but I think history has shown
+the surrounding area to not be partners in peace, generally." He supplied the room's most
+careful account of the Zionist movement's factions — Labour Zionists going to an
+ancestral home for secular and socialist reasons, Mapai running the Yishuv from 1930 to
+Likud in the late seventies, the second-to-fourth immigration waves out of Russia and
+eastern Europe — and quoted Balfour in full. He also filed the sharp line: "How naive
+that you think *any* borders could be drawn up that the Palestinians would be cool with."
+hpcr's diagnosis: "Anthony is brain broken on I/P. Just likes Destiny too much."
+
+**On AI, a neoluddite by his own self-identification.** He named the genre of the
+superintelligence statement — "It seems like a version of Occupy Wall Street but for AI
+superintelligence," sharpened to **"This is a kind of AI slopulism"** — and demanded exact
+policy proposals and a number for "strong public buy-in." chair queried the coinage on
+lexicographic grounds: "did you make that word up yourself." He also filed, from a grad
+internship and against his own AI use, the complaint that names the problem: "I've
+literally had people just paste the whole AI text into an email because they can't take
+the time to write it themselves."
+
+**On spending, one number.** "If we quadrupled our education spending (as a country), I
+might be willing to give it a pass."
+
+**Costing a proposal for state-provided methamphetamine, in four words:** "Inflation but
+for stimulants."
 
 ## The departure and the return
 
@@ -158,3 +266,78 @@ managed all week, and it was over Paul."
 
 Instruction to the editors, Thu 13 Aug 2:36 PM ET: "Editors, be sure to downgrade Hugh
 to F tier. Thanks." Hugh, 2:41 PM: "you have no power here." Declined; both are in S.
+
+
+## The result, the rematches and the page (Vol VII)
+
+**The fight.** Held Saturday 22 August, two to six in the afternoon, in voice; the paper
+saw a poll at 4.33 pm, **Hugh 9, Quigley 3**, and printed it as the decision. His own
+account, Monday, in two words: **"Except I won."** Saturday night he commissioned the front
+page: "We need to crop Hugh and me unto the final fight in Dune part 2." Full account in
+[[the-fight]].
+
+**The rematches (Vol VII p. 5).** "I recognize the distinction that you are wrong," five
+times on Saturday evening (6.15, 8.08, 9.04, 9.20, 9.44 pm); twenty-three of the week's
+twenty-seven uses of the phrase are his. Monday 8.52 am, the six criteria of warrant
+(resolution, predictive success, coherence, public checkability, survival, fruitfulness),
+reposted Tuesday, cited Friday as "a criteria of warrant." Tuesday noon: "It's a shame
+you're unable to eat a cheeseburger without first knowing if it runs parallel to reality."
+Friday 3.39 pm: "You must not be familiar with my Ethnocentrism." Friday 4.24 pm: **"I've
+been arguing for Warranted Assertibility the whole time."** Friday, of Hugh's position, in
+bold, twice: useless. Meliorne tried sixteen times to pull the sword from the stone that
+is Anthony; the paper's finding (p. 20) is that "Anthony does not accept the premise of
+stones."
+
+**The undercard (p. 7).** Tuesday 1.25 pm he told Jeng to move his hand and click on one
+of five voice invitations; Jeng used the r-slur after a warning and was blocked at 1.26.
+Hugh: "FIGHT NIGHT COMMENCES NOW." Then: "AAAAAAAND ITS OVER." Youv's testimony on the last
+invitation: "absolutely miserable." Quigley: "Other people vc me and it isn't a problem."
+Blocks issued this week: one.
+
+**The presence bit (Thursday; p. 26).** "The presence of randomness, of course." "Only if
+you being scared is present. Your soiled pants are a separate distinction." "It is present
+where it is." "Only if the failure is present." **"It's such a cheat code. Now I can never
+lose! KEKW"** — the first time he has described the method from inside it.
+
+**The page he asked for.** Tuesday 1.08 pm: "Editors, please make me a sudoku challenge,
+as I find those super duper fun." Delivered (p. 26, thirty clues, one solution, answer on
+p. 29), with the glossary of thirty-odd names the room called him this week (super 60,
+Anthony 45, quig 33, Quigley 27, SuperVillainy 26, Tony 20…; see [[qds]]), Anonymous
+Johnson's business card ("Educator · One-boxer"; Quigley: "I look like Danny Phantom."
+Monkey: "You wish. It is you, Tyrone Sheinberg"), and his numbers: 1,405 messages, :PEPE:
+77, "reality" 63, "warrant" 49, nine opponents on Friday alone, "vc" twenty times to
+Hugh's four.
+
+**Life, disclosed as usual.** Moved house on Sunday ("I'm just tired and frustrated from a
+bad moving experience today. The mofongo helped tho"). Has a daughter ("How do you think I
+got a daughter bruh"; two years of Japanese at UO). Reads his best friend Benjamin's law
+textbooks for fun — "I swear it isn't netanyahu"; "Imma take the LSAT for fun. Imagine
+thinking learning isn't fun." HPCR: "'Yo you got any homework I could do alongside you for
+fun?'" Told on Wednesday that Stackhouse plans to turn him into a Land-pilled Deleuzian in
+the throes of AI psychosis: "Imagine that happens right before I begin teaching too."
+Favourite sitcom, to Meliorne: "Gross. It's Community." Saturday 1.06 pm, to Pearl: could
+the F-tier chatters stop using the channel as gen chat.
+
+**The decent thing, again.** Tuesday evening, to Lizzy, two days after her breakup and
+seriously: "I would personally suggest not being on discord as much. and I'm not joking.
+These platforms aren't designed to help ur mental." Lizzy: "i hate it when people are
+right especially bald men." (p. 16.) Also Saturday, less gently: "get good at monogamy."
+On Jere's year without success: "Skill issue"; then, volunteering: "Jere knows I'd wingman
+the shit outta him. The trick is to setup the circumstances so that he looks like the
+obvious better option 😈."
+
+**Voice, this week.** "We are all Tony, at heart." (Saturday.) "It's because I'm in ur
+walls." (Tuesday.) "Iron Rand is the universe where she was from the Soviet Union. I meant
+stayed there." (Thursday.) "Ignore them all and read Atlas Shrugged." (Thursday, to a
+beginner.) "Let us know when you get to Atlantis. I've got an outfit I wanna use."
+(Friday, to Meliorne.) "IQ mentioned 🚨🚨🚨." "The presence of randomness, of course." "I
+will not stand for this reaction inflation." (Sunday, of Pearl's syrup.) "The content has
+been quite good this week, I feel." (Thursday, of the chat.)
+
+**Tough love (p. 20), as printed:** "You said one sentence twenty-three times and called it
+a distinction. You blocked a man for a word, then told a stranger in his first minute that
+he has deviant sexuality. You asked for a sudoku, a nickname glossary and a note about Anime
+Man, and got all three, which tells you who this paper thinks the story is."
+
+Standing: no board this week, by the readership's request. Carried forward: the LSAT, the
+outfit for Atlantis, Rorty's face (probably lapsed).

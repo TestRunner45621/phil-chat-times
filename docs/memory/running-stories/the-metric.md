@@ -170,3 +170,27 @@ Charlie 31/84, Don 7/61, Monkey 3/6, Brutus 13/0. See factoids for the full row.
 the Vol V rule kept: any move of two tiers or more carries a stated reason; placement is
 neither volume nor reactions; everybody who spoke is placed. The room had asked for it all
 week and in the usual ways — see [[the-paper-and-its-readers]].
+
+
+## Act V — the board is withdrawn (Vol VII)
+
+The readership's verdict on Vol VI, relayed by Lizzy on Saturday evening: too much
+ranking content, a tier list. Vol VII printed **no board, no effort tables, no reaction
+rates by person** — counts only, on one page (p. 27), with the dek "Counts are of
+messages, not of merit. By request of the readership, nothing on this page is ranked by
+quality." The Vol VI Order of Precedence therefore has no successor and is not a baseline
+for anything.
+
+What the page still counts: messages per day and per hour; messages per speaker (as a
+table, unranked in spirit and ranked in fact, since a table has an order — the paper
+labelled it "Most messages (not most anything else)"); one-day wonders; philosophers
+mentioned; words; the reactions on single messages (the highest, fourteen, was Ape's, on
+continuing to masturbate). The reaction market was not reported and nobody asked for it.
+
+The room's own ranking impulse did not stop: Quigley's "F-tier chatters" (Saturday 1.06
+pm, asking Pearl to keep them out of gen chat; AabsoluteZero: "ill have you know im a c
+tier lamp"); Charlie's "Theo puts Opus 5 in D tier." The paper printed those as quotes and
+ranked nobody.
+
+Handling note 4, added: **if the readership asks for the board back, it must ask in the
+log, and the request goes on the record before the board does.**

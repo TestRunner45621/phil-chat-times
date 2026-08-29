@@ -93,3 +93,38 @@ own preference. The honest formulation is "none held *that we can see*."
 Vol III committed to a running count: "We will be counting again next week." Keep
 counting, keep the caveat, and do not resolve it. The joke is structural, not
 weekly.
+
+
+---
+
+## Vol VII — the week somebody went
+
+**The fight was held in voice** on Saturday 22 August, roughly two to six in the afternoon
+Eastern, and the paper did not see it. What it saw: a poll at 4.33 pm (Hugh 9, Quigley
+3), Meliorne's stenography, and five days of text rematches. See [[the-fight]]. This is the
+first time the structure has resolved itself in the paper's lifetime, and the paper still
+could not report the resolution. The joke survived contact with an actual voice chat.
+
+**The count, kept as promised.** "vc" was typed 79 times this week; Quigley said it twenty
+times to Hugh's four. Five invitations from Quigley to Jeng on Tuesday alone (11.33 am,
+1.02, 2.51, 3.02, 4.14), none accepted; Jeng: "Naw, whatever you can say in VC, you can
+write here or link something." Youv's testimony on the last of Quigley's invitations, about
+Sam Harris: "absolutely miserable." Quigley: "Other people vc me and it isn't a problem."
+dot, 4.14 pm: "Why won't you vc him?" Quigley: "Baby back bitch is why." Jeng: "Apparently
+others have tried and found it a bad experience. So, that's enough knowledge for me."
+
+**Where it went badly.** dot spent Monday in the music room VC defending orbital data
+centres against RoyalLineage and reported on Tuesday morning: "why didnt u warn me abt
+royal. i got murdered hugh. murdered." RoyalLineage had, he said, called him "a retard waste
+of space who needs to never open their mouth again," and cited 1,579,579 square metres of
+radiators. Hugh: "what a slimeball." dot: "he still found a way to give me a humiliation
+ritual i was so shaken." Jeh led a charge into the same room that dot described afterwards
+as "death." Willow offered Jeh a VC after his workout and got "One minute of lifting, 2
+hours of Discord conversation" back; Jeh: "Same calories burnt." Willow: "Ever increasing
+waistline. Priceless."
+
+"None held that we can see" is no longer quite true, and the paper should say so the same
+way it said the opposite: the bout happened, the room said so, and what was said in it is
+not on the record.
+
+Related: [[the-fight]], [[quigley]], [[dot]]

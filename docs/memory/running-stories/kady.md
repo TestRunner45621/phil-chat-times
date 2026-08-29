@@ -1,6 +1,6 @@
 # Kady
 
-**Status: absent. Third consecutive week at zero messages as of Vol VI; 54 mentions in
+**Status: absent. Fourth consecutive week at zero messages as of Vol VII; 20 mentions in the Vol VII week, 23 in Vol VI; 54 in
 the Vol V week, 23 in the Vol VI week. Held at F in absentia on both boards.**
 
 The channel's founding legend, and the one running story where the paper has had
@@ -126,3 +126,13 @@ run on p. 6: Emmie, banned and unbanned by Pearl, "was the first replacement kad
 Held at F, in absentia, third week, p. 24.
 
 Related: [[lizzie]], [[the-paper-and-its-readers]]
+
+
+**Vol VII.** Twenty mentions, absent a fourth week. The identity theory found a new
+defendant: Stackhouse, on the Sunday before the voteban, "Zack is male Kady. The relentless
+nihilism. Hatred of the world. The paranoia." Lizzy: "Trans Kady." dot: "Kady had
+curiosity." Lizzy, to dot: "You miss her." Hugh: "the quig to kady pipeline assembles itself
+from the future." Quigley, to Lizzy: "Add her to the kady pile." And the line the paper
+called the saddest sentence of Friday, from Youv, in the golden-age argument (2.41 pm):
+**"The truth is, we need kady back"** — two KEKW. Filed on p. 28 under missing persons; the
+handling notes above still apply.

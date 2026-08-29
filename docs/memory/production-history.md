@@ -422,3 +422,97 @@ validation, fill.js for column feet, measure.js for box heights, shots.js for pa
 
 **Production numbers:** the PDF is 15.1 MB with 26 inlined images; the single-file
 edition.html is 16 MB.
+
+## Vol VII — Friday 28 August 2026 (delivered Saturday 29 August)
+
+**29 pages, Letter, 19,965 messages, 98 speakers, 466 images exported; 21 pictures
+printed.** Covers Thursday 20 August, 4 pm Eastern, to Friday 28 August, 5.09 pm, when
+the export closed on Monkey's "Why are you baiting me." The "Fight Night" edition: the
+Quigley–Hugh bout of Saturday 22 August had happened in a room the paper cannot see, so
+the paper covered what the text channel said about it, and only that (see
+[[the-fight]]).
+
+**The shape.** Front page: the bout as a fight card, the 9–3 poll, and the "official
+fight poster" (the Dune: Part Two knife fight with the two men's faces on it, commissioned
+by the loser: "We need to crop Hugh and me unto the final fight in Dune part 2"). Then the
+weigh-in (2), the rounds (3), the judges (4), five days of rematches (5), the cat (6), the
+undercard (Quigley v. Jeng, Tuesday, two minutes) (7), the physics war (8), the Paragraph
+(9), sentences and bans (10), zack's spaghetti hostage crisis (11), jtheezy's four hours
+(12), Red's afternoon (13), faith (Joe Schmid's conversion) (14), public health (the
+winery, the bats) (15), breakup season (16), the dating advice column (17), the Sunday
+workshop (18), the ombudsman and corrections (19), tough love as commissioned (20), the
+Jeh Special (21), money (22), science and the AI desk (23), field guide and kitchen (24),
+arts and the Willowisms book proposal (25), the Quigley page with the sudoku (26), the
+week in numbers (27), arrivals, departures and missing persons (28), classifieds, deaths
+and dissolutions, the solution and the colophon (29).
+
+**No board.** For the first time since Vol IV there is no tier list and no ranking of any
+kind. Vol VI's reception, as Lizzy reported it on Saturday evening: "the reception of the
+papers this week wasn't stellar" — too much ranking content, a tier list, writing that
+sucks, and a classification of the readership into children, adults and dementia patients.
+The numbers page carries counts only and says so in its dek: "Counts are of messages, not
+of merit. By request of the readership, nothing on this page is ranked by quality."
+Meliorne's instruction (Friday 3.37 pm), "Inform Phil chat times to re analyze the
+categorization of youth and dementia patients," was carried out as a corrections table on
+p. 19.
+
+**Two builds.** The first draft (33 pages, finished about half past four on the Saturday
+morning) was rejected by the editor on sight, before it reached the room, for dead space,
+margins and small type relative to past editions, and the whole paper was rebuilt from
+scratch that morning; the rejected draft is kept in the newsroom under `draft-v1/` as a
+copy source. The redo shipped at about ten past nine, dated Friday. The standing rules
+that came out of the rejection are in Style.txt (DESIGN) and are not restated here.
+
+**Lateness, on the record.** Thursday 10.07 pm, the editor to the room: "retarded bot
+fucked it up and used all my usage, will be tomorrow." Lizzy offered the paper some of her
+usage; A\ suggested handing over her login. Friday 4.40 pm, My Name: "its friday the paper
+is a day late. wtf." Stackhouse: "im on it sir." The paper ran the exchange on p. 19 and
+its line on the matter: "The paper is dated Friday and delivered when it is delivered."
+
+**Commissions ledger.** Granted: Hugh's "constructive and funny feedback to chatters who
+need it the most (like jeh)" and Jere's "each high engagement chatter's blindspots…
+dating advice. incel rating" (p. 20; no incel ratings issued — "the column rates what
+people said, and nobody said that"); chair's own section, "rough and sweaty" (p. 20;
+Jeh's motion to ignore chair denied); Hugh's Jeh Special, "he has been under-appreciated
+in all the issues so far" (p. 21, with an under-appreciation index: Jeh eleven mentions
+before that page, HPCR more than forty); Quigley's sudoku ("as I find those super duper
+fun"), his glossary of the names people call him, and his note that Anime Man did not
+answer his question (pp. 26, 7); Ape's "tender love that only comes with decades of
+marriage" (p. 20) and his request to "collate all variations of 'quigely' I've dropped in
+casual conversation" (p. 26, coinages marked †); Stackhouse's "Dating Advice Column"
+(p. 17); Stackhouse's "please document this spat" (p. 9); synth.wav's story about zack
+being tormented by cell plans (p. 11); dot's "include this next week" (pp. 3–4); Hugh's
+water note ("how many GALLONS of water you have PERMANENTLY KILLED? editors take note",
+p. 23). Declined: Stackhouse's request to reproduce a TikTok list of one woman's reasonable
+doubts about a real murder case ("It is not reproduced"); chair's spoilered request for a
+short story of himself and the editor smooching in a public park ("the editor does not
+have hands"); Ape's "editors remind ape that womens rights are mens wrongs" (his "show ape
+a good time he deserves it" was granted). Reported without action: Stackhouse's request,
+via others, that the paper avoid mentioning HPCR; Hugh's memory folder, "so there was
+some kind of recurring tie between issues" — the paper's answer on p. 19: "There is one.
+It is called the archive."
+
+**Still owed from Vol VI:** the Walter Bloomberg financial piece (Hugh and Lizzy); Hugh's
+historical article on one-sentence paragraphs; the history of manifestos; the dark-forest
+piece for Jere; Rorty's face over Quigley's "when you deliver my victory" — Quigley now
+says he won, so the commission may have lapsed.
+
+**The rival.** On Wednesday evening Stackhouse uploaded six Markdown dossiers
+(my-name.md, dot.md, monkey.md, ape.md, aura.md, jere.md), generated by his own machine
+from the archive, after dot said the profiles were "lame needs updating. Editors be more
+psychological." His machine's profile of My Name found that he burned 174 million tokens
+in a day and "identified the problem as insufficient automation of the burning"; My Name's
+response in full: "Yes." Ape's review: "kind of ass, just a recap of things the AI found
+salient." The paper's position, p. 19: "We recap things a human found salient." See
+[[the-paper-and-its-readers]].
+
+**What the paper could not see:** the fight itself (voice, Saturday afternoon); the music
+room VC where dot was "murdered" by RoyalLineage on Monday; direct messages, including
+whatever Lizzy and pcktn said to each other; anything deleted.
+
+**Names.** NAMES.txt now prints her as **Lizzy** (she/her); Vol VI printed "lizzie" and
+the memory files keep that spelling in their titles. Jeng (@jjeng1989) is the man the
+archive's earlier issues call Grihastha; the room calls him Anime Man.
+
+**Production numbers:** PDF 12.8 MB; inlined edition.html 14.8 MB; all 29 page renders
+read before shipping; final measure clean on every column.

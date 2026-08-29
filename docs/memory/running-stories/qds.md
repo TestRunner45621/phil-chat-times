@@ -85,3 +85,48 @@ name it a week early. Two rules from practice:
    whispered doubt — not about him.
 
 Related: [[quigley]], [[dot]], [[the-metric]], [[ape]]
+
+
+---
+
+## The glossary, the presence bit, and the sword (Vol VII)
+
+**The names.** Ape asked (Tuesday 1.13 pm) for every variation of "quigely" he had
+dropped in casual conversation; the paper counted every form of address for the man that
+week (p. 26): super (60), Anthony (45), quig (33), Quigley (27), SuperVillainy (26), Tony
+(20), quigmeister (5), quiggles (3), quigmoloney (2), and once each quigs, quigely, the
+quigster, quigly, quiggenator, quigglius, quigger (Charlie: "You're such a fucking
+quigger"), quigmalious ("archduke quigmalious"), quigful, quiglife, the quiggler, quigged,
+quiglemius, quigtavius, quiglainy, quigalian, quigochy, quigander, Quigtano (Stackhouse:
+"Anthony Quigtano, Internet's busiest American pragmatist"), praquigist, Quigful Good (My
+Name), Dottony (dot, prospective). Also answered to: the Herald; Danny Phantom (self);
+Hutch (self); Tyrone Sheinberg (Monkey); Matthew Gray Gubler (self); bbno$ and xqc's gay
+love child (Lizzy); Child Warlord Father (My Name). Ape, Friday: "I find it funny to call
+quigander a slightly different name every time i refer to him." Youv: "WHO IS IT?" This is
+the syndrome's first census.
+
+**The presence bit (Thursday).** Ape: what makes a thing random. Quigley: "The presence of
+randomness, of course :PEPE:." dot: "That doesn't say anything… Utter hogwash." Quigley:
+"Usefulness is a separate distinction 🙏." Ape: "quigochy youre scaring me." Quigley: "Only
+if you being scared is present. Your soiled pants are a separate distinction." Zone: we can
+never know presence in itself. Quigley: "It is present where it is 🙏." dot: "ggs can't
+argue with that. That's the superior metaphysics. Clearly." Zone, 3.37 pm: "You've already
+failed." Quigley: "Only if the failure is present 🙏." Zone: "Truuue." Quigley: **"It's such
+a cheat code :GIGACHAD: Now I can never lose! KEKW"** — the first time he has narrated the
+syndrome from inside it.
+
+**The sufferers, this week.** Meliorne, sixteen attempts on the sword in the stone that is
+Anthony (see [[the-fight]]). Hugh, "you have not demonstrated" ×17 in one message. dot,
+planning to rename himself Dottony and do Quigley for a few days: "I think it'd be more fun
+than doing Willow. Well different. Not as intellectually stimulating." Zone, converted. Ape,
+calling him a different wrong name every time. Jeng, blocked in two minutes. Meliorne's
+sitcom question — "Is your favorite sitcom How I Met your Mother" — answered "Gross. It's
+Community."
+
+**The business card** (Anonymous Johnson, Tuesday 8.34 pm, one 🙏): Anthony Quigley,
+B.A. English Lit — UO '24, M.Ed Elementary Ed — BSU '27, Educator · One-boxer. Quigley: "I
+look like Danny Phantom." Monkey: "You wish. It is you, Tyrone Sheinberg."
+
+**His own diagnosis of the room,** Saturday: "We are all Tony, at heart."
+
+Related: [[quigley]], [[the-fight]], [[ape]], [[dot]]
