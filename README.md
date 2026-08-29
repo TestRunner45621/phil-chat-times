@@ -29,6 +29,7 @@ zoom rather than turning into a blurry image.
 | `F` | cycle fit width → fit page → 100% |
 | `T` | thumbnails |
 | `S` | drag tool ↔ text-select tool |
+| `Ctrl`/`⌘` + F | find in this edition; Enter / Shift+Enter step through the matches |
 | `Ctrl`/`⌘` + scroll | zoom at the pointer |
 | drag | pan (pinch to zoom on touch) |
 | double-click | zoom to that spot |

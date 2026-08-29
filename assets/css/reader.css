@@ -416,6 +416,104 @@
   cursor: auto;
 }
 
+/* ------------------------------------------------------------------- find */
+
+/*
+ * The browser's own find sees only the pages that currently hold a text layer,
+ * which is a screen or two around the viewport, so Ctrl+F is taken over and
+ * answered from an index of every page instead. Hits are painted into the text
+ * layer, which sits over the canvas whichever tool is active.
+ */
+.findbar {
+  position: absolute;
+  top: calc(var(--bar-h) + 8px);
+  right: 14px;
+  z-index: 35;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 5px 6px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 8px;
+  background: rgb(36 31 25 / 0.97);
+  box-shadow: 0 12px 34px rgb(0 0 0 / 0.45);
+}
+
+.findbar[hidden] {
+  display: none;
+}
+
+.findbar input {
+  width: min(250px, 50vw);
+  height: 30px;
+  padding: 0 10px;
+  border: 1px solid var(--chrome-line);
+  border-radius: 6px;
+  background: #1e1a15;
+  color: var(--chrome-ink);
+  font: inherit;
+  font-size: 0.8rem;
+  outline: none;
+}
+
+.findbar input:focus {
+  border-color: #c9805f;
+}
+
+.findbar input::-webkit-search-cancel-button {
+  display: none;
+}
+
+.findbar__count {
+  min-width: 68px;
+  padding: 0 6px;
+  font-size: 0.72rem;
+  color: var(--chrome-ink-dim);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.findbar__count.is-none {
+  color: #e08a6a;
+}
+
+.findbar .btn--icon {
+  width: 30px;
+  height: 30px;
+}
+
+/* Nested inside a positioned text span, so it must flow inline rather than
+ * pick up the absolute positioning every span in the layer gets above. */
+.textLayer span.find-hit {
+  position: static;
+  transform: none;
+  margin: -1px 0;
+  padding: 1px 0;
+  border-radius: 2px;
+  background: rgb(255 204 64 / 0.5);
+}
+
+.textLayer span.find-hit.is-current {
+  background: rgb(255 122 48 / 0.78);
+}
+
+@media (max-width: 620px) {
+  .findbar {
+    left: 6px;
+    right: 6px;
+    top: calc(var(--bar-h) + 6px);
+  }
+  .findbar input {
+    flex: 1 1 auto;
+    width: auto;
+    min-width: 0;
+  }
+  .findbar__count {
+    min-width: 0;
+  }
+}
+
 /* --------------------------------------------------------------- thumbnails */
 
 .thumbs {

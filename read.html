@@ -110,6 +110,19 @@
             </button>
           </div>
 
+          <button
+            class="btn btn--ghost"
+            id="btn-find"
+            aria-pressed="false"
+            title="Find in this edition (Ctrl+F)"
+          >
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <circle cx="10.5" cy="10.5" r="5.8" />
+              <path d="M15 15l5 5" />
+            </svg>
+            <span class="btn__label">Find</span>
+          </button>
+
           <a
             class="btn btn--ghost"
             id="btn-download"
@@ -132,6 +145,35 @@
           </button>
         </div>
       </header>
+
+      <!-- ---------------------------------------------------------- find -->
+      <div class="findbar" id="findbar" role="search" hidden>
+        <input
+          id="find-input"
+          type="search"
+          placeholder="Find a name, a word…"
+          autocomplete="off"
+          autocapitalize="off"
+          spellcheck="false"
+          aria-label="Find in this edition"
+        />
+        <span class="findbar__count" id="find-count" aria-live="polite"></span>
+        <button class="btn btn--icon" id="find-prev" title="Previous match (Shift+Enter)">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M6 15l6-6 6 6" />
+          </svg>
+        </button>
+        <button class="btn btn--icon" id="find-next" title="Next match (Enter)">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M6 9l6 6 6-6" />
+          </svg>
+        </button>
+        <button class="btn btn--icon" id="find-close" title="Close (Esc)">
+          <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M6 6l12 12M18 6L6 18" />
+          </svg>
+        </button>
+      </div>
 
       <!-- --------------------------------------------------------- stage -->
       <div class="stage">
@@ -158,6 +200,7 @@
             <div><dt>F</dt><dd>Cycle fit width / fit page / 100%</dd></div>
             <div><dt>T</dt><dd>Toggle thumbnails</dd></div>
             <div><dt>S</dt><dd>Drag tool / text-select tool</dd></div>
+            <div><dt>Ctrl / ⌘ + F</dt><dd>Find in this edition; Enter / Shift+Enter step through the matches</dd></div>
             <div><dt>Ctrl / ⌘ + scroll</dt><dd>Zoom at the pointer</dd></div>
             <div><dt>Drag</dt><dd>Pan when zoomed in</dd></div>
             <div><dt>Double-click</dt><dd>Zoom to that spot</dd></div>

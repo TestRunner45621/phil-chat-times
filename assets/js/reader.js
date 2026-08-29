@@ -65,6 +65,13 @@ const el = {
   loadbar: $('loadbar'),
   loadbarFill: $('loadbar-fill'),
   toast: $('toast'),
+  findBtn: $('btn-find'),
+  findBar: $('findbar'),
+  findInput: $('find-input'),
+  findCount: $('find-count'),
+  findPrev: $('find-prev'),
+  findNext: $('find-next'),
+  findClose: $('find-close'),
 };
 
 const state = {
@@ -80,6 +87,14 @@ const state = {
   thumbsOpen: false,
   thumbsDrawn: false,
   tool: 'pan', // 'pan' | 'select'
+  find: {
+    open: false,
+    query: '',
+    index: null, // per page: { text, starts } — see buildFindIndex
+    indexing: null, // the promise while the index is being built
+    matches: [], // { n, start, end } in reading order
+    current: -1,
+  },
 };
 
 /* ------------------------------------------------------------------ chrome */
@@ -402,6 +417,11 @@ async function buildTextLayer(p, token) {
       return;
     }
     p.textEl = container;
+    // One span per text item, in the order getTextContent() yields them, so
+    // a match found in the index can be painted onto the right span later.
+    p.textDivs = layer.textDivs;
+    p.textStrs = layer.textContentItemsStr;
+    paintHits(p);
   } catch {
     /* selection is a bonus; a failure here must not break the page */
   }
@@ -422,6 +442,8 @@ function releasePage(p) {
   if (p.textEl) {
     p.textEl.remove();
     p.textEl = null;
+    p.textDivs = null;
+    p.textStrs = null;
   }
   if (!p.el.querySelector('.pdf-page__skel')) {
     const skel = document.createElement('div');
@@ -429,6 +451,303 @@ function releasePage(p) {
     p.el.insertBefore(skel, p.el.firstChild);
   }
   p.pendingPx = null;
+}
+
+/* ------------------------------------------------------------------- find */
+
+/*
+ * Ctrl+F. The browser's find only sees the text layers that exist, and only
+ * the pages around the viewport have one, so a search for a name on page 19
+ * from page 2 finds nothing. This indexes every page's text once per edition
+ * (getTextContent is cheap; it is the same stream the text layer is built
+ * from), searches that, and paints the hits into whichever text layers are on
+ * screen — including ones built later, when the reader scrolls to them.
+ *
+ * Items are joined with no separator and a newline on hasEOL, which is what
+ * pdf.js's own find controller does: an item carries its own spaces, and a
+ * word split across two items (a bold name mid-sentence) stays one word.
+ */
+
+async function buildFindIndex() {
+  const f = state.find;
+  if (f.index || f.indexing) return f.indexing;
+  const token = state.token;
+  const doc = state.doc;
+  f.indexing = (async () => {
+    const index = [];
+    for (let n = 1; n <= doc.numPages; n++) {
+      if (token !== state.token) return null;
+      const page = state.pages[n - 1].page || (await doc.getPage(n));
+      const tc = await page.getTextContent();
+      if (token !== state.token) return null;
+      let text = '';
+      const starts = [];
+      for (const item of tc.items) {
+        if (item.str === undefined) continue; // marked content, no span
+        starts.push(text.length);
+        text += item.str;
+        if (item.hasEOL) text += '\n';
+      }
+      index.push({ text, starts });
+    }
+    if (token !== state.token) return null;
+    f.index = index;
+    f.indexing = null;
+    return index;
+  })();
+  return f.indexing;
+}
+
+function findPattern(query) {
+  const q = query.trim();
+  if (!q) return null;
+  // Whitespace in the query matches any run of whitespace, including the
+  // newline that stands in for a line break; everything else is literal.
+  const src = q
+    .split(/\s+/)
+    .map((w) => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'))
+    .join('\\s+');
+  return new RegExp(src, 'gi');
+}
+
+async function runFind(query) {
+  const f = state.find;
+  f.query = query;
+  if (!state.doc) return;
+  const token = state.token;
+
+  const pattern = findPattern(query);
+  if (!pattern) {
+    f.matches = [];
+    f.current = -1;
+    repaintAllHits();
+    syncFindUI();
+    return;
+  }
+
+  if (!f.index) {
+    el.findCount.textContent = 'indexing…';
+    el.findCount.classList.remove('is-none');
+    await buildFindIndex();
+    if (token !== state.token || f.query !== query) return;
+  }
+
+  const matches = [];
+  f.index.forEach((pg, i) => {
+    pattern.lastIndex = 0;
+    let m;
+    while ((m = pattern.exec(pg.text))) {
+      if (m[0].length === 0) {
+        pattern.lastIndex++;
+        continue;
+      }
+      matches.push({ n: i + 1, start: m.index, end: m.index + m[0].length });
+    }
+  });
+  f.matches = matches;
+
+  // Start from the first hit at or after the page being read, so a search
+  // continues from where the reader is rather than flinging them to page 1.
+  let first = matches.findIndex((m) => m.n >= state.current);
+  if (first === -1) first = matches.length ? 0 : -1;
+  f.current = first;
+  repaintAllHits();
+  syncFindUI();
+  if (first !== -1) revealMatch(matches[first]);
+}
+
+function stepFind(dir) {
+  const f = state.find;
+  if (!f.matches.length) return;
+  f.current = (f.current + dir + f.matches.length) % f.matches.length;
+  repaintAllHits();
+  syncFindUI();
+  revealMatch(f.matches[f.current]);
+}
+
+function syncFindUI() {
+  const f = state.find;
+  if (!f.query.trim()) {
+    el.findCount.textContent = '';
+    el.findCount.classList.remove('is-none');
+  } else if (!f.matches.length) {
+    el.findCount.textContent = 'no matches';
+    el.findCount.classList.add('is-none');
+  } else {
+    el.findCount.textContent = f.current + 1 + ' of ' + f.matches.length;
+    el.findCount.classList.remove('is-none');
+  }
+  const none = !f.matches.length;
+  el.findPrev.disabled = none;
+  el.findNext.disabled = none;
+}
+
+/*
+ * Paint this page's hits into its text layer: each span that the match runs
+ * through gets the matched slice wrapped in a highlight, the rest of its text
+ * left as plain text nodes. Spans are restored from the layer's own copy of
+ * the strings first, so repainting is idempotent.
+ */
+function paintHits(p) {
+  const f = state.find;
+  if (!p.textDivs || !p.textStrs) return;
+  const index = f.index && f.index[p.n - 1];
+
+  if (p.painted) {
+    for (const i of p.painted) {
+      if (p.textDivs[i]) p.textDivs[i].textContent = p.textStrs[i];
+    }
+    p.painted = null;
+  }
+  if (!index || !f.matches.length || !f.query.trim()) return;
+
+  const hits = f.matches.filter((m) => m.n === p.n);
+  if (!hits.length) return;
+
+  const { starts } = index;
+  const lengths = starts.map((s, i) => (p.textStrs[i] || '').length);
+  // Per span: the highlighted ranges, as [from, to, current] in span-local
+  // offsets. A match can straddle several spans.
+  const ranges = new Map();
+  hits.forEach((m) => {
+    const current = f.matches[f.current] === m;
+    for (let i = 0; i < starts.length; i++) {
+      const s0 = starts[i];
+      const s1 = s0 + lengths[i];
+      if (s1 <= m.start) continue;
+      if (s0 >= m.end) break;
+      const from = Math.max(0, m.start - s0);
+      const to = Math.min(lengths[i], m.end - s0);
+      if (to <= from) continue;
+      if (!ranges.has(i)) ranges.set(i, []);
+      ranges.get(i).push([from, to, current]);
+    }
+  });
+
+  p.painted = [];
+  for (const [i, list] of ranges) {
+    const div = p.textDivs[i];
+    const str = p.textStrs[i];
+    if (!div || str === undefined) continue;
+    list.sort((a, b) => a[0] - b[0]);
+    div.textContent = '';
+    let at = 0;
+    for (const [from, to, current] of list) {
+      if (from > at) div.append(document.createTextNode(str.slice(at, from)));
+      const mark = document.createElement('span');
+      mark.className = 'find-hit' + (current ? ' is-current' : '');
+      mark.textContent = str.slice(from, to);
+      div.append(mark);
+      at = to;
+    }
+    if (at < str.length) div.append(document.createTextNode(str.slice(at)));
+    p.painted.push(i);
+  }
+}
+
+function repaintAllHits() {
+  for (const p of state.pages) if (p.textEl) paintHits(p);
+}
+
+/*
+ * Bring a match on screen. The page is scrolled to first; its text layer may
+ * not exist yet (it is built after the canvas, which is rendered on demand),
+ * so the fine scroll to the hit itself waits for the layer to appear.
+ */
+function revealMatch(m) {
+  const p = state.pages[m.n - 1];
+  if (!p) return;
+  const token = state.token;
+  const target = m;
+  if (state.current !== m.n) goToPage(m.n, { resetX: true });
+  renderVisible();
+
+  const tries = 40;
+  const attempt = (left) => {
+    if (token !== state.token || state.find.matches[state.find.current] !== target) return;
+    const hit = p.textEl && p.textEl.querySelector('.find-hit.is-current');
+    if (hit) {
+      const vp = el.viewport.getBoundingClientRect();
+      const r = hit.getBoundingClientRect();
+      // Centre the hit, but only scroll if it is not already comfortably in
+      // view — stepping through hits on one page should not bounce the page.
+      const margin = 60;
+      if (r.top < vp.top + margin || r.bottom > vp.bottom - margin) {
+        el.viewport.scrollTop += r.top + r.height / 2 - (vp.top + vp.height / 2);
+      }
+      if (r.left < vp.left + margin || r.right > vp.right - margin) {
+        el.viewport.scrollLeft += r.left + r.width / 2 - (vp.left + vp.width / 2);
+      }
+      syncPage();
+      return;
+    }
+    if (left > 0) setTimeout(() => attempt(left - 1), 75);
+  };
+  attempt(tries);
+}
+
+function openFind() {
+  const f = state.find;
+  f.open = true;
+  el.findBar.hidden = false;
+  el.findBtn.setAttribute('aria-pressed', 'true');
+  el.findInput.focus();
+  el.findInput.select();
+  if (!f.index && state.doc) buildFindIndex();
+}
+
+function closeFind() {
+  const f = state.find;
+  f.open = false;
+  f.query = '';
+  f.matches = [];
+  f.current = -1;
+  el.findBar.hidden = true;
+  el.findBtn.setAttribute('aria-pressed', 'false');
+  el.findInput.value = '';
+  repaintAllHits();
+  syncFindUI();
+  el.viewport.focus({ preventScroll: true });
+}
+
+/* A new edition means a new index; the bar stays open and re-runs the query. */
+function resetFind() {
+  const f = state.find;
+  f.index = null;
+  f.indexing = null;
+  f.matches = [];
+  f.current = -1;
+  for (const p of state.pages) p.painted = null;
+  syncFindUI();
+}
+
+function bindFind() {
+  el.findBtn.addEventListener('click', () => {
+    if (state.find.open) closeFind();
+    else openFind();
+  });
+  el.findClose.addEventListener('click', closeFind);
+  el.findPrev.addEventListener('click', () => stepFind(-1));
+  el.findNext.addEventListener('click', () => stepFind(1));
+
+  let typeTick;
+  el.findInput.addEventListener('input', () => {
+    clearTimeout(typeTick);
+    typeTick = setTimeout(() => runFind(el.findInput.value), 160);
+  });
+  el.findInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      e.preventDefault();
+      clearTimeout(typeTick);
+      if (el.findInput.value !== state.find.query) runFind(el.findInput.value);
+      else stepFind(e.shiftKey ? -1 : 1);
+    } else if (e.key === 'Escape') {
+      e.preventDefault();
+      closeFind();
+    }
+    // Everything else is left alone so the input behaves like an input; the
+    // document-level shortcuts already ignore keys typed into a field.
+  });
 }
 
 /* ---------------------------------------------------------------- paging */
@@ -579,6 +898,7 @@ async function openEdition(slug, page) {
 
   state.edition = ed;
   state.pages = [];
+  resetFind();
   state.current = 0;
   state.thumbsDrawn = false;
   el.pages.innerHTML = '';
@@ -672,6 +992,11 @@ async function openEdition(slug, page) {
   syncPage();
   renderVisible();
   if (state.thumbsOpen) drawThumbs();
+  if (state.find.open) {
+    const q = el.findInput.value;
+    if (q.trim()) runFind(q);
+    else buildFindIndex();
+  }
 }
 
 /* -------------------------------------------------------------- pan + zoom */
@@ -875,6 +1200,20 @@ function cycleFit() {
 
 function bindKeys() {
   document.addEventListener('keydown', (e) => {
+    // Find is taken over wherever the focus is: the browser's own would only
+    // search the handful of pages that currently hold a text layer.
+    if ((e.ctrlKey || e.metaKey) && !e.altKey && (e.key === 'f' || e.key === 'F')) {
+      e.preventDefault();
+      openFind();
+      return;
+    }
+    if (e.key === 'F3' && !e.ctrlKey && !e.metaKey && !e.altKey) {
+      e.preventDefault();
+      if (state.find.open && state.find.matches.length) stepFind(e.shiftKey ? -1 : 1);
+      else openFind();
+      return;
+    }
+
     const typing =
       e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT';
     if (typing && e.key !== 'Escape') return;
@@ -924,7 +1263,8 @@ function bindKeys() {
         el.help.hidden = false;
         break;
       case 'Escape':
-        el.help.hidden = true;
+        if (!el.help.hidden) el.help.hidden = true;
+        else if (state.find.open) closeFind();
         if (e.target.blur) e.target.blur();
         break;
     }
@@ -954,6 +1294,7 @@ async function boot() {
   setTool('pan');
   bindChrome();
   bindKeys();
+  bindFind();
   bindPanning();
   bindWheelZoom();
   bindPinch();
