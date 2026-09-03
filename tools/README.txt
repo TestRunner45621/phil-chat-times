@@ -98,12 +98,20 @@ GAMES
                 frequency, and the payoff is the sentence.
                   node tools/cryptogram.js "<log>" --seed 828
 
+  fake.js       "Spot the forgery" — real lines from the week and one invented.
+                Two passes, because a script cannot forge a voice: the first
+                hands you the evidence (median line length, how often they start
+                on a capital or end on a full stop, the words they reach for more
+                than the room does, and real lines to sit beside the fake), the
+                second sets and shuffles the round once you have written it.
+                  node tools/fake.js "<log>" --who Quigley --real 3 --forge
+                  node tools/fake.js --set round.txt
+                The invention stays inside the game. A fabricated line never
+                leaves that page to become a quote in a story.
+
   sudoku.js     A sudoku with a unique solution. Commissioned by Quigley in
                 Vol VII and the only game here with nothing to do with the logs.
 
-  Not built, on purpose: a "which of these quotes is fake" round. Style.txt's
-  quotes policy is that every quotation was typed by the person it is attributed
-  to and nothing has been invented, and a game does not get to be the exception.
   A word search was tried in Vol V and the room said it sucked.
 
 

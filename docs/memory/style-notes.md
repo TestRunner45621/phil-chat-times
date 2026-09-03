@@ -130,6 +130,13 @@ Everything else — the judgments, the verdicts, the theories about what these m
 actually doing — "is ours, and is offered without qualification and without much
 evidence."
 
+**Amended 2 Sep 2026, by the editor: the games are exempt.** The paper is a bit,
+not a wire service, and a puzzle may invent a line where the copy may not — the
+"spot the forgery" round runs three real quotes and one written in the subject's
+voice, and says on the page which it was. The exemption is the game and nothing
+else: an invented line never leaves the puzzle to become a quote in a story, and
+the policy above still governs every other page. `tools/fake.js` sets the round.
+
 ## Recurring furniture
 
 - **"The analysis is folk, ofc."** — from the 17:14 ruling of 16 July. Used as a
