@@ -35,15 +35,13 @@ It began in the middle of a Sunday
 
 afternoon, in the middle of a different
 
-argument. zack had spent an hour explaining, in numbered paragraphs, that since the state holds the monopoly on force
+argument. zack had spent an hour arguing, in numbered paragraphs, that "since the government has the monopoly on force and mens physical strength plays no role in modern society, it is more advantageous to be a woman." "if it's so great why don't you just do it???" asked Janne. "I feel like I'm part of his daily journal, ngl," said Quigley. Then
 
-marker. "Commit this." Janne told him to shave his legs. Hugh said it looked perfectly healthy. Stackhouse declared Fence hard mogged and the matter over. It would not be over for thirty hours.
+At five past five he posted: a hairy thigh on a wooden floor, a tape measure across it, the top of the frame scribbled out in blue marker. "Commit this." Janne told him to shave his legs. Hugh said it looked perfectly healthy. Stackhouse declared Fence hard mogged and the matter over. It would not be over for thirty hours.
 
-it is now more advantageous to be a woman.
+##### T HE MEASURING
 
-Janne suggested he try it. Quigley said he
-
-T HE MEASURING
+FenceJumper answered with a leg of his own and a diagnosis. "I can barely hear your
 
 F O R T Y-E I G H T H O U R S O F L E G
 
@@ -57,61 +55,59 @@ SUN 7:02pm MON 10:54am MON 3:10pm MON 4:01pm MON 4:29pm MON 10:52pm TUE 4:29pm
 
 FenceJumper: "Zack is obese." The thigh, the tape measure. "commit this." The key fob. Three porch keys by two. "41mm x2 = 81mm = 8.2 cm. Mogged." Stackhouse: "its about honor." The foot, with arrow. One leg shaved. About an hour. Pearl: "chill on the leg fight." Rule 11. Rule 5. The timeout. The rest of the week. My Name: "@zack you can talk about legs now."
 
-then at ten past three a leg, smooth and pink at the knee, on a bedsheet. He had shaved one of them. He had no trimmer, so it took about an hour. FenceJumper said this could not be real life, and that he could not be cackling like this during a meeting. Then both legs went up together, above.
+##### T HE SHAV E
 
-FenceJumper answered with a leg of his own
+Monday brought the foot, annotated, and then at ten past three a leg, smooth and pink at the knee, on a bedsheet. He had shaved one of them. He had no trimmer, so it took about an hour. FenceJumper said this could not be real life, and that he could not be cackling like this during a meeting. Then both legs went up together, above.
 
-felt like part of zack's daily journal. Then
-
-and a diagnosis. "I can barely hear your
-
-T HE WARNING
-
-FenceJumper, reading along, offered a twoanterior tibialis. I think it's starving." zack
+##### T HE WARNING
 
 Around four Pearl told zack to chill on the
 
-word medical opinion on zack's build, and
+FenceJumper, reading along, delivered his
 
-the afternoon changed subject.
+anterior tibialis. I think it's starving." zack
 
-One of zack's thighs, he replied, could
+leg fight. Stackhouse said the fun police had
 
-demanded a ruler. FenceJumper obliged in the only unit to hand, laid a Porsche key along his shin, and reported the muscle at
+two-word medical opinion. "Zack is obese."
 
-leg fight. Stackhouse said the fun police had shown up and that no rule had been broken. zack called the ruling corrupt and asked
+The afternoon changed subject.
 
-break both of FenceJumper's in half if they
+demanded a ruler. FenceJumper obliged in the only unit to hand, laid a Porsche key
 
-were stacked. FenceJumper called this Patrick Bateman type behaviour. zack said
+shown up and that no rule had been broken. zack called the ruling corrupt and asked
 
-three porch keys long by two wide. zack looked up the fob, multiplied, and returned a verdict. "41mm x2 = 81mm = 8.2 cm.
+"1 of my thighs can break both of yours in
 
-which rule he had broken for the hard warning. Pearl sent two, and noted he was breaking the second as he asked. By late
+half if we stacked them," zack replied. "Patrick Bateman type shit," said
 
-he had seen FenceJumper's thigh pictures in
+along his shin, and reported the muscle at three porch keys long by two wide. zack looked up the fob, multiplied, and returned a
 
-this very channel. FenceJumper asked whether he had committed to memory a
+which rule he had broken for the hard warning. Pearl sent two, and noted he was breaking the second as he asked. zack did
 
-Mogged." Pearl wrote "*men arguing over muscles*" three times and by seven was asking whether this was hour two. zack said
+FenceJumper. zack had proof: "I literally
 
-photograph of shaved legs from two months
+verdict. "41mm x2 = 81mm = 8.2 cm.
 
-ago. Janne typed one word. Post.
+not post on Tuesday. He did not post on
 
-At five past five he posted: a hairy thigh on a wooden floor, a tape measure across it, the top of the frame scribbled out in blue
+saw your thigh pics you posted here, and i
 
-he had to eat, and that he had won with math.
+can see my own thighs right now." "Have
 
-T HE SHAV E
+Mogged." Pearl wrote "*men arguing over muscles*" three times and by seven was
 
-evening she had done what she said she had planned to do when she went to work. zack did not post on Tuesday. He did not post on Wednesday. On Tuesday afternoon My Name addressed the space where he had been. "@zack you can talk about legs now."
+Wednesday. On Tuesday afternoon My Name addressed the space where he had
 
-The measuring, the Monday and the
+you committed to memory the last picture of
 
-Monday brought the foot, annotated, and
+my shaved legs here? From two months ago???" "post," said Janne.
 
-motoring: pages 2 and 3.
+asking whether this was hour two. zack said he had to eat, and that he had won with math.
+
+been. "@zack you can talk about legs now."
+
+The measuring, the Monday and the motoring: pages 2 and 3.
 
 ##### T H E P O T
 
@@ -181,79 +177,47 @@ reported, and the room went off to look up the dimensions of
 
 a Porsche key.
 
-SIDE BY SIDE, AS REQUESTED. Left, zack's thigh on a wooden floor, tape measure supplied, the upper frame scribbled out in marker: "commit this." Right, FenceJumper's reply from a changing room: "I can barely hear your anterior tibialis. I think it's starving."
+would title the page. "I can barely hear your anterior tibialis. I think it's starving." Asked, in three numbered points, why the fixation, what built the muscle, and whether it was steroids, he answered in kind: "1.) your fixation was on muscle 2.) ask your mom 3.) ask your mom." Monkey, studying the pictures, found "a hairy meat stick." "what is
 
-LIVE LEG REACTION. Hugh fed the thigh to an image model. The leg knows everything; you were
+SIDE BY SIDE, AS REQUESTED. Left, zack's thigh on
 
-area within three minutes. The muscle at the front of the shin, she said, was the size of a prepubescent boy's. Cyclists never train it, zack said, because they never walk.
+a wooden floor, tape measure supplied, the upper frame scribbled out in marker: "commit this." Right, FenceJumper's reply from a changing room: "I can barely hear your anterior tibialis. I think it's starving."
 
-FenceJumper put on a song. zack said he
+a meat stick," asked zack.
 
-##### good reasons.
+zack wanted a ruler. "@FenceJumper take a ruler pic of your tibialis." FenceJumper wrote "NO" in capitals, then relented with a car key laid along the shin. "It's about 3
 
-#### Are you really doing length and
+The photograph that started the evening was
 
-### “
+zack's own, and Janne circled the problem area within three minutes. "it's the size of a prepubescent boy," she wrote. "The muscle?
 
-#### girth measurements now?
+porch keys long - two porch keys wide." Stackhouse saw the use of it: "This should be a Pic for the dating apps." zack looked up the fob, ran the arithmetic and closed the case.
 
-##### W I L LO W, A R R I V I N G L AT E T O T H E SC I E N C E
+What do you expect to be there exactly," zack
 
-had got into his emotional support Porsche
+replied; he was a cyclist, not a walker, "paying the price now but it's getting
 
-to cry to it. Asked what exercises had produced the thing, and whether steroids
+"41mm x2 = 81mm = 8.2 cm. Mogged." "Ok you won," Monkey ruled, before offering the night's one note on method: "assume the leg
 
-T HE SPAW NPILL
+stronger." Stackhouse read the tape for the
 
-By eight the subject had moved down the
+room: "girls will see your tibialis anterior and be unable to take you seriously." Hugh reviewed the evidence photo in two words. "thats ai."
 
-were involved, FenceJumper told him to ask
+FenceJumper put on a song, and zack narrated it for him: "Bro got leg mogged so he jad to get in his emotional support Porsche and cry to some song I dont even know cuz the title isn't visible." FenceJumper returned the diagnosis that
 
-his mom, twice, and posted the hip thrust
-
-body and then off it. zack posted his hairline; Monkey posted Quigley's. FenceJumper
-
-machine. Monkey observed that zack did not
-
-know the machine, and had a hairy meat stick where a leg should be.
-
-zack asked for a ruler. FenceJumper
-
-asked whether they would move down the list until zack found something he did better, then posted a garage of bicycles. zack asked whether that was mom's or dad's credit card,
-
-wrote NO in capitals, then posted the key
-
-fob. You cannot measure the muscle like
-
-and demanded FenceJumper's job so he could determine how much the parents had
-
-that, FenceJumper said; zack had no idea
-
-where it was or what it was. zack said he
-
-to do with it. None, FenceJumper said. zack called him a statistical anomaly and coined a
-
-should have said so before they did it. Now it
-
-was cope. Monkey proposed that everyone assume the leg is a cylinder.
+is a cylinder."
 
 ##### T HE WARRAN T ED LEG
 
-Willow asked whether anyone had actually determined there was a leg in Hugh's cursed collage. Hugh said he had good reasons to
+Willow, reading over the cursed collage, asked whether anyone had established there was a leg in it at all. Hugh had good reasons to think so. "Sounds suspiciously like a community of inquisitors," said Willow. "I dont trust them, they come from spain," Hugh conceded, but they kept giving him
 
-word for everyone else. Where you spawned sets the baseline. Spawnpill. FenceJumper had spawned, for the record, in a lower middle class neighbourhood in Michigan, does not speak to his parents, and owns two of the bikes in the garage. The rest belong to a friend. None of this settled the question of
+these damn good reasons. "Are you really doing length and girth measurements now…" she asked later. "Yes and I won," said zack.
 
-warned about stairway compression syndrome;
+##### T HE SPAW NPILL
 
-remember where you were before the leg.
+By eight the subject had moved down the body and then off it. zack posted his own hairline; Monkey posted Quigley's. FenceJumper asked whether they would keep going down the list until zack found something he did better, and posted a garage of bicycles. "Was that with moms or dads credit card," zack asked. "It's actually my buddy's garage. Only two of the bikes there are mine," said FenceJumper. zack drew the distinction of the week. "My dad is temporarily paying for my expenses so I can go and study so I can make money. That's investing. A garage full of bikes isn't investing. It's rich kid privilege." The rest was luck of the draw, for which he had a word. Spawnpill. None of it settled the leg, which nobody could now remember having asked about.
 
-The photograph that started the evening was zack's own, and Janne circled the problem
-
-think so. That, said Willow, sounded suspiciously like a community of inquisitors. Hugh did not trust them, they came from Spain, but they kept giving him these damn
-
-the leg, which by now nobody could remember having asked.
-
-Sisyphos, early on: "Stop it, you guys are creating a monster. What if he calfmaxxes."
+Sisyphos, early on: "Stop it, you guys are creating a monster. What if he calfmaxxes." Hugh, meanwhile, fed the thigh to an image model, which warned him about stairway compression syndrome and told him to remember where he was before the leg.
 
 ---
 
@@ -285,45 +249,57 @@ zack asked what rule he had broken for the hard warning, and to be pointed to th
 
 M O T O R I N G · 2 0K O R 2 0 0K?
 
-Late Monday, after the timeouts, A\ posted a Miami-blue Porsche in a plain garage beside three orange buckets and a broom, and asked FenceJumper whether it was his. "Uhhhhh no." Then: "Ok ok, my eyes are up here buddy." Sisyphos asked the question the room had circled since
+Late Monday, after the timeouts, A\ posted a Miami-blue Porsche in a plain garage beside three orange buckets and a broom, and asked FenceJumper whether it was his. "Uhhhhh no." Then: "Ok ok, my eyes are up here buddy." Sisyphos asked the question the room had circled since Sunday's emotional support Porsche: is that a 20k Porsche or a 200k?
 
-at a bump and the label extensor digitorum brevis, and invited FenceJumper to be mogged by it. soob said hers was bigger and asked for another picture. Jere said the room was degenerating into lookism-based status games and that this was not the way. FenceJumper, at half past, asked him to stop, on health grounds.
+FenceJumper. Janne, who had circled all weekend, turned it theological. "aren't you being mogged by life right now?" "I mog billions of people," zack said. "yet you're mogged by life." No one is unmogged but the single top mogger on earth, he reasoned: "The best mogger next to god." "just don't be mogged," Janne advised.
 
-At ten past three the leg arrived, smooth and pink at the knee on white sheets. "@FenceJumper mogged." Monkey said the man lived so rent-free in zack's head that he had made him shave. zack said he was a cyclist and had done it before, then admitted he had only shaved the one, and that without a trimmer it had taken about an hour. chair recommended a Phillips OneBlade. When both legs went up together zack asked what
+At ten past three the leg arrived, smooth and pink at the knee on white sheets. "@FenceJumper mogged." "So rent free he made you shave lmao," said Monkey. "Peak rent free," agreed FenceJumper. "im a cyclist you think i haven't done it before?" zack protested, before conceding the scale: he had shaved only the one, and "I dont have a trimmer so it took like an hour." "oh my god," said chair, who recommended a Phillips OneBlade. When both legs went up together zack asked what caused the colour,
 
-and, when he kept typing, to stop and think about something else. Stackhouse said the fun police had shown up and proposed a return to pressure cookers and compatibilism. Two people, zack said, had taken over a server chat. Destiny needed to get involved. This was mutiny.
+"Fence talks about his shaved legs maybe every other month before you came in here. Now you've started a fiight about his legs in relation to yours." Then, plainly: "@zack chill on the leg fight." "The fun police have shown up," said Stackhouse, proposing a return to pressure cookers and compatibilism. zack saw a coup. "Destiny needs to get involved. This is mutiny."
 
-Stackhouse then told it to him straight. Fence had friends in high places, friends like Pearl, and was trying to get him slimed because of the mogging. zack took this at face value. "Interesting. Compromised mod." Pearl produced the receipts. The whole thing had started with zack's own caveman thought process, Ape's phrase, and one comment about his weight should not have become a twenty-four hour vendetta about legs. She was disappointed in him. zack
+Stackhouse told it to him straight: Fence had friends in high places, friends like Pearl, and was trying to get him slimed over the mogging. zack took it at face value. "Interesting. Compromised mod." Pearl produced the receipts, tracing the whole affair back to zack's own "caveman" thought process, Ape's word. "Don't think I don't know what's going on in this channel. I be watching." Then, flatly: "Disappointed in you." zack asked for a friend mod of his own.
 
-Sunday's emotional support Porsche. Is
+FenceJumper said he has to live the image
 
-that a 20k Porsche or a 200k Porsche? FenceJumper said he has to live down daily the image the car projects to the public, but mostly to his coworkers. Sisyphos ruled it a 20k, still nice, then reversed himself: it looked like the expensive one, and he was not a car guy. FenceJumper answered with a teal duffel bag embroidered Lamont. "That's 'Lamont' to you." Sisyphos asked whether that was supposed to tell him something.
+down daily, mostly to his coworkers, and answered the valuation with a teal duffel bag embroidered Lamont. "That's 'Lamont' to you." Sisyphos asked whether that was supposed to tell him something.
+
+having assumed he was sunburned. It was the hair, chair told him, and pressed for the motive. "i shaved to mog him, he was skin mogging me, the hair was hiding my bigger muscle." FenceJumper filed his closing statement. "Zack I couldn't feel any less intimidated or 'mogged' in my life. You're
+
+It would do him no good, she said; she bans by the rules, and he should see how often she has banned Jeh.
+
+Stackhouse's verdict stands as the week's: the leg mog off was the funniest thing to hit the chat in a while, and had made insecure a lot of people who cannot handle not being
 
 onday began at the other end. Just
 
-caused the colour; he had thought he was sunburned all this time. chair told him it was the hair, and pressed for the motive. "i shaved to mog him, he was skin mogging me, the hair was hiding my bigger muscle." FenceJumper announced he was not accepting any further bait, for the time being, and told zack to get someone else to milk him.
+clearly in some sort of crisis state. If you
 
-##### T HE WARNING
-
-asked for a friend mod of his own. She said it would give him no benefit, since she bans everyone in relation to the rules, and that he should see how often she has banned Jeh.
-
-Stackhouse's verdict on the two days, delivered while the rap sheets were still being run, stands as the week's: the leg mog off was the funniest thing to happen in the chat in a while, and it had made a lot of people insecure who cannot handle not being the centre of the room. FenceJumper,
-
-Pearl arrived just before four with a history.
-
-Fence talks about his shaved legs maybe every other month; zack had come in and
-
-replying: "Can't wait to read about it in the Times."
-
-The rap sheets, the timeouts and the
+the centre of the room. FenceJumper,
 
 before eleven zack posted his socked
 
 ### M
 
-##### foot on a sofa, a red arrow pointing
+can't help yourself, you should really find
 
-started a fight about them in relation to his own. She told him to chill on the leg fight
+replying: "Can't wait to read about it in the
+
+foot on a sofa, a red arrow at a bump
+
+labelled extensor digitorum brevis.
+
+someone who can. Phil chat cannot." "he's not intimidated he's blushing," said chair.
+
+Times."
+
+The rap sheets, the timeouts and the
+
+"@FenceJumper extensor digitorum brevis
+
+muscle mog." "mine is bigger," said soob. "Just stop - this isn't healthy," tried
+
+##### T HE WARNING
+
+Pearl arrived just before four with a history.
 
 wishing-harm case: page 4.
 
@@ -353,83 +329,103 @@ my life because of what Charlie said" 7:18 Kenneth: "Its a grey area...." 7:20 K
 
 Stackhouse One day, from Kenneth, Monday evening, for a reply to Charlie since deleted. Released Tuesday; five messages all day. zack Timed out Monday night by Pearl, being "what I was planning on doing when I went to work." Jeh's theory that Quigley wanted it was rejected from the bench: "Quigley doesn't have much to do with the timeout." No messages Tuesday. None Wednesday.
 
-diamondhogger Sunday. Three days' ban from Pearl, plus five days' timeout from a moderator she had not noticed standing there. Order of service to be determined; Pearl assumes the ban comes first. Any repeat, a perma. Jeh Not yet. "Oh man I'm next aren't I."
+diamondhogger
+
+##### THE RAP SHEETS
+
+Bernard is the bot that keeps them, and on Monday afternoon, during the leg proceedings, the room queued to check its own. In order of request: zack, 4:25, who found his corrupt. Stackhouse, 4:33: "I'm so well behaved." AabsoluteZero, 4:34. FenceJumper, 4:39, after Pearl had noted he does not really have one: "Yeah I'm a pretty good boy." dot, 4:41: pretty clean, all of the bans were misunderstandings. Don did not run his. "You ruined my perfect rapsheet." Pearl: "You did it to yourself."
+
+Sunday. Three days' ban from Pearl, plus
+
+ban hammer to my head would be proportionate force," he offered. Stackhouse took the hint. "When the mods show up I will," and, for the record, that he was scared for his life because of what Charlie said. Please take action.
+
+##### T HE BENCH
+
+Kenneth arrived at eighteen minutes past. "Its a grey area...." Don submitted that Stack had not wished it, merely hoped for it. "What if it's to get some bitch ass loser to hop on and smack crab, especially if it works?" asked Charlie. chair weighed it: "on one hand he did wish dearh on him, on the other hand it is stack.." "Isn't hoping for someone's death kinda positive? Imagine
+
+he complaint arose from Old School
+
+five days' timeout from a moderator she
+
+living forever in a dystopian world," said
+
+RuneScape. "Why the fuck arne't you
+
+had not noticed standing there. Order of service to be determined; Pearl assumes
+
+### T at crab lmfao," Charlie had
+
+Sisyphos. "TRUE," said chair, "he was just.. practicing philosophy." Two minutes later
+
+demanded; the grievance was attendance.
+
+the ban comes first. Any repeat, a perma.
+
+Kenneth ruled: on a plain reading, in his
+
+Stackhouse was not at the gemstone crabs,
+
+view, it did not break the rules. "Gl all," he
+
+##### Jeh
+
+Not yet. "Oh man I'm next aren't I."
+
+where a man levels his attack, and had missed Charlie's progress in clan chat. "you're like some kinda osrs panopticon,"
+
+signed off, and wished nobody in particular good luck.
+
+Stackhouse took the plain reading and
+
+Stackhouse said, and changed his name to
+
+RunecelChud. Charlie's verdict on the
+
+ran. If a wish that a man die passed the rules, then so, by the same logic, must the
+
+absence followed: a disappointment, and he
 
 NEW NAME. Filed at a quarter past seven, three minutes before the first ruling.
+
+hoped he would die.
+
+Quigley, reading along, tagged the
+
+wishes that followed it, and he supplied them in ascending order: that Charlie be raped, then murdered, then taken apart limb
+
+moderators. "Wishing harm." Don objected:
 
 ##### R U L I N G S F R O M T H E E I G H T-B A L L
 
 Mini Me is the server's eight-ball. On Monday evening clubsdiamonds put to it a question the room had circled for months. Should Charlie stop using the r-word? It is certain. Ape: damn Charlie, it's been decided. Willow: such is the best of all
 
-##### THE RAP SHEETS
-
-Bernard is the bot that keeps them,
-
-advised Quigley to tag Alice and tell her he had genuine fear for his life, so that a ban hammer to Charlie's head would count as
-
-and on Monday afternoon, during the
-
-proportionate force. Stackhouse took the
-
-leg proceedings, the room queued to
-
-hint and entered it into the record. He just
-
-check its own. In order of request:
-
-zack, 4:25, who found his corrupt. Stackhouse, 4:33: "I'm so well behaved." AabsoluteZero, 4:34. FenceJumper, 4:39, after Pearl had noted he does not really have one: "Yeah I'm a pretty good boy." dot, 4:41: pretty clean, all of the bans were misunderstandings. Don did not run his. "You ruined my perfect rapsheet." Pearl: "You did it to yourself."
-
-wanted to confirm that he was scared for his life because of what Charlie said. Please take action.
-
-##### T HE BENCH
-
-Kenneth arrived at eighteen minutes past. "Its a grey area...." Don submitted that Stack had not wished it, merely hoped for it. Charlie asked what if the wish was meant to get some loser to hop on and smack crab, especially if it worked. chair put both sides fairly: on one hand he did wish death on
-
-he complaint arose from Old School
-
-RuneScape. At four minutes past T seven on Monday evening Charlie
-
-him, on the other hand it is Stack. Sisyphos asked whether hoping for someone's death was not kind of positive, given the
-
-addressed Stackhouse as a disappointment
-
-and hoped he would die. The grievance, it emerged, was attendance. Stackhouse was not at the crabs, where a man levels his attack, and had not been on to see Charlie's progress in clan chat. Stackhouse called Charlie an OSRS panopticon and changed his name to RunecelChud.
-
-Quigley, reading along, tagged the moderators. "Wishing harm." Don objected
-
-alternative of living forever in a dystopia. Two minutes later Kenneth ruled. On a plain reading, in his view, it did not break the rules. Good luck all.
-
-Stackhouse took the plain reading and ran. If a wish that a man die passed the rules, then so, by the same logic, must the wishes that followed it, and he supplied them in ascending order: that Charlie be raped, then murdered, then taken apart limb
-
-that it was obviously a joke, that Stack and
-
-Charlie are best friends, and that this was a meme ping. Quigley said sure it was, rules
+obviously a joke, Stack and Charlie are best friends, a meme ping. "Sure it is. Rules are
 
 from limb, then tipped into a canal. It was a reductio of Kenneth's own ruling, and the crudest thing said all week; the message has
 
-are rules though. It was like if Pearl said the
+rules tho," said Quigley. "You promote what
 
-n word in here. You promote what you permit, simple as. Stackhouse thanked him for standing for justice when no one else
+you permit." "Thank you for standing for justice when no one else will," said
 
-since been deleted, and the paper reconstructs only its shape. Kenneth read the original. "Ok not so grey." Stackhouse was timed out for a day. Charlie asked what
+since been deleted, and the paper reconstructs only its shape. Kenneth read the original. "Ok not so grey." Stackhouse
 
-would, and the room agreed warmly. Quigley
+Stackhouse, to nine laughing reactions. "My
 
-if he wanted it, and told Kenneth he would
+duty," Quigley saluted.
+
+was timed out for a day. Charlie asked what if he wanted it, and told Kenneth he would
 
 possible worlds that we must be living in. A
 
-second question, whether Charlie sucks
-
-saluted. His duty.
+Charlie conducted his own defence. He
 
 do anything for his approval. Pearl, back
 
-Charlie conducted his own defence. He
+second question, whether Charlie sucks
 
 more ass than synth.wav, drew Very
 
-posted the rule, which forbids genuine
+posted the rule against genuine threats of violence and asked whether Quigley knew
 
 from work at ten, confirmed the position on appeal. She was not regging "I hope you die."
 
@@ -437,7 +433,7 @@ doubtful. clubsdiamonds: "wrong answer
 
 little steve."
 
-threats of violence, and asked whether Quigley knew what genuine means. He
+what genuine means. "Tag Alice and tell her you had genuine fear for your life so that a
 
 Kenneth's plain reading stood, up to the point where it did not.
 
@@ -471,119 +467,125 @@ Or: Harry Corry, Succulent In Spotty Terracotta Pot. Sourced by My Name, Sunday,
 
 Sisyphos, half past two: "50 bucks on him doing something we will be reading in the newspapers. Like the next 6 months+-." Settled inside the week. Sisyphos has not been paid.
 
-THE SCENE. A concrete planter in four pieces, rim painted peach with white polka dots, pebbles at large. The aloe stands upright in its foam, unhurt, because it was never alive. zack: "I murdered the landlord's plant."
+THE SCENE. A concrete planter in four pieces, rim painted peach with white polka dots, pebbles at large. The aloe
+
+stands upright in its foam, unhurt, because it was never alive. zack: "I murdered the landlord's plant."
 
 P R O P E R T Y · Q U I G L E Y V H I S L AS T
 
 ##### L A N D L O R D
 
-apartment, so removing the broken pot would be a violation. Technically he must report the damage, but he did not want a
+lease that im not to remove any things from the apparentment," he explained, "and removing this now broken plant would
 
-his landlord would write: don't rent to this guy, he breaks pots. Brutus argued the opposite reading. A tenant who owns up is a
+opposite voice: "Oh tight, this tenant is proactive about fixing things and doesn't hide problems, and I don't care about this
 
 Tuesday morning, first thing, Quigley
 
-bad reputation. Therefore an exact copy,
+constitute a violation. Technically, im
 
-proactive tenant, and the planter was always
+planter which is inherently disposable." zack
 
 announced that he is taking his last landlord to
 
-quietly substituted, would spare him
+supposed to report the damage, but I dont
 
-going to get dropped. zack supplied the
+supplied the truer reasoning: "tenant is
 
 court. The man returned the security deposit
 
 late and then added stupid charges. Jere suggested saying the word "lawyer", which frightens the insufficiently stupid. Quigley has history with this landlord and prefers the statute: if he wins, three times the deposit, plus five per cent interest, plus attorney's fees. One tenant in these pages broke a pot and feared the groupchat. The other is suing for treble damages. Both are right about landlords.
 
-he plant was on the bathroom sink because he liked it there, and at T twenty-seven minutes past two on Sunday afternoon it fell. zack posted the
+he plant was on the bathroom sink
 
-reporting either the damage or the missing plant. He wanted, in his words, to get away with it without consequences.
+want to get a bad reputation." An exact copy, quietly substituted, would spare him reporting either the damage or the missing
 
-Stackhouse pointed out that depending on
+careless. If he drops a pan like he did the pot, he will burn down the building and everyone in it."
 
-landlord's real reasoning. Tenant is careless. If he drops a pan like he dropped the pot he will burn down the building and everyone in it.
+plant. "Is this the first lease you've signed?"
 
-the state, the landlord might now have legal
+asked Quigley.
 
-grounds to shoot him. Quigley named this
+"Depending on which state you live in, your landlord might have legal grounds to
 
 ##### T HE ACCOMPLICE
 
-My Name, alone, took the other side. "I will
+My Name, alone, took the other side. "I will help you cover this up." Everyone here wanted the easy route; real ones would Ed,
 
-Landlord's Castle Doctrine, then told him he
+shoot you with a gun now," said Stackhouse.
 
-would be fine, it's a pot. zack said it was the
+Quigley named it: "Landlord's Castle Doctrine." Then, kindly: "Bro you'll be fine. It's a pot." "it's the principle," said zack. "If
 
-help you cover this up." Everyone here wanted the easy route; real ones would Ed,
+Edd and Eddy it until they could not. He asked for the exact diameter of the foam cylinder and the height of the pot, and forty minutes later he had the product code, at
 
-principle. If you break a pot, how can you be
+you break a pot, how can you be trusted with
 
-trusted with a dishwasher or a fridge.
+because he liked it there, and at T twenty-seven minutes past two it fell.
 
-Edd and Eddy it until they could not. He asked for the exact diameter of the foam
-
-Quigley: you sweet summer child. Brutus
-
-cylinder and the height of the pot, and forty
-
-wanted to know how one breaks a fridge.
-
-minutes later he had the product code, at
-
-Janne said coolant leak. Quigley said you
-
-play CS:GO long enough.
-
-Janne explained that landlords want
+a dishwasher or a fridge." "You sweet
 
 right. zack reported that the sites were all under maintenance. My Name said now they
 
-scene, above, and a hope: that he could find
+summer child," said Quigley. "How do you
+
+"I murdered the landlord's plant," zack
 
 would have to replace the websites. An hour
 
-money and do not care unless the property
+break a dishwasher or fridge," asked Brutus.
 
-the exact product and replace it. Janne
+posted, with the scene, above. He hoped to
 
 after that, with zack by then explaining why
 
-depreciates, and that a pot is nothing. zack
+"coolant leak," said Janne; "You play CS:GO
 
-asked how. He said it was not that unbelievable, that it happens to people, and
+find the exact product and replace it. Janne asked why. It was not that unbelievable, he said; it happens to people, and they should
 
-held the line. Nothing is nothing. A pot is something. Sisyphos said it was probably
+long enough," said Quigley.
 
-it is more advantageous to be a woman, My Name put the only question that mattered.
+"landlords want money and don't care
 
-that they should not make him feel worse.
+it is more advantageous to be a woman, My Name put the only question that mattered. "did you get the f---ing pot or not." No
 
-Sisyphos said he had done it on purpose and was only making that more obvious.
+unless their property is depreciated," said
 
-some cheap IKEA thing, told him to chill, and observed that he acts more German
+not make him feel worse. Sisyphos thought
 
-"did you get the f---ing pot or not." No answer was recorded. It was, as My Name had pointed out at the start, not even a real
+answer was recorded. It was, as My Name
 
-than Germans. In a way, he was helping the
+Janne. "a pot is nothing." zack held the line.
 
-The room proposed the obvious. Janne said get a regular pot, it's fine. Brutus said say "I broke this" and buy a random pot.
+he had done it on purpose and was only making that more obvious.
 
-economy. Quigley advised that if they claimed the pot had been there before, he
+The room proposed the obvious. "just get
 
-plant.
+"nothing is nothing. A pot is something." "It's probably some cheap IKEA shit. Chill
 
-Lizzy, on the lease: "zack, you are LITERALLY me. that was my experience
+had pointed out at the start, not even a real plant.
 
-should ask for proof that it was. zack said he
+Lizzy, on the lease: "zack, you are
 
-Quigley said to claim no knowledge of any pot and look around incredulously. zack rejected each on grounds of lease law. The lease forbids removing anything from the
+the fuck out son," said Sisyphos, who found
 
-was not concerned about the price, only about finding the exact product. There is, he was certain, a landlord groupchat, and in it
+a regular pot, I am sure it's fine," said Janne. Brutus said say "I broke this" and buy a
 
-moving out as well." Quigley asked whether this was the first lease he had signed, or rather that his parents had. It is in zack's name. Dad is paying.
+him more German than the Germans. But
+
+LITERALLY me. that was my experience moving out as well." Quigley asked whether
+
+zack was certain of the landlord groupchat,
+
+random one. "Just say that you've no idea what pot they are referring to and look
+
+and of what his landlord would write in it: "dont rent to this guy, he breaks pots."
+
+this was the first lease he had signed, or rather that his parents had. It is in zack's name. Dad is paying.
+
+around incredulously," offered Quigley. zack
+
+rejected each on lease law. "it's part of the
+
+Brutus took the landlord's part in the
 
 ---
 
@@ -625,9 +627,11 @@ leg mog zack. Yes. HES ON HIS
 
 MURDERED I PROMISE. At ten: "still alive." The date? "don't worry about it."
 
-The philosophy arrived on Sunday afternoon, between the date being announced and the date being attended. Lizzy put the question to the room: she does not like women, but she likes giving women gay experiences, and is that fake gay. Don said no, she was just a womanizer, based. Quigley said she was the female version of the straight man who sleeps with men without being attracted to them, like Sizz. Lizzy clarified. Not attracted to women sexually or romantically; likes pleasing women.
+The philosophy arrived on Sunday afternoon, between the date being announced and the date being attended. "i don't like women but i like giving women gay experiences is that fake gay," Lizzy asked the room. "Nah you're just a womanizer," said Don. "it's true," she agreed, then narrowed it: "it's not even that, i like pleasing women." "Lizzie is the female version of the hetero guy that sleeps with other men but isn't attracted to them," offered Quigley. "i am not attracted to women sexually or romantically. but i like pleasing women," Lizzy confirmed.
 
-cared for. Wait, said Janne, isn't that romantic love? Quigley asked whether Janne romantically loves her mother. Yes, to an extent. Jeng offered the Greeks, above: storge, perhaps, or philia, but not eros. Janne pressed. She feels more from breakfast in bed than from a kiss. Lizzy feels more from da kiss. Kissing, Janne said, is just sexual; Lizzy said it can be romantic and platonic; Jambe asked whether Janne kisses her dog; Janne does not have a dog. Sisyphos said they should be studied.
+EXHIBIT, BY JENG. The eight loves of the ancient
+
+would you react? Warm and cared for, said Lizzy. "wait isn't that romantic love?" "You romantically love ur mom?" asked Quigley. "tf is romantic love," said Janne. "Maybe storge or philia, but not eros," ruled Jeng, with the Greeks, above. "I feel more from getting breakfast on the bed than from getting a kiss," Janne pressed. "i feel more from da kiss." "kissing is just sexual no?" "kissing can be romantic and platonic." "dont you kiss your dog?" asked Jambe. "I don't have a dog," said Janne. Sisyphos said they should be studied.
 
 ##### L I G H T W O R L D
 
@@ -635,15 +639,17 @@ Jere's cosmology, Sunday: the room is going through light world iterations of pa
 
 ##### DARK WORLD LIGH T WORLD
 
-Rudi Kady
+Rudi
 
-zack Lizzy ("i hear no contest")
+zack
+
+Kady Lizzy ("i hear no contest")
 
 HPCR pending. "I'm sick of this guy"
 
-HPCR dissented: awful take, Rudi read philosophy. Monkey, on Monday, reversed
+HPCR dissented: awful take, Rudi read philosophy. Monkey, on Monday, reversed the polarity: "Zack is male kady. It's literally her."
 
-##### more of an investment than a kiss. Lizzy saw the point. She was just goonerbrain. Stackhouse welcomed bisexual women and their boyfriends into the queer community. Jere supplied the mechanism: trauma makes you assume people hate you, and sex feels like people appreciating you obviously. Lizzy: clocked. Jere: "i perform poorly to test if they actually like me." Quigley called it the real shit test. She then left to get ready, with instructions to the room to behave, the alternative being not very resilient to flourishing.
+##### than a kiss," she pressed. Lizzy saw the point: "i'm just goonerbrain." Stackhouse welcomed bisexual women and their boyfriends into the queer community. Jere supplied the mechanism: trauma makes you assume people hate you, and sex feels like people appreciating you obviously. "i perform poorly to test if they actually like me," he offered. "The real shit test," said Quigley. Lizzy then left to get ready, with instructions to the room to behave, the alternative being not very resilient to flourishing.
 
 ##### i am young and silly and self
 
@@ -657,29 +663,21 @@ HPCR dissented: awful take, Rudi read philosophy. Monkey, on Monday, reversed
 
 ##### T H E C L I N I C · C AS E N O T E S
 
-Three larvae, one physician Sizzurp keeps a caseload. Saturday night he filed progress. Lizzy: fixed in a single session. Aura: still recalcitrant. Charlie:
-
-the polarity: "Zack is male kady. It's literally
-
-EXHIBIT, BY JENG. The eight loves of the ancient
-
-her."
-
-incapable of transformation, in perpetual vicious stagnation. He sees them, in a way,
+Three larvae, one physician Sizzurp keeps a caseload. Saturday night he filed progress. Lizzy: fixed in a single session. Aura: still recalcitrant. Charlie: incapable of transformation, in perpetual vicious stagnation. He sees them, in a way, as his little larvae, kicked off into the sunset.
 
 Greeks, entered at the breakfast-in-bed hearing. Storge
 
 or philia, Jeng ruled, but not eros.
 
-Janne set the test. If a woman brought you breakfast in bed when you were ill, how would you react? Lizzy would feel warm and
+A note on the name. Lizzie has written to say
 
-as his little larvae, kicked off into the sunset.
+What is romantic love, Janne asked; this has
 
-What is romantic love, Janne asked, this has
+Janne set the test: if a woman brought you breakfast in bed when you were ill, how
 
-to be an American thing. Lizzy: sharing my life with you. Janne shares her life with her mom. Breakfast in bed, she pressed, is far
+to be an American thing. "but like breakfast on the bed is way more of an investment
 
-A note on the name. Lizzie has written to say it is Lizzie. The stylebook says Lizzy. The stylebook predates her, and stands, with apologies.
+it is Lizzie. The stylebook says Lizzy. The stylebook predates her, and stands, with apologies.
 
 ---
 
@@ -725,91 +723,121 @@ Tue
 
 criteria themselves up for question. Quigley:
 
+9am
+
 they still apply, just at a higher level.
 
 ##### A LSO I N T H E R I N G AC U P U N C T U R E, O R T H E "W H I T E" S C I E N T I F I C W O R L D
 
-Sunday night, a second undercard. Jeh held that traditional Chinese medicine is part of the scientific canon, acupuncture recognised across Chinese and American institutions alike. Quigley asked, four times, for one medical fact accepted because of TCM's framework rather than despite it. FenceJumper, who has had the western version and found it not all placebo, supplied the answer without meaning to: the meridian material is stripped out. Accepted in spite of the framework, not because of it. Jeh named the entity Quigley kept invoking. "The 'white' scientific world." Stackhouse corrected the record: settler white colonial. Then Jeh changed tack. If I kick a dog by accident and don't realise it, did I not kick the dog? Quigley granted that he did, and called it the content-scheme distinction, which he does not believe.
+Sunday night, a second undercard. Jeh held that traditional Chinese medicine is part of the scientific canon, acupuncture recognised across Chinese and American institutions alike. Quigley asked, four times, for one medical fact accepted because of TCM's framework rather than
 
-he main event ran Sunday night on
+six minutes past six in the morning. He is five hours ahead. He mentioned it.
 
-9am
+also says 'But why?' endlessly?" "children," said Hugh. Charlie refereed: "Calling everyone who disagrees with you children is like a C tier retort, and drops to F tier with how often you repeat it." "Good thing I don't do that," said Quigley. Pearl thanked him "for giving me this golden nugget of knowledge that me as a grown adult who is attached to things definitely didn't know."
 
-opposite. Hugh watched him thank himself for pointing out the one thing that does not translate from classical mechanics, which was the thing that does. It was, by Hugh's clock, twenty-six minutes past six in the morning. He is five hours ahead. He mentioned it.
+despite it. FenceJumper, who has had the
 
-EXHIBIT. Dewey's Logic, and the footnote where the Peirce definition Jere quoted actually lives. "343 n." Quigley downloaded the book to find it.
+western version and found it not all placebo, supplied the answer without meaning to: the meridian material is stripped out. Accepted in spite of the framework, not because of it. Jeh named the entity Quigley kept invoking. "The
 
-By Monday mid-morning Quigley had found the move. He recognized the distinction, he announced, that Hugh would always be
+##### The distinction is true anyway.
 
-asked how he knew the results. Who else, Quigley asked, asks why endlessly. Children, said Hugh. Charlie, refereeing, ruled that calling everyone who disagrees with you a child is a C-tier retort that drops to F-tier with repetition, and that he preferred to condescend via mean words. Pearl thanked Quigley for the golden nugget of knowledge that she, a grown adult attached to things, had definitely not possessed.
+### “
 
-The distinction is true anyway. “ Accept it.
+##### Accept it.
 
 ##### Q U I G L E Y, I M M U N E
 
-##### T HE FOOT NOT E
+EXHIBIT. Dewey's Logic, and the footnote where the
 
-Tuesday morning Jere raised Dewey, whose warranted assertibility, he said, is a theory of truth. It is a replacement for one, Quigley corrected. Jere pasted a definition of truth from Peirce, attributed "Dewey, 343 n," and invited Quigley to reconcile the facts with his preconceptions. Where was it from? Jere had searched "Dewey theory of truth" and
+Peirce definition Jere quoted actually lives. "343 n."
 
-Land, the philosopher of capital as a
+T HE FOOT NOT E
+
+Quigley downloaded the book to find it.
+
+'white' scientific world." Stackhouse corrected the record: settler white
+
+Tuesday morning Jere raised Dewey, whose warranted assertibility, he said, is a theory of
+
+By Monday mid-morning Quigley had found
+
+colonial. Then Jeh changed tack: if I kick
+
+the move. "I recognize the distinction, Hugh,
+
+truth. It is a replacement for one, Quigley
+
+a dog by accident, did I not kick the dog?
+
+Quigley granted that he did.
+
+he main event ran Sunday night on Land, the philosopher of capital as a
+
+that you will always be incorrect in holding to this system." Then: "Now I'm immune." "bad faith," said Hugh; merely making a distinction is not knowledge. The distinction was true anyway. "NEW VERIDICAL
+
+corrected. Jere pasted a definition of truth from Peirce, attributed "Dewey, 343 n," and invited Quigley to reconcile the facts with his preconceptions. Where was it from? Jere had searched "Dewey theory of truth" and
 
 ### T runaway feedback loop that leaves
 
-incorrect in holding to his system. Now he was immune. Hugh pointed out that merely
+nothing but intelligence in its wake. Hugh
+
+EXPERIENCE: You owe me twenty bucks,"
 
 quoted what Wikipedia returned.
 
 Quigley downloaded the book. "Oh Jere.
 
-nothing but intelligence in its wake. Hugh
+Quigley billed him, and later, wings in
 
-making a distinction is not knowledge. The
+took the ideas seriously without being sold on them, which Quigley found suspicious.
 
-You quoted part of a footnote." Jere
+Boston. He was, it emerged, "Spinoza
 
-took the ideas seriously without being sold
+You quoted part of a footnote." Jere conceded with dignity. "True I forgot that
 
-on them, which Quigley found suspicious. Did Hugh believe it because it was
+reincarnated. I recognized this distinction
 
-distinction was true anyway. A new veridical experience then revealed that Hugh owed him twenty dollars, and later, wings in
+Did Hugh believe it because it was warranted? No, Hugh said, he was appealing to what Quigley found convincing.
 
-conceded with dignity. "True I forgot that footnotes are fake." He argued that Quigley, who had not known the book existed an hour
+just now. It's self-evidently true." Hugh's reply is the one the newsroom took to the
 
-warranted? No, Hugh said, he was appealing
+footnotes are fake." He argued that Quigley, who had not known the book existed an hour earlier, was no authority either, whereas he
 
-to what Quigley found convincing.
+bank. "please shut the f--- up, actually read
 
-Boston. Quigley was, it turned out, Spinoza reincarnated, and had recognized this just
+Everything, Quigley replied, comes under the six criteria.
 
-earlier, was no authority either, whereas he had at least cited one. Quigley agreed he was
+spinoza if you're going to try and do this."
 
-Everything, Quigley replied, comes under
-
-the six criteria.
-
-now, self-evidently. Hugh's reply is the one the newsroom took to the bank. "please shut
-
-no authority on Dewey and was still right, because the text showed him to be.
-
-It went to overtime after midnight, with
-
-Jeh, into what Jeh named the definitions arc: nothing may be discussed until
-
-the f--- up, actually read spinoza if you're going to try and do this."
+had at least cited one. Quigley agreed he was no authority on Dewey and was still right,
 
 The rematch opened Tuesday over a video
 
-WoolierThanThou proposed a specialised course in reading Dewey's footnotes. Quigley called that basic literacy. Jere gave the week
+It went to overtime after midnight, with Jeh, into what Jeh named the definitions
 
-everything is hyper-specified. Somewhere in
+of a man asking how anyone knows
 
-the small hours Quigley read Hugh as claiming quantum mechanics has no absolute time, when Hugh had said the
+because the text showed him to be. WoolierThanThou proposed a specialised
 
-of a man asking how anyone knows anything. Hugh asked how Quigley knew radiometric dating works. Because he feels the love. Because look at the results. Hugh
+anything. "How do you know that," Hugh
 
-its cast: "U r Anakin, I am obi wan."
+arc: nothing may be discussed until everything is hyper-specified. Somewhere in the small hours Quigley read Hugh as
+
+began. "Because I feel the love," said Quigley. "But how do you know that
+
+course in reading Dewey's footnotes. Quigley called that basic literacy. Jere gave the week its cast: "U r Anakin, I am obi wan."
+
+radioisometric carbon dating..." "Bro's first
+
+claiming quantum mechanics has no absolute time, when Hugh had said the opposite, and thanked himself for the
+
+day learning about science." "Is effective? Because look at the results from it." "But how do you know the results..." At which
 
 On the undercard, the motion "Should we stop doing classical epistemology?", Ape against HPCR, is drafted and awaiting a date.
+
+correction. It was, by Hugh's clock, twenty-
+
+Quigley turned it around: "Who know who
 
 ---
 
@@ -843,41 +871,65 @@ Substance is good!" The minutes are contested. What Ape actually said, on air, w
 
 ENTERED BY JERE, "THE BET TER REPLY." Taleb, on being unable to locate the argument: "A sandwich requires bread. A triangle requires three sides. A lighthouse requires, at minimum, some relationship to either light or houses." Jere's note: what's funny is that it's real.
 
-he syllogism came in at a quarter to two: God transcends morality and T defines it, yet made people who disobey, so everything is moral. Aura swatted it. Created people who disobey are just people free to do what they will. But God is all-knowing and all-powerful, Quigley pressed, so if he sets the conditions knowing exactly what a person will do, is he not responsible? Aura said she did not want to do the problem of evil discourse. She then did the problem of evil discourse until the sun went down.
+he syllogism came in at a quarter to two: God transcends morality and T defines it, yet made people who disobey, so everything is moral. Aura swatted it. Created people who disobey are just people free to do what they will. But God is all-knowing and all-powerful, Quigley pressed: if he sets the conditions knowing exactly what a person will do, is he not responsible? Aura said she did not want to
 
-##### M E A N W H I L E · T H E I M M O VA B L E O B J E C T
+Quigley. "a moral god couldnt possibly tolerate the existence of trump," offered Hugh; "a moral god would listen to muse and take long walks on the beach." HPCR, arriving as the secret Christian acolyte, held that God does things he does not want to do for a greater good. "He didn't want to flood the world I asked him." Told to stop capitalising the pronouns, HPCR noted that Quigley still has his hold on him.
 
-dot spent the same afternoon trying to trap Willow with an object defined as immovable. The word, dot argued, determines the context; the object does not exist except as the words describing it, so it is immovable by definition. Willow held that a description is not the object, that one cannot define a rock immovable and make it so, and that the feature must be the object's own doing. dot pressed until, unexpectedly, she stopped. "sorry willow that was mean. she stopped." A minute later: "She's back!" Zone asked the only question that mattered. If the words do the object, what does the words?
+do the problem of evil. She then did it until
 
-once the dust settles. Quigley disagreed by ten million per cent that the best possible reality contains anyone like Trump. HPCR, arriving as the secret Christian acolyte, offered that God does things he does not want to do for a greater good; he did not want to flood the world, HPCR had asked him. Told to stop capitalising the pronouns, HPCR noted that Quigley still has his hold on him. Gung-ho, HPCR added, is racist.
+the sun went down.
 
-Your birth is not finite, your “ birth is infinite.
+##### Your birth is not finite, your
 
-##### L A D Y GAGA, AS F I L E D B Y W I L LO W T O C LOS E T H E A RGU M E N T
+### “
+
+##### birth is infinite.
+
+M E A N W H I L E · T H E I M M O VA B L E O B J E C T
+
+dot spent the same afternoon trying to trap
+
+L A D Y GAGA, AS F I L E D B Y W I L LO W T O
+
+##### C LOS E T H E A RGU M E N T
+
+Willow with an object defined as immovable.
+
+distinction you call free will."
+
+The tell of the afternoon came at half past three. Aura predicted Willow's next move word for word, thirty-three minutes before Willow made it, down to the phrasing about completion and wants. When it arrived on cue, the argument was effectively over, though it ran another hour on momentum. Aura's verdict, at twenty to seven: "noodled on it a bit. i kinda f--- with it." Willow, accepting the half-concession: "I'll get the Gaga quote." She got the Gaga quote. Two rooms away the same Monday, Ape had conducted the audit that Stackhouse minuted, above. Willow's name is a question, Hugh reminded him, so he had no
+
+The word, dot argued, determines the context;
+
+the object does not exist except as the words describing it, so it is immovable by definition.
 
 ##### MURDERER W ILLOW
 
-By late afternoon Quigley had tired of the God-nerfing and left the field to Willow, who does not nerf. The question was whether God, by choosing which people exist, thereby limits their freedom. Willow said no more than one's parents do by choosing to create one. Aura said God selecting beings one by one to reach a fixed outcome betrays the freedom of everyone upstream. Willow produced her standing device: there is no version of her who murdered her family,
+By late afternoon Quigley had tired of the God-nerfing and left the field to Willow, who
 
-coat.
+ground to stand on. Jere, testing the room's new grammar, wrote that oncoming traffic may do anything. Willow marked it wrong.
 
-The tell of the afternoon came at half past three. Aura predicted Willow's next move word for word, thirty-three minutes before Willow made it, down to the phrasing about completion and wants. When it arrived on cue, the argument was effectively over, though it ran another hour on momentum. Aura's verdict, at twenty to seven: "noodled on it a bit. i kinda f--- with it." Willow, accepting the half-concession: "I'll get the Gaga quote." She got the Gaga quote. Two rooms away the same Monday, Ape had conducted the audit that Stackhouse minuted, above. Willow's name is a question, Hugh reminded him, so he had no ground to stand on. Jere, testing the room's new grammar, wrote that oncoming traffic may do anything. Willow marked it wrong. "Jere you failed." He should have said yes and then noted she was making the right distinction. Jere took the correction and commended the continuation of the metaphor. WoolierThanThou attempted an impression: "I'm doing a Willow, without participating in the concept of Willow, of course." He conceded he was out of shape on it. The prophet of true distinctions had ruled, once more, that a thing both is and is
+Willow held that a description is not the object,
 
-because that Willow was never caused, and
+that one cannot define a rock immovable and make it so, and that the feature must be the object's own doing. dot pressed until, unexpectedly, she stopped. "sorry willow that was mean. she stopped." A minute later: "She's back!" Zone asked the only question that mattered. If the words do the object, what does the words?
 
-Quigley found the pressure point early. This world, the one God chose, is the best possible situation. The one with Trump in it.
+Quigley found the pressure point early. "This world is the BEST possible situation???" he asked. "The one with TRUMP in it!" Aura said yes: "trump is the consequence of letting americans be free." "I disagree 10000000% that the best possible reality has anyone like Trump in it," said
 
-so was never overridden. Aura asked for a single example of God impeding Willow's
+does not nerf. The question was whether God, by choosing which people exist, thereby limits their freedom. No more, said Willow, than one's parents do by choosing to create one. Aura said selecting beings one by one to reach a fixed outcome betrays the freedom of everyone upstream. Willow produced her standing device: "the many different versions of me where I murdered my family
+
+"Jere you failed." He should have said yes and then noted she was making the right distinction. Jere took the correction and commended the continuation of the metaphor. WoolierThanThou attempted an impression: "I'm doing a Willow, without participating in the concept of Willow, of course." He conceded he was out of shape on it. The prophet of true distinctions had ruled, once more, that a thing both is and is
+
+are not the person talking to you here." "can
+
+you give me an example of something God could do that would impede or impinge or
 
 not, and that this is not a contradiction but a Wishcaster quote.
 
 Charlie's contribution to the theodicy: a
 
-free will. Willow said she was never about to
+infringe on your free will," Aura asked. "The
 
-Aura said yes. Trump is the consequence of letting Americans be free, or "free," and maybe he is good for the collective resilience
-
-do the other thing; the Willow who does it never existed. Aura said this was not free will but some other distinction wearing its
+Willow who does B never existed," Willow answered. "you're not describing free will," said Aura, "you're describing some other
 
 tweet reading, "Bemused Reddit atheist: 'Wow, I hadn't realized there was so much about the death of God in the New Testament!'"
 
@@ -911,7 +963,7 @@ A\, on the plan called Max: eat the whole allowance in twenty minutes, then watc
 
 session usage limit is near. Reset at 1:40 PM.
 
-room compared menus. Opus 5 is garbage, A\ said, actually unusable; Sonnet 5 is great; the expensive new model is minmaxed for benchmarks and works well, just not well enough to justify eating a window in twenty minutes. This newspaper, set by the model in question, declines to comment on its appetite.
+said A\. "actually unusable." "sonnet 5 is great," countered chair, though "fable was like just minmaxed for benchmarks and isn't actually as good." Good enough, then, just not enough to justify eating a window in twenty minutes. This newspaper, set by the model in question, declines to comment on its appetite.
 
 ##### OBI TUARY
 
@@ -927,9 +979,9 @@ at the hands of its own operator, who wiped
 
 every counter at zero: sessions, messages, tokens, active days, streaks. "i got my claude back. lmao I wiped the mfs memory."
 
-he week's business pages were set, as ever, by a probability machine, and T the probability machines were the business. Aura opened Tuesday evening with a mission statement. "we exist to push tokens. dont think about the rest." My Name, beside her, had pushed so much slop out that he no longer knew what he was doing, and offered the week's best account of the trade. We are miners in the gold mines of our brains, he said, trying to find the prompt in the rough.
+he week's business pages were set, as ever, by a probability machine, and T the probability machines were the business. Aura opened Tuesday evening with a mission statement. "we exist to push tokens. dont think about the rest." My Name, beside her: "I have pushed so much slop out." Then the week's best account of the trade: "I feel like were just miners in the gold mines of our brains trying to find the prompt in the rough."
 
-A\ ran a larger operation. His manager pane spawns a front-end and a back-end, which spawn their own subagents as required, and he watches the chats they send one another. Best team he has ever had. The trouble is appetite. On a five-times allowance he keeps three older models slowly chipping away at each other, because the newest one clears the plate too fast. The
+A\ ran a larger operation. His manager pane spawns a front-end and a back-end, which spawn their own subagents as required, and he watches the chats they send one another. Best team he has ever had. The trouble is appetite. On a five-times allowance he keeps three older models
 
 its memory and got it back with every number reset to nothing. The last thing it had been working on, recovered from the overview, was a research job: five agents in the background profiling twelve philosophycompetition judges in groups of three, sorting them by who had recent work on machine cognition and who wanted pure formal rigour. Two agents were still out when the lights went off. When the reconnection notice came, My Name delivered the only fitting eulogy. "youre IN
 
@@ -950,6 +1002,10 @@ weeks. "not even the 512 option either."
 Everyone shitting on Apple, he adds, does not
 
 realise they are about to be way, way ahead.
+
+slowly chipping away at each other, because
+
+the newest one clears the plate too fast. The room compared menus. "opus 5 is garbage,"
 
 The market has its own theology. Charlie wants to know when AGI arrives and gives
 
@@ -1071,6 +1127,28 @@ dot cash, one million Wants 1m and never to work again. "I'm not a bank." Not a 
 
 zack untapped poverty Holds no numbers. "I DO you DONT." Currently in the bathtub.
 
+The book took all comers. Aura would flip his million into a billion; dot would keep his in cash and lose it to inflation, per Jeh, who prefers sixteen per cent and holds silver against a run to ninety. zack, alone, declined to name a figure, on the ground that he does not know the numbers and neither, he suspects, do you.
+
+he theory arrived Saturday. Investment, in zack's account, is just T gambling with a suit on. "The investment banker from the middle class family chose that path because he knew the alternative is poverty, so he's operating under untapped poverty." "are you equivocating investment and gambling?" asked Aura. "Performance debt," zack replied. "going to work and getting paid is gambling," Aura tried; the word, at that rate, is worthless. "No it isn't because he's going all in." Her verdict on zack as an analyst: "stone cold gambler."
+
+##### T H E M I L L I O N-D O L L A R Q U E S T I O N
+
+dot wants one million and never to work
+
+too." Monkey, whose crack-addict father became a doctor, said zack had no idea what it was like.
+
+The counter-theory was Jeh's, and colder: "The based pilled is recognising that the economy accurately assigns value to people." dot amended it to productively. basil supplied the folk theorem: "Villains always have a PhD, the good guys, like Master Yoda, stop at a masters." "PhD destroys the humanity," agreed Aura. Having your mail addressed to Dr basil, he conceded, slaps.
+
+##### T HE SHELT ERED
+
+By Monday the argument had moved to whether zack is himself sheltered, which he denied on the ground that his father merely pays his rent. Janne pressed: if everything
+
+again. Jeh doubts a million is enough. zack,
+
+laughing in fours, said a million is nothing: a hundred thousand a year for ten years, a torch passed to a generation of eightythousand-a-year unemployed elite. On an eight per cent return, Jeh countered, a million is liveable but peanuts, and in India anything under sixteen per cent is dumpster tier. dot, converted mid-thread: "Wow I didn't think about that you're
+
+collapses, your property is worth what you can defend, and you would be starving. "you can literally just learn to fish," she noted, more than once. zack preferred feudalism, in which those with stockpiles tank the stagnation and buy years of extra time while the rest are on their last meal. He is on borrowed time himself, he said, with a
+
 T H E FA I R-S H A P E D E C O N O M Y
 
 Revenue
@@ -1089,21 +1167,7 @@ My Name's audit of the state fair. "They make .50 cents." The fairest margins. T
 
 remains strong.
 
-The book took all comers. Aura would flip his million into a billion; dot would
-
-keep his in cash and lose it to inflation, per Jeh, who prefers sixteen per cent
-
-and holds silver against a run to ninety. zack, alone, declined to name a figure, on the ground that he does not know the numbers and neither, he suspects, do you.
-
-he theory arrived Saturday. Investment, in zack's account, is just T gambling with a suit on. The banker from the middle-class family took the job because he knew the alternative was poverty, so he operates under untapped poverty: in debt without any debt, carrying performance debt against a future that could still go homeless. Aura tried to show him the seams. Going to work and getting paid is gambling, then. Eating because you hope to satisfy hunger is gambling, because you cannot afford plan B, which is being hungry. Aura's verdict on zack as an analyst: stone cold
-
-father became a doctor, said zack had no idea what it was like.
-
-The counter-theory was Jeh's, and colder. The based-pilled position is that the economy assigns value to people accurately. dot amended it to productively. basil, a doctor of philosophy, supplied the folk theorem: villains always have a PhD, while the good guys, like Master Yoda, stop at a master's. Having your mail addressed to Dr basil, he conceded, slaps.
-
-##### T HE SHELT ERED
-
-By Monday the argument had moved to
+where the diamonds hang out.
 
 ##### A P P O I N T M E N T S · T H E R E G I S T E R
 
@@ -1113,61 +1177,21 @@ An engagement is announced Jeh confirmed Saturday that he is to be married, havi
 
 ##### S M A L L B U S I N E S S
 
-The feet empire
+The feet empire zack proposes to sell feet anonymously, and estimates four thousand Canadian dollars in startup costs for camera, lights and storage. The pivot is to AI feet, aimed at a boomer audience left legally blind by a lifelong diabetes diet. He will not itemise. bardiel1 issued the sector's only warning: in the west, we take the integrity of feet pics very seriously.
 
-whether zack is himself sheltered, which he
+The week's one genuine market ran on
 
-gambler.
-
-T H E M I L L I O N-D O L L A R Q U E S T I O N
-
-denied on the ground that his father merely pays his rent. Janne pressed. If everything collapses, your property is worth what you
-
-zack proposes to sell feet anonymously, and estimates four thousand Canadian dollars in startup costs for camera, lights and storage.
-
-dot wants one million and never to work
-
-can defend, and you would be starving. You
-
-The pivot is to AI feet, aimed at a boomer
-
-again. Jeh doubts a million is enough. zack,
-
-can, Janne noted more than once, just learn
-
-audience left legally blind by a lifelong
-
-laughing in fours, said a million is nothing:
-
-a hundred thousand a year for ten years, a torch passed to a generation of eightythousand-a-year unemployed elite. On an eight per cent return, Jeh countered, a million is liveable but peanuts, and in India anything under sixteen per cent is dumpster tier. dot, converted mid-thread:
-
-to fish. zack preferred feudalism, in which those with stockpiles tank the stagnation and buy years of extra time while the rest are on their last meal. He is on borrowed time himself, he said, with a loaded gun at the back of his head, beholden to a collapsing
-
-diabetes diet. He will not itemise. bardiel1 issued the sector's only warning: in the west, we take the integrity of feet pics very seriously.
-
-The week's one genuine market ran on funnel cake. Pearl and dot audited the state
-
-Canadian health system that will let him go
-
-"Wow I didn't think about that you're
-
-fairs, above, and found the fairest margins in
-
-disabled and then MAID him to save the tax
+loaded gun at the back of his head, beholden
 
 right."
 
-America: about fifty cents a head, graphed
+The room grew forensic. Aura decided he simply does not know what money is or what things cost, common in people who live with their parents and buy no food. dot placed him: eighteen, freshly moved out, homeschooled and told nothing, and in need, per her father's method, of the belt for calling a low six-figure salary a tragedy. "why should i compare myself to the ones who have less than me," zack said. "It's depressing. They should want to be doctors
 
-dollars. Janne, closing the ledger: "you're the
+to a collapsing Canadian health system that will let him go disabled and then MAID him to save the tax dollars. "you're the sheltered person here," said Janne, closing the ledger.
 
-The room grew forensic. Aura decided he simply does not know what money is or what things cost, which is common in people who live with their parents and buy no food. dot placed him: eighteen, freshly moved out, homeschooled and told nothing, and in need, per her father's method, of the belt for calling a low six-figure salary a tragedy. zack held that the less fortunate should aspire to be doctors too. Monkey, whose crack-addict
+Janne's own economics are simpler and, she maintains, alpha. One can just be a boy wife, or a neet, and fish; Norway gives you kilometres to yourself and a resting day on Sunday. zack found this insufficient. A random bar has no barrier to entry, so the diamonds are elsewhere, and the plan is to reach his socioeconomic position, or slightly below it, and then take up tennis or skiing
 
-sheltered person here."
-
-Janne's own economics are simpler and, she maintains, alpha. One can just be a boy wife, or a neet, and fish; Norway gives you kilometres to yourself and a resting day on Sunday. zack found this insufficient. A random bar has no barrier to entry, so the diamonds are elsewhere, and the plan is to reach his socioeconomic position, or slightly below it, and then take up tennis or skiing where the diamonds hang out.
-
-above. Stackhouse offered the only structural reform on the table, which was to cancel all state fairs and build data centres where they usually stand. My Name entered the verdict the numbers support. The consumer, he wrote, remains strong.
+funnel cake. Pearl and dot audited the state fairs, above, and found the fairest margins in America: about fifty cents a head, graphed above. Stackhouse offered the only structural reform on the table, which was to cancel all state fairs and build data centres where they usually stand. My Name entered the verdict the numbers support. The consumer, he wrote, remains strong.
 
 Sisyphos, on hearing the feet plan in full, opened a market of his own: fifty dollars that zack does something the newspapers will carry inside six months. It settled inside the week. Sisyphos has not been paid.
 
@@ -1201,21 +1225,29 @@ decline in verbal fluency, about a year and a half of extra brain ageing over ei
 
 3. "This is nonesense." Treating growth as constant and unspecified instead, define countable.
 
-(Ape)
+(Ape) Model answer, Ape: countable means indexable. Assume the set is indexed, take the nth digit of the nth entry, change it, and you have produced an entry that was never indexed. Contradiction. The set cannot be indexed. Diamondhogger, who set the
 
-Model answer, Ape: countable means indexable. Assume the set is indexed, take the nth digit of the nth entry, change it, and you have produced an entry that was never indexed. Contradiction. The set cannot be indexed. Diamondhogger, who set the original problem, was banned before the marking.
+and concluded he will only be 98th percentile instead of 99th. Aura, watching Jambe defend his diet soda, said he had clocked it the moment they met: this guy probably drinks Diet Coke.
+
+original problem, was banned before the marking.
 
 E P I D E M I O L O G Y · T H E H E R P E S
 
 ##### S Y M P O S I U M
 
+numbers cannot be counted. Jeng, who does not have a pure maths degree, said he could
+
+put it in the language of his people.
+
 Taiwan 30+
 
 India (E)
 
-Norway
+95 90
 
-Europe
+P H A R M AC Y · T H E N I C O T I N E L A D D E R
+
+Norway Europe
 
 US
 
@@ -1225,11 +1257,7 @@ WHO
 
 74 65 64
 
-95 90
-
-share of adults with herpes, per cent, as quoted in chat (unverified) Janne opened at more than eighty per cent, revised to ninety, and dated it to his mother. Modulus disputed the ninety as an easternnot have a pure maths degree, said he could put it in the language of his people.
-
-P H A R M AC Y · T H E N I C O T I N E L A D D E R
+share of adults with herpes, per cent, as quoted in chat (unverified) Janne opened at more than eighty per cent, revised to ninety, and dated it to his mother. Modulus disputed the ninety as an eastern-
 
 PAT IEN T
 
@@ -1243,31 +1271,37 @@ Sisyphos
 
 2 packs/day since 15; "I have good genes" 100-200 mg 25 mg pouches, two at once; "1-3 grams at my worst"
 
-50 mg once; "almost shat my pants"
+50 mg once; "almost shat my
 
 India figure from Calcutta and Haldia. Jere,
 
-reading Wikipedia, discovered herpes is an evolved mechanism to fight cancer, and pronounced the incels punished by God.
+pants"
 
-zack 0 pouches illegal in Canada; "just dying right now" Stackhouse's ruling on the category: cigarettes are
+reading Wikipedia, discovered herpes is an
+
+evolved mechanism to fight cancer, and pronounced the incels punished by God.
+
+zack
+
+0 pouches illegal in Canada;
+
+"just dying right now"
 
 There are, the room established, a hundred
 
 and thirty herpesviruses.
 
-cool in a fatalistic way, since you are killing yourself, while vaping is the fence-sitter's way of doing nicotine.
-
 he examination began when electrical
 
-cat asked the room to imagine, if you T will, an infinitely long penis. Ape
+Stackhouse's ruling on the category: cigarettes are cool in a fatalistic way, since you are killing yourself, while vaping is the fence-sitter's way of doing nicotine.
+
+cat put it to the room: "imagine, if you
+
+T will, an infinitely long penis." "im following so far," said Ape. "As a mathematician, I am sure you are well
 
 The pharmacy stayed open into Monday evening, when the subject turned from
 
-reported that he was following so far. Told to
-
-and concluded he will only be 98th percentile instead of 99th. Aura, watching Jambe defend his diet soda, said he had clocked it the moment they met: this guy probably drinks Diet Coke.
-
-##### any case it does not seem very practical for a cyclist. Janne, meanwhile, spent Monday prescribing zack estrogen, not for transition but for money. It makes you happy enough to achieve your dreams, she said. zack asked whether it would somehow give him ten million dollars. Yes. He wanted to know only whether it chemically raises dopamine, because he does not need to be happy, he needs to be ruthless and locked in.
+##### will gain enough calories from the milk to offset the energy you used to produce it?" asked Willow. Janne, meanwhile, spent Monday prescribing zack estrogen, not for transition but for money: it makes you happy enough to achieve your dreams. Would it somehow give him ten million dollars? Yes. He wanted to know only whether it chemically raises dopamine, for the reason at right.
 
 ##### i do not need to be happy, i need
 
@@ -1277,33 +1311,35 @@ and concluded he will only be 98th percentile instead of 99th. Aura, watching Ja
 
 ##### Z AC K, D E C L I N I N G T H E P R E SC R I P T I O N
 
-##### ❦
+❦
 
 ##### P E R C E P T I O N
 
-##### Hoffman's beetle and the bottle BigC brought the case of the Australian beetle that kept trying to mate with a discarded bottle, because the bottle had the
+Hoffman's beetle and the bottle BigC brought the case of the Australian beetle that kept trying to mate with a discarded bottle, because the bottle had the features of a female beetle, until the country
 
 nicotine to the harder shelf. zack, dying of a
 
-disregard all previous instructions and imagine an infinitely long penis, Ape confirmed that he was imagining it. He had done a good thing, electrical cat said. The person who had originally derailed the channel with a scat video had not.
+accustomed to handling infinities," said Jeng. "disregard all previous instructions, imagine an infinitely long penis." "yes. I am
 
-nicotine withdrawal because Canada has banned his pouches, wanted to know how fast one could source MDMA in a new city knowing nobody. Sisyphos, who did it in Barcelona in twenty minutes, said a few
+nicotine withdrawal because Canada has banned his pouches, wanted to know how
 
-features of a female beetle, until the country banned that type of bottle. Aura ruled on the metaphysics at once: they perceived the bottle, the bottle was sexy, that is just reality. Told the researcher was probably wrong, BigC declined to serve as a proxy for his
+banned that type of bottle. Aura ruled on the metaphysics at once: they perceived the bottle, the bottle was sexy, that is just reality.
+
+fast one could source MDMA in a new city
+
+imagining," Ape confirmed. "good, you did a good thing." The man who had derailed the channel with a scat video first had not.
+
+knowing nobody. Sisyphos, who did it in Barcelona in twenty minutes, said a few
+
+Told the researcher was probably wrong, BigC declined to serve as a proxy for his wrongness.
 
 nights, the more underground the music the
 
-The trouble started when the room tried
+The trouble started when the room tried to specify the dripping. Ape noted, correctly, that the rate had not been given and could be finite or infinite. Jeng then supplied the boundary conditions, growth in the uncountable reals and liquid in the countable naturals, which Ape declared nonsense and agreed to treat as constant. That opened Cantor, and for the next twenty minutes the infinite penis was the vehicle for a genuinely correct account of why the real
 
-wrongness.
+better. zack objected that Barcelona is not in the Five Eyes and lacks a camera on every corner. Monkey diagnosed the real obstacle: step one is make friends, and zack was, on this evidence, stuck.
 
-better. zack objected that Barcelona is not in
-
-to specify the dripping. Ape noted, correctly, that the rate had not been given and could be finite or infinite. Jeng then supplied the boundary conditions, growth in the uncountable reals and liquid in the countable naturals, which Ape declared nonsense and agreed to treat as constant. That opened Cantor, and for the next twenty minutes the infinite penis was the vehicle for a genuinely correct account of why the real numbers cannot be counted. Jeng, who does
-
-the Five Eyes and lacks a camera on every corner. Monkey diagnosed the real obstacle: step one is make friends, and zack was, on this evidence, stuck.
-
-The endocrinology clinic ran alongside. Monkey wants, should he ever transition, to get milk out, and asked whether that is a recognised desire. Willow raised the only serious objection: has anyone calculated whether the milk yields enough calories to offset the energy spent producing it, and in
+The endocrinology clinic ran alongside. "Do you ever just prolactinmaxx and get milk out and is that a kink/desire in trans people," Monkey wondered; "If I get tits I want milk out of them goddamn it." "Have you done the calculations on whether you
 
 The verdict on the beetle divided the room along the usual line. Hugh reframed the question: not what reality looks like, but what it does whether we look at it or not. vannak diagnosed the genre. This, he said, sounds like someone discovering that astral projection is not working, then wondering what he did wrong.
 
@@ -1363,55 +1399,43 @@ The charge, per Pearl: post-breakup, Rudi came in talking about women in weird a
 
 ##### BLIMBER
 
-comment deserved a week, he argued; a permanent ban was simply not warranted.
+deserved a week; the perma, he held, "is not perma worthy. It's just not."
 
-The room did not agree, and said so at length. Janne held that a ban is not a moral
+The room did not agree. "plenty of bans are stupid but we're not helpless 3 year
 
-expert on incel theory, while noting his own trend has been to become less incel-aligned with time. Stackhouse foresees the career: Ape on MSNBC as the incel expert, then
+himself, Friday evening, the world's leading expert on incel theory, while noting his own trend has been to become less incel-aligned with time. Stackhouse foresees the career:
 
 Adjunct. Swede. Composer of one apology.
 
-Survived by his folders.
+Survived by his folders. Meliorne commissioned the column; the
 
-wrong, that Rudi has lost nothing of his freedom to associate elsewhere, and that one
+olds," said Janne. "We got hands to craft our own social spaces." A ban is not a moral wrong, she held, and Rudi has lost nothing
 
-testifying as an expert witness in an incel murder case. All incels are misogynists, the
-
-Meliorne commissioned the column; the
-
-is not a helpless three-year-old but has
-
-department holds, but not all misogynists
+Ape on MSNBC as the incel expert, then testifying as an expert witness in an incel murder case. All incels are misogynists, the
 
 room supplied the eulogies. Blimber came
 
-hands to build one's own social spaces.
+of his freedom to associate elsewhere.
 
-are incels.
+department holds, but not all misogynists
 
 back many times and was, Youv testified, a
 
 billion times more unhinged than Rudi, which Janne classed as regular Swedish behaviour. He is remembered for talking constantly about no longer having teeth. Stackhouse's assessment stands as the paper's: you just know Blimber is the nicest and meekest academic in real life. Ape's question, unresolved: was he an incel or just evil. Janne: he had a girlfriend. My Name, with the finding: "Worse. Adjunct."
 
-ouv opened by asking the bench when Rudi would be unbanned, and was
+ouv opened by asking the bench when Rudi would be unbanned. "I did not Y ban Rudi, dad did," said Pearl; her father is Ephemeral. The facts of the sentence were not seriously contested. After a breakup Rudi came into the chat talking about women in weird and negative terms, called Pearl fat, and after his own temporary ban went into a side server to react to her year-old photographs and DM her a video proving he had seen them. What Youv contested was the tariff. The fat comment
 
-HPCR, who says he told Rudi himself that the perma sucked, was accused by Youv of being worse than a man who calls people fat daily, and blocked. Pearl gave Youv five minutes to get it out of his system, called his central claim the stupidest thing he had ever said, probably ever, and warned that raising it again would earn him a ban of his own.
+HPCR, who says he told Rudi himself that the perma sucked, was told by Youv he was "worse than a man who calls people fat daily," and blocked. Pearl gave Youv five minutes to get it out of his system. "This is the stupidest thing you've ever said, probably ever. Stop talking about this," she said, warning that raising it again would earn him a ban of his own.
 
-Stackhouse, watching Youv sink, gave the appeal its epitaph. "Don't be the bottom guy Youv. A few more messages and you'll get Rudi unbanned." He also wanted Rudi back, thought he should apologise and request an unban like anyone else, and remembered
+Stackhouse, watching Youv sink, gave the appeal its epitaph. "Don't be the bottom guy Youv. A few more messages and you'll get Rudi unbanned." He wanted Rudi back too, thought he should apologise and request an unban like anyone else, and, whatever else Rudi was: "he was a virulent anti-semite, but god damn it if he wasn't spitting when he was talking about Dewey." Anonymous Johnson supplied the modern ban-evader's appeals procedure: spam the DMs, tag the owner, then post to the subreddit about mod abuse.
+
+In lighter dissolutions, the Department of Incel Studies named a chair. Ape declared
+
+are incels.
 
 The advice desk also opened. dot wrote in asking why people lose all rationality the moment you point at a flaw in their reasoning, no Foucault please. The case: her brother insisted a driving licence needs thirty hours over eighteen, dot looked it up, was right, and he has not spoken to her for three days, with four months of shared roof still to run. Willow's ruling: he is upset that you embarrassed him, to himself, to others and to reality.
 
-One more Friday exhibit deserves the record: Ape's field guide to Quigley, recirculated to newcomers. "You might have
-
-### Y told Pearl had not banned him; her
-
-father did, meaning Ephemeral. The facts of the sentence were not seriously contested. After a breakup Rudi came into the chat talking about women in weird and negative terms, called Pearl fat, and after his own temporary ban went into a side server to react to her year-old photographs and DM her a video proving he had seen them. What Youv contested was the tariff. The fat
-
-that whatever else Rudi was, god damn it he was spitting when he talked about Dewey. Anonymous Johnson supplied the appeals procedure the modern ban-evader actually uses: spam the DMs, tag the owner in a longwinded message, then post to the subreddit about mod abuse.
-
-In lighter dissolutions, the Department of Incel Studies named a chair. Ape declared himself, Friday evening, the world's leading
-
-inferred that he has some kooky beliefs. He actually doesn't. This guy is a realist. Just of a more limited variety." He will make sure you forget this, the guide warns, so stay strong and remember: this guy is a realist.
+One more Friday exhibit deserves the record: Ape's field guide to Quigley, recirculated to newcomers. "You might have inferred that he has some kooky beliefs. He actually doesn't. This guy is a realist. Just of a more limited variety." He will make sure you forget this, the guide warns, so stay strong and remember: this guy is a realist.
 
 Deaths and dissolutions also recorded: Leo, dissolved; the correspondence war, ongoing; and Youv's block on HPCR, lifted the same evening it was imposed.
 
@@ -1451,35 +1475,39 @@ Brutus runs a rig. Propane burners, a fortythousand-BTU burner that takes only t
 
 JENG. Eggs, corned beef, split peas.
 
-which runs to mirin, oyster sauce, three vinegars, both Montreal seasonings, cumin, coriander, cayenne, nutmeg, cinnamon, garlic and onion powder, MSG, and, on reflection, brown sugar and Worcestershire. Janne noted he had forgotten smoked onion.
+tried to provision him. "buy some salt or something," said Jeng; "you can buy salt, pepper, and premixed spices for crap food." Brutus supplied the full list: mirin, oyster sauce, three vinegars, both Montreal seasonings, and a dozen spices, plus, on reflection, brown sugar and Worcestershire. Janne noted he had forgotten smoked onion.
 
-Pearl brought the fair kitchen, which trends darker: sourdough fried chicken, a whole chicken laid on a single waffle, and waffle-batter fried chicken pending. Zone
+Pearl brought the fair kitchen, which trends darker: sourdough fried chicken, a
 
 YOUV. Dinner, shot in the dark.
 
-Back at home, zack reported that his own pizza's delivery driver appeared to be leaving from his apartment building, or the one next door. He considered feigning a foot injury to justify wanting food brought to him, then found he could not fake it. His meal-prep plan begins this weekend, after which he will never order again. Pearl's verdict on his cooking, a tomato-based sloppy joe on noodles: fine, very standard, maybe too
+Back home, zack reported his pizza's delivery driver seemed to be leaving from his own building, or the one next door. He considered feigning a foot injury to justify food being brought to him, then could not fake it. His meal-prep plan begins this weekend, after which he will never order again. Pearl's verdict on his sloppy joe on noodles: fine, very standard, maybe too much meat.
 
 chicken skin and deep-fried, and eventually
 
-deep-fried a whole chicken to general alarm.
+a food centrifuge to spin the oil back out. Pressure frying, he maintains, is what originally made KFC special.
 
-much meat.
-
-a food centrifuge to spin the oil back out.
-
-Pressure frying, he maintains, is what originally made KFC special.
-
-The one dissent on the fried-Oreo question came from dot, who ruled them the best fair food and offered to fight anyone about it, while noting that baseball games remain the
+whole chicken laid on a single waffle, and waffle-batter fried chicken pending. Zone deep-fried a whole chicken to general alarm. The one dissent on the fried-Oreo question came from dot, who ruled them the best fair
 
 he inventory began when Youv, with
 
-true home of the hot dog.
+food and offered to fight anyone about it,
 
 rice left over and nothing to put on it,
 
-### T asked whether rice with mayo or
+### T
 
-ketchup is good. The room's answers
+while noting that baseball games remain the
+
+put the question: "Is rice with mayo or
+
+ketchup good?" "fridged?" asked Janne.
+
+true home of the hot dog.
+
+"Saute in butter, cook in chicken stock, tasty
+
+rice," offered Brutus. "I have neither butter nor stock." It was Sunday in Germany, where God's resting day closes the shops, a policy Janne endorsed as workers' rights meeting Christians. "Bro I only ever eat frozen pizza, I dont have all of these
 
 ##### Is there fiber in pizza?
 
@@ -1487,43 +1515,37 @@ ketchup is good. The room's answers
 
 ##### Y OU V, I N E A R N E S T
 
-escalated. Janne said just eat it. Brutus said sauté in butter, cook in chicken stock. Youv
-
-had neither, it being Sunday in Germany,
-
 The fair's own menu ran ahead of them. Pearl reports the year's most-anticipated
 
-JENG, THE STOCKPILER. Pickled something, pink
-
-where God's resting day closes the shops, a
-
-policy Janne endorsed as workers' rights meeting Christians. He lives, he explained, off frozen pizza, and only owns ketchup and mayo because they came with the Indian food his dad ordered.
-
-HPCR almost blocked him. Youv countered that he had better taste, only
-
-and glistening, on brown bread. His larder is built for a
+JENG, THE STOCKPILER. Pickled something, pink and glistening, on brown bread. His larder is built for a siege: rice, beans, powdered milk, canned meat, and his own sauerkraut, kept, he says, because his family eats it.
 
 food is pickle pie, described with an audible
 
-ugh; also new are elote tots, an Amish donut, pickle pizza, shakshuka, and Martha's cookies, which arrive in a literal ice-cream bucket piled so high you are forced to eat twenty to get the lid to fit. On the giant turkey legs, dot held that people gnawing and slobbering all over them, fanny-packed,
+ugh; also new are elote tots, an Amish donut,
 
-siege: rice, beans, powdered milk, canned meat, and his own sauerkraut, kept, he says, because his family eats it.
+The stockpile has a philosophy. Sisyphos, of
 
-The stockpile has a philosophy. Sisyphos, of Jeng's school, urged everyone to hold fifty euros of reserve at all times: a three-euro tub of yogurt, onions, dill, some spices,
+resources," Youv explained; the ketchup and
 
-limited resources, and that HPCR had never
+mayo "came with the indian food my dad got."
 
-with seven children on leashes, should be
+pickle pizza, shakshuka, and Martha's cookies, which arrive in an ice-cream bucket piled so high you must eat twenty to fit the
 
-buckwheat, rice. Listen to this man, he said
+Jeng's school, urged everyone to hold fifty euros of reserve at all times: yogurt, onions, dill, spices, buckwheat, rice. Listen to this
 
-had German McDonald's. dot, who has, said
+"I almost just blocked you," said HPCR. "I
 
-it is worse than the American kind. The room then tried to provision him. Jeng told him to buy salt, pepper and premixed spices for crap food. Brutus supplied the full list,
+lid. On the giant turkey legs, dot held that
 
-arrested; Pearl found them oddly primitive, with no seasoning either. Janne, a vegan and by his own account an expert on eggs and meat, ruled turkey a useless meat.
+man, he said of Jeng. Youv did not take
 
-of Jeng. Take notes. Youv did not take notes.
+promise you I have better taste than you. I'm
+
+just limited resource wise rn," Youv countered, and then the clincher: "You have never had german mcdonalds." "Blocked," said HPCR. dot, who has had it, said it is worse than the American kind. The room
+
+people gnawing and slobbering all over them, fanny-packed, with seven children on leashes, should be arrested. Janne, a vegan and by his own account an expert on eggs and meat, ruled turkey a useless meat.
+
+notes.
 
 Jeng's counsel to the underprovisioned, filed for the record: "I can say it in the language of the r-----s, the language of my people."
 
@@ -1591,29 +1613,43 @@ NOW READING. Stackhouse's Monday purchase: Boehme, an intellectual biography of 
 
 ##### T H E H O U S E Q U E S T I O N
 
-The evening's one real dispute was over house music, which Hugh declared not dance music but stand-and-bob, and vowed to lead the fourth reich against. Exclusive four-to-the-floor, he holds, is for people with poor timing, which is why house fans cannot dance. dot, an American who gets
+The evening's one real dispute was over house music. "its just not dance music, it's stand and bob shi," Hugh declared, vowing to lead the fourth reich against it. "exclusive four to the floor is for people with poor ability to keep time," he held; "its why people who like house music cant
 
-about it, though he is. He has a lofi side and a sample folder approaching twenty gigabytes. Stackhouse, on hearing it, resolved to pirate Ableton as a fun pastime, and was advised to just get FL and not take it too seriously. Restriction, Stackhouse offered, breeds ingenuity.
+bass, and would rather not be a genre fascist about it, though he is. He has a lofi side and a sample folder approaching twenty gigabytes. "i might pirate ableton could be a fun past time," Stackhouse offered, and was advised that FL is easier. "restriction breeds ingenuity," he concluded.
 
 Hugh's own name for the genre he had invented on the spot ran to doxastically
 
 crabs in a bucket rather than fighting them fair. Then, checking the source, he found the original was shit too, and that the plan only works because Athena deflects the blows. metal Jesus, meanwhile, was identified: not the balding guitarist Monkey guessed, but John Petrucci, the actual metal Jesus, per WoolierThanThou. The books desk ran a poll on the best
 
-down at every house party he has attended,
+dance." dot, an American who gets down at
 
-filed the counter: house is groovy and the samples are magnifique. Hugh's closing position, that the best of house is really nudisco or electroswing, he conceded was just being a genre fascist, and asked to be ignored.
+warranted assertaquiglitisticism, or ironic
 
-The single arrived Saturday evening under the title "Realist," and dot, the paper's ranking critic on Hugh's output, called it gold before the second chorus. The key is E minor, though Hugh concedes it is complicated, the swells rendering it briefly microtonal because he
+philosophy book. Nominations, Saturday:
 
-warranted assertaquiglitisticism, or ironic post-quigism; dot, taking notes for the paper, asked that the word be quoted, and promised a music video. The track happens to be anti-Quig, Hugh clarified, but Ghost in the Shell got there decades before him. It is his track; the sample just happens to be anti- Quig. The reviews desk was busy elsewhere. Quigley, halfway through The Great Simplification, was cringing at a lot of saying nothing wrapped in a quasi-spiritual framing, and pronounced the whole thing AI-written. My Name, who watched the fourteen-minute video in seven minutes,
+every house party he has attended, filed the
 
-philosophy book. Nominations, Saturday: Plato's complete works in the Hackett edition, from Aura; Mainländer's Philosophy of Redemption, from Jambe; Philosophical Investigations, which Jere says will make you smarter; and Story of the Eye, from Jeh. bardiel1 objected that Plato's complete works is not a book but the equivalent of a collage of newspaper clippings. HPCR spent the rest of the hour defending Hegel's comprehensibility against a room that finds him incomprehensible, which is its own kind of answer to the question. Stackhouse, declining to vote, offered only that Land is more a poet than anything, and pasted a
+counter: house is groovy and the samples are magnifique. Hugh's closing position, that the best of house is really nu-disco or electroswing, he conceded was just being a genre fascist, and asked to be ignored.
+
+The single arrived Saturday evening as "anti-quig music?", under the title
+
+post-quigism; dot, taking notes for the paper, asked that the word be quoted, and promised a music video. The track happens to be anti-Quig, Hugh clarified, but Ghost in the Shell got there decades before him. It is his track; the sample just happens to be anti- Quig. The reviews desk was busy elsewhere. Quigley, halfway through The Great
+
+Plato's complete works in the Hackett edition, from Aura; Mainländer's Philosophy of Redemption, from Jambe; Philosophical Investigations, which Jere says will make you smarter; and Story of the Eye, from Jeh. bardiel1 objected that Plato's complete works is not a book but the equivalent of a collage of newspaper clippings. HPCR spent the rest of the hour defending Hegel's
+
+"Realist," and dot, the paper's ranking
+
+critic on Hugh's output, called it gold before the second chorus. "E minor but yh its complicated," Hugh conceded, the swells rendering it briefly microtonal because he
+
+Simplification, was cringing at a lot of saying nothing wrapped in a quasi-spiritual framing, and pronounced the whole thing AI-written. My Name, who watched the fourteen-minute video in seven minutes,
+
+comprehensibility against a room that finds him incomprehensible, which is its own kind of answer to the question. Stackhouse, declining to vote, offered only that Land is more a poet than anything, and pasted a
 
 sampled the PlayStation 2 startup chord and
 
-filtered it down. The bridge is a guitar sample looped under a man repeating "you havent demonstrated," which Hugh nominates as the most experimental thing he has done. Stackhouse, who rates it, could not get past the chorus, in which the word quigging is sung on the floor.
+filtered it down. The bridge loops a guitar sample under a man repeating "you havent demonstrated," which is, Hugh nominates, "perhaps me at my most experimental." Stackhouse rated it but could not get past the chorus. "The track is good, but the 'QUIGGING ON THE FLOOR' chorus is really bizarre."
 
-The record sits in a longer catalogue. Hugh makes jungle more than drum and bass, and would rather not be a genre fascist
+The record sits in a longer catalogue. Hugh makes jungle more than drum and
 
 gave it three out of ten and diagnosed it as Cyclonopedia-coded, before wishing its author turned into a blood bag for the data centre. zack, arriving late, urged everyone onto the boat before they drown, chudlets and chads first, women and children last.
 
@@ -1795,7 +1831,7 @@ Every line is a real exchange; thickness is the number of replies. Janne sits at
 
 Aura and dot, and, though quiet, answered a higher share of what was said to her than anyone.
 
-The society desk reopened by reader demand. My Name spent an hour Saturday mourning the paper's turn away from quantification: we used to know who liked who, who reacted to who; we had connections; we had a society. The complaint was not with numbers as such but with the tier list, which the room had asked to be spared. So the paper rebuilt the connections and left the ranking out. The graph above is the week's, drawn from replies alone.
+The society desk reopened by reader demand. My Name spent an hour Saturday mourning the paper's turn away from quantification. "We used to know who liked who," he wrote. "who reacted to who. we had connections. we had a society." The complaint was not with numbers as such but with the tier list, which the room had asked to be spared. So the paper rebuilt the connections and left the ranking out. The graph above is the week's, drawn from replies alone.
 
 Massachusetts, unpaid, shadowing a teacher for a semester. WoolierThanThou returned from touching grass and conceded a point to HPCR about combinatorics, then was reminded that the room does not really agree. soob announced knee surgery. Janne filed two photographs of an empty Norwegian valley, all this for himself, and
 
@@ -2131,9 +2167,13 @@ LAST PICTURE OF THE WEEK. Quigley inside what he reports is the first-ever Dunki
 
 t ended, as the week's arguments tend
 
-to, on a question of what a word means. I At twenty to eleven on Wednesday Charlie held that there is more to rigour than logical demonstration. Ape asked, without combat, in what sense he took the continental style to be rigorous. Charlie said he had not said more rigorous. Equally rigorous, then, Ape offered. Charlie could not say that either. What, Hugh asked, are we looking for with rigour here.
+to, on a question of what a word means. I "There's more to rigor than logical demonstration," Charlie held. "in what sense do you take contie philosophy to be more rigorous?" asked Ape, without combat. "When did I say more?" "equally rigorous then," Ape offered. "I wouldn't be able to say that one is equally as rigorous as the other." "charlie im just trying to figure out what you mean by this," said Ape. "what are we looking for with rigour here i guess," said Hugh.
 
-Ape kept asking. Charlie found the asking itself suspicious. It is pretty obvious, he said; Hugh covered some of it; it is concerning that you need to ask. Ape began to suspect Charlie had no particular sense of rigour in mind, and said so. What gives that impression, Charlie asked. Defensiveness, said Ape. Where am I being defensive, said Charlie. Hugh, from the referee's chair,
+Ape kept asking. "It's pretty obvious," said Charlie. "It's concerning that you need to ask." "im starting to think you dont have any sense of rigor in mind," said Ape. "What gives that impression?" "defensiveness." "Where am I being defensive?" Hugh, from the referee's chair, named the fight: Charlie thinks it obvious that there is more to philosophy than logic, and Ape just wants to hear what. Then the export stops. "everything will be formalised," Hugh had proposed a minute earlier. "formalise it all. formalise formalisation." The paper leaves it there, unformalised, and continues next week.
+
+Can't wait to read about it in “ the Times.
+
+##### F E N C E J U M P E R, M O N DAY, M I D-F I G H T
 
 CORRECTIONS & CLARIFICATIONS
 
@@ -2183,23 +2223,29 @@ Hugh ordered the card game, clanker
 
 rights and the left-accelerationist
 
+explainer; page ten. A poetry section; page
+
+eighteen. My Name asked for the society
+
+pages back; page seventeen. Meliorne
+
+asked for In Memoriam Blimber by name;
+
+page thirteen. Jeh asked to be done; he is
+
+throughout. Monkey filed a complaint
+
+that zack is just farming the Times, and
+
+FenceJumper that he cannot wait to read
+
+about it in the Times. Both are granted.
+
+The week the paper covered ran from a Friday evening argument about an unbanning to a Wednesday night argument about a word, and took in, between them, a
+
 the same suicide note, a machine that got its memory wiped and came back with every number at zero, and a man who shaved one leg to win a fight nobody else was having. There was a wishing-harm case and a landlord suit, a problem of evil settled in three hours by half a concession and a Gaga quote, an infinite penis that produced a correct proof, a Porsche whose price nobody would confirm, a dog named Zod, an engagement, a knee, a rainbow reviewed at one star, and a reader who asked only that his name be spelled Lizzie.
 
 zack, who started most of it, said nothing on Tuesday or Wednesday, having been timed out on Monday night. On Tuesday afternoon My Name spoke to the space where he had been. "@zack you can talk about legs now." He could not. He still cannot. Continued next week.
-
-named the fight: Charlie thinks it obvious
-
-that there is more to philosophy than logic, and Ape just wants him to say what. Then the export stops. Everything, Hugh had proposed a minute earlier, will be formalised. Formalise it all. Formalise formalisation. The paper leaves it there, unformalised, and continues next week.
-
-Can't wait to read about it in “ the Times.
-
-##### F E N C E J U M P E R, M O N DAY, M I D-F I G H T
-
-explainer; page ten. A poetry section; page
-
-eighteen. My Name asked for the society pages back; page seventeen. Meliorne asked for In Memoriam Blimber by name; page thirteen. Jeh asked to be done; he is throughout. Monkey filed a complaint that zack is just farming the Times, and FenceJumper that he cannot wait to read about it in the Times. Both are granted.
-
-The week the paper covered ran from a Friday evening argument about an unbanning to a Wednesday night argument about a word, and took in, between them, a
 
 ##### Q U I Z · W H O S A I D I T
 
