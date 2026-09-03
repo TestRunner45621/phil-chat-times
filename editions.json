@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-08-29T20:36:56.559Z",
+  "generated": "2026-09-03T12:41:29.240Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -120,6 +120,23 @@
       "thumb": "editions/vol-1-no-7/thumb.jpg",
       "bytes": 13000019,
       "sourceFile": "Vol I No 7 - 2026-08-28.pdf"
+    },
+    {
+      "slug": "vol-1-no-8",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 8,
+      "date": "2026-09-02",
+      "title": "Vol I No 8",
+      "headline": "A man is called obese. By Monday night he has shaved one leg and lost the right to speak.",
+      "pages": 20,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-8/edition.pdf",
+      "cover": "editions/vol-1-no-8/cover.jpg",
+      "thumb": "editions/vol-1-no-8/thumb.jpg",
+      "bytes": 14678061,
+      "sourceFile": "Vol I No 8 - 2026-09-02.pdf"
     }
   ],
   "upcoming": []
