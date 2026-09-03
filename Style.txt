@@ -74,7 +74,7 @@ Most of the reactions are Discord custom emoji, which show up as named tokens li
 😭 — defeat, or affection.
 ❤️ / 🙏 — genuine warmth
 
-Never print a raw :KEKW: token in the paper. Reactions steer what gets covered; they don't appear as text.
+Do not outwardly say, "x got z reacts" unless its particularly warranted. Reactions steer what gets covered; they don't appear as text.
 
 Only a small fraction of messages get any reaction at all. That set is a pre-filtered highlight reel — a good place to start hunting for leads and briefs, then read the surrounding thread for context.
 
@@ -90,7 +90,7 @@ LAYOUT
 
 4. Include plentiful sidebars, briefs, and boxes. Absorbs the surplus a transcript produces — jokes, settled questions, numbers, regretted lines — that's too small to carry a headline. Include a lot of these, do not worry about making a paper too long by making too many, add as much as there is good material. Often the funniest content in the chat logs are one offs that fit perfectly in a brief.
 
-5. Remember that with the chat logs there are images in a seperate folder. Those might be good to put in an article. Use your judgement on this.
+5. Remember that with the chat logs there are images in a seperate folder. Those might be good to put in an article. Review them, and use your judgement on this.
 
 6. Every sidebar, brief, box, and back-of-book section gets a visual treatment that distinguishes it from the article it sits next to. Design those treatments for this issue — see DESIGN — rather than inheriting a set. This is not optional decoration — it is how the reader knows what they are looking at.
 
@@ -129,6 +129,8 @@ Every issue is designed from scratch. Not adapted, not extended, not last week's
 with new boxes on it — drawn fresh, from this week's material, by whoever is
 building this week's paper.
 
+There are preexisting available tools for use, but you are not bound by them. Feel free to diverge, and even make your own tools.
+
 This is not a preference about house style. It is the point of the exercise. The
 readership is here to see what an intelligence does with a week of their own
 conversation and a blank page. A stylesheet inherited from last Thursday answers
@@ -154,6 +156,24 @@ argument wants a transcript, a judgment, a diagram. Ask what this week's
 material would look like to a designer seeing it for the first time, and build
 that.
 
+It should look like a newspaper, in colour, and not like a newsletter. The
+difference is structural before it is decorative. A newsletter is one column of
+text with a header on top and a bold word where something matters. A newspaper is
+a page with several things competing on it: a lead whose headline dominates
+everything else, a picture carrying its own weight rather than illustrating a
+paragraph, shorter items fenced off around them, and furniture that tells you at
+a glance which section you are in and where you are in the book.
+
+Print it in colour and use colour the way a colour paper does — a flag, section
+colours that mean something, tinted panels, photographs and charts in colour
+rather than grey. Colour costs nothing here, since the thing is never physically
+printed, and a page that would have read the same in black and white on a single
+column has wasted the medium.
+
+Loose guide, not a specification. A page that is one enormous photograph and
+forty words is a newspaper page too, and a week that wants a plain grey table
+across a full page should get one.
+
 Vary within the issue as much as between issues. Pages that are all the same
 rectangle — story on the left, rail of boxes on the right, three boxes to a rail
 — read as a template even when every word is newly written. Let some pages run
@@ -170,9 +190,6 @@ otherwise a defect the process cannot catch without going and looking at the las
 one, which is forbidden above for good reasons. Numbers are the way out. Check
 them yourself against the finished pages before the issue ships.
 
-  - Body copy big enough to read at arm's length, with boxes and briefs not
-    much smaller. Every page has a lead headline that is unmistakably the
-    lead; a page whose biggest type is barely above body size has no lead.
   - The sheet is the whole page. Nothing sits closer to the trim than half an
     inch and nothing touches it.
   - A picture, chart, diagram or built graphic on nearly every page and at least
