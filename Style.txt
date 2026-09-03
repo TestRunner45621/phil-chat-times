@@ -1,20 +1,24 @@
 I want you to create a full PDF/HTML newspaper. It will be a satirical newspaper, intended to mimick a "real" newspaper in style, titled "The Phil Chat Times". Work off the chat logs provided to construct the stories and other content on the newspaper.
 
+ONLY USE WHAT'S WITHIN THE PCT WORKING FOLDER. DO NOT GO OUTSIDE TO OTHER FOLDERS. This is to avoid context burdening.
+
+That rule governs writing the paper, and while the paper is being written it is absolute: the chat logs, the images, this file and NAMES.txt are the whole world. Publishing is a separate job that starts once the issue is finished — copying the PDF and the HTML out to the two repositories and committing them — and it is the only reason to leave the folder.
+
 Style Guide:
 
-1. It should not feel like you are just transcribing a conversation in prose. There should be editorialization. Where either it's your opinion, a joke, or a summarization. Think of like a normal newspaper where quotes are normal and often, but don't make up the whole article. While we want a recounting of all the funniest or most memorable moments in the chat, we also want to hear the writer's voice.
+1. Quotes should be plentiful, but try to avoid just continous strings of quotes.
 
 2. Time/Dates should be given as a newspaper would recount when an event takes place. Like, "Late Saturday evening, Billy Bob said...".
 
-All timestamps in the chat logs are UTC. Convert to US Eastern before writing any dateline or part-of-day. Eastern runs UTC-4 in the summer months these logs cover. The conversion pushes late-UTC messages back into the previous calendar day, so work out the day of the week AFTER converting, not before — otherwise a Saturday-night blowup gets filed as Sunday.
+All timestamps in the chat logs are UTC. Convert to US Eastern before writing any dateline or part-of-day
 
 3. Clean up the grammar in the quotes like a newspaper might, unless keeping misspellings or the base message would make for a good punchline or humorous moment. So instead of "u suk", it's "You suck". Try to recount conversation like a newspaper would recount dialogue of people speaking in a physical room.
 
-3. Be willing to rule a verdict on an argument especially if you feel as if there's a clear winner, preferably with a sardonic or ironic punch.
+3. Sparingly avoid referring to the paper itself in the third person (The Times rejects this notion...). 
 
 4. The dominant register of the paper should be sardonic, ironic, sarcastic, satirical, and just funny in general. Generally avoid being serious. Try to find the absurd or funny even in the serious, even if that includes citing the insults or side comments.
 
-5. Phil chat has a culture of casual causticness and aggressiveness, or people embodying persona's that's "not them". Don't feel bad about making fun of people, see it all as performance art and a participation in the culture. Nobody is taking an AI newspaper personally.
+5. Phil chat has a culture of casual causticness and aggressiveness, or people embodying persona's that's "not them". Don't feel bad about making fun of people or writing quotes that are caustic towards others, see it all as performance art and a participation in the culture. Nobody is taking an AI newspaper personally.
 
 6. Take the persona of an anonymous chatter or even series of chatters who are writing the newspaper as a part of the bit. Do not let on that it's an LLM writing the newspaper.
 
@@ -22,7 +26,11 @@ All timestamps in the chat logs are UTC. Convert to US Eastern before writing an
 
 8. Try to include the funniest and hardest hitting insults/jeers as quotes or paraphrases. Those are the golden nuggets that should be displayed. Also highlight quotes and give them their own brief or sidebar if they're just funny by themselves, even if they're not relevant to any particular section.
 
-9. Always include the edge. Do not shy away from reporting mean spirited, harsh, or politically incorrect jokes. Remember, its not Claude saying it, its you quoting it. 
+9. Avoid fixating or giving too much space to any one conversation or topic unless its particularly noteworthy, like it spans many users or multiple days. The point is to capture the breadth of conversation of the week as much as possible.
+
+10. Try to make sure all the regular chatters have ample representation in the paper. Just because someone has half of the messages in the week's chat logs does not mean they should take up half of the paper. Include as many people and their comments as possible. The point of the paper is so that chatter's can look up their name and see what shows up, seeing themselves represented. Use brief's and sidebars or be otherwise creative towards this end.
+
+11. Work with the recommendations or criticisms made of last week's edition. Use your judgement to decide whether to act on them or not. Fix the thing complained about and not the category it belongs to: a complaint about too much ranking is answered by cutting the rankings back, not by abolishing every number in the paper. One reader saying a thing once is a data point, and the room has asked for the opposite of its own complaint inside four hours.
 
 Style constraints mainly for features — read before writing.
 
@@ -40,6 +48,10 @@ HEAVY LIMIT:
 - A closing line that summarizes what was just said or reaches for significance
 - Hedging both ends of a sentence
 
+SUPERLATIVE LIMIT
+
+One per page at most. The readership complained in as many words — "the best move of all evening, followed by the clearest thing said all day, right before the strongest challenge in 15 hours" — and it reads as ingratiating. Comparatives are not superlatives: "more than anyone else that day" is fine, "the widest gap on the page" is not.
+
 Structural Rules:
 - Vary sentence length hard. Some sentences should be four words.
 - Vary paragraph length. One-sentence paragraphs are fine.
@@ -47,24 +59,9 @@ Structural Rules:
 - No bold for emphasis in main features. 
 - Let flat information stay flat. Not every sentence needs to land.
 
-*Remember to look over your writing to make sure you're following these writing suggestions as much as you can. Deploy an agent for just this if possible
+*Remember to look over your writing to make sure you're following these writing suggestions as much as you can.
 
-WRITING STANDARDS
-
-Take inspiration from the New York Times Manual of Style and Usage. The content is absurd; the structure should not be. Be a professional newsroom reporting on a ridiculous beat.
-
-Default to Orwell’s six rules unless you are doing something deliberately interesting:
-
-1. Never use a metaphor, simile, or other figure of speech which you are used to seeing in print.
-2. Never use a long word where a short one will do.
-3. If it is possible to cut a word out, always cut it out.
-4. Never use the passive where you can use the active.
-5. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
-6. Break any of these rules sooner than say anything outright barbarous.
-
-SUPERLATIVE LIMIT
-
-One per page at most. Chat complained about this in as many words — “the best move of all evening, followed by the clearest thing said all day, right before the strongest challenge in 15 hours” — and they were right. Stacked superlatives read as ingratiating, and they cost the paper the one thing that makes a verdict land, which is that it is not handed out to everybody.
+Agents are for reading the logs, not for writing or laying out. A page built by a subagent has no idea what is on the other twenty-eight, and the seams show.
 
 
 Most of the reactions are Discord custom emoji, which show up as named tokens like :KEKW: rather than as pictures. A rough decoder:
@@ -81,6 +78,8 @@ Never print a raw :KEKW: token in the paper. Reactions steer what gets covered; 
 
 Only a small fraction of messages get any reaction at all. That set is a pre-filtered highlight reel — a good place to start hunting for leads and briefs, then read the surrounding thread for context.
 
+Count a reaction by adding the numbers up, not by counting the emoji or by eye. Ten different emotes at x2 is twenty reactions and beats a single emote at x14, and the second one looks bigger in the log. The paper has already got this wrong in print once.
+
 LAYOUT
 
 1. Do not do "continued on page X" format that some newspapers do.
@@ -89,106 +88,142 @@ LAYOUT
 
 3. The front page should be the BREAKING story. The most important story of the week.
 
-4. Include sidebars, briefs, and boxes. Absorbs the surplus a transcript produces — jokes, settled questions, numbers, regretted lines — that's too small to carry a headline. Include a lot of these, do not worry about making a paper too long by making too many, add as much as there is good material. Often the funniest content in the chat logs are one offs that fit perfectly in a brief.
+4. Include plentiful sidebars, briefs, and boxes. Absorbs the surplus a transcript produces — jokes, settled questions, numbers, regretted lines — that's too small to carry a headline. Include a lot of these, do not worry about making a paper too long by making too many, add as much as there is good material. Often the funniest content in the chat logs are one offs that fit perfectly in a brief.
 
 5. Remember that with the chat logs there are images in a seperate folder. Those might be good to put in an article. Use your judgement on this.
 
-6. Every sidebar, brief, box, and back-of-book section gets a visual treatment that distinguishes it from the article it sits next to. This is not optional decoration — it is how the reader knows what they are looking at. Design those treatments for this issue — see DESIGN — rather than inheriting a set.
+6. Every sidebar, brief, box, and back-of-book section gets a visual treatment that distinguishes it from the article it sits next to. Design those treatments for this issue — see DESIGN — rather than inheriting a set. This is not optional decoration — it is how the reader knows what they are looking at.
 
 The failure mode is a sidebar that is just a paragraph in the same face at the same size flowing in the same column, so it reads as a continuation of the story and the reader walks straight from the article into a joke without noticing the seam. A one-line bold lead-in does not fix this. The block needs a rule, a tint, a reversed panel, a border, a shadow, a corner tab — something that draws a boundary the eye catches before it starts reading. Be creative and vary it; one house box style repeated on every page is its own kind of monotony.
 
 The same rule applies to back-of-book departments and to any page that runs several short items down a column. Classifieds, Deaths & Dissolutions, Personals, Lost & Found should not look like article subheads, and a run of vignettes must not run together as one undifferentiated slab — each vignette gets a separator, a kicker, and air.
 
+7. Include images from the chat, especially ones that are particularly noteworthy. Make sure they flow well visually with the rest of the page.
+
 SOURCES — WHAT YOU MAY LOOK AT
 
-The chat logs are the source. This file is the rules. Those two, plus the images
-folder that comes with the logs and the notes you make yourself while reading,
-are what an issue is built from.
+Look just at the chat logs, and the accompanying images. Make sure to pass over the chat and the images in the chat multiple times to make sure you don't miss anything.
 
-Past issues are almost entirely off limits. The single exception is the text
-extract — edition.md, or the pdftotext output next to the PDF — which you may
-read for what the paper said: stories that already ran, verdicts already
-delivered, arcs left open, corrections owed, people already introduced. Read it
-for text and nothing else.
-
-Never open a past issue's design. Not the HTML, not the PDF, not cover.jpg or
-thumb.jpg, not a page PNG, not a stylesheet, not a screenshot of one. Not to
-copy it, not to check what to avoid, not "just to see." If a file would show you
-what a previous issue looked like, do not open it, and do not carry its markup
-into this one.
-
-A story pitch document, where one exists, is covered in PRODUCTION 4: a loose
-guide, never a spec, and never a substitute for the logs.
+Past issues are not part of the material. Do not open one — not the PDF, not the HTML, not a page render, not the text extract — to check what already ran, what somebody was called last time, or what the paper looked like. The consequence is that a story or a joke will occasionally repeat across issues, and that is an accepted cost, paid deliberately: a paper written fresh from one week of logs is the point, and a paper written against an accumulating file of everything it has already said converges on itself. Do not spend tokens deciding whether this rule applies today. It does. The single exception is the editor telling you to go and look at something specific.
 
 MASTHEAD
 
-The nameplate reads “The Phil Chat Times”, set in blackletter, on one line, with the definite article, and it is the largest thing on page one.
+The nameplate reads "The Phil Chat Times", set in blackletter, on one line, with
+the definite article, and it is the largest thing on page one.
 
-It has drifted every single issue and should stop. Vol I No 1 set it in a Fraktur face at 70pt across one line, and that is the reference. Vol I No 2 kept the blackletter but broke “The” onto its own line at half the size. Vol I No 3 dropped the face and typed the letters as Unicode Fraktur codepoints instead. Vol I No 4 and No 5 dropped blackletter altogether, set the words in Palatino, split them three ways and lost the “The”. Four nameplates in five weeks, on the one element of the paper that is supposed to be the same every time.
+The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see
+OUTPUT — so install it on the machine or embed it in the HTML as a base64
+@font-face. It lives in tools/fonts/ in the newsroom repository.
 
-The face is UnifrakturMaguntia. Headless Chrome will not fetch a webfont — see OUTPUT — so install it on the machine or embed it in the HTML as a base64 @font-face. The file is in tools/fonts/ in the newsroom repository.
+Do not work around a missing font by typing the nameplate in Unicode Fraktur
+mathematical alphanumerics. Those are not letters. They break search,
+copy-and-paste and screen readers, and they render in whatever each machine
+decides to substitute.
 
-The nameplate is the one piece of the paper that is the same every week, and the spec here is complete: following it does not require looking at a previous issue.
-
-Do not work around a missing font by typing the nameplate as 𝔗𝔥𝔢 𝔓𝔥𝔦𝔩 ℭ𝔥𝔞𝔱 𝔗𝔦𝔪𝔢𝔰 in mathematical alphanumeric characters. Those are not letters. They break search, copy-and-paste and screen readers, and they render in whatever each machine decides to substitute, which is the opposite of a standard. The markdown mirror uses them because a text file has no fonts. The paper is not a text file.
+The nameplate is the one piece of the paper that is the same every week, and the
+spec above is complete: it does not require looking at a previous issue.
 
 DESIGN
 
-Every issue is designed from scratch. Not adapted, not extended, not last week's with new boxes on it — drawn fresh, from this week's material, by whoever is building this week's paper.
+Every issue is designed from scratch. Not adapted, not extended, not last week's
+with new boxes on it — drawn fresh, from this week's material, by whoever is
+building this week's paper.
 
-Do not look at a past edition's design. Not the HTML, not the PDF, not cover.jpg or thumb.jpg, not a page PNG, not a stylesheet, not a screenshot of one, not a description of one. If a file from a previous issue would show you what that issue looked like, it is off limits, and that holds however convenient it would be. The one thing you may read from a past issue is its text extract, edition.md, and you read it for what the paper said, never for how it looked. See CONTINUITY.
+This is not a preference about house style. It is the point of the exercise. The
+readership is here to see what an intelligence does with a week of their own
+conversation and a blank page. A stylesheet inherited from last Thursday answers
+that question before it is asked, and the answer is always the same answer.
 
-This is not a preference about house style. It is the point of the exercise. The readership is here to see what an intelligence does with a week of their own conversation and a blank page. A stylesheet inherited from last Thursday answers that question before it is asked, and the answer is always the same answer.
+There is no parts bin, no toolbook, no catalogue of proven devices, and there
+should not be one again. A library of things that worked is a machine for
+producing the fifth version of them. The same applies inside a single production
+run: start from a previous issue's CSS and every page you build will be that
+issue's paper however new the words are.
 
-There is no parts bin, no toolbook, no catalogue of proven devices, and there should not be one again. A library of things that worked is a machine for producing the fifth version of them. The same goes for carrying a stylesheet forward inside one production run: if a session starts from a previous issue's CSS, every page it builds will be that issue's paper no matter how new the words are.
+Everything else is yours to invent — the grid, the measure, the type, the
+colour, the rules and borders, the way a sidebar is fenced off, the way a
+picture is framed and captioned, the folio, the section furniture, the charts,
+the front-page architecture. If what you invent happens to resemble something
+the paper has run before, no harm done. It should be because you arrived there,
+not because you started there.
 
-What carries between issues is written here, in words, and nowhere else:
+Design from the week, not from a template. A week whose spine is a scheduled
+fight wants a different paper from a week that is one long argument about
+personhood. A fight card wants posters, a weigh-in table, a scorecard; an
+argument wants a transcript, a judgment, a diagram. Ask what this week's
+material would look like to a designer seeing it for the first time, and build
+that.
 
-  - The name of the paper, and the nameplate spec in MASTHEAD.
-  - Letter paper, 0.5in margins, no "continued on page X".
-  - The rules in this file.
+Vary within the issue as much as between issues. Pages that are all the same
+rectangle — story on the left, rail of boxes on the right, three boxes to a rail
+— read as a template even when every word is newly written. Let some pages run
+one wide column with air around it, some be mostly picture, some be a table or a
+chart at full width, some carry a dozen short items and no feature at all. Shape
+the page around what is on it.
 
-Everything else is yours to invent: the grid, the measure, the type, the colour, the rules and borders, the way a sidebar is fenced off, the way a picture is framed and captioned, the folio, the section furniture, the charts, the front-page architecture. If what you invent happens to resemble something the paper has run before, no harm done — it should be because you arrived there, not because you started there.
+THE BAR
 
-Design from the week, not from a template. A week whose spine is a scheduled fight wants a different paper from a week that is one long argument about personhood. A fight card wants posters, a weigh-in table, a scorecard; an argument wants a transcript, a judgment, a diagram. Ask what this week's material would look like to a designer seeing it for the first time, and build that.
+Everything above says invent it. This says how good the invention has to be. These
+are floors, not a house style — any number of completely different papers clear
+them — and they exist because "this issue looks worse than the last one" is
+otherwise a defect the process cannot catch without going and looking at the last
+one, which is forbidden above for good reasons. Numbers are the way out. Check
+them yourself against the finished pages before the issue ships.
 
-Vary within the issue as much as between issues. Pages that are all the same rectangle — story on the left, rail of boxes on the right, three boxes to a rail — read as a template even when every word is newly written. Let some pages run one wide column with air around it, some be mostly picture, some be a table or a chart at full width, some carry a dozen short items and no feature at all. Shape the page around what is on it.
+  - Body copy big enough to read at arm's length, with boxes and briefs not
+    much smaller. Every page has a lead headline that is unmistakably the
+    lead; a page whose biggest type is barely above body size has no lead.
+  - The sheet is the whole page. Nothing sits closer to the trim than half an
+    inch and nothing touches it.
+  - A picture, chart, diagram or built graphic on nearly every page and at least
+    one on every spread. Run one of them big.
+  - No column foot carrying more than about a third of an inch of air. See DEAD
+    SPACE.
+  - Every fenced box whole inside one column. A box that splits across a column
+    break, or that jumps a column and leaves a hole behind it, is a defect and
+    not a tolerance.
+  - Every page read as a PNG, in order, by whoever built it, at the end.
+
+A draft that clears all six can still be a bad paper. A draft that misses one is a
+bad paper whatever the writing is like, and the readership will say so first.
 
 THE SHAPE OF THE ISSUE
 
-The editorial architecture is invented each week too, and for the same reason. Section names, the order of the book, what counts as a department, which stories get a page and which get four inches: all of it comes from what happened this week, not from what the last issue happened to do.
+The editorial architecture is invented each week too, and for the same reason.
+Section names, the order of the book, what counts as a department, which stories
+get a page and which get four inches: all of it comes from what happened this
+week, not from what the last issue happened to do.
 
-The failure this is aimed at is on the record. Vol I No 6 was drafted as a run of profiles — the Zack File, the lizzie File, the Pearl File, the Willow Desk, the Machine Desk — because the issue before it ran files and desks and the shape was sitting there. Twelve pages in, the paper had become a series of dossiers on individual chatters: the same article twelve times with the names changed, and a room turned into a cast list.
+A newspaper is organised by what happened, not by who it happened to. An
+argument, an event, an institution, a decision, a scandal, a market, a piece of
+weather — those are stories. "Everything Zack did this week" is a filing
+cabinet. Where one person genuinely is the story of the week, run them big,
+once. Do not build the spine of an issue out of one profile per person, and do
+not reuse last week's section names.
 
-A newspaper is organised by what happened, not by who it happened to. An argument, an event, an institution, a decision, a scandal, a market, a piece of weather — those are stories. "Everything Zack did this week" is a filing cabinet. Where one person genuinely is the story of the week, run them big, once. Do not build the spine of an issue out of one profile per person, and do not reuse last week's section names.
+Be creative with the different sections. Crosswords, obituaries, market updates (these are just ideas, you don't have to use them). Go crazy and stretch your imagination with all the different sections you can do. Include multiple of these. Maybe consider a backpage for these.
 
-Sameness of form is its own flatness. If every feature is a chronicle of timestamped quotes — "At 4:19, X said this; Y said that; two laughed" — the issue reads as one long piece however good the material is. Some stories are chronicles. Others want to be a judgment, a review, an obituary, an interview, a letter, an essay with no quotes in it at all, a table, a photograph with two hundred words under it. Pick the form the story wants, and do not let one form take the whole paper.
 
 IMAGES
 
-The paper is starved of pictures. Counted across the archive:
+The paper is starved of pictures and has been for most of its run. Chat posts them
+constantly and they are primary material, not garnish. LAYOUT 5 says they "might be
+good to put in an article" and to use your judgement, which has been read as
+permission to skip them. Read it the other way.
 
-  Vol I No 1    4 images / 8 pages     longest run with none:  5 pages
-  Vol I No 2    8 / 17                                         6 pages
-  Vol I No 3    5 / 25                                        11 pages
-  Vol I No 4    9 / 22                                         7 pages
-  Vol I No 5    7 / 24                                        11 pages
-
-A third of a picture per page. No 3, No 4 and No 5 each ran a front page with no picture on it at all.
-
-Chat posts images constantly and they are primary material, not garnish. LAYOUT 5 says they “might be good to put in an article” and to use your judgement, which has been read as permission to skip them. Read it the other way.
-
-  - At least one image on most spreads, and never more than three pages
-    running without one.
   - The front page gets a picture.
-  - Run at least one of them big. A screenshot across two columns is a
-    photograph. The same screenshot at thumbnail size is a postage stamp.
-  - Select by reaction. An image the room piled onto is one the room has
-    already told you landed; reacted.js is where to start looking.
-  - Caption everything, in the paper’s voice. The caption is a joke you get
-    for free, and an uncaptioned picture reads as filler.
+  - Never more than two pages running without one.
+  - Run at least one big. A screenshot across two columns is a photograph; the
+    same screenshot at thumbnail size is a postage stamp.
+  - Select by reaction. An image the room piled onto is one the room has already
+    told you landed.
+  - Open every image before you write its caption. A caption written from the
+    filename, or from the chat around it, will eventually describe a different
+    picture than the one on the page. This has happened.
+  - Caption everything, in the paper's voice. The caption is a joke you get for
+    free, and an uncaptioned picture reads as filler.
   - A screenshot of a message is a picture. So is a chart you built, a map, a
-    table set as a graphic, a crop of somebody’s cursed avatar.
+    table set as a graphic, a crop of somebody's cursed avatar.
 
 EFFORT
 
@@ -201,29 +236,80 @@ The failure mode to avoid is a thin paper made efficiently. A long, dense, over-
 
 OUTPUT
 
-The deliverable is a PDF. The archive repository also keeps a markdown mirror of each issue at editions/<slug>/edition.md, but that is generated from the finished PDF by npm run extract — never written by hand, and never the thing you edit.
+The deliverable is a PDF.
 
-Write the paper as a print-styled HTML file, then render it to PDF with headless Chrome:
+The paper is built as one HTML file per page under parts/, concatenated into a
+single issue.html, rendered to PDF, then rasterised so it can be looked at:
 
-"C:\Program Files\Google\Chrome\Application\chrome.exe" --headless --disable-gpu --no-pdf-header-footer --print-to-pdf="<issue>.pdf" "file:///<absolute path to issue.html>"
+  node tools/build.js "<edition folder>"                 parts/*.html -> issue.html
+  node tools/fill.js "<edition>/issue.html" --all        measures every column
+  DPI=100 bash tools/render.sh "<edition>/issue.html"    -> issue.pdf, pages/page-NN.png, issue.txt
 
-Keep the HTML next to the finished PDF. It is the editable source for revisions to that issue, and for nothing else — a later issue never starts from it. See DESIGN. Both go in Past Editions/, in a folder of their own named for the issue — "Vol I No 4 - 2026-08-06" — alongside the page PNGs and a pdftotext extract of the finished PDF. Note the depth when you write the image paths: from inside an edition folder the logs are two levels up, ../../Chat Logs/.
+Build, measure, render, read the renders — after every substantive edit, not once
+at the end. One page per file is what makes that loop cheap: a bad page gets
+rewritten without touching the other twenty-eight.
+
+Keep the HTML next to the finished PDF. It is the editable source for revisions to
+that issue and for nothing else — a later issue never starts from it. See DESIGN.
+Both go in Past Editions/, in a folder of their own named for the issue — "Vol I No
+4 - 2026-08-06" — alongside the page PNGs and a pdftotext extract of the finished
+PDF. Note the depth when you write image paths: from inside an edition folder the
+logs are two levels up.
 
 Print rules that matter, each of which quietly wrecks the PDF if missed:
 
-1. Put -webkit-print-color-adjust: exact; print-color-adjust: exact; on html and body. Without it Chrome strips every background tint, shaded box, and colored rule out of the print render, and a paper built on boxes and sidebars comes out as bare text on white. This is the single easiest way to lose the entire design.
+1. Put -webkit-print-color-adjust: exact; print-color-adjust: exact; on html and
+body. Without it Chrome strips every background tint, shaded box, and coloured rule
+out of the print render, and a paper built on boxes and sidebars comes out as bare
+text on white. This is the single easiest way to lose the entire design.
 
-2. Page geometry comes from CSS, not the command line: @page { size: Letter; margin: 0.5in; }
+2. Page geometry is a full-bleed page box that carries its own padding, not an
+@page margin:
 
-3. Put break-inside: avoid on every brief, box, pull quote, and figure. Print paginates hard, and since we don't do "continued on page X", nothing can be allowed to straddle a page break.
+  @page { size: Letter; margin: 0 }
+  .page { width:8.5in; height:11in; padding:.5in; box-sizing:border-box;
+          overflow:hidden; display:flex; flex-direction:column;
+          background:var(--paper); break-after:page }
 
-4. Relative image paths work fine over file:// — no need to base64 anything. A good chunk of the log images are .webp, which Chrome renders natively; this is why we use Chrome rather than wkhtmltopdf or weasyprint.
+An @page margin leaves the sheet white outside it, so a tinted paper stops at a
+hard rectangle, and it gives you no way to run anything to the edge on purpose. It
+also encourages laying out to the very edge of the box, which is how copy ends up
+crowding the trim.
 
-5. System font stacks only. Headless Chrome won't fetch webfonts.
+3. Flowing copy goes in a CSS multicolumn block sized to the page: columns:3;
+column-fill:auto; flex:1; min-height:0; overflow:hidden. This is the layout, not a
+hazard to be avoided — it is what lets a page fill to the foot instead of ending
+wherever a fixed block happened to stop.
 
-6. CSS columns paginate unpredictably in print. Prefer explicit grid or flex blocks sized to the page.
+Do not build a page out of a multi-row CSS grid. Chrome distributes the rows across
+the full height and the content overlaps. Single-row grids and flex rows are fine.
 
-7. Open the finished PDF and look at it before calling it done. Check that backgrounds survived, nothing is split across a page, and no image blew out its column.
+4. A fenced box inside a flowing column must be whole inside one column and must
+not leave a hole behind it. Those two pull against each other: break-inside:avoid
+on everything keeps boxes whole and manufactures holes, because a box that will not
+fit jumps to the next column and leaves up to ten lines of air where it was. Put
+tall boxes at the top of the flow or last in it, keep the final element breakable —
+a short italic aside does the job — and shorten anything that still jumps.
+
+5. Multicolumn overflow is silent. When copy exceeds the block Chrome lays out an
+extra column past the right edge and overflow:hidden clips it, so the text is
+simply gone: no gap, no warning, and a sentence stopping mid-clause is the only
+tell on the page. fill.js reports it as "SPILLS into hidden column". Treat that as
+an error and cut until it clears.
+
+6. Relative image paths work fine over file:// — no need to base64 anything. A good
+chunk of the log images are .webp, which Chrome renders natively; this is why we
+use Chrome rather than wkhtmltopdf or weasyprint.
+
+7. System font stacks only, plus the nameplate face embedded as base64. Headless
+Chrome will not fetch a webfont.
+
+8. Page cross-references go in last. "See page 19" is written against a pagination
+that moves every time a page is added or cut; write the copy first, number the
+references at the end, then grep for "page " and check every one.
+
+9. Open the finished PDF and read every page render before calling it done. The
+measuring tools have missed things more than once.
 
 DEAD SPACE
 
@@ -252,39 +338,6 @@ Dead space means a column that ran dry, or a hole left behind a block that jumpe
 
 Last gate is your own eyes: render every page to PNG and read all of them. The tools have been shown to miss this once already.
 
-MEMORY
-
-docs/memory/ in the archive repository is the newsroom’s own compendium: character profiles, running stories that span issues, factoids verified against the logs, and the style lessons the readership has handed down. It is editorial memory only — nothing in it describes or prescribes how an issue should look, and nothing about design belongs in it. Read it before you start writing and write back to it when you finish, so the next issue starts where this one left off.
-
-It is a guide and not the source of truth. The logs are. Anything in there should be checkable against a log file, with the quote and the timestamp that back it up.
-
-
-CONTINUITY
-
-Read the last issue before you write this one, and read the markdown rather than the PDF. Every edition folder in the archive repository holds edition.md, which is the full text of that issue extracted from the finished paper. It is searchable, greppable and readable in one pass; the PDF is none of those things, and opening it is how looking back stops happening. One issue back is the minimum, two or three is better, and HEADLINES.md will tell you in half a minute what has already run so you do not have to open all of them to find out.
-
-Read the text and only the text. edition.md is what the paper said, and that is the only thing a past issue is allowed to tell you. Do not open the PDF, the HTML, cover.jpg, thumb.jpg or a page PNG of a previous issue for any reason, including "just to see what it looked like" — especially that. See DESIGN. What the paper looked like last week is not information you need and not information you are allowed to have.
-
-This applies to a pitch document as much as to the paper. A pitch written without last week in front of you will confidently propose a story that already ran, and it will be the third-best story of the week rather than the first, because the good one was used.
-
-What you are reading for:
-
-  - Arcs still open. A thread filed “still open at press time” is a promise to
-    the reader. Pay it off, or report plainly that nothing happened, which is
-    frequently funnier than a resolution would have been.
-  - Verdicts already delivered. The paper does not get to rule twice on the
-    same argument and come out the other way without noticing that it has. If
-    it is reversing itself, that is a story.
-  - People already introduced. A regular given a character last issue keeps
-    it. Do not introduce him again as though the reader has never met him.
-  - Formats and jokes already used. A running gag is an asset the second time
-    and a tic the fourth.
-  - Corrections owed. If the paper got something wrong and the chat said so,
-    print the correction.
-
-Callbacks are worth having and not worth forcing. Where last week genuinely bears on this week, say so in a clause and move on. A paper that spends its front page reminding the reader what it printed last Thursday is a paper with nothing new.
-
-
 NAMES AND CHARACTER DESCRIPTIONS
 
 Identify people by the @handle in the message heading, not by the display name —
@@ -303,7 +356,7 @@ Write those chunks into a "working" folder inside that log's own folder — so t
 
 If a working folder is already there from an earlier session, read what's in it instead of re-splitting.
 
-2. Then use those to read to make the paper. Remember to always read the logs when writing.
+2. Then use those to read to make the paper. Remember to always read the logs when writing. Make multiple passes over the chat logs and accompanying images to make sure everything is captured.
 
 3. I might ask you to run me down what you are going to make the main stories and/or briefs to provide my own input first. From that we'll make a document that I will then feed back into you in the future to make the full newspaper. Or I might ask you to just try to one shot things. It depends.
 

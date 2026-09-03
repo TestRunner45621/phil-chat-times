@@ -1,83 +1,80 @@
-/* Find the diamonds nobody pressed a button at.
- *
- * Reactions are a filter, but a lazy one: only 7.4% of messages get any,
- * and the room replies far more often than it reacts. A message that drew
- * three separate replies and zero reactions is a message the room actually
- * engaged with — it just never got credited. That is what this finds.
- *
- * Discord's reply quotes carry the first ~78 chars of the parent message,
- * so we can rebuild a rough reply graph from the transcript alone.
- *
- *   node unreacted.js "<log folder>" [mode]
- *      mode: engaged (default) | long | caps | questions | all
- */
-const fs = require('fs');
-const path = require('path');
+// unreacted.js — the diamonds nobody pressed a button at.
+//
+// Reactions are a filter, but a lazy one: they find the jokes and miss the
+// arguments. A message that drew three separate replies and no reactions is one
+// the room actually engaged with and never credited. Hunting only by reaction is
+// why a paper comes out all gags.
+//
+//     node tools/unreacted.js "<log folder>" [mode]
+//       engaged   (default) 3+ distinct people replied, zero reactions
+//       long      long messages nobody reacted to
+//       caps      unreacted shouting
+//       questions questions that got no reply and no reaction
+//       threads   the longest back-and-forths of the week
+//       all
+'use strict';
+const { readLog, replyGraph, flat } = require('./log');
 
-const work = path.join(process.argv[2], 'working');
+const dir = process.argv[2];
+if (!dir) { console.error('usage: node unreacted.js "<log folder>" [mode]'); process.exit(1); }
 const mode = process.argv[3] || 'engaged';
-const files = fs.readdirSync(work).filter((f) => /^\d\d-\d\d\.md$/.test(f)).sort();
-const HEAD = /^### \[([^\]]+)\] (.+?) (@\S+) · msg `(\d+)`/;
 
-const msgs = [];
-const quotes = new Map(); // "name|prefix" -> Set of repliers
+const { msgs } = readLog(dir);
+replyGraph(msgs);
 
-for (const f of files) {
-  for (const b of fs.readFileSync(path.join(work, f), 'utf8').split(/\n---\n/)) {
-    const lines = b.trim().split('\n');
-    const m = HEAD.exec(lines[0] || '');
-    if (!m) continue;
-    const [, when, name, handle] = m;
-    const body = lines.slice(1).filter((l) => {
-      const t = l.trim();
-      return t && !t.startsWith('↩ ') && !t.startsWith('⭐ ') &&
-             !t.startsWith('🖼 ') && !t.startsWith('📎 ') && !t.startsWith('🔗 ');
-    }).join(' ').trim();
-    const reacted = /^⭐/m.test(b);
-    const rq = /^↩ \*replying to (.+?): "(.*?)…?"\*$/m.exec(b);
-    if (rq) {
-      const k = rq[1] + '|' + rq[2].slice(0, 40);
-      if (!quotes.has(k)) quotes.set(k, new Set());
-      quotes.get(k).add(name);
-    }
-    msgs.push({ f, when, name, body, reacted, hasImg: /^🖼/m.test(b) });
-  }
-}
+const show = (m, tag) => {
+  console.log(`[${tag}] ${m.name} — ${m.day} ${m.dow} ${m.time}`);
+  console.log(`    ${flat(m.text).slice(0, 420)}`);
+  if (m.replyTo) console.log(`    ↩ ${m.replyTo}: "${flat(m.replyQuote).slice(0, 80)}"`);
+  console.log('');
+};
 
-// count distinct repliers per message
-for (const x of msgs) {
-  const k = x.name + '|' + x.body.slice(0, 40);
-  const s = quotes.get(k);
-  x.replies = s ? s.size : 0;
-  // don't count self-replies as engagement
-  if (s && s.has(x.name)) x.replies = Math.max(0, x.replies - 1);
-}
-
-const clean = (s) => s.replace(/\s+/g, ' ').trim();
-const out = (x, tag) =>
-  console.log(`[${tag}] ${x.name.slice(0, 22)} — ${x.when.replace(/,.*ET/, '')} (${x.f})\n    ${clean(x.body).slice(0, 420)}\n`);
-
-const cands = msgs.filter((x) => !x.reacted && x.body.length > 14);
+const cands = msgs.filter((m) => m.reacts === 0 && m.text.length > 14);
 
 if (mode === 'engaged' || mode === 'all') {
-  console.log('########## ENGAGED BUT UNREWARDED — 3+ distinct people replied, zero reactions ##########\n');
-  cands.filter((x) => x.replies >= 3).sort((a, b) => b.replies - a.replies)
-    .forEach((x) => out(x, x.replies + ' replies'));
+  console.log('########## ENGAGED BUT UNREWARDED — 3+ distinct repliers, zero reactions ##########\n');
+  cands.filter((m) => m.replies >= 3).sort((a, b) => b.replies - a.replies)
+    .forEach((m) => show(m, m.replies + ' replies'));
 }
+
 if (mode === 'long' || mode === 'all') {
-  console.log('\n########## LONGEST UNREACTED MESSAGES ##########\n');
-  cands.filter((x) => x.body.length > 500).sort((a, b) => b.body.length - a.body.length)
-    .slice(0, 40).forEach((x) => out(x, x.body.length + 'ch'));
+  console.log('\n########## LONGEST UNREACTED ##########\n');
+  cands.filter((m) => m.text.length > 500).sort((a, b) => b.text.length - a.text.length)
+    .slice(0, 40).forEach((m) => show(m, m.text.length + 'ch'));
 }
+
 if (mode === 'caps' || mode === 'all') {
   console.log('\n########## UNREACTED SHOUTING ##########\n');
-  cands.filter((x) => x.body.length > 18 && x.body.length < 220 &&
-    x.body.replace(/[^A-Z]/g, '').length / x.body.replace(/[^A-Za-z]/g, '').length > 0.7)
-    .forEach((x) => out(x, 'CAPS'));
+  cands.filter((m) => {
+    if (m.text.length < 18 || m.text.length > 220) return false;
+    const letters = m.text.replace(/[^A-Za-z]/g, '');
+    return letters.length > 10 && m.text.replace(/[^A-Z]/g, '').length / letters.length > 0.7;
+  }).forEach((m) => show(m, 'CAPS'));
 }
+
 if (mode === 'questions' || mode === 'all') {
-  console.log('\n########## UNREACTED QUESTIONS NOBODY ANSWERED ##########\n');
-  cands.filter((x) => x.replies === 0 && /\?\s*$/.test(x.body) &&
-    x.body.length > 25 && x.body.length < 190 && !/^https?:/.test(x.body))
-    .forEach((x) => out(x, 'unanswered'));
+  console.log('\n########## QUESTIONS NOBODY ANSWERED ##########\n');
+  cands.filter((m) => m.replies === 0 && /\?\s*$/.test(m.text) && m.text.length > 25)
+    .forEach((m) => show(m, 'unanswered'));
+}
+
+if (mode === 'threads' || mode === 'all') {
+  console.log('\n########## LONGEST BACK-AND-FORTHS ##########\n');
+  const runs = [];
+  let run = null;
+  for (const m of msgs) {
+    if (!m.replyTo || m.replyTo === m.name) continue;
+    const pair = [m.name, m.replyTo].sort().join(' & ');
+    if (run && run.pair === pair && run.day === m.day && m.mins - run.last <= 20) {
+      run.n++; run.last = m.mins;
+    } else {
+      run = { pair, day: m.day, dow: m.dow, n: 1, start: m.mins, last: m.mins };
+      runs.push(run);
+    }
+  }
+  runs.sort((a, b) => b.n - a.n).slice(0, 15).forEach((r) => {
+    const hh = (t) => String(Math.floor(t / 60)).padStart(2, '0') + ':' + String(t % 60).padStart(2, '0');
+    console.log(`${String(r.n).padStart(3)} replies  ${r.pair} — ${r.day} ${r.dow} ${hh(r.start)}–${hh(r.last)}`);
+  });
+  console.log('');
 }

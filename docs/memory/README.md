@@ -65,8 +65,13 @@ lessons the readership has handed down about writing.
    someone's role shifts), update the file. Don't just add a line at the
    bottom.
 
-5. **Agents should read this folder before writing a new edition** and write
-   to it after. The knowledge compounds.
+5. **Write to this folder after an edition ships. Do not read it before
+   writing one.** It is an archive of what the paper has printed, not a brief
+   for the next issue: an issue is built from its own week of chat logs and
+   nothing else, so that the paper does not converge on itself and so that the
+   context goes to the week material. Read it when you need to check what was
+   said about somebody after the fact, or when the editor asks for something
+   specific from it.
 
 ## File structure
 

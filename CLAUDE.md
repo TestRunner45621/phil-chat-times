@@ -11,10 +11,14 @@ the masthead standard, print-CSS rules, dead space, the names legend, continuity
 between issues. Read it before writing or laying out an issue. It is the single
 source; do not restate its rules in other files, because two copies drift.
 
-`docs/memory/` is what the newsroom remembers between issues: character
-profiles, running stories, factoids checked against the logs, style lessons from
-the readership. Read it before writing, write back to it after. It is a guide —
-the logs are the source of truth.
+`docs/memory/` is the record of what has been printed: character profiles,
+running stories, factoids checked against the logs, style lessons from the
+readership. **It is written after an issue ships and is not read before one.**
+That is deliberate. An issue is built from one week of chat logs and nothing
+else, because a paper written against an accumulating file of everything it has
+already said converges on itself, and because loading it costs the context the
+week's material should be getting. See SOURCES in `Style.txt`. Keep it current
+as an archive; do not consult it as a brief.
 
 ## Commands
 
