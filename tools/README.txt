@@ -68,7 +68,43 @@ BUILDING THE PAPER
   b64font.js    Emits nameplate-font.css with the blackletter face embedded as
                 base64. Headless Chrome will not fetch a webfont.
 
-  sudoku.js     A sudoku with a unique solution, if the paper wants a puzzle.
+
+GAMES
+
+  A generator is machinery and belongs here. A finished puzzle is design and
+  belongs in the issue. None of these write clues or draw anything — that is the
+  paper's voice and the issue's layout, done at build time.
+
+  The rule they all serve is Hugh's, from Vol VI: "I want someone who doesn't
+  read every message to be able to solve this." A puzzle only the room can solve
+  is not a puzzle, it is a membership test.
+
+  crossword.js  Free-form grid from a word list, seeded and validated: every run
+                of two or more letters must be a word you asked for. Insider
+                words are capped at a third and want two crossings each, so a
+                stranger can letter them in. --from suggests candidates from the
+                week's own vocabulary.
+                  node tools/crossword.js --from "<log>" --pick 40 > words.txt
+                  node tools/crossword.js --words words.txt --size 15
+
+  quiz.js       "Who said it" — the week's most-reacted lines, one per author,
+                with the answer key. Emote tokens stripped, since the paper never
+                prints a raw :KEKW:.
+                  node tools/quiz.js "<log>" 6
+
+  cryptogram.js A line from the week under a letter-substitution cipher, with a
+                frequency hint and the key. The one puzzle here that needs no
+                knowledge of the room at all — it falls to English letter
+                frequency, and the payoff is the sentence.
+                  node tools/cryptogram.js "<log>" --seed 828
+
+  sudoku.js     A sudoku with a unique solution. Commissioned by Quigley in
+                Vol VII and the only game here with nothing to do with the logs.
+
+  Not built, on purpose: a "which of these quotes is fake" round. Style.txt's
+  quotes policy is that every quotation was typed by the person it is attributed
+  to and nothing has been invented, and a game does not get to be the exception.
+  A word search was tried in Vol V and the room said it sucked.
 
 
 NOT HERE ON PURPOSE
