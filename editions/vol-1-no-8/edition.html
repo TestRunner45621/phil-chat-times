@@ -39,7 +39,8 @@ img{max-width:100%}
 /* ---- the tape: the week's signature, a measuring strip ---- */
 .tape{height:8px;background-color:var(--tape);
   background-image:repeating-linear-gradient(90deg,var(--ink) 0 1px,transparent 1px 24px),repeating-linear-gradient(90deg,var(--ink) 0 1px,transparent 1px 6px);
-  background-size:100% 100%,100% 45%;background-repeat:repeat-x,repeat-x;background-position:0 0,0 100%}
+  background-size:100% 100%,100% 45%;background-repeat:repeat-x,repeat-x;background-position:0 0,0 100%;
+  filter:opacity(.999)} /* forces Chrome to rasterize the ruler into a PDF image; the site's pdf.js viewer mis-renders the vector gradient as a solid bar. Imperceptible on screen. */
 .tape.sec{background-color:var(--sec);background-image:repeating-linear-gradient(90deg,var(--paper) 0 1px,transparent 1px 24px),repeating-linear-gradient(90deg,var(--paper) 0 1px,transparent 1px 6px)}
 
 /* ---- folio ---- */
@@ -99,7 +100,8 @@ img{max-width:100%}
 .bx-tape{border:1px solid var(--ink);background:#fbf8f0;padding:0 .1in .09in}
 .bx-tape::before{content:"";display:block;height:8px;margin:0 -.1in .07in;background-color:var(--tape);
   background-image:repeating-linear-gradient(90deg,var(--ink) 0 1px,transparent 1px 24px),repeating-linear-gradient(90deg,var(--ink) 0 1px,transparent 1px 6px);
-  background-size:100% 100%,100% 45%;background-repeat:repeat-x,repeat-x;background-position:0 0,0 100%}
+  background-size:100% 100%,100% 45%;background-repeat:repeat-x,repeat-x;background-position:0 0,0 100%;
+  filter:opacity(.999)} /* rasterize for the pdf.js viewer, see .tape */
 .bx-court{font-family:var(--mono);font-size:7.3pt;line-height:1.32;border:1px solid var(--ink);border-top:4px double var(--ink);background:#faf6ea;padding:.07in .09in .08in}
 .bx-court .bk{font-family:var(--mono);letter-spacing:.06em;color:var(--ink)}
 .bx-court p{margin:0 0 .035in}
