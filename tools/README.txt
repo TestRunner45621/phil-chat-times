@@ -115,6 +115,21 @@ GAMES
   A word search was tried in Vol V and the room said it sucked.
 
 
+CHECKING A TIER LIST
+
+  tiers.js      Checks a board you wrote; it will not write one. Placement is a
+                judgment about the week, and a computed placement is a number the
+                room learns to play to. Reports anyone who spoke and is not
+                placed (and fails on it), anyone placed who did not speak, names
+                that are not the ones NAMES.txt says to print, and busy people
+                carrying no explanation.
+                  node tools/tiers.js "<log>" board.txt
+
+                A tier list is optional — some weeks want one, most sections are
+                invented fresh anyway, and it is made without reference to any
+                previous board. See THE SHAPE OF THE ISSUE in Style.txt.
+
+
 NOT HERE ON PURPOSE
 
   No tool that scores or ranks people, and no folder of last week's page

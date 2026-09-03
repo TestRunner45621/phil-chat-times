@@ -208,7 +208,10 @@ afternoon as pages 30–32: the society pages (the reply network — who answers
 who reacted to whom is not in the export), the Order of Precedence for week four against
 the Vol VI board, and the reasons. See [[production-history]] for the pages.
 
-**The Vol VII board (p. 31) — the baseline for Vol VIII:** S Quigley, Hugh, Lizzy, zack
+**The Vol VII board (p. 31)** — a record of what was printed, and explicitly *not*
+a baseline for Vol VIII. The editor ended the relative board on 2 Sep 2026: every
+tier list is now made fresh and stands alone, when the issue wants one at all.
+The board as printed was: S Quigley, Hugh, Lizzy, zack
 (all held). A Stackhouse, Ape, Willow (held), dot, Meliorne, Pearl, Jere, HPCR (▲1), Jeh
 (▲2), Sizzurp (NEW). B Zone, Anon. Johnson, Janne, Aura, My Name (held), chair, Charlie,
 Sisyphos (▼1), Jeng, Youv, Monkey, a lamp, FenceJumper (▲1), Brutus (▲3), jtheezy, Emmie,

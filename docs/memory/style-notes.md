@@ -49,9 +49,13 @@ listed here because each one was a correction to something the desk actually did
 - **Reactions measure the jokes.** When the editor asked for the effort tables back, the brief
   was "reactions just captures the jokesters": length and replies are the effort measures,
   reactions are a separate column, and the tier list is built on neither.
-- **A tier list is relative to the last one.** Arrows against the previous board; any move of
-  two tiers or more carries a stated reason; everyone who spoke is placed; NEW for anyone not
-  on the previous board.
+- **A tier list is relative to the last one.** ~~Arrows against the previous board;
+  any move of two tiers or more carries a stated reason; NEW for anyone not on the
+  previous board.~~ **Reversed by the editor, 2 Sep 2026:** a board is optional, is
+  made fresh, and stands alone — no arrows, no comparison with any previous board,
+  nothing carried forward. The one rule that survives is that everyone who spoke is
+  placed, and explanations go wherever one is funny, noteworthy or interesting
+  rather than against every move. See THE SHAPE OF THE ISSUE in Style.txt.
 
 # Lessons the editions established
 

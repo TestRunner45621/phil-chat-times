@@ -218,6 +218,22 @@ cabinet. Where one person genuinely is the story of the week, run them big,
 once. Do not build the spine of an issue out of one profile per person, and do
 not reuse last week's section names.
 
+A tier list is optional. Some weeks want one and some do not, and that is a
+production decision like any other section — not a fixture the paper owes the
+readership every Friday.
+
+Where there is one it is made fresh and stands alone. No arrows, no comparison
+against last week's board, nothing carried forward, for the same reason nothing
+else here is. Place everybody who spoke. Write an explanation wherever one is
+funny, noteworthy or interesting rather than everywhere: most names want no note,
+and the handful that do are the whole point of the page.
+
+Placement is a judgment about what the week was like. It is not computed from
+volume, from reactions, or from any other number, and the week it is computed
+from a number is the week the room starts playing to the number instead of to the
+room. That has already happened here once. tools/tiers.js will check a board you
+wrote — everybody placed, no ghosts, the right names — and will not write one.
+
 Be creative with the different sections. Crosswords, obituaries, market updates (these are just ideas, you don't have to use them). Go crazy and stretch your imagination with all the different sections you can do. Include multiple of these. Maybe consider a backpage for these.
 
 
