@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-09-03T12:41:29.240Z",
+  "generated": "2026-09-15T19:58:52.084Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -137,6 +137,23 @@
       "thumb": "editions/vol-1-no-8/thumb.jpg",
       "bytes": 13925451,
       "sourceFile": "Vol I No 8 - 2026-09-02.pdf"
+    },
+    {
+      "slug": "vol-1-no-9",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 9,
+      "date": "2026-09-15",
+      "title": "Vol I No 9",
+      "headline": "TEN ALL. Phil chat votes to remove zack for four days, ties ten to ten, strikes two ballots and mutes the campaign manager.",
+      "pages": 24,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-9/edition.pdf",
+      "cover": "editions/vol-1-no-9/cover.jpg",
+      "thumb": "editions/vol-1-no-9/thumb.jpg",
+      "bytes": 5429823,
+      "sourceFile": "Vol I No 9 - 2026-09-15.pdf"
     }
   ],
   "upcoming": []
