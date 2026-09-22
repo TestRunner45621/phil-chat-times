@@ -181,6 +181,25 @@ one wide column with air around it, some be mostly picture, some be a table or a
 chart at full width, some carry a dozen short items and no feature at all. Shape
 the page around what is on it.
 
+THE FLATPLAN — SHAPE BEFORE COPY
+
+The editions of late August and September came out as one page printed twenty times: three or four justified columns, a headline of 26 to 40 points, a small picture, a rail of tinted boxes, a light ground. The fonts and colours changed every week and the silhouette never did. Measured afterwards with tools/shapes.js, 22 of 32 pages in Vol VII, 13 of 20 in Vol VIII and 16 of 24 in Vol IX shared one silhouette, and neither VII nor IX had a single page where a picture took even two fifths of the sheet. Reading the pages one at a time never caught it, because each page was fine on its own.
+
+The cause is the order of the work. When the copy is written first and poured into columns, every story gets the same treatment and the columns decide the page. So the shape comes first.
+
+After the read-through and before any copy is written, draw the flatplan: every page of the issue as a thumbnail with its shape decided. Where the picture goes and how big, how many columns or none, how big the headline, and what kind of page it is: a poster, a timeline, a table, a document, a dozen notices, one long read, a map, a strip, something else. Take the shape from the material, per DESIGN: ask what this story would look like if it were not a story. Then write each piece to fit its shape and cut or add to fit, not the other way round. Keep the flatplan in the edition's notes.
+
+The flatplan has to show a real mix. These are floors, not a menu, and the shapes that meet them are invented each week:
+  - at least one page where a single picture takes half the sheet or more;
+  - at least one page carried by a graphic, table, timeline or diagram rather than running text;
+  - at least one page of many short items and no lead story;
+  - at least one page of one or two wide columns with air around them;
+  - no three pages in a row with the same silhouette (column count, picture size, headline size, light or dark ground);
+  - headline sizes that follow importance. A lead can be sixty points and a brief twelve.
+A dark page, a page set sideways, a double-page spread, a page that is one sentence and a picture: all allowed.
+
+Words are counted across the issue, not the page. A poster page spends words that a notices page earns back. If the issue runs out of room, the answer is another page, not one more column of the usual.
+
 THE BAR
 
 Everything above says invent it. This says how good the invention has to be. These
@@ -200,6 +219,9 @@ them yourself against the finished pages before the issue ships.
     break, or that jumps a column and leaves a hole behind it, is a defect and
     not a tolerance.
   - Every page read as a PNG, in order, by whoever built it, at the end.
+  - The whole issue read as one contact sheet (tools/sheet.js; render.sh makes it) and
+    checked with tools/shapes.js. No RUN or FORMULA flag ships without a reason the
+    editor would accept, and the flatplan's floors are met.
 
 A draft that clears all six can still be a bad paper. A draft that misses one is a
 bad paper whatever the writing is like, and the readership will say so first.
@@ -276,7 +298,8 @@ single issue.html, rendered to PDF, then rasterised so it can be looked at:
 
   node tools/build.js "<edition folder>"                 parts/*.html -> issue.html
   node tools/fill.js "<edition>/issue.html" --all        measures every column
-  DPI=100 bash tools/render.sh "<edition>/issue.html"    -> issue.pdf, pages/page-NN.png, issue.txt
+  DPI=100 bash tools/render.sh "<edition>/issue.html"    -> issue.pdf, pages/page-NN.png, issue.txt, pages/sheet.png
+  node tools/shapes.js "<edition>/issue.html"            silhouette of every page, sameness flags
 
 Build, measure, render, read the renders — after every substantive edit, not once
 at the end. One page per file is what makes that loop cheap: a bad page gets
@@ -341,8 +364,7 @@ Chrome will not fetch a webfont.
 that moves every time a page is added or cut; write the copy first, number the
 references at the end, then grep for "page " and check every one.
 
-9. Open the finished PDF and read every page render before calling it done. The
-measuring tools have missed things more than once.
+9. Open the finished PDF and read every page render before calling it done, then the contact sheet. The measuring tools have missed things more than once, and no page-by-page check can see that twenty pages are the same page.
 
 DEAD SPACE
 
@@ -371,6 +393,8 @@ Dead space means a column that ran dry, or a hole left behind a block that jumpe
 
 Last gate is your own eyes: render every page to PNG and read all of them. The tools have been shown to miss this once already.
 
+Deliberate air is declared, not argued about afterwards. Put data-air="<why>" on the page, or on the block meant to breathe (a poster page, the margins of a single wide column, the white around a timeline), and fill.js lists it as AIR with the reason instead of flagging it. A page with nothing for fill.js to measure is listed as UNMEASURED; read that one by eye. Declared air is for air that is obviously design. A column that ran dry is still a column that ran dry, whatever it is labelled.
+
 NAMES AND CHARACTER DESCRIPTIONS
 
 Identify people by the @handle in the message heading, not by the display name —
@@ -389,7 +413,7 @@ Write those chunks into a "working" folder inside that log's own folder — so t
 
 If a working folder is already there from an earlier session, read what's in it instead of re-splitting.
 
-2. Then use those to read to make the paper. Remember to always read the logs when writing. Make multiple passes over the chat logs and accompanying images to make sure everything is captured.
+2. Then use those to read to make the paper. Draw the flatplan (see THE FLATPLAN) after the read-through and before the writing. Remember to always read the logs when writing. Make multiple passes over the chat logs and accompanying images to make sure everything is captured.
 
 3. I might ask you to run me down what you are going to make the main stories and/or briefs to provide my own input first. From that we'll make a document that I will then feed back into you in the future to make the full newspaper. Or I might ask you to just try to one shot things. It depends.
 

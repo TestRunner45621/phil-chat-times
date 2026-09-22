@@ -58,9 +58,28 @@ BUILDING THE PAPER
                 columns, holes, and copy silently clipped into a hidden column.
                 Run after every substantive edit, not once at the end.
                   node tools/fill.js "<edition>/issue.html" --all
+                Air that is design, not a dry column, is declared in the HTML with
+                data-air="<why>" on the page or block; fill.js lists it as AIR with
+                the reason. A page with nothing to measure is listed UNMEASURED:
+                read that one by eye.
 
-  render.sh     issue.html -> issue.pdf, pages/page-NN.png, issue.txt.
+  render.sh     issue.html -> issue.pdf, pages/page-NN.png, issue.txt, and the
+                contact sheet pages/sheet.png.
                   DPI=100 bash tools/render.sh "<edition>/issue.html"
+
+  sheet.js      The whole issue as one image, eight pages across. Reading pages one
+                at a time catches a bad page; only the sheet shows twenty pages that
+                are the same page. render.sh runs it; run it alone on any pages/.
+                  node tools/sheet.js "<edition folder>" [--across 6]
+
+  shapes.js     The silhouette of every page, measured: columns of body text,
+                biggest type, largest picture and all pictures as a share of the
+                sheet, text coverage, light or dark ground. Flags RUN (three pages in
+                a row alike), FORMULA (one silhouette on over half the issue), no page
+                that is mostly picture, every page columns, one headline size. Works
+                on any built issue, old ones included, via shape-snippet.js. It checks
+                variety and does not design; the flatplan in Style.txt does that.
+                  node tools/shapes.js "<edition>/issue.html"
 
   measure-snippet.js   The in-page measuring code build.js inlines. Not run
                 directly; fill.js drives it.
