@@ -170,6 +170,21 @@ rather than grey. Colour costs nothing here, since the thing is never physically
 printed, and a page that would have read the same in black and white on a single
 column has wasted the medium.
 
+THE LOOK. The editor's taste runs sleek, stylish and colourful, so lean that way.
+It is a direction to start from, not a house style. The palette, the faces, the
+shapes and the jokes are still invented each week, and two issues that both lean
+this way should still look nothing alike.
+  - Bright, clean grounds. White or near-white paper does most of the work.
+    Parchment, tan, sepia and aged-paper effects make the paper look dim and
+    antique. Keep them for the rare page whose whole joke is that it is old.
+  - Confident colour: a few strong, saturated colours, used flat as blocks,
+    bars, chips and panels against plenty of white. Muted earth tones on every
+    page, and beige on beige, read as dull.
+  - Modern display type: bold, tight headlines against a readable text face,
+    with crisp rules, letterspaced labels in an accent colour, and a clear grid.
+  - Polish over clutter. Fewer, sharper devices, cleanly aligned, with
+    deliberate white space. The jokes can be wild; the finish should be clean.
+
 Loose guide, not a specification. A page that is one enormous photograph and
 forty words is a newspaper page too, and a week that wants a plain grey table
 across a full page should get one.
@@ -430,6 +445,8 @@ Three things it will find, all of which need fixing rather than tolerating:
     fills the last one. Only trimming past the threshold clears it.
 
 The largest single cause of dead space is Chrome's default widows: 2 / orphans: 2, which throws a whole paragraph into the next column rather than leave one line behind. Setting both to 1 on body copy recovers more space than any amount of rewriting.
+
+Pages built of fenced boxes (notices, briefs, letters) need a tighter hand. A box cannot split, so each column is the sum of a few fixed heights and almost never lands on the foot, and a gutter that sits mid-page with nothing level beside it reads as a hole. Put data-pack on the flow. tools/pack-snippet.js deals the boxes into the columns as evenly as they will go and reports how many lines short each column is, naming the boxes in it. Then write to the report: add a line to a box in the short column, or cut one from the long, until every foot lands within a line. If the week has spares, one- or two-line items marked data-filler, it drops them into what is left. fill.js holds a packed flow to 0.15in of air, not 0.35in.
 
 Fixing dead space means adding material, not stretching what's there. Longer stories, another brief, a chart, a photograph, more chat quotes, a whole extra page. Padding the leading and inflating the type to fill a column is worse than the hole was. There is always more in the logs.
 

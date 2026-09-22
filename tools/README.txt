@@ -63,6 +63,16 @@ BUILDING THE PAPER
                 the reason. A page with nothing to measure is listed UNMEASURED:
                 read that one by eye.
 
+  pack-snippet.js  The box packer, which build.js inlines. Put data-pack on a .flow
+                of fenced boxes (notices, briefs, letters) and it deals the boxes into
+                the columns so each stays whole and the feet come out as even as they
+                will go. data-pack-first on a box opens column 1; data-filler marks
+                spares, short items it may drop into a foot; data-pack-tail keeps a
+                closing line last. fill.js prints its report: each foot, and
+                "write: col1 +1 line (…)" naming the short column and its boxes, so
+                the fix is copy written to fit rather than stretched space. Packed
+                flows are held to 0.15in of air instead of 0.35in.
+
   render.sh     issue.html -> issue.pdf, pages/page-NN.png, issue.txt, and the
                 contact sheet pages/sheet.png.
                   DPI=100 bash tools/render.sh "<edition>/issue.html"

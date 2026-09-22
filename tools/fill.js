@@ -43,6 +43,7 @@ for (const p of report.pages) {
   const notes = [];
   if (p.air && p.air.length) notes.push('AIR (declared): ' + p.air.join(' | '));
   if (!p.cols.length) notes.push('UNMEASURED: nothing here for fill.js to measure, check the PNG by eye');
+  (p.packs || []).forEach(r => notes.push('PACK: ' + r));
   if (p.overflow > 2) flags.push(`OVERFLOW ${fmt(p.overflow)} below page box`);
   const dry = [];
   p.cols.forEach((c, i) => {
@@ -50,7 +51,8 @@ for (const p of report.pages) {
     const name = c.label ? c.label : `col${i + 1}`;
     if (c.ox > 2 && /:1$/.test(name)) flags.push(`${name.replace(/:1$/,'')} SPILLS into hidden column, ${fmt(c.hid||0)} deep (cut that much)`);
     if (c.gap < -2) flags.push(`${name} OVERFLOWS by ${fmt(-c.gap)}`);
-    else if (c.gap > 0.35 * PX_PER_IN) dry.push(`${name} gap ${fmt(c.gap)}`);
+    // a packed flow is fenced boxes whose feet can be written to within a line, so it is held tighter
+    else if (c.gap > (c.packed ? 0.15 : 0.35) * PX_PER_IN) dry.push(`${name} gap ${fmt(c.gap)}${c.packed ? ' (packed: limit 0.15in)' : ''}`);
   });
   if (dry.length) flags.push('DRY: ' + dry.join(', '));
   if (flags.length) problems++;

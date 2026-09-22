@@ -87,10 +87,11 @@
               any = true; if (r.bottom > deep) deep = r.bottom;
             }
           });
-          colReports.push({ h: flBottom - fr.top, deep: deep - fr.top, gap: any ? flBottom - deep : flBottom - fr.top, empty: !any, label: 'flow' + (fi + 1) + ':' + (b + 1), ox: ox, hid: hid });
+          colReports.push({ h: flBottom - fr.top, deep: deep - fr.top, gap: any ? flBottom - deep : flBottom - fr.top, empty: !any, label: 'flow' + (fi + 1) + ':' + (b + 1), ox: ox, hid: hid, packed: fl.hasAttribute('data-pack') });
         }
       });
-      out.pages.push({ n: idx + 1, id: pg.id || '', overflow: Math.max(0, pageDeep - pr.bottom), cols: colReports, air: airs });
+      var packs = Array.prototype.slice.call(pg.querySelectorAll('.flow[data-pack-report]')).map(function (f) { return f.getAttribute('data-pack-report'); });
+      out.pages.push({ n: idx + 1, id: pg.id || '', overflow: Math.max(0, pageDeep - pr.bottom), cols: colReports, air: airs, packs: packs });
     });
     var pre = document.createElement('pre'); pre.id = 'fill-report'; pre.textContent = JSON.stringify(out);
     document.body.appendChild(pre);
