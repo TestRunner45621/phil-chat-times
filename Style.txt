@@ -259,16 +259,6 @@ wrote — everybody placed, no ghosts, the right names — and will not write on
 
 Be creative with the different sections. Crosswords, obituaries, market updates (these are just ideas, you don't have to use them). Go crazy and stretch your imagination with all the different sections you can do. Include multiple of these. Maybe consider a backpage for these.
 
-Formats the editor has liked, for weeks that have the material. Each is a description of what a page is, not how it looks: design it fresh every time, and none of them is owed every week.
-  - Letters to the Editors: the messages the room addresses to "the editors",
-    answered in the paper's voice. The replies never say how the paper is made. Leave
-    out the cruel, the crude, and anything that hints at the machine.
-  - A police blotter: deadpan incidents with times, after a small-town sheriff's log.
-    It can leave out names for the deadpan, so use it sparingly; rule 10 wants
-    people to find themselves in the paper.
-  - A front that is one picture and one line, the line in a speech bubble (see
-    IMAGES).
-
 
 IMAGES
 
@@ -294,10 +284,10 @@ permission to skip them. Read it the other way.
     bubble, a label, an arrow, a crop that isolates one face, a caption card. The
     words in a bubble are a real line from the logs, and the caption credits both
     halves: who posted the picture, who said the words and when. A bubble never puts
-    invented words in anyone's mouth. The editor singled out a front page built this
-    way (a stranger serene in a garden pond, a chatter's "Nothing ever happens." in
-    the bubble, under the week's headline about AI escaping a sandbox) as the kind of
-    creativity the paper should reward.
+    invented words in anyone's mouth. The editor has singled out this kind of move, a
+    picture made to do something it was never posted to do, as the creativity the
+    paper should reward. Reward means the next one is new: invent it from the week's
+    pictures, don't repeat the last one.
   - Photographs run in their own colour. No duotones, no tints, no greyscale; it was
     tried and it looked bad.
 
