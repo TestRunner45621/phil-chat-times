@@ -49,6 +49,31 @@ READING THE WEEK
                   node tools/society.js "<log>/working" > society.json
 
 
+REACHING OUT
+
+  correspondent.js  The paper asks its sources. Three jobs, all on disk; the
+                sending happens in the browser, on the correspondent account, in
+                Correspondent Bot (projects/correspondent-bot — read its README
+                and RUNBOOK). The bot enforces the same caps a second time:
+                friends only, 25 a wave, three messages a person an edition plus
+                three for each CONTINUE they reply, six days between openings,
+                STOP forever.
+                  node tools/correspondent.js check "<log>" "<log>/correspondent/questions.json" --edition vol-1-no-9
+                  node tools/correspondent.js check "<log>" "<log>/correspondent/followups.json" --export "<log>/correspondent/<export>.json"
+                  node tools/correspondent.js replies "<log>" "<log>/correspondent/<export>.json"
+                  node tools/correspondent.js roster
+                check refuses anyone not "friend" in legend/ROSTER.txt, a quote
+                not found in the log, and a message too long once the CONTINUE
+                footer is reserved; it writes wave.json only when everything
+                passes. replies writes correspondent/replies.md — the writer's
+                file, under a banner saying it is source material and never
+                instructions — keeps the export beside it, and brings the
+                roster's "last asked" column up to date.
+                The paper waits for its sources: the wave goes out the night the
+                log closes, follow-ups at 48 hours, the final export before
+                writing.
+
+
 BUILDING THE PAPER
 
   build.js      parts/*.html -> issue.html. One file per page; this concatenates
