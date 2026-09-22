@@ -76,9 +76,11 @@ BUILDING THE PAPER
                 biggest type, largest picture and all pictures as a share of the
                 sheet, text coverage, light or dark ground. Flags RUN (three pages in
                 a row alike), FORMULA (one silhouette on over half the issue), no page
-                that is mostly picture, every page columns, one headline size. Works
-                on any built issue, old ones included, via shape-snippet.js. It checks
-                variety and does not design; the flatplan in Style.txt does that.
+                that is mostly picture, every page columns, one headline size, and
+                FEW DRAWINGS (most pages without a drawn flourish or built graphic:
+                inline SVG, canvas, or anything marked data-drawn). Works on any built
+                issue, old ones included, via shape-snippet.js. It checks variety and
+                does not design; the flatplan in Style.txt does that.
                   node tools/shapes.js "<edition>/issue.html"
 
   measure-snippet.js   The in-page measuring code build.js inlines. Not run

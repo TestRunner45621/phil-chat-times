@@ -195,7 +195,8 @@ The flatplan has to show a real mix. These are floors, not a menu, and the shape
   - at least one page of many short items and no lead story;
   - at least one page of one or two wide columns with air around them;
   - no three pages in a row with the same silhouette (column count, picture size, headline size, light or dark ground);
-  - headline sizes that follow importance. A lead can be sixty points and a brief twelve.
+  - headline sizes that follow importance. A lead can be sixty points and a brief twelve;
+  - at least one page built on a visual joke: something done to a picture or to the page, not just placed on it.
 A dark page, a page set sideways, a double-page spread, a page that is one sentence and a picture: all allowed.
 
 Words are counted across the issue, not the page. A poster page spends words that a notices page earns back. If the issue runs out of room, the answer is another page, not one more column of the usual.
@@ -258,6 +259,16 @@ wrote — everybody placed, no ghosts, the right names — and will not write on
 
 Be creative with the different sections. Crosswords, obituaries, market updates (these are just ideas, you don't have to use them). Go crazy and stretch your imagination with all the different sections you can do. Include multiple of these. Maybe consider a backpage for these.
 
+Formats the editor has liked, for weeks that have the material. Each is a description of what a page is, not how it looks: design it fresh every time, and none of them is owed every week.
+  - Letters to the Editors: the messages the room addresses to "the editors",
+    answered in the paper's voice. The replies never say how the paper is made. Leave
+    out the cruel, the crude, and anything that hints at the machine.
+  - A police blotter: deadpan incidents with times, after a small-town sheriff's log.
+    It can leave out names for the deadpan, so use it sparingly; rule 10 wants
+    people to find themselves in the paper.
+  - A front that is one picture and one line, the line in a speech bubble (see
+    IMAGES).
+
 
 IMAGES
 
@@ -279,6 +290,55 @@ permission to skip them. Read it the other way.
     free, and an uncaptioned picture reads as filler.
   - A screenshot of a message is a picture. So is a chart you built, a map, a
     table set as a graphic, a crop of somebody's cursed avatar.
+  - Do something to the picture. A found image can carry the joke itself: a speech
+    bubble, a label, an arrow, a crop that isolates one face, a caption card. The
+    words in a bubble are a real line from the logs, and the caption credits both
+    halves: who posted the picture, who said the words and when. A bubble never puts
+    invented words in anyone's mouth. The editor singled out a front page built this
+    way (a stranger serene in a garden pond, a chatter's "Nothing ever happens." in
+    the bubble, under the week's headline about AI escaping a sandbox) as the kind of
+    creativity the paper should reward.
+  - Photographs run in their own colour. No duotones, no tints, no greyscale; it was
+    tried and it looked bad.
+
+VISUAL FLOURISHES
+
+Small drawn things belong on nearly every page. Not pictures from the chat and not full charts: little graphics built from the story's own objects. A magic 8-ball drawn over the box where the room consults the 8-ball. An envelope for every letter the editors received, so the count is something you can see. A gauge that drains as somebody's usage window drains, a ticket stub, a rubber stamp, a tally, a speech bubble. The editor picked these out as what the paper should do more of, and they are a staple, not an occasional garnish.
+
+  - Draw them for this issue, from this week's objects, as inline SVG or CSS. No
+    emoji, no clip art, and nothing carried over from a previous issue.
+  - They work hardest when they also carry information: count something, show before
+    and after, label the thing. A count drawn as repeated small icons, one per item,
+    beats a bar.
+  - Small is fine. A half-inch drawing beside a box title does more than a quarter
+    page of stock art.
+  - Aim for one on most pages and several in a busy issue. tools/shapes.js counts
+    them (inline SVG, or anything marked data-drawn) and flags an issue where most
+    pages have none.
+
+BUILT GRAPHICS
+
+The pages are rendered by headless Chrome, so JavaScript in a page runs before it is printed. Use that, ambitiously, in every issue. The editor has asked for it: the paper should show what code can draw, and not settle for a bar chart.
+
+  - Draw from the week's real data. The logs are data: who replies to whom
+    (tools/society.js writes it as JSON), messages by hour and day (tools/stats2.js),
+    reactions, the words people reach for (tools/vocab.js), times, counts, posted
+    coordinates. Embed the numbers in the page and let a script lay out the picture:
+    a map of who talks to whom, a clock of when the room is awake, a river of topics
+    across the week, the family tree of an argument, a chart shaped like its subject.
+  - Pictures as well as charts: procedurally drawn objects, generated patterns, a map
+    from real coordinates, the week as a board game, a diagram of how something
+    happened.
+  - It has to print. Self-contained: data and code live in the page or the edition
+    folder, and nothing is fetched from the network. Deterministic: seed any
+    randomness, so every build gives the same picture. Finished in time: draw
+    synchronously in a script at the end of the page, so fill.js, shapes.js and the
+    PDF all see the finished drawing. Prefer SVG output; it stays sharp and can be
+    measured.
+  - Every figure a script draws is real: counted from the logs, never invented to make
+    the picture work. A generated texture is decoration; a generated number is a lie.
+  - At least one ambitious built graphic per issue, one that could not have been drawn
+    by hand in the time. Check it in the PNG. Scripts fail silently.
 
 EFFORT
 

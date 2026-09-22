@@ -35,6 +35,13 @@
         if (a < 0.25 * 96 * 96) return; // icons and bullets are not pictures
         pics += a; if (a > big) big = a;
       });
+      // drawn flourishes: inline SVG (not nested) of at least 0.2in x 0.2in, plus anything marked data-drawn
+      var drawn = 0;
+      Array.prototype.slice.call(pg.querySelectorAll('svg,canvas')).forEach(function (el) {
+        if (el.parentElement.closest('svg') || el.closest('[data-drawn]')) return;
+        var v = visRect(el); if (v.w * v.h >= 0.04 * 96 * 96) drawn++;
+      });
+      drawn += pg.querySelectorAll('[data-drawn]').length;
       var tw = document.createTreeWalker(pg, NodeFilter.SHOW_TEXT, null), n, textA = 0, maxPt = 0, bands = {}, heads = 0;
       var seenHead = new Set();
       while ((n = tw.nextNode())) {
@@ -58,7 +65,7 @@
       var keys = Object.keys(bands).map(Number).sort(function (a, b) { return a - b; }), cols = 0, last = -9;
       keys.forEach(function (k) { if (bands[k] >= 12) { if (k - last > 1) cols++; last = k; } });
       var bg = cs.backgroundColor;
-      out.push({ n: idx + 1, id: pg.id || '', cols: cols, maxPt: Math.round(maxPt), heads: heads,
+      out.push({ n: idx + 1, id: pg.id || '', cols: cols, maxPt: Math.round(maxPt), heads: heads, drawn: drawn,
         bigPic: big / area, pics: Math.min(1, pics / area), text: Math.min(1, textA / area), dark: lum(bg) < 0.3, bg: bg });
     });
     var pre = document.createElement('pre'); pre.id = 'shape-report'; pre.textContent = JSON.stringify(out);

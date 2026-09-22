@@ -9,6 +9,8 @@
 // "3col / small pic / 26-43pt / light". It then reports:
 //   RUN      three or more consecutive pages with the same key
 //   FORMULA  one key covering more than half the issue
+//   FEW DRAWINGS  more than half the pages with no drawn flourish or built graphic (inline SVG, canvas,
+//                 or anything marked data-drawn; see VISUAL FLOURISHES in Style.txt)
 //   and whether the issue has any page that is mostly picture, any page that is not columns, and any
 //   real spread of headline sizes.
 // It checks variety; it does not judge a page, and it will not design one. Read the contact sheet too.
@@ -51,10 +53,10 @@ const key = p => [
   p.dark ? 'dark' : 'light',
 ].join(' / ');
 
-console.log('page  cols  type  heads  big-pic  pics  text  ground   silhouette');
+console.log('page  cols  type  heads  drawn  big-pic  pics  text  ground   silhouette');
 pages.forEach(p => {
   p.key = key(p);
-  console.log(`${String(p.n).padStart(4)}  ${String(p.cols).padStart(4)}  ${String(p.maxPt).padStart(4)}  ${String(p.heads).padStart(5)}  ${pct(p.bigPic).padStart(7)}  ${pct(p.pics)}  ${pct(p.text)}  ${(p.dark ? 'dark' : 'light').padEnd(7)}  ${p.key}`);
+  console.log(`${String(p.n).padStart(4)}  ${String(p.cols).padStart(4)}  ${String(p.maxPt).padStart(4)}  ${String(p.heads).padStart(5)}  ${String(p.drawn || 0).padStart(5)}  ${pct(p.bigPic).padStart(7)}  ${pct(p.pics)}  ${pct(p.text)}  ${(p.dark ? 'dark' : 'light').padEnd(7)}  ${p.key}`);
 });
 
 const flags = [];
@@ -71,6 +73,8 @@ if (!pages.some(p => p.bigPic >= 0.40)) flags.push('NO PICTURE PAGE  no page giv
 if (pages.length >= 3 && !pages.some(p => p.cols <= 1)) flags.push('ALL COLUMNS  every page is two or more columns of body text');
 const types = pages.slice(1).map(p => p.maxPt).filter(Boolean);
 if (types.length >= 3 && Math.max(...types) - Math.min(...types) < 14) flags.push(`ONE SIZE  after page 1 the biggest type only ranges ${Math.min(...types)}-${Math.max(...types)}pt`);
+const bare = pages.filter(p => !p.drawn).map(p => p.n);
+if (pages.length >= 3 && bare.length > pages.length / 2) flags.push(`FEW DRAWINGS  ${bare.length} of ${pages.length} pages have no drawn flourish or built graphic (pages ${bare.join(', ')})`);
 
 console.log(`\n${Object.keys(counts).length} distinct silhouettes in ${pages.length} pages`);
 console.log(flags.length ? flags.join('\n') : 'no sameness flags');
