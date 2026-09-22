@@ -293,32 +293,26 @@ permission to skip them. Read it the other way.
 
 VISUAL FLOURISHES
 
-Small drawn things belong on nearly every page. Not pictures from the chat and not full charts: little graphics built from the story's own objects. A magic 8-ball drawn over the box where the room consults the 8-ball. An envelope for every letter the editors received, so the count is something you can see. A gauge that drains as somebody's usage window drains, a ticket stub, a rubber stamp, a tally, a speech bubble. The editor picked these out as what the paper should do more of, and they are a staple, not an occasional garnish.
+Small drawn things belong on nearly every page: little graphics built from the story's own objects, as opposed to pictures from the chat or full charts. The editor picked these out as what the paper should do more of, and they are a staple, not an occasional garnish. What they are is for each issue to invent.
 
   - Draw them for this issue, from this week's objects, as inline SVG or CSS. No
     emoji, no clip art, and nothing carried over from a previous issue.
   - They work hardest when they also carry information: count something, show before
-    and after, label the thing. A count drawn as repeated small icons, one per item,
-    beats a bar.
+    and after, label the thing.
   - Small is fine. A half-inch drawing beside a box title does more than a quarter
     page of stock art.
   - Aim for one on most pages and several in a busy issue. tools/shapes.js counts
-    them (inline SVG, or anything marked data-drawn) and flags an issue where most
-    pages have none.
+    them (inline SVG, canvas, or anything marked data-drawn) and flags an issue where
+    most pages have none.
 
 BUILT GRAPHICS
 
 The pages are rendered by headless Chrome, so JavaScript in a page runs before it is printed. Use that, ambitiously, in every issue. The editor has asked for it: the paper should show what code can draw, and not settle for a bar chart.
 
-  - Draw from the week's real data. The logs are data: who replies to whom
-    (tools/society.js writes it as JSON), messages by hour and day (tools/stats2.js),
-    reactions, the words people reach for (tools/vocab.js), times, counts, posted
-    coordinates. Embed the numbers in the page and let a script lay out the picture:
-    a map of who talks to whom, a clock of when the room is awake, a river of topics
-    across the week, the family tree of an argument, a chart shaped like its subject.
-  - Pictures as well as charts: procedurally drawn objects, generated patterns, a map
-    from real coordinates, the week as a board game, a diagram of how something
-    happened.
+  - Draw from the week's real data. The logs are data, and the tools already pull a
+    good deal out of them (tools/README.txt). Embed the numbers in the page and let a
+    script lay out the picture. What to draw, and whether it is a chart at all, is
+    this issue's decision.
   - It has to print. Self-contained: data and code live in the page or the edition
     folder, and nothing is fetched from the network. Deterministic: seed any
     randomness, so every build gives the same picture. Finished in time: draw
