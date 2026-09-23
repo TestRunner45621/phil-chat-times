@@ -427,6 +427,10 @@ references at the end, then grep for "page " and check every one.
 
 9. Open the finished PDF and read every page render before calling it done, then the contact sheet. The measuring tools have missed things more than once, and no page-by-page check can see that twenty pages are the same page.
 
+10. The website's reader draws the PDF with pdf.js, which paints Chrome's repeating gradients (repeating-linear-gradient and the rest: ruled paper, stripes, felt, scanlines) as one flat colour. In Vol I No 10 the notepad and the sermon board came out bright pink and the airmail stripes came out solid. Put every repeating pattern on a layer of its own: a ::before or ::after, absolutely positioned, with z-index:-1 and isolation:isolate on its box when it sits behind text. Give that layer filter:opacity(.999), which makes Chrome print it as an image. Never put the filter on a box that holds text, because the text would print as a picture too. `node tools/pdfjs-check.js "<edition>"` lists any pattern that is not flattened; run it with fill.js.
+
+11. The website publishes the HTML as well as the PDF, and Firefox ignores break-before:column, so a packed flow (.flow[data-pack]) piles into one column there. Before the final render for publishing, run `node tools/pack-bake.js "<edition>"`, then build, fill and render again. It fixes each packed flow to the columns Chrome dealt it (tools/README.txt).
+
 DEAD SPACE
 
 No page is finished until it has been scanned for blank space, and no page ships with any. A column that runs dry two thirds of the way down is the single worst thing that happens to this paper. It reads as a paper that ran out of material, which is the opposite of true.

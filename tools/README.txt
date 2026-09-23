@@ -130,6 +130,18 @@ BUILDING THE PAPER
                 the reason. A page with nothing to measure is listed UNMEASURED:
                 read that one by eye.
 
+  pdfjs-check.js  Lists repeating-gradient patterns (ruled paper, stripes, felt)
+                that the website's pdf.js reader will paint as flat colour. Fix: the
+                pattern on its own ::before/::after with filter:opacity(.999)
+                (Style.txt OUTPUT, print rule 10). Run it with fill.js.
+                  node tools/pdfjs-check.js "<edition>"
+
+  pack-bake.js  Before publishing: fixes every packed flow to the columns Chrome
+                dealt it, so the HTML reads the same in Firefox (which ignores
+                break-before:column). Build first; build, fill and render after.
+                --clear removes the plans before a baked page is edited.
+                  node tools/pack-bake.js "<edition>" [--clear]
+
   pack-snippet.js  The box packer, which build.js inlines. Put data-pack on a .flow
                 of fenced boxes (notices, briefs, letters) and it deals the boxes into
                 the columns so each stays whole and the feet come out as even as they

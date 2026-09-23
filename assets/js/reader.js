@@ -1051,6 +1051,121 @@ function bindPanning() {
   });
 }
 
+/* ------------------------------------------------------------- scrollbars */
+
+/*
+ * The reader draws its own scrollbars; the viewport's native ones are hidden.
+ * Two reasons. A native scrollbar belongs to the viewport, so pressing on it
+ * also started the hand tool's pan, and dragging the thumb fought the pan.
+ * And a click on a native track only pages one screen at a time on Windows;
+ * here a click anywhere on the track jumps straight to that point, with the
+ * thumb centred under the pointer, and the drag carries on from there.
+ * Wheel, keyboard and touch scrolling stay native.
+ */
+function bindScrollbars() {
+  const SIZE = 14; // track thickness, px
+  const MIN_THUMB = 28;
+  const stage = el.viewport.parentElement;
+  const make = (axis) => {
+    const bar = document.createElement('div');
+    bar.className = 'sbar sbar-' + axis;
+    bar.hidden = true;
+    const thumb = document.createElement('div');
+    thumb.className = 'sbar-thumb';
+    bar.appendChild(thumb);
+    stage.appendChild(bar);
+    return { axis, bar, thumb, len: 0, thumbLen: 0 };
+  };
+  const bars = [make('y'), make('x')];
+  const vp = el.viewport;
+
+  // scroll size, visible size, scroll position and its setter, per axis
+  const dims = (axis) =>
+    axis === 'y'
+      ? { total: vp.scrollHeight, seen: vp.clientHeight, at: vp.scrollTop, set: (v) => { vp.scrollTop = v; } }
+      : { total: vp.scrollWidth, seen: vp.clientWidth, at: vp.scrollLeft, set: (v) => { vp.scrollLeft = v; } };
+
+  function layout() {
+    const show = {
+      y: vp.scrollHeight > vp.clientHeight + 1,
+      x: vp.scrollWidth > vp.clientWidth + 1,
+    };
+    const left = vp.offsetLeft, top = vp.offsetTop, w = vp.offsetWidth, h = vp.offsetHeight;
+    for (const b of bars) {
+      b.bar.hidden = !show[b.axis];
+      if (b.bar.hidden) continue;
+      const d = dims(b.axis);
+      const corner = show.x && show.y ? SIZE : 0;
+      b.len = (b.axis === 'y' ? h : w) - corner;
+      b.thumbLen = Math.min(b.len, Math.max(MIN_THUMB, (b.len * d.seen) / d.total));
+      const pos = ((b.len - b.thumbLen) * d.at) / Math.max(1, d.total - d.seen);
+      if (b.axis === 'y') {
+        Object.assign(b.bar.style, { left: left + w - SIZE + 'px', top: top + 'px', width: SIZE + 'px', height: b.len + 'px' });
+        Object.assign(b.thumb.style, { top: pos + 'px', height: b.thumbLen + 'px', left: '', width: '' });
+      } else {
+        Object.assign(b.bar.style, { left: left + 'px', top: top + h - SIZE + 'px', width: b.len + 'px', height: SIZE + 'px' });
+        Object.assign(b.thumb.style, { left: pos + 'px', width: b.thumbLen + 'px', top: '', height: '' });
+      }
+    }
+  }
+  let queued = false;
+  const update = () => {
+    if (queued) return;
+    queued = true;
+    requestAnimationFrame(() => { queued = false; layout(); });
+  };
+
+  for (const b of bars) {
+    let grab = null; // pointer offset inside the thumb while dragging
+    const along = (e) => {
+      const r = b.bar.getBoundingClientRect();
+      return b.axis === 'y' ? e.clientY - r.top : e.clientX - r.left;
+    };
+    const scrollToThumb = (thumbPos) => {
+      const d = dims(b.axis);
+      const room = Math.max(1, b.len - b.thumbLen);
+      d.set((Math.min(Math.max(thumbPos, 0), room) / room) * (d.total - d.seen));
+    };
+    b.bar.addEventListener('pointerdown', (e) => {
+      if (e.button !== 0) return;
+      e.preventDefault();
+      layout();
+      const p = along(e);
+      const d = dims(b.axis);
+      const thumbPos = ((b.len - b.thumbLen) * d.at) / Math.max(1, d.total - d.seen);
+      if (p >= thumbPos && p <= thumbPos + b.thumbLen) {
+        grab = p - thumbPos; // on the thumb: drag it from where it was caught
+      } else {
+        grab = b.thumbLen / 2; // on the track: jump there, then drag on from the thumb's middle
+        scrollToThumb(p - grab);
+      }
+      b.bar.classList.add('is-dragging');
+      b.bar.setPointerCapture(e.pointerId);
+    });
+    b.bar.addEventListener('pointermove', (e) => {
+      if (grab === null) return;
+      scrollToThumb(along(e) - grab);
+    });
+    const end = () => {
+      if (grab === null) return;
+      grab = null;
+      b.bar.classList.remove('is-dragging');
+      scheduleRender(80);
+    };
+    b.bar.addEventListener('pointerup', end);
+    b.bar.addEventListener('pointercancel', end);
+    b.bar.addEventListener('lostpointercapture', end);
+  }
+
+  vp.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update);
+  // zoom, page loads and the thumbnail panel all change the scroll size or the viewport
+  const ro = new ResizeObserver(update);
+  ro.observe(vp);
+  ro.observe(el.pages);
+  update();
+}
+
 /* Ctrl/⌘ + wheel and trackpad pinch both arrive as wheel events with ctrlKey
  * set; plain wheel is left to the scroll container. */
 function bindWheelZoom() {
@@ -1296,6 +1411,7 @@ async function boot() {
   bindKeys();
   bindFind();
   bindPanning();
+  bindScrollbars();
   bindWheelZoom();
   bindPinch();
 

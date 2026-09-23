@@ -313,7 +313,54 @@
   /* Vertical panning by touch is the scroll container's job; pinch-zoom is
      handled in JS so the two never fight. */
   touch-action: pan-x pan-y;
-  scrollbar-color: #4a4136 var(--stage);
+  /* The reader draws its own scrollbars (.sbar, bindScrollbars in reader.js):
+     click-to-jump, and no fight with the hand tool. */
+  scrollbar-width: none;
+}
+
+.viewport::-webkit-scrollbar {
+  display: none;
+}
+
+.sbar {
+  position: absolute;
+  z-index: 5;
+  touch-action: none;
+  user-select: none;
+  cursor: default;
+}
+
+.sbar[hidden] {
+  display: none;
+}
+
+.sbar:hover,
+.sbar.is-dragging {
+  background: rgb(0 0 0 / 0.16);
+}
+
+.sbar-thumb {
+  position: absolute;
+  border-radius: 7px;
+  background: #4a4136;
+}
+
+.sbar-y .sbar-thumb {
+  left: 3px;
+  right: 3px;
+}
+
+.sbar-x .sbar-thumb {
+  top: 3px;
+  bottom: 3px;
+}
+
+.sbar:hover .sbar-thumb {
+  background: #5e5344;
+}
+
+.sbar.is-dragging .sbar-thumb {
+  background: #75685a;
 }
 
 .viewport.is-grabbable {
