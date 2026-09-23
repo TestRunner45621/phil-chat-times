@@ -8,9 +8,9 @@ Style Guide:
 
 1. Quotes should be plentiful, but try to avoid just continous strings of quotes.
 
-2. Time/Dates should be given as a newspaper would recount when an event takes place. Like, "Late Saturday evening, Billy Bob said...".
+2. Time/Dates should be given as a newspaper would recount when an event takes place. Say the day and the time, briefly and precisely: "Wednesday, 9:46 p.m.", "Aura, 9:48 p.m.:", "FROM JAMBE · 9:49 P.M.". Clock times are economical, and with pages built around pictures and graphics there is less room for text, so this is preferred over the longer part-of-day form ("Late Saturday evening, Billy Bob said..."). That form is still available when a sentence reads better with it. (Changed by the editor, 23 Sep 2026, after Vol I No 10: "the way you have it now is better and more economical considering there's less text space due to the visuals".)
 
-All timestamps in the chat logs are UTC. Convert to US Eastern before writing any dateline or part-of-day
+All timestamps in the chat logs are UTC. Convert to US Eastern before writing any dateline, clock time or part-of-day
 
 3. Clean up the grammar in the quotes like a newspaper might, unless keeping misspellings or the base message would make for a good punchline or humorous moment. So instead of "u suk", it's "You suck". Try to recount conversation like a newspaper would recount dialogue of people speaking in a physical room.
 
@@ -61,7 +61,7 @@ Structural Rules:
 
 *Remember to look over your writing to make sure you're following these writing suggestions as much as you can.
 
-Agents are for reading the logs, not for writing or laying out. A page built by a subagent has no idea what is on the other twenty-eight, and the seams show.
+No subagents, at any stage: not for reading, not for writing, not for laying out. A page built by a subagent has no idea what is on the other twenty-eight, and the seams show. A burst of reader agents hits the usage limit all at once and loses whatever it had not saved, which happened. The reading is split across sessions instead. See THE PIPELINE.
 
 
 Most of the reactions are Discord custom emoji, which show up as named tokens like :KEKW: rather than as pictures. A rough decoder:
@@ -474,7 +474,7 @@ PRODUCTION:
 
 Write those chunks into a "working" folder inside that log's own folder — so the 8.6 log's splits live in Chat Logs/8.6 Chat Log/working/. Name them by the day they cover (07-30.md, 07-31.md, and so on). Each log keeps its own working folder; don't pool splits from different logs together, and don't put them at the top level of Phil Chat Times.
 
-If a working folder is already there from an earlier session, read what's in it instead of re-splitting.
+If a working folder is already there from an earlier session, read what's in it instead of re-splitting. tools/pipeline.js does the split itself when it starts an edition.
 
 Between the split and the writing, the paper reaches out. The night the log closes, the correspondent's questions go out — written on disk with tools/correspondent.js, sent from the browser by Correspondent Bot on the correspondent account (projects/correspondent-bot; read its README and RUNBOOK). Follow-ups at 48 hours; the final export of replies just before writing. The paper waits for its sources: budget three days. The replies land in the log folder as correspondent/replies.md — see SOURCES for how they are quoted.
 
@@ -491,6 +491,91 @@ The say is ultimately yours. Use your judgment. If a story should be revised, re
 And go to the chat logs regardless. A pitch doc is never a replacement for reading them. Read all the day files in the working folder, in full, before you write — not just the parts the pitch happens to quote. Verify every quote against the log itself in its real context rather than copying it out of the pitch, because context changes what a line means and a pitch is written from a single pass through the material. It will have gaps. Some of the best material in any given week will still be sitting in the logs unmentioned, and the only way to find it is to go back through them yourself.
 
 Treat the quotes in a pitch as leads pointing at where something happened, not as the source.
+
+THE PIPELINE — ONE PHASE PER SESSION
+
+An edition used to be made in one or two long sessions, and for most of their turns they carried half a million tokens of context or more: the whole week's log sat behind every page being written. Every model tested gets less reliable as its input grows, and worst of all when the extra text looks like what it is hunting for. A week of chat is exactly that, for a paper made of who said what. Then the session compacted itself at whatever moment it filled, twice in the middle of building Vol IX. So an edition is now made in phases, each in a fresh session, and the only thing that passes from one to the next is on disk.
+
+The phases, in order. A session does the one phase HANDOFF.md names as NEXT and nothing from a later one.
+
+  READ, in several sessions, each with its days named in HANDOFF.md. These are the only sessions
+  that read the log whole. Read your days in full, every message. Look at every picture, which
+  tools/imgsheet.js makes affordable: it lays a day's pictures out twelve to a numbered sheet, with a
+  key saying who posted each one, when, and what it drew. Open full size anything that might run.
+  Then write it down for sessions that will never see the log:
+    notes/read-<first day>-<last day>.md: the leads, each with its day, time and @handle, so that
+      day.js can find the spot again; the lines worth printing; briefs and one-offs; what the room
+      piled onto; and what a lead would need to become a story.
+    notes/images.md: every picture worth considering, with its file, day and time, who posted it,
+      its reactions, what it actually shows (from having opened it), and what it could do on a page.
+    notes/threads.md: storylines that run across days. Read it before you start and add to it.
+  Do not plan pages. That is the next session's job, done with every day in view.
+
+  PLAN, in one session. It reads the notes, not the log; day.js and person.js are for checking a
+  lead, not for reading whole days again. It also reads correspondent/replies.md where there is one.
+  It chooses the stories and draws THE FLATPLAN in notes/flatplan.md: every page, its shape, and
+  the stories, leads, pictures and built graphics on it. Every lead is given to one page only. It
+  designs the issue (DESIGN, THE LOOK) and writes parts/00-head.html with the type, palette and
+  furniture. Last, it splits the pages into BUILD batches of four to six pages (fewer where the pages
+  carry built graphics) and writes them into HANDOFF.md as BUILD 1/N, BUILD 2/N and so on.
+
+  BUILD, one session per batch. It reads the flatplan, the notes for its own pages and 00-head.html.
+  It re-reads the log around every lead with day.js or person.js before writing it, because the
+  notes are signposts and not sources, and a quote read in its context is a different quote. It opens
+  every picture before captioning it. It builds, measures and renders after each page (OUTPUT) and
+  reads its own page PNGs. It looks at the contact sheet to keep its pages from repeating the shapes
+  already built, and does not open another batch's HTML. It writes every quote and picture it printed
+  to notes/used.md, so no later page runs them twice, and records any change to the flatplan in
+  HANDOFF.md.
+
+  REVIEW, in one fresh session, or more if the fixes run long. It built nothing, and that is the point:
+  it sees the pages the way the reader will. It builds the whole issue, runs fill.js --all and
+  shapes.js, and reads the contact sheet and then every page PNG in order. It checks every printed
+  quote against the log. It checks every page against this file: THE BAR, the flatplan's floors, the
+  style constraints, the names. It writes what it found to notes/review.md, fixes it, renders again,
+  and sets STATUS: READY TO PUBLISH.
+  The editor keeps a before-and-after of every review, in case a fix needs putting back. Before REVIEW
+  touches anything, the issue (parts/, img/, issue.html, issue.pdf, issue.txt, the contact sheet) is
+  copied to review/1 before. When the edition turns READY TO PUBLISH it is copied to review/1 after,
+  with changes.html: every changed page before and after side by side, the words cut and added, and
+  notes/review.md in full as REVIEW's own account. So notes/review.md must list every change REVIEW
+  makes, one line each: the page number, what changed, and why ("p18: cut the second Jambe line; the
+  column ran 0.2in over"). The editor reads it to decide what to put back, so leave nothing out,
+  including small ones. tools/review-snapshot.js does this, and pipeline.js
+  and the session hooks run it by themselves. If you are starting REVIEW and there is no
+  review/N before, run `node tools/review-snapshot.js "<edition>" before` first. A later review makes
+  2 before and 2 after. Never edit or delete a snapshot, and don't grep it for quotes: it holds copies.
+
+  PUBLISH is the editor's call. No session commits, pushes, or copies anything out of the folder until
+  told to.
+
+HANDOFF.md, in the edition folder, is the pipeline's memory. Its head says STATUS (RUNNING, BLOCKED,
+or READY TO PUBLISH) and NEXT (one phase). Below that come the editor's notes, the list of phases, "For
+the next session", and a session log. Every session reads it first and updates it last. Tick the
+phase, set NEXT, and write down what the next session needs: where things are, what was decided and
+why, and anything left half done. Keep it short, because every session reads it. The notes carry the
+material and HANDOFF.md carries the state.
+
+A session hands off at about 400k tokens of context, whatever phase it is in. The context meter, a
+hook in .claude/settings.json, says when. When it does, finish the item in hand, save, write into
+HANDOFF.md exactly where you stopped, leave NEXT on the unfinished phase, and end. A new session costs
+a few minutes. Carrying on costs the rest of the phase.
+
+Nobody is at the keyboard during a pipeline session, so it cannot ask the editor anything. Decide,
+write the decision and the reason into HANDOFF.md, and carry on. Set STATUS: BLOCKED, with the
+question, only for something a wrong guess would ruin.
+
+Running it:
+  node tools/pipeline.js "<edition folder>" --log "<log folder>"   starts an edition and runs it
+  node tools/pipeline.js "<edition folder>"                         resumes one
+  node tools/pipeline.js "<edition folder>" --status                where it stands
+Each phase runs as its own `claude -p` session, one after another, and every one of them is Opus 5.5
+at extra-high effort. pipeline.js pins both, because the visuals came out poorly even at high effort.
+A phase run by hand follows the same rule. The script waits out usage limits
+and stops at READY TO PUBLISH, or at BLOCKED with the question in HANDOFF.md. To run a phase by hand
+instead, open Claude Code in this folder and say "do the next phase"; after /clear, the handoff loader
+puts HANDOFF.md in front of the new session by itself. The pipeline starts once the correspondent's
+replies are in (see PRODUCTION 1).
 
 
 

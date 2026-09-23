@@ -93,8 +93,41 @@
     return asg;
   }
 
+  // A baked flow (data-pack-plan, written by tools/pack-bake.js from Chrome's own packing) is laid out as real side-by-side
+  // columns, not CSS multicol with forced column breaks: Firefox ignores break-before:column, so there every box piled
+  // into the first column and the flow grew off the page. The plan holds each box's written index (data-pack-order).
+  function bake(flow, kids) {
+    var plan; try { plan = JSON.parse(flow.getAttribute('data-pack-plan')); } catch (e) { return false; }
+    var cs = getComputedStyle(flow), n = plan.cols.length, byIx = {};
+    kids.forEach(function (el, i) { byIx[i] = el; });
+    var gap = parseFloat(cs.columnGap); if (isNaN(gap)) gap = parseFloat(cs.fontSize) || 16; // 'normal' is 1em
+    var rw = parseFloat(cs.columnRuleWidth) || 0, rs = cs.columnRuleStyle, rc = cs.columnRuleColor;
+    flow.style.columns = 'auto'; flow.style.display = 'flex'; flow.style.flexDirection = 'row';
+    flow.style.alignItems = 'stretch'; flow.style.columnGap = gap + 'px'; flow.style.rowGap = '0';
+    plan.cols.forEach(function (list, c) {
+      var w = document.createElement('div');
+      w.className = 'pack-col';
+      w.style.cssText = 'flex:1 1 0;min-width:0;position:relative;display:flow-root';
+      if (c > 0 && rw > 0 && rs !== 'none' && rs !== 'hidden') {
+        var r = document.createElement('div');
+        r.style.cssText = 'position:absolute;top:0;bottom:0;left:' + (-(gap + rw) / 2) + 'px;border-left:' + rw + 'px ' + rs + ' ' + rc;
+        w.appendChild(r);
+      }
+      list.forEach(function (ix) { var el = byIx[ix]; if (el) { el.style.breakBefore = ''; el.style.display = ''; w.appendChild(el); } });
+      if (c === n - 1 && plan.tail != null && byIx[plan.tail]) w.appendChild(byIx[plan.tail]);
+      flow.appendChild(w);
+    });
+    (plan.hide || []).forEach(function (ix) { if (byIx[ix]) byIx[ix].style.display = 'none'; });
+    flow.setAttribute('data-pack-done', '');
+    flow.setAttribute('data-pack-report', n + ' cols · boxes ' + plan.cols.map(function (l) { return l.length; }).join('/') +
+      ' · baked (tools/pack-bake.js); run it with --clear before editing this page');
+    return true;
+  }
+
   function pack(flow) {
+    if (flow.hasAttribute('data-pack-done')) return; // baked on the first pass; the fonts.ready pass has nothing to do
     var kids = Array.prototype.slice.call(flow.children).filter(function (el) { return el.tagName !== 'SCRIPT' && el.tagName !== 'STYLE'; });
+    if (flow.hasAttribute('data-pack-plan') && bake(flow, kids)) return;
     // remember the written order on the first pass, so a second pass (after fonts load) starts from it too
     kids.forEach(function (el, i) { if (!el.hasAttribute('data-pack-order')) el.setAttribute('data-pack-order', i); });
     kids.sort(function (p, q) { return p.getAttribute('data-pack-order') - q.getAttribute('data-pack-order'); });

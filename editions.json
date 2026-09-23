@@ -1,6 +1,6 @@
 {
   "title": "The Phil Chat Times",
-  "generated": "2026-09-15T19:58:52.084Z",
+  "generated": "2026-09-23T19:55:30.041Z",
   "editions": [
     {
       "slug": "vol-1-no-1",
@@ -154,6 +154,23 @@
       "thumb": "editions/vol-1-no-9/thumb.jpg",
       "bytes": 5429823,
       "sourceFile": "Vol I No 9 - 2026-09-15.pdf"
+    },
+    {
+      "slug": "vol-1-no-10",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 10,
+      "date": "2026-09-22",
+      "title": "Vol I No 10",
+      "headline": "HE REPORTED HIMSELF. Eight months, as typed. Sixty-nine hours, as served.",
+      "pages": 36,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-10/edition.pdf",
+      "cover": "editions/vol-1-no-10/cover.jpg",
+      "thumb": "editions/vol-1-no-10/thumb.jpg",
+      "bytes": 30233001,
+      "sourceFile": "Vol I No 10 - 2026-09-22.pdf"
     }
   ],
   "upcoming": []

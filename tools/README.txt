@@ -7,11 +7,53 @@ compact day files from the 8.28 log on, and the older per-message form before it
 If the format changes again, that is the only file that has to change.
 
 
+RUNNING AN EDITION
+
+  pipeline.js   Makes the edition as a chain of fresh sessions, one phase each:
+                READ (several), PLAN, BUILD (several), REVIEW. See THE PIPELINE in
+                Style.txt. The first run splits the log if needed, batches the days
+                into read sessions by size, and writes the edition's HANDOFF.md.
+                After that, each phase is its own `claude -p` run, and HANDOFF.md is
+                the only thing that passes between them. It waits out usage limits,
+                stops at READY TO PUBLISH or BLOCKED, and never commits. Each run's
+                full stream is saved in <edition>/pipeline/, with a summary in
+                pipeline.log.
+                  node tools/pipeline.js "<edition>" --log "<log>" [--days 09-15,09-16] [--note "…"]
+                  node tools/pipeline.js "<edition>"            (resume)
+                  node tools/pipeline.js "<edition>" --status
+
+  review-snapshot.js  Keeps the issue before and after each REVIEW, so the editor can
+                have a fix put back: <edition>/review/1 before, 1 after (with
+                changes.html: pages side by side, the word diff, review.md). pipeline.js and the hooks
+                run it; by hand:
+                  node tools/review-snapshot.js "<edition>" before|after|report
+
+  hooks/        Wired up in .claude/settings.json at the top of the working folder,
+                so they load in any session started there, by hand or by
+                pipeline.js. They stay silent unless an edition's HANDOFF.md calls
+                for them. Each finds its own session's edition (own-handoff.js), so
+                two editions can run side by side.
+                context-meter.js tells a session to wrap up and hand off once it
+                passes 400k tokens of context (PCT_CONTEXT_CEILING changes that).
+                handoff-context.js puts HANDOFF.md in front of a session after
+                /clear or a compaction.
+                review-snapshot-hook.js takes the before snapshot when a session
+                starts on REVIEW, and the after one when a session ends with the
+                edition READY TO PUBLISH.
+
+
 READING THE WEEK
 
   split.js      debate-log.md -> working/MM-DD.md, one compact line per message,
                 Eastern time, plus the index files. Run once. If working/ is
                 already there, it has been run: read it, do not re-split.
+
+  imgsheet.js   A day's pictures as numbered contact sheets, twelve to a sheet,
+                with a key giving who posted each one, when, its reactions, and the
+                line it came with. Reading a sheet costs about as much as opening one
+                picture, so a read session can see all of them. Open a picture full
+                size before you caption it.
+                  node tools/imgsheet.js "<log>" 09-15 09-16
 
   reacted.js    The room's own highlight reel — every message at N+ reactions,
                 sorted by total. Counts are summed, so ten emotes at x2 outranks
