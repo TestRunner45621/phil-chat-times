@@ -2,7 +2,7 @@
 // Style.txt). Every phase is its own `claude -p` run, so no session carries the one before it:
 // HANDOFF.md in the edition folder is the only thing that passes between them.
 //
-//   node tools/pipeline.js "<edition folder>" --log "<log folder>" [--days 09-15,09-16] [--note "…"]
+//   node tools/pipeline.js "<edition folder>" --log "<log folder>" [--days 09-15,09-16] [--note "…" | --note-file <file>]
 //        first run: writes the edition's HANDOFF.md with the read batches, then runs
 //   node tools/pipeline.js "<edition folder>"            resume from HANDOFF.md
 //   node tools/pipeline.js "<edition folder>" --status   where it stands, and the run log
@@ -37,7 +37,9 @@ const statusOnly = flag('--status');
 const once = flag('--once');
 const logArg = value('--log');
 const daysArg = value('--days');
-const note = value('--note');
+// --note-file reads the editor's notes from disk: PowerShell 5.1 cuts a --note at its first embedded double quote.
+const noteFile = value('--note-file');
+const note = noteFile ? fs.readFileSync(noteFile, 'utf8').trim() : value('--note');
 // Every session is Opus 5.5 at extra-high effort, whatever settings.json says: the editor's order,
 // because the visuals came out poorly even at high. The 1M window lets a session run to the meter.
 const MODEL = 'claude-opus-5-5[1m]';

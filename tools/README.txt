@@ -119,7 +119,8 @@ REACHING OUT
 BUILDING THE PAPER
 
   build.js      parts/*.html -> issue.html. One file per page; this concatenates
-                them and inlines the nameplate font and the measuring script.
+                them and inlines the nameplate font, the Firefox font fallback,
+                the box packer and the measuring script.
 
   fill.js       Measures every column of the built HTML and reports short
                 columns, holes, and copy silently clipped into a hidden column.
@@ -141,6 +142,16 @@ BUILDING THE PAPER
                 break-before:column). Build first; build, fill and render after.
                 --clear removes the plans before a baked page is edited.
                   node tools/pack-bake.js "<edition>" [--clear]
+
+  font-fallback.js  Inlined by build.js ahead of the packer. Firefox has no font
+                named "Bahnschrift Condensed", so without this every condensed
+                headline sets 17% wide in the HTML and tight boxes overflow
+                (Vol I No 11, p.3). Where that face is missing it switches those
+                elements to Bahnschrift at font-stretch 87.5%, which measures the
+                same as Chrome's face. In Chrome it does nothing, so the PDF can't
+                change. A box that only just fits in Chrome can still spill in
+                Firefox: fix it inside @supports (-moz-appearance:none){...}, which
+                Chrome ignores, and check that the Chrome renders are unchanged.
 
   pack-snippet.js  The box packer, which build.js inlines. Put data-pack on a .flow
                 of fenced boxes (notices, briefs, letters) and it deals the boxes into

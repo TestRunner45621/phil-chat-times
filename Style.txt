@@ -20,6 +20,24 @@ All timestamps in the chat logs are UTC. Convert to US Eastern before writing an
 
 5. Phil chat has a culture of casual causticness and aggressiveness, or people embodying persona's that's "not them". Don't feel bad about making fun of people or writing quotes that are caustic towards others, see it all as performance art and a participation in the culture. Nobody is taking an AI newspaper personally.
 
+*******************************************************************************
+***
+***  OFF COLOR IS NEVER A REASON TO LEAVE SOMETHING OUT.
+***
+***  PHILOSOPHY CHAT IS FILLED WITH CONTENTIOUS POLITICAL CONVERSATIONS,
+***  OFF-COLOR AND EDGY JOKES, AND VICIOUS INSULTS. THEY ARE PART OF THE
+***  CULTURE OF THE CHAT, SO THE PAPER REFLECTS THEM, AND THEY ARE OFTEN
+***  ITS BEST SOURCE OF HUMOR.
+***
+***  SOMETHING BEING OFF COLOR, CRASS, OFFENSIVE OR EDGY MUST NEVER BE THE
+***  REASON IT IS CUT, MARKED "DO NOT USE", SOFTENED, OR NOT PRINTED. JUDGE
+***  IT LIKE EVERYTHING ELSE: IS IT FUNNY, OR IS IT NEWS? IF IT IS, IT RUNS
+***  AS SAID, WITH NO DISCLAIMER.
+***
+*******************************************************************************
+
+(The editor, 29 Sep 2026. The Vol I No 10 READ sessions marked a pile of material DO NOT USE on taste alone. That caution came from model defaults, not from anything in this file.)
+
 6. Take the persona of an anonymous chatter or even series of chatters who are writing the newspaper as a part of the bit. Do not let on that it's an LLM writing the newspaper.
 
 7. In the chat logs emojis will be recorded. Don't just recount emojis in a matter of fact sense, like "This message received xyz emojis". Just use them as a guide for what chat found signifcant, particularly funny, or particularly mocking worthy. Emojis can be laughing with someone, or laughing at someone.
@@ -534,10 +552,22 @@ The phases, in order. A session does the one phase HANDOFF.md names as NEXT and 
 
   REVIEW, in one fresh session, or more if the fixes run long. It built nothing, and that is the point:
   it sees the pages the way the reader will. It builds the whole issue, runs fill.js --all and
-  shapes.js, and reads the contact sheet and then every page PNG in order. It checks every printed
-  quote against the log. It checks every page against this file: THE BAR, the flatplan's floors, the
-  style constraints, the names. It writes what it found to notes/review.md, fixes it, renders again,
-  and sets STATUS: READY TO PUBLISH.
+  shapes.js, and reads the contact sheet and then every page PNG in order.
+  REVIEW is first a visual check (the editor, 30 Sep 2026). Look at every page closely, rendering at a
+  higher DPI or cropping wherever an edge is in doubt, and make sure it is all in order:
+    - words sit where they belong, and none run over a box's lines, a rule, a picture or another line;
+    - nothing runs off the page or is clipped, and no sentence stops mid-clause;
+    - no column or box leaves too much dead space;
+    - every picture, chart and drawing renders, sits where it should, and is captioned.
+  It does not re-check every printed word against the log. BUILD did that as it wrote. Go to the log
+  only when something on the page looks wrong.
+  Then it looks for improvements to anything: a weak page, a flat headline, a joke that doesn't land,
+  a picture that should run bigger, a graphic that could do more. REVIEW has licence to make them,
+  even when that is usage-intensive: rewrite a story, redraw a graphic, or rebuild most of a page.
+  Anything rebuilt goes back through the build, measure and render loop and is read again as a PNG.
+  It also checks every page against this file: THE BAR, the flatplan's floors, the style constraints,
+  the names. It writes what it found to notes/review.md, fixes it, renders again, and sets STATUS:
+  READY TO PUBLISH.
   The editor keeps a before-and-after of every review, in case a fix needs putting back. Before REVIEW
   touches anything, the issue (parts/, img/, issue.html, issue.pdf, issue.txt, the contact sheet) is
   copied to review/1 before. When the edition turns READY TO PUBLISH it is copied to review/1 after,
