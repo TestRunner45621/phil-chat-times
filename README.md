@@ -125,11 +125,11 @@ verbatim rather than guessed at.
 
 `tools/` holds the programs that turn a week of Discord into an issue, and
 `Style.txt` is the style guide they serve — register, layout rules, the names
-legend, the production checklist. `docs/memory/` is the record of what has been
-printed: character profiles, running stories, factoids checked against the logs,
-and the style lessons the readership has handed down. It is written after an
-issue ships and deliberately not read before one — each issue is built from its
-own week of logs and nothing else.
+legend, the production checklist. The editorial memory, kept privately in the
+newsroom, is the record of what has been printed: character profiles, running
+stories, factoids checked against the logs, and the style lessons the readership
+has handed down. It is written after an issue ships and deliberately not read
+before one — each issue is built from its own week of logs and nothing else.
 
 An issue starts as a single flat export, twenty-odd thousand messages with no
 structure beyond timestamps. The problem is never finding *something* to print. It

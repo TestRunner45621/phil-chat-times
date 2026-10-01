@@ -11,9 +11,10 @@ the masthead standard, print-CSS rules, dead space, the names legend, continuity
 between issues. Read it before writing or laying out an issue. It is the single
 source; do not restate its rules in other files, because two copies drift.
 
-`docs/memory/` is the record of what has been printed: character profiles,
+The editorial memory is the record of what has been printed: character profiles,
 running stories, factoids checked against the logs, style lessons from the
-readership. **It is written after an issue ships and is not read before one.**
+readership. It lives in the private newsroom repository, in `docs/memory/`, not
+here. **It is written after an issue ships and is not read before one.**
 That is deliberate. An issue is built from one week of chat logs and nothing
 else, because a paper written against an accumulating file of everything it has
 already said converges on itself, and because loading it costs the context the
