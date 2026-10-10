@@ -188,6 +188,23 @@
       "thumb": "editions/vol-1-no-11/thumb.jpg",
       "bytes": 73596352,
       "sourceFile": "Vol I No 11 - 2026-09-29.pdf"
+    },
+    {
+      "slug": "vol-1-no-12",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 12,
+      "date": "2026-10-08",
+      "title": "Vol I No 12",
+      "headline": "Skin detective struck off after parking-lot case",
+      "pages": 42,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-12/edition.pdf",
+      "cover": "editions/vol-1-no-12/cover.jpg",
+      "thumb": "editions/vol-1-no-12/thumb.jpg",
+      "bytes": 67470771,
+      "sourceFile": "Vol I No 12 - 2026-10-08.pdf"
     }
   ],
   "upcoming": []
