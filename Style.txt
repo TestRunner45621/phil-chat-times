@@ -381,6 +381,8 @@ single issue.html, rendered to PDF, then rasterised so it can be looked at:
   node tools/fill.js "<edition>/issue.html" --all        measures every column
   DPI=100 bash tools/render.sh "<edition>/issue.html"    -> issue.pdf, pages/page-NN.png, issue.txt, pages/sheet.png
   node tools/shapes.js "<edition>/issue.html"            silhouette of every page, sameness flags
+  bash tools/check.sh "<edition>" <part.html> [dpi]      one page built, measured and rendered in seconds (the
+                                                         working loop; --all for the whole issue, CROP= for a close look)
 
 Build, measure, render, read the renders — after every substantive edit, not once
 at the end. One page per file is what makes that loop cheap: a bad page gets
@@ -586,11 +588,14 @@ The phases, in order. A session does the one phase HANDOFF.md names as NEXT and 
   told to.
 
 HANDOFF.md, in the edition folder, is the pipeline's memory. Its head says STATUS (RUNNING, BLOCKED,
-or READY TO PUBLISH) and NEXT (one phase). Below that come the editor's notes, the list of phases, "For
-the next session", and a session log. Every session reads it first and updates it last. Tick the
-phase, set NEXT, and write down what the next session needs: where things are, what was decided and
-why, and anything left half done. Keep it short, because every session reads it. The notes carry the
-material and HANDOFF.md carries the state.
+or READY TO PUBLISH) and NEXT (one phase). Below that come the editor's notes, the list of phases,
+"Standing decisions", "For the next session", and a session log. Every session reads it first and
+updates it last. Tick the phase, set NEXT, and replace the note under "For the next session" with what
+the next session needs: where things are, what was decided and why, and anything left half done.
+Anything every later session must keep (page numbering, ids, cross-page choices) goes under "Standing
+decisions", one short line each. Keep it short, because every session carries it through every turn:
+pipeline.js files replaced notes and old log lines in HANDOFF-history.md. The notes carry the material
+and HANDOFF.md carries the state.
 
 A session hands off at about 400k tokens of context, whatever phase it is in. The context meter, a
 hook in .claude/settings.json, says when. When it does, finish the item in hand, save, write into

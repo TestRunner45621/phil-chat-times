@@ -140,6 +140,10 @@ ${reads.join('\n')}
 - [ ] REVIEW — a fresh session that built nothing checks the whole issue and fixes it
 - [ ] PUBLISH — the editor's call. No session commits, pushes or copies out of the folder unasked.
 
+## Standing decisions
+
+(none yet: one short line each for anything every later session must keep, such as page numbering, ids and cross-page choices)
+
 ## For the next session
 
 Nothing yet. READ 1/${n} starts from the day files in ${rel(working)}.
@@ -160,8 +164,8 @@ Handoff file: ${HANDOFF}
 
 1. Read Instructions/Style.txt in full, then Instructions/NAMES.txt, then the handoff file. THE PIPELINE in Style.txt says what each phase does and reads.
 2. Do the phase the handoff file names as NEXT, and only that phase. Do not start the next one, even if there is room.
-3. Save your work to disk as you go, so an interruption loses nothing.
-4. Before you end, update the handoff file: tick the phase if it is finished, set NEXT, write what the next session needs under "For the next session" (where things are, what you decided and why, anything half done), and add one line to the Session log.
+3. Save your work to disk as you go, so an interruption loses nothing. Each turn re-reads the whole conversation, so make independent tool calls together in one turn (several reads, greps or checks at once) rather than one per turn.
+4. Before you end, update the handoff file: tick the phase if it is finished, set NEXT, and replace the note under "For the next session" with yours (where things are, what you decided and why, anything half done); pipeline.js files the old note in HANDOFF-history.md, so don't keep it. Anything every later session must keep (page numbering, ids, cross-page choices) goes under "Standing decisions", one short line each. Add one line to the Session log.
 5. If the context meter tells you to wrap up, stop at a clean point, record exactly where you stopped, leave NEXT on the unfinished phase, and end.
 6. Never commit, push, publish, or copy anything out of the working folder. If REVIEW finishes, set STATUS: READY TO PUBLISH and stop there.
 7. If something only the editor can settle would be ruined by a wrong guess, set STATUS: BLOCKED, write the question under "For the next session", and end. Otherwise decide, write down the decision and the reason, and carry on.`;
@@ -179,6 +183,9 @@ function runSession(n, phase) {
     const env = { ...process.env };
     delete env.CLAUDECODE; // started from inside a Claude session is still a fresh session
     env.PCT_HANDOFF = HANDOFF; // the hooks' pointer to this edition when another is running beside it
+    // A subscription defaults to the 1-hour prompt cache, whose writes cost 2x input against 1.25x for 5 minutes.
+    // Pipeline turns come seconds apart (one gap over 5 min in all of Vol XII), so the long TTL buys nothing.
+    if (!env.CLAUDE_CODE_PROMPT_CACHE_TTL) env.CLAUDE_CODE_PROMPT_CACHE_TTL = '5m';
     const child = spawn('claude', args, { cwd: ROOT, env, windowsHide: true });
     const out = fs.createWriteStream(file);
     let buf = '', peak = 0, turns = 0, result = null, errText = '', aborted = null, hung = false;
@@ -254,6 +261,51 @@ const snap = (which) => {
   try { const s = snapshot(EDITION, which); if (s) say(s); } catch (e) { say(`review snapshot (${which}) failed: ${e.message}`); }
 };
 
+// Keep HANDOFF.md short: every session reads it and carries it through every turn. Sessions used to stack each note on
+// the ones before ("(History: ...)"), and Vol XII's "For the next session" reached 100 KB, about 6% of the issue's
+// usage. Before each session, the note the last session replaced, any "(History" tail, and all but the last 8 Session
+// log entries move to HANDOFF-history.md, which is on disk for any session that needs to look something up.
+const HISTORY = path.join(EDITION, 'HANDOFF-history.md');
+let lastNote = null;
+function section(text, name) {
+  const h = text.search(new RegExp(`^## ${name}[ \\t]*\\r?$`, 'm'));
+  if (h < 0) return null;
+  const start = text.indexOf('\n', h) + 1;
+  const m = text.slice(start).search(/^## /m);
+  const end = m < 0 ? text.length : start + m;
+  return { start, end, body: text.slice(start, end) };
+}
+function tidyHandoff() {
+  let text = fs.readFileSync(HANDOFF, 'utf8');
+  const moved = [];
+  const note = section(text, 'For the next session');
+  if (note) {
+    let body = note.body;
+    const prev = (lastNote || '').trim();
+    if (prev && body.trim() !== prev && body.includes(prev)) { moved.push(prev); body = body.replace(prev, ''); }
+    const h = body.search(/^\(History/m);
+    if (h > 0 && body.slice(0, h).trim()) { moved.push(body.slice(h).trim()); body = body.slice(0, h); }
+    body = '\n' + body.trim() + '\n\n';
+    text = text.slice(0, note.start) + body + text.slice(note.end);
+  }
+  const log = section(text, 'Session log');
+  if (log) {
+    const lines = log.body.split('\n');
+    const entries = lines.map((l, i) => (/^- /.test(l) ? i : -1)).filter((i) => i >= 0);
+    if (entries.length > 8) {
+      const cut = entries[entries.length - 8];
+      moved.push(lines.slice(0, cut).join('\n').trim());
+      text = text.slice(0, log.start) + '\n' + lines.slice(cut).join('\n') + text.slice(log.end);
+    }
+  }
+  if (moved.some((s) => s)) {
+    fs.appendFileSync(HISTORY, `\n## Filed ${stamp()}\n\n${moved.filter((s) => s).join('\n\n')}\n`);
+    fs.writeFileSync(HANDOFF, text);
+  }
+  lastNote = (section(text, 'For the next session') || {}).body || '';
+  if (lastNote.length > 15000) say(`note: "For the next session" is ${Math.round(lastNote.length / 1024)} KB; sessions should replace it, not add to it`);
+}
+
 // ---------------------------------------------------------------------------- main
 (async () => {
   if (!fs.existsSync(HANDOFF)) {
@@ -272,6 +324,7 @@ const snap = (which) => {
   let stalls = 0, samePhase = 0, lastPhase = null, failingSince = null, filtered = 0;
 
   for (;;) {
+    try { tidyHandoff(); } catch (e) { say(`tidying HANDOFF.md failed (carrying on): ${e.message}`); }
     const h = readHandoff();
     if (h.status === 'READY TO PUBLISH') { snap('after'); say('READY TO PUBLISH. Stopping before any commit; publishing is the editor\'s call.'); return; }
     if (h.status === 'BLOCKED') { say(`BLOCKED — see "For the next session" in ${rel(HANDOFF)}. Fix it, set STATUS: RUNNING, and run this again.`); process.exit(3); }

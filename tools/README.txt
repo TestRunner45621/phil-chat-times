@@ -167,6 +167,16 @@ BUILDING THE PAPER
                 contact sheet pages/sheet.png.
                   DPI=100 bash tools/render.sh "<edition>/issue.html"
 
+  check.sh      The BUILD loop in one call, with short output: build, fill.js,
+                render. With a part file it builds a mini edition of that page
+                alone (00-head + part + 99-furniture, in <edition>/scratch/check/)
+                and renders it as page 1 in about five seconds; with --all it does
+                the whole issue and shows only the fill lines matching a pattern.
+                CROP="x y w h" also writes a close-up of that pixel region.
+                  bash tools/check.sh "<edition>" 17-willow.html [dpi]
+                  bash tools/check.sh "<edition>" --all "p-willow|p-markets" [dpi]
+                  CROP="0 0 600 300" bash tools/check.sh "<edition>" 26-markets.html 200
+
   sheet.js      The whole issue as one image, eight pages across. Reading pages one
                 at a time catches a bad page; only the sheet shows twenty pages that
                 are the same page. render.sh runs it; run it alone on any pages/.
