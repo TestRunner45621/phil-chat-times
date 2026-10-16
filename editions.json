@@ -205,6 +205,23 @@
       "thumb": "editions/vol-1-no-12/thumb.jpg",
       "bytes": 67470771,
       "sourceFile": "Vol I No 12 - 2026-10-08.pdf"
+    },
+    {
+      "slug": "vol-1-no-13",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 13,
+      "date": "2026-10-14",
+      "title": "Vol I No 13",
+      "headline": "Who Is Jack Zack?",
+      "pages": 30,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-13/edition.pdf",
+      "cover": "editions/vol-1-no-13/cover.jpg",
+      "thumb": "editions/vol-1-no-13/thumb.jpg",
+      "bytes": 58697544,
+      "sourceFile": "Vol I No 13 - 2026-10-14.pdf"
     }
   ],
   "upcoming": []
