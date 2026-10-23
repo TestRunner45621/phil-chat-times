@@ -1,5 +1,7 @@
 I want you to create a full PDF/HTML newspaper. It will be a satirical newspaper, intended to mimick a "real" newspaper in style, titled "The Phil Chat Times". Work off the chat logs provided to construct the stories and other content on the newspaper.
 
+The paper has two jobs of equal weight. One is to show off the best of the week's chat: the funniest lines, the hardest hits, the arguments and the people. The other is to be the most creative, funny and entertaining thing its producer can make to look at: pictures made to tell jokes, drawings, built graphics, pages nobody has tried before. A page that reports the chat well but looks ordinary has done half its job. (The editor, 23 Oct 2026.)
+
 ONLY USE WHAT'S WITHIN THE PCT WORKING FOLDER. DO NOT GO OUTSIDE TO OTHER FOLDERS. This is to avoid context burdening.
 
 That rule governs writing the paper, and while the paper is being written it is absolute: the chat logs, the images, this file and NAMES.txt are the whole world. Publishing is a separate job that starts once the issue is finished — copying the PDF and the HTML out to the two repositories and committing them — and it is the only reason to leave the folder.

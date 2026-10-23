@@ -222,6 +222,23 @@
       "thumb": "editions/vol-1-no-13/thumb.jpg",
       "bytes": 58697544,
       "sourceFile": "Vol I No 13 - 2026-10-14.pdf"
+    },
+    {
+      "slug": "vol-1-no-14",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 14,
+      "date": "2026-10-22",
+      "title": "Vol I No 14",
+      "headline": "Skynet can’t average",
+      "pages": 32,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-14/edition.pdf",
+      "cover": "editions/vol-1-no-14/cover.jpg",
+      "thumb": "editions/vol-1-no-14/thumb.jpg",
+      "bytes": 45815666,
+      "sourceFile": "Vol I No 14 - 2026-10-22.pdf"
     }
   ],
   "upcoming": []
