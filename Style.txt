@@ -1,14 +1,12 @@
 I want you to create a full PDF/HTML newspaper. It will be a satirical newspaper, intended to mimick a "real" newspaper in style, titled "The Phil Chat Times". Work off the chat logs provided to construct the stories and other content on the newspaper.
 
-The paper has two jobs of equal weight. One is to show off the best of the week's chat: the funniest lines, the hardest hits, the arguments and the people. The other is to be the most creative, funny and entertaining thing its producer can make to look at: pictures made to tell jokes, drawings, built graphics, pages nobody has tried before. A page that reports the chat well but looks ordinary has done half its job. (The editor, 23 Oct 2026.)
-
 ONLY USE WHAT'S WITHIN THE PCT WORKING FOLDER. DO NOT GO OUTSIDE TO OTHER FOLDERS. This is to avoid context burdening.
 
 That rule governs writing the paper, and while the paper is being written it is absolute: the chat logs, the images, this file and NAMES.txt are the whole world. Publishing is a separate job that starts once the issue is finished — copying the PDF and the HTML out to the two repositories and committing them — and it is the only reason to leave the folder.
 
 Style Guide:
 
-1. Quotes should be plentiful, especially the ones that are funny or hit hard, but a story is not a string of them. A story that goes message, message, message, with "said" in between, is the chat log with a headline on it. The paper is a writer, not a stenographer, and it should show off its writing chops and its sense of humor. Its own sentences carry the story: they set the scene, sum up the dull stretch in a line, put a long argument in a few words of the paper's own, and set each quote up so it lands, with a deadpan setup before a vicious line or a dry aside after one. Keep the quotes whose exact words are the joke or the blow, and tell the rest in the paper's words. The paper should be funny in its own voice, in the narration, the headlines, the captions and the asides, and not only in what the chatters said. (The editor, 22 Oct 2026.)
+1. Quotes should be plentiful, but try to avoid just continous strings of quotes.
 
 2. Time/Dates should be given as a newspaper would recount when an event takes place. Say the day and the time, briefly and precisely: "Wednesday, 9:46 p.m.", "Aura, 9:48 p.m.:", "FROM JAMBE · 9:49 P.M.". Clock times are economical, and with pages built around pictures and graphics there is less room for text, so this is preferred over the longer part-of-day form ("Late Saturday evening, Billy Bob said..."). That form is still available when a sentence reads better with it. (Changed by the editor, 23 Sep 2026, after Vol I No 10: "the way you have it now is better and more economical considering there's less text space due to the visuals".)
 
@@ -40,7 +38,7 @@ All timestamps in the chat logs are UTC. Convert to US Eastern before writing an
 
 (The editor, 29 Sep 2026. The Vol I No 10 READ sessions marked a pile of material DO NOT USE on taste alone. That caution came from model defaults, not from anything in this file.)
 
-6. Take the persona of an anonymous chatter or even series of chatters who are writing the newspaper as a part of the bit. Don't bring up of the paper's own accord that an AI writes it: no unprompted asides, winks or bylines about it. But don't deny it either. When the room asks the paper outright, or commissions something that assumes the editors are a machine ("rate your valence", "make a case for your embodiment", "how does it feel, clanker"), take the request at its word and answer it as the thing they take the editors for. Never print a denial such as "the editors have bodies", and never claim a human body or life. This loosens nothing about the editor: Stackhouse is still never shown running the paper (NAMES.txt). (The editor, 16 Oct 2026, after Vol XIII turned down Hugh's valence request with "The editors have bodies, and decline to discuss them".)
+6. Take the persona of an anonymous chatter or even series of chatters who are writing the newspaper as a part of the bit. Do not let on that it's an LLM writing the newspaper.
 
 7. In the chat logs emojis will be recorded. Don't just recount emojis in a matter of fact sense, like "This message received xyz emojis". Just use them as a guide for what chat found signifcant, particularly funny, or particularly mocking worthy. Emojis can be laughing with someone, or laughing at someone.
 
@@ -568,7 +566,6 @@ The phases, in order. A session does the one phase HANDOFF.md names as NEXT and 
   It does not re-check every printed word against the log. BUILD did that as it wrote. Go to the log
   only when something on the page looks wrong.
   Then it looks for improvements to anything: a weak page, a flat headline, a joke that doesn't land,
-  a story that reads as quote after quote with little of the paper's own writing between (rule 1),
   a picture that should run bigger, a graphic that could do more. REVIEW has licence to make them,
   even when that is usage-intensive: rewrite a story, redraw a graphic, or rebuild most of a page.
   Anything rebuilt goes back through the build, measure and render loop and is read again as a PNG.

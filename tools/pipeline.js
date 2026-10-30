@@ -212,7 +212,10 @@ function runSession(n, phase) {
           child.kill();
           continue;
         }
-        if (o.type === 'system' && o.subtype === 'init' && o.model !== model && model === MODEL) {
+        // From Claude Code 2.1.314 the init line names the 1M model without its [1m] tag (30 Oct 2026);
+        // the window is still 1M (a test session's result gave contextWindow 1000000), so compare without it.
+        const bare = (m) => String(m || '').replace(/\[1m\]$/i, '');
+        if (o.type === 'system' && o.subtype === 'init' && bare(o.model) !== bare(model) && model === MODEL) {
           aborted = `the session started on ${o.model}, not ${MODEL}. Every pipeline session is Opus 5.5.`;
           child.kill();
           continue;

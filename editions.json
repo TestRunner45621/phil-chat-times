@@ -239,6 +239,23 @@
       "thumb": "editions/vol-1-no-14/thumb.jpg",
       "bytes": 45815666,
       "sourceFile": "Vol I No 14 - 2026-10-22.pdf"
+    },
+    {
+      "slug": "vol-1-no-15",
+      "volume": 1,
+      "romanVolume": "I",
+      "number": 15,
+      "date": "2026-10-29",
+      "title": "Vol I No 15",
+      "headline": "Evil neuron pulls the lever, and means it",
+      "pages": 35,
+      "width": 612,
+      "height": 792,
+      "pdf": "editions/vol-1-no-15/edition.pdf",
+      "cover": "editions/vol-1-no-15/cover.jpg",
+      "thumb": "editions/vol-1-no-15/thumb.jpg",
+      "bytes": 85107400,
+      "sourceFile": "Vol I No 15 - 2026-10-29.pdf"
     }
   ],
   "upcoming": []
